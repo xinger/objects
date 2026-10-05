@@ -85,7 +85,12 @@ CATALOG_DATA_DIR=media/demo-data PUBLIC_MEDIA_BASE_URL=/media/ PREVIEW_PUBLIC_DI
 
 ## Cloudflare Pages и R2
 
-Для Pages с Git integration:
+Проект Cloudflare Pages: `objects`.
+Git integration подключена к `xinger/objects`, production-ветка — `main`.
+Push в `main` запускает сборку и публикацию автоматически.
+Технический адрес: https://objects-6bn.pages.dev/.
+
+Настройки проекта:
 
 - Build command: `npm run build`.
 - Build output directory: `dist`.
