@@ -63,14 +63,16 @@ const imageUrl = image ? new URL(image, Astro.site) : undefined;
         root.dataset.theme = preference.matches ? 'dark' : 'light';
         updateLabel();
       });
+      const handleImageError = (image: HTMLImageElement) => {
+        image.hidden = true;
+        const message = image.parentElement?.querySelector<HTMLElement>('.image-unavailable');
+        if (message) message.hidden = false;
+      };
+      document.addEventListener('error', (event) => {
+        if (event.target instanceof HTMLImageElement) handleImageError(event.target);
+      }, true);
       document.querySelectorAll<HTMLImageElement>('img').forEach((image) => {
-        const handleError = () => {
-          image.hidden = true;
-          const message = image.parentElement?.querySelector<HTMLElement>('.image-unavailable');
-          if (message) message.hidden = false;
-        };
-        image.addEventListener('error', handleError);
-        if (image.complete && image.naturalWidth === 0) handleError();
+        if (image.complete && image.naturalWidth === 0) handleImageError(image);
       });
     </script>
   </body>

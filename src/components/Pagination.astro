@@ -14,3 +14,10 @@ const numbers = Array.from({ length: pages }, (_, index) => index + 1).filter((n
   </>)}
   {page < pages && <a class="icon-button" href={pageHref(categoryId, page + 1)} aria-label="Следующая страница" rel="next"><Icon name="right" /></a>}
 </nav>}
+{page < pages && <div class="scroll-loader" data-scroll-loader hidden>
+  <span class="sr-only" role="status" aria-live="polite" data-scroll-status></span>
+  <button class="scroll-retry" type="button" data-scroll-retry hidden>Повторить</button>
+</div>}
+<script>
+  import '../scripts/infinite-scroll.js';
+</script>

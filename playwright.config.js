@@ -4,7 +4,7 @@ import { mkdirSync, writeFileSync } from 'node:fs';
 mkdirSync('media/test-data/categories', { recursive: true });
 mkdirSync('media/preview-public/media/tests', { recursive: true });
 writeFileSync('media/test-data/categories.json', JSON.stringify([{ id: 'test', title: 'Предметы' }, { id: 'empty', title: 'Пустая категория' }]));
-writeFileSync('media/test-data/categories/test.json', JSON.stringify(Array.from({ length: 61 }, (_, index) => ({
+writeFileSync('media/test-data/categories/test.json', JSON.stringify(Array.from({ length: 121 }, (_, index) => ({
   id: `test_${index + 1}`,
   title: `Объект ${index + 1}`,
   original: 'original.svg',

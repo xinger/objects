@@ -101,3 +101,6 @@ main:focus { outline: none; }
 }
 @media (hover: none), (pointer: coarse) { .tile-download { opacity: 1; transform: none; } }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }
+.scroll-loader { min-height: 44px; margin-top: 46px; display: flex; align-items: center; justify-content: center; }
+.scroll-loader[aria-busy='true']::before { content: ''; width: 6px; height: 6px; border-radius: 50%; background: var(--muted); animation: pending 800ms ease-in-out infinite alternate; }
+.scroll-retry { border: 0; background: transparent; color: var(--muted); font: inherit; font-size: 14px; min-height: 44px; padding: 0 14px; }

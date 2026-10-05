@@ -1,14 +1,19 @@
 import { test, expect } from '@playwright/test';
 import { readFileSync } from 'node:fs';
 
-test('pagination and category links expose every object, including an empty category', async ({ page }) => {
+test('scrolling appends all pages once and keeps category and object links usable', async ({ page }) => {
   await page.goto('/');
   await expect(page.locator('.object-tile')).toHaveCount(60);
-  await page.getByRole('link', { name: 'Следующая страница' }).click();
-  await expect(page).toHaveURL(/\/page\/2\/$/);
-  await expect(page.locator('.object-tile')).toHaveCount(1);
-  await page.getByRole('link', { name: 'Объект 61', exact: true }).click();
-  await expect(page.getByRole('heading', { name: 'Объект 61' })).toBeVisible();
+  await expect(page.getByRole('navigation', { name: 'Страницы' })).toBeHidden();
+  await page.locator('.object-tile').last().scrollIntoViewIfNeeded();
+  await expect(page.locator('.object-tile')).toHaveCount(120);
+  await page.locator('.object-tile').last().scrollIntoViewIfNeeded();
+  await expect(page.locator('.object-tile')).toHaveCount(121);
+  expect(new Set(await page.locator('.object-link').evaluateAll((links) => links.map((link) => link.href))).size).toBe(121);
+  await expect(page).toHaveURL('/');
+  await expect(page.locator('[data-scroll-loader]')).toBeHidden();
+  await page.getByRole('link', { name: 'Объект 121', exact: true }).click();
+  await expect(page.getByRole('heading', { name: 'Объект 121' })).toBeVisible();
   await page.locator('.back-link').click();
   await expect(page).toHaveURL(/\/category\/test\/$/);
   await page.getByRole('link', { name: 'Пустая категория', exact: true }).click();
@@ -57,6 +62,11 @@ test('category and download links work without JavaScript', async ({ browser }) 
   const page = await context.newPage();
   await page.goto('/category/test/');
   await expect(page.locator('.object-tile')).toHaveCount(60);
+  await expect(page.getByRole('link', { name: 'Следующая страница' })).toBeVisible();
+  await page.getByRole('link', { name: 'Следующая страница' }).click({ force: true });
+  await page.waitForURL('**/category/test/page/2/');
+  await expect(page.getByRole('link', { name: 'Объект 61', exact: true })).toBeVisible();
+  await page.goto('/category/test/');
   const objectLink = page.getByRole('link', { name: 'Объект 1', exact: true });
   await expect(objectLink).toBeVisible();
   // With scripts disabled, Chromium can stall Playwright's animation-frame
@@ -71,4 +81,31 @@ test('category and download links work without JavaScript', async ({ browser }) 
   const download = await downloadPromise;
   expect(readFileSync(await download.path())).toEqual(readFileSync('media/preview-public/media/tests/original.svg'));
   await context.close();
+});
+
+test('a failed category page can be retried without losing or duplicating images', async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.route('**/category/test/page/2/', (route) => route.fulfill({ status: 503, body: 'Unavailable' }));
+  await page.goto('/category/test/');
+  await page.locator('.object-tile').last().scrollIntoViewIfNeeded();
+  const retry = page.getByRole('button', { name: 'Повторить', exact: true });
+  await expect(retry).toBeVisible();
+  await expect(page.locator('.object-tile')).toHaveCount(60);
+  await page.unroute('**/category/test/page/2/');
+  await retry.click();
+  await expect(page.locator('.object-tile')).toHaveCount(120);
+  await expect(retry).toBeHidden();
+  const downloadPromise = page.waitForEvent('download');
+  await page.getByRole('link', { name: 'Скачать: Объект 61', exact: true }).click();
+  const download = await downloadPromise;
+  expect(readFileSync(await download.path())).toEqual(readFileSync('media/preview-public/media/tests/original.svg'));
+  expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
+});
+
+test('images appended by scrolling show the existing fallback when their preview fails', async ({ page }) => {
+  await page.goto('/');
+  await page.route('**/media/tests/original.svg', (route) => route.abort());
+  await page.locator('.object-tile').last().scrollIntoViewIfNeeded();
+  await expect(page.locator('.object-tile')).toHaveCount(120);
+  await expect(page.locator('.object-tile').nth(60).getByText('Изображение недоступно')).toBeVisible();
 });
