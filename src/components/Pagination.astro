@@ -1,0 +1,16 @@
+---
+import { pageHref } from '../lib/catalog.js';
+import Icon from './Icon.astro';
+
+interface Props { page: number; pages: number; categoryId?: string | null; }
+const { page, pages, categoryId = null } = Astro.props;
+const numbers = Array.from({ length: pages }, (_, index) => index + 1).filter((number) => number === 1 || number === pages || Math.abs(number - page) <= 1);
+---
+{pages > 1 && <nav class="pagination" aria-label="Страницы">
+  {page > 1 && <a class="icon-button" href={pageHref(categoryId, page - 1)} aria-label="Предыдущая страница" rel="prev"><Icon name="left" /></a>}
+  {numbers.map((number, index) => <>
+    {index > 0 && number - numbers[index - 1] > 1 && <span class="page-ellipsis" aria-hidden="true">…</span>}
+    <a class="page-number" href={pageHref(categoryId, number)} aria-current={number === page ? 'page' : undefined} aria-label={`Страница ${number}`}>{number}</a>
+  </>)}
+  {page < pages && <a class="icon-button" href={pageHref(categoryId, page + 1)} aria-label="Следующая страница" rel="next"><Icon name="right" /></a>}
+</nav>}

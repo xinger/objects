@@ -1,0 +1,46 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Header from '../../components/Header.astro';
+import Icon from '../../components/Icon.astro';
+import { getCatalog } from '../../lib/data.js';
+
+export function getStaticPaths() {
+  return getCatalog().objects.map((object) => ({ params: { id: object.id }, props: { object } }));
+}
+const { object } = Astro.props;
+const catalog = getCatalog();
+const objectData = {
+  '@context': 'https://schema.org',
+  '@type': 'ImageObject',
+  name: object.title,
+  description: object.description || undefined,
+  contentUrl: new URL(object.original, Astro.site).href,
+  thumbnailUrl: new URL(object.preview, Astro.site).href,
+  url: new URL(object.href, Astro.site).href,
+  width: object.width,
+  height: object.height,
+  keywords: object.tags.length ? object.tags.join(', ') : undefined,
+};
+---
+<Layout title={`${object.title} · Objects`} description={object.description || `${object.title}. Скачать оригинал изображения.`} image={object.preview} objectData={objectData}>
+  <Header categories={catalog.categories} total={catalog.objects.length} activeCategory={object.categoryId} />
+  <main id="content" class="object-detail" tabindex="-1">
+    <a class="back-link" href={`/category/${object.categoryId}/`}><Icon name="left" /><span>{object.categoryTitle}</span></a>
+    <div class="detail-image">
+      <img src={object.preview} alt={object.title} width={object.width} height={object.height} decoding="async" fetchpriority="high" />
+      <span class="image-unavailable" hidden>Изображение недоступно</span>
+    </div>
+    <div class="detail-info">
+      <div class="detail-text">
+        <h1>{object.title}</h1>
+        {object.description && <p class="object-description">{object.description}</p>}
+        {object.tags.length > 0 && <ul class="object-tags" aria-label="Теги">{object.tags.map((tag) => <li>{tag}</li>)}</ul>}
+        <span class="image-size">{object.width} × {object.height}</span>
+      </div>
+      <div class="detail-actions">
+        <a class="download-button" href={object.original} download={object.filename} data-download><Icon name="download" /><span>Скачать</span></a>
+        <span class="download-error" role="status" hidden>Не удалось скачать</span>
+      </div>
+    </div>
+  </main>
+</Layout>

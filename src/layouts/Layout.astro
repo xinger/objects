@@ -1,0 +1,77 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  objectData?: Record<string, unknown>;
+  noindex?: boolean;
+}
+const { title = 'Objects', description = 'Библиотека изображений объектов. Скачать оригиналы.', image, objectData, noindex = false } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const imageUrl = image ? new URL(image, Astro.site) : undefined;
+---
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="sitemap" href="/sitemap.xml" />
+    <meta property="og:type" content={objectData ? 'article' : 'website'} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    {imageUrl && <meta property="og:image" content={imageUrl} />}
+    {noindex && <meta name="robots" content="noindex" />}
+    {objectData && <script type="application/ld+json" set:html={JSON.stringify(objectData).replace(/</g, '\\u003c')} />}
+    <script is:inline>
+      try {
+        const saved = localStorage.getItem('objects-theme');
+        document.documentElement.dataset.theme = saved === 'light' || saved === 'dark' ? saved : matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      } catch {
+        document.documentElement.dataset.theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+      }
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#content">К изображениям</a>
+    <div class="site-shell"><slot /></div>
+    <script>
+      import '../scripts/download.js';
+
+      const root = document.documentElement;
+      const toggle = document.querySelector<HTMLButtonElement>('[data-theme-toggle]');
+      const preference = matchMedia('(prefers-color-scheme: dark)');
+      const updateLabel = () => toggle?.setAttribute('aria-label', root.dataset.theme === 'dark' ? 'Включить светлую тему' : 'Включить тёмную тему');
+      if (toggle) {
+        toggle.hidden = false;
+        updateLabel();
+        toggle.addEventListener('click', () => {
+          root.dataset.theme = root.dataset.theme === 'dark' ? 'light' : 'dark';
+          try { localStorage.setItem('objects-theme', root.dataset.theme); } catch {}
+          updateLabel();
+        });
+      }
+      preference.addEventListener('change', () => {
+        try { if (localStorage.getItem('objects-theme')) return; } catch {}
+        root.dataset.theme = preference.matches ? 'dark' : 'light';
+        updateLabel();
+      });
+      document.querySelectorAll<HTMLImageElement>('img').forEach((image) => {
+        const handleError = () => {
+          image.hidden = true;
+          const message = image.parentElement?.querySelector<HTMLElement>('.image-unavailable');
+          if (message) message.hidden = false;
+        };
+        image.addEventListener('error', handleError);
+        if (image.complete && image.naturalWidth === 0) handleError();
+      });
+    </script>
+  </body>
+</html>

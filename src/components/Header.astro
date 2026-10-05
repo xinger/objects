@@ -1,0 +1,24 @@
+---
+import Icon from './Icon.astro';
+import type { createCatalog } from '../lib/catalog.js';
+
+interface Props {
+  categories: ReturnType<typeof createCatalog>['categories'];
+  activeCategory?: string | null;
+  total: number;
+}
+const { categories, activeCategory = null, total } = Astro.props;
+---
+<header class="site-header">
+  <div class="header-top">
+    <a class="wordmark" href="/" aria-label="Objects — все объекты">objects<span class="catalog-count">{total}</span></a>
+    <button class="icon-button theme-toggle" type="button" data-theme-toggle aria-label="Переключить тему" hidden>
+      <span class="theme-sun"><Icon name="sun" /></span>
+      <span class="theme-moon"><Icon name="moon" /></span>
+    </button>
+  </div>
+  {categories.length > 0 && <nav class="category-nav" aria-label="Категории">
+    <a href="/" aria-current={activeCategory === null ? 'page' : undefined}>Все</a>
+    {categories.map((category) => <a href={`/category/${category.id}/`} aria-current={activeCategory === category.id ? 'page' : undefined}>{category.title}</a>)}
+  </nav>}
+</header>

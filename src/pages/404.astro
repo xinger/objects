@@ -1,0 +1,11 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import { getCatalog } from '../lib/data.js';
+
+const catalog = getCatalog();
+---
+<Layout title="Не найдено · Objects" noindex>
+  <Header categories={catalog.categories} total={catalog.objects.length} />
+  <main id="content" class="empty-state" tabindex="-1"><h1>Не найдено</h1><a class="text-link" href="/">Все объекты</a></main>
+</Layout>

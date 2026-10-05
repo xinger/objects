@@ -1,0 +1,26 @@
+{
+  "name": "objects",
+  "private": true,
+  "scripts": {
+    "cf": "wrangler",
+    "dev": "astro dev --host 127.0.0.1",
+    "build": "astro build",
+    "preview": "astro preview --host 127.0.0.1",
+    "check": "astro check",
+    "test": "node --test tests/*.test.js",
+    "test:ui": "playwright test",
+    "images:preview": "node scripts/prepare-previews.js"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "@playwright/test": "1.63.0",
+    "typescript": "6.0.3",
+    "wrangler": "4.147.0",
+    "sharp": "0.35.4"
+  },
+  "type": "module",
+  "dependencies": {
+    "astro": "7.3.5",
+    "zod": "4.6.5"
+  }
+}

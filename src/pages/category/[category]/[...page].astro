@@ -1,0 +1,26 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Header from '../../../components/Header.astro';
+import Grid from '../../../components/Grid.astro';
+import Pagination from '../../../components/Pagination.astro';
+import { getCatalog } from '../../../lib/data.js';
+import { paginate } from '../../../lib/catalog.js';
+
+export function getStaticPaths() {
+  const catalog = getCatalog();
+  return catalog.categories.flatMap((category) => {
+    const pages = paginate(catalog.objects.filter((object) => object.categoryId === category.id));
+    return pages.map((objects, index) => ({ params: { category: category.id, page: index ? `page/${index + 1}` : undefined }, props: { category, objects, page: index + 1, pages: pages.length } }));
+  });
+}
+const { category, objects, page, pages } = Astro.props;
+const catalog = getCatalog();
+---
+<Layout title={`${category.title} · Objects${page > 1 ? ` · ${page}` : ''}`} description={`${category.title}: изображения объектов и оригиналы для скачивания.`}>
+  <Header categories={catalog.categories} total={catalog.objects.length} activeCategory={category.id} />
+  <main id="content" tabindex="-1">
+    <h1 class="sr-only">{category.title}</h1>
+    <Grid objects={objects} />
+    <Pagination page={page} pages={pages} categoryId={category.id} />
+  </main>
+</Layout>
