@@ -1,0 +1,2940 @@
+[
+  {
+    "id": "butterflies-001-orange",
+    "original": "originals/butterflies-001-orange-02a62aa90d517f26.png",
+    "preview": "previews/butterflies-001-orange-02a62aa90d517f26.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Orange and black monarch-like butterfly",
+    "description": "Orange and black monarch-like butterfly.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "001-orange.png"
+  },
+  {
+    "id": "butterflies-002-blue",
+    "original": "originals/butterflies-002-blue-249bc62334fc7c19.png",
+    "preview": "previews/butterflies-002-blue-249bc62334fc7c19.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Blue morpho-like butterfly",
+    "description": "Blue morpho-like butterfly, brilliant iridescent blue wings with subtle dark margins and fine natural scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "002-blue.png"
+  },
+  {
+    "id": "butterflies-003-yellow-swallowtail",
+    "original": "originals/butterflies-003-yellow-swallowtail-0818b4a2df12e4d0.png",
+    "preview": "previews/butterflies-003-yellow-swallowtail-0818b4a2df12e4d0.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Yellow swallowtail-like butterfly with soft yellow wings",
+    "description": "Yellow swallowtail-like butterfly with soft yellow wings, elegant black vein markings, tiny blue and red accents on hindwings and delicate tails.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "003-yellow-swallowtail.png"
+  },
+  {
+    "id": "butterflies-004-white",
+    "original": "originals/butterflies-004-white-647a6ed16525a27b.png",
+    "preview": "previews/butterflies-004-white-647a6ed16525a27b.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pearl white butterfly",
+    "description": "Butterfly with pearl white wings, charcoal gray tips and delicate gray veins, realistic fine wing scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "004-white.png"
+  },
+  {
+    "id": "butterflies-005-emerald",
+    "original": "originals/butterflies-005-emerald-16af36d76c3a70d5.png",
+    "preview": "previews/butterflies-005-emerald-16af36d76c3a70d5.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Emerald green iridescent butterfly",
+    "description": "Butterfly, emerald green iridescent bands across velvety black wings, elegant scalloped hindwings with short tails. Realistic fine wing scales and veins. Perfectly overhead dorsal view, wings fully spread flat, head upward.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "005-emerald.png"
+  },
+  {
+    "id": "butterflies-006-peacock",
+    "original": "originals/butterflies-006-peacock-f3008e5cd4f44d89.png",
+    "preview": "previews/butterflies-006-peacock-f3008e5cd4f44d89.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Peacock-like butterfly with rich crimson russet wings and beautiful blue cream black eyespots on all four wings",
+    "description": "Peacock-like butterfly with rich crimson russet wings and beautiful blue cream black eyespots on all four wings. Delicate natural scales and fine antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "006-peacock.png"
+  },
+  {
+    "id": "butterflies-007-violet",
+    "original": "originals/butterflies-007-violet-e069b3d496bd7f13.png",
+    "preview": "previews/butterflies-007-violet-e069b3d496bd7f13.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pale lilac and deep violet iridescent butterfly",
+    "description": "Butterfly with pale lilac and deep violet iridescent wings, dark slender wing edges, subtle white speckles near tips, realistic delicate scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "007-violet.png"
+  },
+  {
+    "id": "butterflies-008-scarlet-black",
+    "original": "originals/butterflies-008-scarlet-black-739dbe767e7f888c.png",
+    "preview": "previews/butterflies-008-scarlet-black-739dbe767e7f888c.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Velvety black butterfly",
+    "description": "Butterfly with velvety black wings, vivid scarlet diagonal bands across the forewings, tiny ivory tip spots and subtle crimson hindwing edges. Fine realistic wing scales, slender natural body and antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "008-scarlet-black.png"
+  },
+  {
+    "id": "butterflies-009-coral",
+    "original": "originals/butterflies-009-coral-dcdb448dc0485154.png",
+    "preview": "previews/butterflies-009-coral-dcdb448dc0485154.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Delicate butterfly with soft apricot and coral pink wings",
+    "description": "Delicate butterfly with soft apricot and coral pink wings, narrow dark brown veins and cream spots along scalloped outer edges, natural fine scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "009-coral.png"
+  },
+  {
+    "id": "butterflies-010-zebra",
+    "original": "originals/butterflies-010-zebra-828f77f71d0832c2.png",
+    "preview": "previews/butterflies-010-zebra-828f77f71d0832c2.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Zebra butterfly",
+    "description": "Butterfly with elongated elegant wings patterned in alternating ivory and jet black zebra stripes, delicate fine scales and slim body.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "010-zebra.png"
+  },
+  {
+    "id": "butterflies-011-lemon",
+    "original": "originals/butterflies-011-lemon-af203ee49c696e81.png",
+    "preview": "previews/butterflies-011-lemon-af203ee49c696e81.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Delicate lemon yellow butterfly with gently pointed leaf-shaped wings",
+    "description": "Delicate lemon yellow butterfly with gently pointed leaf-shaped wings, tiny warm orange central spots and fine pale veins, natural realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "011-lemon.png"
+  },
+  {
+    "id": "butterflies-012-copper-spotted",
+    "original": "originals/butterflies-012-copper-spotted-283a54585ab68836.png",
+    "preview": "previews/butterflies-012-copper-spotted-283a54585ab68836.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Copper orange butterfly",
+    "description": "Butterfly with copper orange wings covered in intricate small black leopard-like spots and dark scalloped edges, fine natural wing scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "012-copper-spotted.png"
+  },
+  {
+    "id": "butterflies-013-turquoise",
+    "original": "originals/butterflies-013-turquoise-677bd6a26be24845.png",
+    "preview": "previews/butterflies-013-turquoise-677bd6a26be24845.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Turquoise blue butterfly",
+    "description": "Butterfly with turquoise blue wings, broad rich chocolate brown borders and small cream eyespots on rounded hindwings, delicate natural scales and thin antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "013-turquoise.png"
+  },
+  {
+    "id": "butterflies-014-silver-blue",
+    "original": "originals/butterflies-014-silver-blue-3a295775d8185c07.png",
+    "preview": "previews/butterflies-014-silver-blue-3a295775d8185c07.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Small delicate butterfly with silvery sky blue wings",
+    "description": "Small delicate butterfly with silvery sky blue wings, slim charcoal edging, white fringe and tiny orange and black spots near the lower hindwing edges, fine natural scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "014-silver-blue.png"
+  },
+  {
+    "id": "butterflies-015-ivory-longtail",
+    "original": "originals/butterflies-015-ivory-longtail-ffe84e834bb6658b.png",
+    "preview": "previews/butterflies-015-ivory-longtail-ffe84e834bb6658b.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Creamy ivory butterfly",
+    "description": "Butterfly with long slender swallowtail hindwing tails, creamy ivory wings striped with dark brown, faint powder blue crescents and small orange hindwing accents. Fine realistic scales and veins.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "015-ivory-longtail.png"
+  },
+  {
+    "id": "butterflies-016-burgundy-cream",
+    "original": "originals/butterflies-016-burgundy-cream-e60d3303355bd3ab.png",
+    "preview": "previews/butterflies-016-burgundy-cream-e60d3303355bd3ab.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Rich burgundy maroon butterfly",
+    "description": "Butterfly with rich burgundy maroon wings, broad pale cream scalloped borders and a row of tiny sapphire blue spots just inside the borders. Finely textured natural scales and slender antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "016-burgundy-cream.png"
+  },
+  {
+    "id": "butterflies-017-orange-tip",
+    "original": "originals/butterflies-017-orange-tip-d93c7bbd16d045b3.png",
+    "preview": "previews/butterflies-017-orange-tip-d93c7bbd16d045b3.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Warm white butterfly",
+    "description": "Butterfly with warm white wings and vivid tangerine orange outer forewing tips, tiny charcoal spots and delicate gray veins. Natural fine wing scales, slim fuzzy gray body.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "017-orange-tip.png"
+  },
+  {
+    "id": "butterflies-018-green-gold",
+    "original": "originals/butterflies-018-green-gold-e3793aff67523e55.png",
+    "preview": "previews/butterflies-018-green-gold-e3793aff67523e55.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Elongated jet black butterfly",
+    "description": "Butterfly with elongated jet black forewings patterned with luminous mint green oval patches, golden yellow hindwings with black outer edging and a few small dark spots, elegant narrow body. Fine realistic wing scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "018-green-gold.png"
+  },
+  {
+    "id": "butterflies-019-dusty-rose",
+    "original": "originals/butterflies-019-dusty-rose-00d525e65efd669e.png",
+    "preview": "previews/butterflies-019-dusty-rose-00d525e65efd669e.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Dusky rose and mauve butterfly",
+    "description": "Butterfly with dusky rose and mauve wings, intricate chocolate brown lace-like markings near scalloped wing edges, small cream and burgundy eyespots. Realistic fine wing scales and natural thin antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "019-dusty-rose.png"
+  },
+  {
+    "id": "butterflies-020-midnight-cyan",
+    "original": "originals/butterflies-020-midnight-cyan-6348759ef7c201c9.png",
+    "preview": "previews/butterflies-020-midnight-cyan-6348759ef7c201c9.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Deep midnight blue butterfly",
+    "description": "Butterfly with deep midnight blue wings, a vivid electric cyan central band across all wings, subtle violet sheen and small white dots near scalloped edges, slender short hindwing tails. Fine realistic wing scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "020-midnight-cyan.png"
+  },
+  {
+    "id": "butterflies-021-amber-mosaic",
+    "original": "originals/butterflies-021-amber-mosaic-f5767edde1245acb.png",
+    "preview": "previews/butterflies-021-amber-mosaic-f5767edde1245acb.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Amber mosaic butterfly",
+    "description": "Butterfly with warm amber and cinnamon wings, bold dark brown and cream mosaic markings, scalloped edges and tiny blue accents on lower wings. Fine realistic scales and delicate clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "021-amber-mosaic.png"
+  },
+  {
+    "id": "butterflies-022-mint",
+    "original": "originals/butterflies-022-mint-2eafc37380a91992.png",
+    "preview": "previews/butterflies-022-mint-2eafc37380a91992.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pale mint green butterfly",
+    "description": "Butterfly with pale mint green wings, soft ivory veins, subtle dark green outer tips and small pearl-colored spots, elegant rounded hindwings and natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "022-mint.png"
+  },
+  {
+    "id": "butterflies-023-pearl-red-spots",
+    "original": "originals/butterflies-023-pearl-red-spots-ef186d64e78fcec1.png",
+    "preview": "previews/butterflies-023-pearl-red-spots-ef186d64e78fcec1.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Pearly silver white butterfly",
+    "description": "Butterfly with pearly silver white wings, crisp black veins forming an elegant network and small crimson red spots on hindwings, softly rounded wing shape. Natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "023-pearl-red-spots.png"
+  },
+  {
+    "id": "butterflies-024-magenta",
+    "original": "originals/butterflies-024-magenta-8556f96ced50bc03.png",
+    "preview": "previews/butterflies-024-magenta-8556f96ced50bc03.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Saturated magenta pink butterfly",
+    "description": "Butterfly with saturated magenta pink inner wings fading to plum purple edges, delicate black veins, a few ivory crescents along softly scalloped hindwings. Natural realistic fine scales and thin clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "024-magenta.png"
+  },
+  {
+    "id": "butterflies-025-chestnut-eyespots",
+    "original": "originals/butterflies-025-chestnut-eyespots-fdaaafbb7a4294bb.png",
+    "preview": "previews/butterflies-025-chestnut-eyespots-fdaaafbb7a4294bb.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Chestnut brown and tan butterfly",
+    "description": "Butterfly with chestnut brown and tan wings, large intricate concentric cream black and golden eyespots on the hindwings and small pale forewing markings, delicate natural scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "025-chestnut-eyespots.png"
+  },
+  {
+    "id": "butterflies-026-jade-longtail",
+    "original": "originals/butterflies-026-jade-longtail-9488000f8f3c0972.png",
+    "preview": "previews/butterflies-026-jade-longtail-9488000f8f3c0972.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Vivid jade and teal butterfly",
+    "description": "Butterfly with vivid jade and teal wings crossed by narrow black veins, pointed forewings, gently scalloped hindwings with two slender tails and tiny orange spots near tail bases. Realistic fine wing scales and natural antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "026-jade-longtail.png"
+  },
+  {
+    "id": "butterflies-027-ochre",
+    "original": "originals/butterflies-027-ochre-fb20888c3446ede9.png",
+    "preview": "previews/butterflies-027-ochre-fb20888c3446ede9.webp",
+    "width": 1377,
+    "height": 1142,
+    "title": "Golden ochre butterfly",
+    "description": "Butterfly with golden ochre wings edged in warm brown, subtle cream bands and small dark eyespots, softly angular forewings and rounded hindwings. Fine realistic wing scales and slim body with clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "027-ochre.png"
+  },
+  {
+    "id": "butterflies-028-cobalt-ivory",
+    "original": "originals/butterflies-028-cobalt-ivory-40e64903adc6b81b.png",
+    "preview": "previews/butterflies-028-cobalt-ivory-40e64903adc6b81b.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Deep cobalt blue butterfly",
+    "description": "Butterfly with deep cobalt blue wings featuring broad clean ivory diagonal bands, black outer borders, small red hindwing spots, and short elegant tails. Realistic fine scales, slim body and delicate clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "028-cobalt-ivory.png"
+  },
+  {
+    "id": "butterflies-029-black-blue-spots",
+    "original": "originals/butterflies-029-black-blue-spots-2a58b6588e08fe96.png",
+    "preview": "previews/butterflies-029-black-blue-spots-2a58b6588e08fe96.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Velvet black rounded butterfly",
+    "description": "Butterfly with velvet black rounded wings covered in crisp pale blue oval spots and small white dots, a subtle dark teal sheen near the body, realistic delicate scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "029-black-blue-spots.png"
+  },
+  {
+    "id": "butterflies-030-smoky-gray",
+    "original": "originals/butterflies-030-smoky-gray-6a41b8d1d0086ae4.png",
+    "preview": "previews/butterflies-030-smoky-gray-6a41b8d1d0086ae4.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Smoky gray and charcoal butterfly",
+    "description": "Butterfly with smoky gray and charcoal wings, intricate silver wavy bands and small amber eyespots, strongly scalloped wing edges, natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "030-smoky-gray.png"
+  },
+  {
+    "id": "butterflies-031-peach-cream",
+    "original": "originals/butterflies-031-peach-cream-a4a0a7a840fb43bc.png",
+    "preview": "previews/butterflies-031-peach-cream-a4a0a7a840fb43bc.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Warm peach butterfly",
+    "description": "Butterfly with warm peach wings, broad creamy white central patches, dark cocoa tips dotted with ivory, tiny orange crescents on rounded hindwings. Realistic fine wing scales and delicate antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "031-peach-cream.png"
+  },
+  {
+    "id": "butterflies-032-forest-yellow",
+    "original": "originals/butterflies-032-forest-yellow-43a83112f0f6b069.png",
+    "preview": "previews/butterflies-032-forest-yellow-43a83112f0f6b069.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Deep forest green butterfly",
+    "description": "Butterfly with deep forest green wings, broad pale yellow diagonal bands, dark outer margins and tiny emerald spots, gently pointed forewings and elegant short hindwing tails. Fine realistic scales and clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "032-forest-yellow.png"
+  },
+  {
+    "id": "butterflies-033-lavender-orange",
+    "original": "originals/butterflies-033-lavender-orange-ed7fce9000160699.png",
+    "preview": "previews/butterflies-033-lavender-orange-ed7fce9000160699.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Lavender gray butterfly",
+    "description": "Butterfly with lavender gray wings, narrow black veins, a band of small cream ovals across each forewing and vivid orange patches on lower hindwings. Natural delicate wing scales and thin antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "033-lavender-orange.png"
+  },
+  {
+    "id": "butterflies-034-vermilion",
+    "original": "originals/butterflies-034-vermilion-29cf7b44a01de7ec.png",
+    "preview": "previews/butterflies-034-vermilion-29cf7b44a01de7ec.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Brilliant vermilion red butterfly",
+    "description": "Butterfly with brilliant vermilion red wings, black veins, broad black outer borders with white speckles, tapered forewings and rounded hindwings. Delicate realistic scale texture, slim natural body and clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "034-vermilion.png"
+  },
+  {
+    "id": "butterflies-035-ivory-streaks",
+    "original": "originals/butterflies-035-ivory-streaks-e1686317c2434805.png",
+    "preview": "previews/butterflies-035-ivory-streaks-e1686317c2434805.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Butterfly with long narrow wings",
+    "description": "Butterfly with long narrow wings, deep black ground color and finely arranged elongated ivory white spots following the veins, a little warm brown near the body, elegant slim abdomen and antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "035-ivory-streaks.png"
+  },
+  {
+    "id": "butterflies-036-caramel-checkered",
+    "original": "originals/butterflies-036-caramel-checkered-85b828671470784f.png",
+    "preview": "previews/butterflies-036-caramel-checkered-85b828671470784f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Warm cream and caramel butterfly",
+    "description": "Butterfly with warm cream and caramel wings densely patterned with small rust brown checks and thin dark veins, slim elongated forewings and rounded hindwings, delicate scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "036-caramel-checkered.png"
+  },
+  {
+    "id": "butterflies-037-purple-gold",
+    "original": "originals/butterflies-037-purple-gold-63aa7c382767e575.png",
+    "preview": "previews/butterflies-037-purple-gold-63aa7c382767e575.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Rich purple butterfly",
+    "description": "Butterfly with rich purple wings featuring narrow gold-yellow bands and small ivory tip speckles, lightly scalloped hindwings and natural fine scales. Slender body and delicate clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "037-purple-gold.png"
+  },
+  {
+    "id": "butterflies-038-white-speckled",
+    "original": "originals/butterflies-038-white-speckled-e399c228b80e059b.png",
+    "preview": "previews/butterflies-038-white-speckled-e399c228b80e059b.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Snow white butterfly",
+    "description": "Butterfly with snow white wings patterned by delicate small black dots and narrow charcoal veins, pale golden wash near the body and gently rounded wing edges, natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "038-white-speckled.png"
+  },
+  {
+    "id": "butterflies-039-bronze-green",
+    "original": "originals/butterflies-039-bronze-green-47b6d4e60a67ddce.png",
+    "preview": "previews/butterflies-039-bronze-green-47b6d4e60a67ddce.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Luminous bronze and copper butterfly",
+    "description": "Butterfly with luminous bronze and copper wings, black outer edges interrupted by ivory rectangles and a subtle emerald green sheen near the wing bases, narrow elegant hindwing tails. Fine natural scale texture and delicate clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "039-bronze-green.png"
+  },
+  {
+    "id": "butterflies-040-ice-blue",
+    "original": "originals/butterflies-040-ice-blue-0aba0f8d24820b90.png",
+    "preview": "previews/butterflies-040-ice-blue-0aba0f8d24820b90.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Pale icy blue butterfly",
+    "description": "Butterfly with pale icy blue wings, dark slate blue outer borders, a few cream ringed black eyespots and tiny white dashes near scalloped edges. Fine realistic scales and slim body with delicate antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "040-ice-blue.png"
+  },
+  {
+    "id": "butterflies-041-black-coral",
+    "original": "originals/butterflies-041-black-coral-20eec09564c84815.png",
+    "preview": "previews/butterflies-041-black-coral-20eec09564c84815.webp",
+    "width": 1376,
+    "height": 1143,
+    "title": "Velvety black butterfly",
+    "description": "Butterfly with velvety black wings, broad coral pink central bands, small pale yellow forewing tip spots and blue crescents on hindwings, elegant narrow tails. Realistic fine scale texture, slim body and delicate clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "041-black-coral.png"
+  },
+  {
+    "id": "butterflies-042-golden-yellow",
+    "original": "originals/butterflies-042-golden-yellow-f3069225e5f5e9ab.png",
+    "preview": "previews/butterflies-042-golden-yellow-f3069225e5f5e9ab.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Warm golden yellow butterfly",
+    "description": "Butterfly with warm golden yellow wings, fine black veins, dark charcoal forewing tips and delicate rows of tiny black dots along rounded hindwing edges, natural fine scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "042-golden-yellow.png"
+  },
+  {
+    "id": "butterflies-043-indigo-orange",
+    "original": "originals/butterflies-043-indigo-orange-650eed7a3506953a.png",
+    "preview": "previews/butterflies-043-indigo-orange-650eed7a3506953a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Deep indigo butterfly",
+    "description": "Butterfly with deep indigo wings, large orange oval patches on each forewing, black outer margins dotted with cream and a subtle powder blue wash on lower hindwings. Fine realistic scales, slender body and delicate antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "043-indigo-orange.png"
+  },
+  {
+    "id": "butterflies-044-sage",
+    "original": "originals/butterflies-044-sage-412c8445bc0533ee.png",
+    "preview": "previews/butterflies-044-sage-412c8445bc0533ee.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Pale sage green butterfly",
+    "description": "Butterfly with pale sage green wings, delicate bronze brown vein markings, a row of tiny burgundy spots close to ivory scalloped borders and narrow pointed forewing tips. Fine natural wing scales, slim body, delicate clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "044-sage.png"
+  },
+  {
+    "id": "butterflies-045-chocolate-turquoise",
+    "original": "originals/butterflies-045-chocolate-turquoise-984fd5c625704bce.png",
+    "preview": "previews/butterflies-045-chocolate-turquoise-984fd5c625704bce.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Velvety chocolate brown butterfly",
+    "description": "Butterfly with velvety chocolate brown wings and broad bright turquoise diagonal bands, tiny orange crescents at hindwing edges and cream forewing tip dots. Fine natural scale texture, elegant body and antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "045-chocolate-turquoise.png"
+  },
+  {
+    "id": "butterflies-046-blush-pink",
+    "original": "originals/butterflies-046-blush-pink-b2ffed68a59b4e35.png",
+    "preview": "previews/butterflies-046-blush-pink-b2ffed68a59b4e35.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Pale blush pink butterfly",
+    "description": "Butterfly with pale blush pink wings, fine charcoal veins, elegant black upper tips and small white pearl-like spots along the borders, delicate white fringe. Natural realistic wing scales, slender body and clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "046-blush-pink.png"
+  },
+  {
+    "id": "butterflies-047-lime-spots",
+    "original": "originals/butterflies-047-lime-spots-3a690e9d8eaa3b99.png",
+    "preview": "previews/butterflies-047-lime-spots-3a690e9d8eaa3b99.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Black butterfly",
+    "description": "Butterfly with black wings covered by a vivid network of lime green elongated spots following each wing cell, thin cream edge dots and small orange accents near short hindwing tails. Fine realistic wing scales, slender body and delicate antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "047-lime-spots.png"
+  },
+  {
+    "id": "butterflies-048-silver-marble",
+    "original": "originals/butterflies-048-silver-marble-e04f49fb9a140a08.png",
+    "preview": "previews/butterflies-048-silver-marble-e04f49fb9a140a08.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Soft beige and silver gray butterfly",
+    "description": "Butterfly with soft beige and silver gray wings patterned with fine dark brown marbled lines, cream ringed eyespots on lower wings and a subtle violet sheen. Realistic delicate scales and thin clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "048-silver-marble.png"
+  },
+  {
+    "id": "butterflies-049-emerald-plum",
+    "original": "originals/butterflies-049-emerald-plum-95f0bf224da501c1.png",
+    "preview": "previews/butterflies-049-emerald-plum-95f0bf224da501c1.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Saturated emerald green butterfly",
+    "description": "Butterfly with saturated emerald green inner wings and broad dark plum outer borders, cream flecks near upper tips and tiny pink crescents on scalloped hindwings. Natural detailed scales, slim body and delicate clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "049-emerald-plum.png"
+  },
+  {
+    "id": "butterflies-050-apricot-gold",
+    "original": "originals/butterflies-050-apricot-gold-dc18e047d2001783.png",
+    "preview": "previews/butterflies-050-apricot-gold-dc18e047d2001783.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bright apricot orange butterfly",
+    "description": "Butterfly with bright apricot orange forewings blending into golden yellow hindwings, thin dark veins and narrow charcoal scalloped edges lined with tiny ivory dots. Delicate natural scales, slim body and clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "050-apricot-gold.png"
+  },
+  {
+    "id": "butterflies-051-periwinkle",
+    "original": "originals/butterflies-051-periwinkle-e092e6ebb0f9d66b.png",
+    "preview": "previews/butterflies-051-periwinkle-e092e6ebb0f9d66b.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Soft periwinkle butterfly",
+    "description": "Butterfly with soft periwinkle wings, broad dark navy borders with small lemon yellow spots, rounded hindwings and delicate pale veins. Fine realistic scales, slim natural body and clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "051-periwinkle.png"
+  },
+  {
+    "id": "butterflies-052-russet-cream",
+    "original": "originals/butterflies-052-russet-cream-eea6c58c56591e82.png",
+    "preview": "previews/butterflies-052-russet-cream-eea6c58c56591e82.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Russet red and cream butterfly",
+    "description": "Butterfly with russet red and cream wings patterned in bold irregular checker patches, fine black veins, small blue eyespots on scalloped hindwings. Natural realistic wing scales, slender body and delicate antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "052-russet-cream.png"
+  },
+  {
+    "id": "butterflies-053-sapphire-striped",
+    "original": "originals/butterflies-053-sapphire-striped-c13c6e7a3162e920.png",
+    "preview": "previews/butterflies-053-sapphire-striped-c13c6e7a3162e920.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Vivid sapphire blue butterfly",
+    "description": "Butterfly with vivid sapphire blue wings crossed by narrow black stripes, broad ivory forewing tips and small orange and black hindwing eyespots. Fine realistic scales, slender body and delicate clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "053-sapphire-striped.png"
+  },
+  {
+    "id": "butterflies-054-ivory-burgundy",
+    "original": "originals/butterflies-054-ivory-burgundy-f3014354d70d9d6f.png",
+    "preview": "previews/butterflies-054-ivory-burgundy-f3014354d70d9d6f.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Warm ivory butterfly",
+    "description": "Butterfly with warm ivory wings, bold burgundy red stripes radiating from the body, a fine black outline and dark red eyespots on scalloped hindwings. Realistic natural scales, slim body, delicate clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "054-ivory-burgundy.png"
+  },
+  {
+    "id": "butterflies-055-aqua-copper",
+    "original": "originals/butterflies-055-aqua-copper-cd5e22c3e2420969.png",
+    "preview": "previews/butterflies-055-aqua-copper-cd5e22c3e2420969.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pale aqua butterfly",
+    "description": "Butterfly with pale aqua wings edged in warm copper brown, narrow cream bands, delicate brown veins and tiny dark eyespots on rounded hindwings. Fine realistic scales, slim body and delicate antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "055-aqua-copper.png"
+  },
+  {
+    "id": "butterflies-056-red-cream",
+    "original": "originals/butterflies-056-red-cream-7a321b7d1aaefe0a.png",
+    "preview": "previews/butterflies-056-red-cream-7a321b7d1aaefe0a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Saturated red butterfly",
+    "description": "Butterfly with saturated red forewings and creamy pale yellow hindwings, bold black veins and black outer tips patterned with small white spots, delicate scale texture and short hindwing tails.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "056-red-cream.png"
+  },
+  {
+    "id": "butterflies-057-white-violet",
+    "original": "originals/butterflies-057-white-violet-e8d9e28a2166b581.png",
+    "preview": "previews/butterflies-057-white-violet-e8d9e28a2166b581.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Silvery white butterfly",
+    "description": "Butterfly with silvery white forewings, rich violet hindwings, fine dark veins and black margins dotted with small ivory spots. Natural realistic scale texture, slender body, delicate clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "057-white-violet.png"
+  },
+  {
+    "id": "butterflies-058-olive-gold",
+    "original": "originals/butterflies-058-olive-gold-9981916e16cd2c63.png",
+    "preview": "previews/butterflies-058-olive-gold-9981916e16cd2c63.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Olive green butterfly",
+    "description": "Butterfly with olive green wings, intricate gold and dark brown mottled markings, small white forewing patches and dark concentric hindwing eyespots. Fine natural scale texture, elegant body and clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "058-olive-gold.png"
+  },
+  {
+    "id": "butterflies-059-navy-ruby",
+    "original": "originals/butterflies-059-navy-ruby-83594b82a44f83cb.png",
+    "preview": "previews/butterflies-059-navy-ruby-83594b82a44f83cb.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Dark navy blue butterfly",
+    "description": "Butterfly with dark navy blue wings, small bright ruby red spots scattered symmetrically across the forewings and broad cream crescents on rounded hindwings. Fine realistic wing scales, slender body and thin clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "059-navy-ruby.png"
+  },
+  {
+    "id": "butterflies-060-yellow-coral",
+    "original": "originals/butterflies-060-yellow-coral-d270e80392fdb94b.png",
+    "preview": "previews/butterflies-060-yellow-coral-d270e80392fdb94b.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Butter yellow butterfly",
+    "description": "Butterfly with butter yellow forewings and soft coral hindwings, thin warm brown veins, narrow dark scalloped borders and small ivory dots. Realistic fine scales, slim body and delicate clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "060-yellow-coral.png"
+  },
+  {
+    "id": "butterflies-061-petrol-black",
+    "original": "originals/butterflies-061-petrol-black-c72f0b56141616e5.png",
+    "preview": "previews/butterflies-061-petrol-black-c72f0b56141616e5.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Almost black butterfly",
+    "description": "Butterfly with almost black wings, iridescent petrol blue and emerald streaks radiating along veins, tiny cream dots at the tips and small red hindwing accents. Elegant swallowtail silhouette, fine natural scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "061-petrol-black.png"
+  },
+  {
+    "id": "butterflies-062-cream-lilac",
+    "original": "originals/butterflies-062-cream-lilac-442bbd994de01ab9.png",
+    "preview": "previews/butterflies-062-cream-lilac-442bbd994de01ab9.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pale cream butterfly",
+    "description": "Butterfly with pale cream wings, broad soft lilac bands near the outer edges, tiny rust orange and charcoal eyespots, delicate dark veins and white fringe. Natural fine scales, slender body and clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "062-cream-lilac.png"
+  },
+  {
+    "id": "butterflies-063-orange-black-bands",
+    "original": "originals/butterflies-063-orange-black-bands-7a91eb405438a823.png",
+    "preview": "previews/butterflies-063-orange-black-bands-7a91eb405438a823.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Burnt orange butterfly",
+    "description": "Butterfly with burnt orange wings, broad black diagonal bands, ivory upper tips and dark blue crescents on scalloped hindwings. Fine natural scales, slender body and delicate clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "063-orange-black-bands.png"
+  },
+  {
+    "id": "butterflies-064-sea-green-longtail",
+    "original": "originals/butterflies-064-sea-green-longtail-95e5e61d839c204f.png",
+    "preview": "previews/butterflies-064-sea-green-longtail-95e5e61d839c204f.webp",
+    "width": 1223,
+    "height": 1286,
+    "title": "Sea green butterfly",
+    "description": "Butterfly with sea green wings and narrow silver white stripes, dark teal scalloped edges with pale blue dots, elegant long hindwing tails. Fine realistic wing scales, slender body and clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "064-sea-green-longtail.png"
+  },
+  {
+    "id": "butterflies-065-cinnamon-rose",
+    "original": "originals/butterflies-065-cinnamon-rose-bceafe1700b4fd6f.png",
+    "preview": "previews/butterflies-065-cinnamon-rose-bceafe1700b4fd6f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Butterfly with warm cinnamon wings",
+    "description": "Butterfly with warm cinnamon wings, pale rose diagonal bands and black outer borders dotted with ivory, fine dark veins, gently scalloped hindwings. Realistic delicate wing scales, slender body and clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "065-cinnamon-rose.png"
+  },
+  {
+    "id": "butterflies-066-black-white-mosaic",
+    "original": "originals/butterflies-066-black-white-mosaic-5b33a8edaa345eae.png",
+    "preview": "previews/butterflies-066-black-white-mosaic-5b33a8edaa345eae.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pure white butterfly",
+    "description": "Butterfly with pure white wings strongly patterned in black geometric mosaic patches, thin black veins and small crimson dots near the hindwing bases. Natural realistic scale texture, slender body and delicate clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "066-black-white-mosaic.png"
+  },
+  {
+    "id": "butterflies-067-fuchsia-violet",
+    "original": "originals/butterflies-067-fuchsia-violet-305a3ea882880b0a.png",
+    "preview": "previews/butterflies-067-fuchsia-violet-305a3ea882880b0a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Fuchsia violet butterfly",
+    "description": "Butterfly with vivid fuchsia forewings and deep violet hindwings, fine black veins, broad black outer borders dotted with pale cream, small blue eyespots near the bottom. Natural realistic scales, slim body and delicate antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "067-fuchsia-violet.png"
+  },
+  {
+    "id": "butterflies-068-golden-tiger",
+    "original": "originals/butterflies-068-golden-tiger-711319bdd2cd7d1a.png",
+    "preview": "previews/butterflies-068-golden-tiger-711319bdd2cd7d1a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pale golden butterfly",
+    "description": "Butterfly, pale golden wings with dark brown tiger stripes and small pale blue hindwing accents, long elegant tails.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "068-golden-tiger.png"
+  },
+  {
+    "id": "butterflies-069-blue-lace",
+    "original": "originals/butterflies-069-blue-lace-8b8f27cd9d742382.png",
+    "preview": "previews/butterflies-069-blue-lace-8b8f27cd9d742382.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pastel blue butterfly",
+    "description": "Butterfly, pastel blue wings with delicate white lace-like edge markings and tiny violet eyespots, rounded wings and fine natural scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "069-blue-lace.png"
+  },
+  {
+    "id": "butterflies-070-burgundy-gold-spots",
+    "original": "originals/butterflies-070-burgundy-gold-spots-ed4d52529ab40f99.png",
+    "preview": "previews/butterflies-070-burgundy-gold-spots-ed4d52529ab40f99.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Deep burgundy butterfly",
+    "description": "Butterfly, deep burgundy wings with bright golden yellow oval spots, thin black veins and a scalloped cream edge, realistic delicate scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "070-burgundy-gold-spots.png"
+  },
+  {
+    "id": "butterflies-071-turquoise-mint",
+    "original": "originals/butterflies-071-turquoise-mint-4aec3c99791d6950.png",
+    "preview": "previews/butterflies-071-turquoise-mint-4aec3c99791d6950.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Bright turquoise butterfly",
+    "description": "Butterfly, bright turquoise forewings and pale mint hindwings with dark brown veins, ivory edge dots and short slender tails. Fine natural scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "071-turquoise-mint.png"
+  },
+  {
+    "id": "butterflies-072-peach-marble",
+    "original": "originals/butterflies-072-peach-marble-4cb04e648c74fa50.png",
+    "preview": "previews/butterflies-072-peach-marble-4cb04e648c74fa50.webp",
+    "width": 1402,
+    "height": 1122,
+    "title": "Soft dusty peach butterfly",
+    "description": "Butterfly, soft dusty peach wings with deep brown marbled stripes and cream ringed dark eyespots, angular forewings and rounded hindwings, fine natural scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "072-peach-marble.png"
+  },
+  {
+    "id": "butterflies-073-black-ice-red",
+    "original": "originals/butterflies-073-black-ice-red-7eeb8d72dd484c6e.png",
+    "preview": "previews/butterflies-073-black-ice-red-7eeb8d72dd484c6e.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Velvety black butterfly",
+    "description": "Butterfly, velvety black wings with broad icy blue diagonal bands and crimson red edge spots, elegant swallowtail shape, fine realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "073-black-ice-red.png"
+  },
+  {
+    "id": "butterflies-074-lemon-coral-tips",
+    "original": "originals/butterflies-074-lemon-coral-tips-94b781d15636e75b.png",
+    "preview": "previews/butterflies-074-lemon-coral-tips-94b781d15636e75b.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Lemon coral tips butterfly",
+    "description": "Butterfly, pale lemon wings with warm coral tip patches and delicate gray veins, tiny black hindwing spots, rounded wing shape and fine natural scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "074-lemon-coral-tips.png"
+  },
+  {
+    "id": "butterflies-075-teal-purple-white",
+    "original": "originals/butterflies-075-teal-purple-white-0174942d4c33b358.png",
+    "preview": "previews/butterflies-075-teal-purple-white-0174942d4c33b358.webp",
+    "width": 1402,
+    "height": 1122,
+    "title": "Rich teal butterfly",
+    "description": "Butterfly, rich teal wings with dark purple outer borders, bright white diagonal bands and small crimson eyespots near short hindwing tails. Realistic fine scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "075-teal-purple-white.png"
+  },
+  {
+    "id": "butterflies-076-tan-speckled",
+    "original": "originals/butterflies-076-tan-speckled-5d5c4d596fdd62b6.png",
+    "preview": "previews/butterflies-076-tan-speckled-5d5c4d596fdd62b6.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Tan speckled butterfly",
+    "description": "Butterfly, warm tan wings with dense tiny black speckles, dark brown wavy borders and delicate blue edge crescents, rounded hindwings, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "076-tan-speckled.png"
+  },
+  {
+    "id": "butterflies-077-violet-turquoise-spots",
+    "original": "originals/butterflies-077-violet-turquoise-spots-06b82f3336bb251b.png",
+    "preview": "previews/butterflies-077-violet-turquoise-spots-06b82f3336bb251b.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Deep violet butterfly",
+    "description": "Butterfly, deep violet wings with bright turquoise oval markings and narrow cream scalloped edges, small pink hindwing eyespots and fine realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "077-violet-turquoise-spots.png"
+  },
+  {
+    "id": "butterflies-078-ivory-mint",
+    "original": "originals/butterflies-078-ivory-mint-1c761c51529f3014.png",
+    "preview": "previews/butterflies-078-ivory-mint-1c761c51529f3014.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Ivory butterfly",
+    "description": "Butterfly, ivory forewings with soft green tips and pale mint hindwings, thin black veins and tiny dark round spots, delicate natural scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "078-ivory-mint.png"
+  },
+  {
+    "id": "butterflies-079-orange-navy",
+    "original": "originals/butterflies-079-orange-navy-605efc8007b2951d.png",
+    "preview": "previews/butterflies-079-orange-navy-605efc8007b2951d.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Rich golden orange butterfly",
+    "description": "Butterfly, rich golden orange wings with broad dark navy borders, small bright blue edge spots and fine black veins, short elegant hindwing tails, realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "079-orange-navy.png"
+  },
+  {
+    "id": "butterflies-080-charcoal-silver",
+    "original": "originals/butterflies-080-charcoal-silver-724ec366117438b2.png",
+    "preview": "previews/butterflies-080-charcoal-silver-724ec366117438b2.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Charcoal gray butterfly",
+    "description": "Butterfly, charcoal gray wings with broad silver white bands, small bright magenta hindwing spots and delicate black veins, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "080-charcoal-silver.png"
+  },
+  {
+    "id": "butterflies-081-peach-lavender",
+    "original": "originals/butterflies-081-peach-lavender-8e11ba391ad473a8.png",
+    "preview": "previews/butterflies-081-peach-lavender-8e11ba391ad473a8.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pale peach butterfly",
+    "description": "Butterfly, pale peach forewings and lavender hindwings, fine brown veins, dark purple borders dotted with cream, delicate scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "081-peach-lavender.png"
+  },
+  {
+    "id": "butterflies-082-green-sapphire",
+    "original": "originals/butterflies-082-green-sapphire-a132ceb99c64b061.png",
+    "preview": "previews/butterflies-082-green-sapphire-a132ceb99c64b061.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Deep forest green butterfly",
+    "description": "Butterfly, deep forest green forewings and sapphire blue hindwings, narrow black veins, ivory spots along dark edges and fine realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "082-green-sapphire.png"
+  },
+  {
+    "id": "butterflies-083-ivory-copper-lace",
+    "original": "originals/butterflies-083-ivory-copper-lace-0ba7aafe104743c8.png",
+    "preview": "previews/butterflies-083-ivory-copper-lace-0ba7aafe104743c8.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Ivory butterfly",
+    "description": "Butterfly, ivory wings with intricate warm copper lace-like markings, small dark brown eyespots and softly scalloped edges, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "083-ivory-copper-lace.png"
+  },
+  {
+    "id": "butterflies-084-midnight-salmon",
+    "original": "originals/butterflies-084-midnight-salmon-fede3b44eed84697.png",
+    "preview": "previews/butterflies-084-midnight-salmon-fede3b44eed84697.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Velvety midnight blue butterfly",
+    "description": "Butterfly, velvety midnight blue wings with broad luminous-looking but non-glowing salmon pink bands and delicate white marginal dots, realistic fine scales and slender dark body.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "084-midnight-salmon.png"
+  },
+  {
+    "id": "butterflies-085-ochre-sage",
+    "original": "originals/butterflies-085-ochre-sage-35c1648538b7d2ad.png",
+    "preview": "previews/butterflies-085-ochre-sage-35c1648538b7d2ad.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Soft golden ochre butterfly",
+    "description": "Butterfly, soft golden ochre wings with pale sage green basal areas and delicate dark chestnut scalloped borders, paired tiny ivory-ringed eyespots, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "085-ochre-sage.png"
+  },
+  {
+    "id": "butterflies-086-white-raspberry",
+    "original": "originals/butterflies-086-white-raspberry-c0697cd214b1f0d6.png",
+    "preview": "previews/butterflies-086-white-raspberry-c0697cd214b1f0d6.webp",
+    "width": 1484,
+    "height": 1060,
+    "title": "Elegant broad snow white butterfly",
+    "description": "Butterfly, elegant broad snow white wings with angular raspberry pink patches near the tips, black fine veins and tiny black marginal dots, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "086-white-raspberry.png"
+  },
+  {
+    "id": "butterflies-087-black-butter-yellow",
+    "original": "originals/butterflies-087-black-butter-yellow-2820ebed5ada982f.png",
+    "preview": "previews/butterflies-087-black-butter-yellow-2820ebed5ada982f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Swallowtail butterfly",
+    "description": "Swallowtail butterfly, elegant black wings with large pale butter-yellow patches, turquoise crescent markings and two small rust red eyespots on the hindwings, slender paired tails, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "087-black-butter-yellow.png"
+  },
+  {
+    "id": "butterflies-088-mauve-zigzag",
+    "original": "originals/butterflies-088-mauve-zigzag-93b68f7bee65a2b4.png",
+    "preview": "previews/butterflies-088-mauve-zigzag-93b68f7bee65a2b4.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Mauve zigzag butterfly",
+    "description": "Butterfly, broad softly rounded wings in rich dusty mauve with narrow cream zigzag bands, deep plum fine veins and tiny orange marginal spots, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "088-mauve-zigzag.png"
+  },
+  {
+    "id": "butterflies-089-ice-cobalt",
+    "original": "originals/butterflies-089-ice-cobalt-ff5d7b8df3f7df82.png",
+    "preview": "previews/butterflies-089-ice-cobalt-ff5d7b8df3f7df82.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Icy pale turquoise butterfly",
+    "description": "Butterfly, icy pale turquoise wings with dark navy lace-like veins and bold cobalt blue tips, pearl white scalloped edges, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "089-ice-cobalt.png"
+  },
+  {
+    "id": "butterflies-090-terracotta-checkered",
+    "original": "originals/butterflies-090-terracotta-checkered-201201b3f08a4e70.png",
+    "preview": "previews/butterflies-090-terracotta-checkered-201201b3f08a4e70.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Warm terracotta red butterfly",
+    "description": "Butterfly, warm terracotta red wings with irregular jet black checker patches and creamy ivory spots near the forewing tips, dark scalloped edges, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "090-terracotta-checkered.png"
+  },
+  {
+    "id": "butterflies-091-emerald-lilac",
+    "original": "originals/butterflies-091-emerald-lilac-59897f7ad3e52961.png",
+    "preview": "previews/butterflies-091-emerald-lilac-59897f7ad3e52961.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Emerald green butterfly",
+    "description": "Butterfly, emerald green wings with broad pale lilac diagonal bands and dark chocolate edges lined with tiny cream dots, realistic fine scales and slender dark body.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "091-emerald-lilac.png"
+  },
+  {
+    "id": "butterflies-092-pearl-sienna",
+    "original": "originals/butterflies-092-pearl-sienna-216da6f1ee00a6c4.png",
+    "preview": "previews/butterflies-092-pearl-sienna-216da6f1ee00a6c4.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Delicate pearl gray butterfly",
+    "description": "Butterfly, delicate pearl gray wings with rich burnt sienna wing bases, black speckled margins and small pale gold eyespots, realistic fine scales and feathery body.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "092-pearl-sienna.png"
+  },
+  {
+    "id": "butterflies-093-purple-tangerine",
+    "original": "originals/butterflies-093-purple-tangerine-c69780716488e548.png",
+    "preview": "previews/butterflies-093-purple-tangerine-c69780716488e548.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Saturated royal purple butterfly",
+    "description": "Butterfly, saturated royal purple wings with broad tangerine diagonal patches, fine black veins and scalloped black margins carrying tiny ivory spots, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "093-purple-tangerine.png"
+  },
+  {
+    "id": "butterflies-094-coral-longwing",
+    "original": "originals/butterflies-094-coral-longwing-5a755f6a11dd996d.png",
+    "preview": "previews/butterflies-094-coral-longwing-5a755f6a11dd996d.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Longwing butterfly",
+    "description": "Longwing butterfly, distinct elongated narrow forewings and small rounded hindwings, velvety black wings with broad bright coral red transverse bands and clusters of small ivory tip spots, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "094-coral-longwing.png"
+  },
+  {
+    "id": "butterflies-095-honey-longwing",
+    "original": "originals/butterflies-095-honey-longwing-2356db97bee5aaf9.png",
+    "preview": "previews/butterflies-095-honey-longwing-2356db97bee5aaf9.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Longwing butterfly with long slender oval forewings and smaller rounded hindwings",
+    "description": "Longwing butterfly with long slender oval forewings and smaller rounded hindwings, rich honey yellow wings crossed by charcoal black diagonal stripes, pale cream tip flecks and realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "095-honey-longwing.png"
+  },
+  {
+    "id": "butterflies-096-pistachio-pointed",
+    "original": "originals/butterflies-096-pistachio-pointed-909b9ce3723feb88.png",
+    "preview": "previews/butterflies-096-pistachio-pointed-909b9ce3723feb88.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pistachio pointed butterfly",
+    "description": "Butterfly, angular pointed forewings in soft pistachio green, rounded hindwings in pale cream, narrow bronze vein markings and tiny dark brown eyespots, realistic fine scales, delicate elegant silhouette.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "096-pistachio-pointed.png"
+  },
+  {
+    "id": "butterflies-097-rose-gold-blue",
+    "original": "originals/butterflies-097-rose-gold-blue-4b5e7f6d5a932d8e.png",
+    "preview": "previews/butterflies-097-rose-gold-blue-4b5e7f6d5a932d8e.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Rose gold copper butterfly",
+    "description": "Butterfly with softly rounded wings, rose gold copper upper wings and pale sky blue lower wings, dark brown narrow borders with tiny white dashes, subtle realistic scale texture, slender antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "097-rose-gold-blue.png"
+  },
+  {
+    "id": "butterflies-098-teal-ruby-swallowtail",
+    "original": "originals/butterflies-098-teal-ruby-swallowtail-85ba330679c6864c.png",
+    "preview": "previews/butterflies-098-teal-ruby-swallowtail-85ba330679c6864c.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Swallowtail butterfly with narrow elegant paired tails",
+    "description": "Swallowtail butterfly with narrow elegant paired tails, luminous teal green wing panels enclosed by broad black borders, cream yellow spots along forewing tips and small ruby red crescents on hindwings, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "098-teal-ruby-swallowtail.png"
+  },
+  {
+    "id": "butterflies-099-strawberry-eyespots",
+    "original": "originals/butterflies-099-strawberry-eyespots-4914e3014e3d30c0.png",
+    "preview": "previews/butterflies-099-strawberry-eyespots-4914e3014e3d30c0.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Butterfly with rounded wings",
+    "description": "Butterfly with rounded wings, pale strawberry pink ground color overlaid with intricate burgundy marbled bands and paired large black eyespots ringed in cream and muted teal, natural fine scales and fine antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "099-strawberry-eyespots.png"
+  },
+  {
+    "id": "butterflies-100-cobalt-silver",
+    "original": "originals/butterflies-100-cobalt-silver-c65fe09c30233175.png",
+    "preview": "previews/butterflies-100-cobalt-silver-c65fe09c30233175.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Butterfly with broad elegant wings",
+    "description": "Butterfly with broad elegant wings, intense cobalt blue scales fading to silver white near the edges, subtle black branching veins and a fine charcoal outline, two small orange spots at the inner hindwing corners, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "100-cobalt-silver.png"
+  },
+  {
+    "id": "butterflies-101-cream-indigo",
+    "original": "originals/butterflies-101-cream-indigo-fd03453b4a4ad2a0.png",
+    "preview": "previews/butterflies-101-cream-indigo-fd03453b4a4ad2a0.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Pale cream butterfly",
+    "description": "Butterfly with crisp triangular forewings and scalloped hindwings, pale cream wings patterned with bold deep indigo geometric bands, small jade green patches at the wing bases, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "101-cream-indigo.png"
+  },
+  {
+    "id": "butterflies-102-apricot-lavender-mosaic",
+    "original": "originals/butterflies-102-apricot-lavender-mosaic-ee2cebf536415752.png",
+    "preview": "previews/butterflies-102-apricot-lavender-mosaic-ee2cebf536415752.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Butterfly with broad rounded wings",
+    "description": "Butterfly with broad rounded wings, warm apricot ground color and a delicate irregular mosaic of lavender gray and ivory patches, fine brown veins, tiny dark spots along the edges, natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "102-apricot-lavender-mosaic.png"
+  },
+  {
+    "id": "butterflies-103-chocolate-mint-pink",
+    "original": "originals/butterflies-103-chocolate-mint-pink-77da61739794982b.png",
+    "preview": "previews/butterflies-103-chocolate-mint-pink-77da61739794982b.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Deep chocolate brown butterfly",
+    "description": "Butterfly with elegant elongated wings, deep chocolate brown wings with striking broad pale mint bands and small pink blush spots near the outer tips, fine cream fringes, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "103-chocolate-mint-pink.png"
+  },
+  {
+    "id": "butterflies-104-powder-blue-rust",
+    "original": "originals/butterflies-104-powder-blue-rust-e17db30e4a3ee9fa.png",
+    "preview": "previews/butterflies-104-powder-blue-rust-e17db30e4a3ee9fa.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Butterfly with compact round wings",
+    "description": "Butterfly with compact round wings, powder blue wing centers surrounded by wide warm rust orange borders dotted with small black spots and fine ivory fringes, realistic fine scales, small slender body and clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "104-powder-blue-rust.png"
+  },
+  {
+    "id": "butterflies-105-crimson-silver",
+    "original": "originals/butterflies-105-crimson-silver-5dc47411df18717c.png",
+    "preview": "previews/butterflies-105-crimson-silver-5dc47411df18717c.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Crimson silver butterfly",
+    "description": "Butterfly, long triangular forewings and elegantly scalloped hindwings in deep crimson with silvery white radial streaks following black veins, small navy blue marginal spots, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "105-crimson-silver.png"
+  },
+  {
+    "id": "butterflies-106-lavender-gold",
+    "original": "originals/butterflies-106-lavender-gold-4f8f3c3b584b3f45.png",
+    "preview": "previews/butterflies-106-lavender-gold-4f8f3c3b584b3f45.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Gentle lavender gray butterfly",
+    "description": "Butterfly with rounded wings, gentle lavender gray wings with broad warm golden yellow central patches, dark plum narrow scalloped borders and a row of tiny pearl spots, realistic fine scales and natural fuzzy body.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "106-lavender-gold.png"
+  },
+  {
+    "id": "butterflies-107-teal-white-mosaic",
+    "original": "originals/butterflies-107-teal-white-mosaic-ac4591050a27542c.png",
+    "preview": "previews/butterflies-107-teal-white-mosaic-ac4591050a27542c.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Teal white mosaic butterfly",
+    "description": "Butterfly, triangular forewings and smooth rounded hindwings in rich peacock teal, irregular bands of black and pearl white forming an intricate natural mosaic, fine realistic scales and clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "107-teal-white-mosaic.png"
+  },
+  {
+    "id": "butterflies-108-lemon-wine-marble",
+    "original": "originals/butterflies-108-lemon-wine-marble-2bca4b5e612178b5.png",
+    "preview": "previews/butterflies-108-lemon-wine-marble-2bca4b5e612178b5.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Pale lemon yellow butterfly",
+    "description": "Butterfly with graceful pointed wings, pale lemon yellow wings with irregular wine red marbling and thin brown veins, tiny dark eyespots at the outer edges, natural fine scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "108-lemon-wine-marble.png"
+  },
+  {
+    "id": "butterflies-109-ivory-violet-longwing",
+    "original": "originals/butterflies-109-ivory-violet-longwing-95dc0a3d5b1d5b8c.png",
+    "preview": "previews/butterflies-109-ivory-violet-longwing-95dc0a3d5b1d5b8c.webp",
+    "width": 1223,
+    "height": 1286,
+    "title": "Soft ivory butterfly",
+    "description": "Butterfly with narrow long forewings and compact rounded hindwings, soft ivory wings framed by charcoal black edges, vivid violet diagonal bands and tiny golden ochre dots near the tips, natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "109-ivory-violet-longwing.png"
+  },
+  {
+    "id": "butterflies-110-black-amber-eyespots",
+    "original": "originals/butterflies-110-black-amber-eyespots-f0b3a4179b0d40c2.png",
+    "preview": "previews/butterflies-110-black-amber-eyespots-f0b3a4179b0d40c2.webp",
+    "width": 1430,
+    "height": 1100,
+    "title": "Rounded velvety black butterfly",
+    "description": "Butterfly, rounded velvety black wings with large circular amber gold eyespots surrounded by rings of pale aqua and cream, subtle dark green scales near the body and fine scalloped margins, realistic scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "110-black-amber-eyespots.png"
+  },
+  {
+    "id": "butterflies-111-vanilla-peach-freckles",
+    "original": "originals/butterflies-111-vanilla-peach-freckles-b867264659e6ed53.png",
+    "preview": "previews/butterflies-111-vanilla-peach-freckles-b867264659e6ed53.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Vanilla peach freckles butterfly",
+    "description": "Butterfly, delicate rounded wings in warm vanilla cream with tiny scattered black freckles and soft peach patches near the forewing tips, narrow smoky gray borders, natural fine scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "111-vanilla-peach-freckles.png"
+  },
+  {
+    "id": "butterflies-112-emerald-violet-copper",
+    "original": "originals/butterflies-112-emerald-violet-copper-e67d1e8a15e64377.png",
+    "preview": "previews/butterflies-112-emerald-violet-copper-e67d1e8a15e64377.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Butterfly with elegant angular wings",
+    "description": "Butterfly with elegant angular wings, brilliant emerald wing centers and dark violet outer panels, narrow cream border bands and pairs of copper orange small eyespots, natural realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "112-emerald-violet-copper.png"
+  },
+  {
+    "id": "butterflies-113-slate-ivory-red",
+    "original": "originals/butterflies-113-slate-ivory-red-2bb9ecdd97de87ee.png",
+    "preview": "previews/butterflies-113-slate-ivory-red-2bb9ecdd97de87ee.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Smoky slate gray butterfly",
+    "description": "Butterfly with softly rounded wings, smoky slate gray wings patterned with broad ivory stripes and tiny scarlet red dots along the outer edges, silvery scales near the body, natural detailed scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "113-slate-ivory-red.png"
+  },
+  {
+    "id": "butterflies-114-orange-turquoise",
+    "original": "originals/butterflies-114-orange-turquoise-e540c4a5bc365e83.png",
+    "preview": "previews/butterflies-114-orange-turquoise-e540c4a5bc365e83.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Orange turquoise butterfly",
+    "description": "Butterfly, broad angular wings in warm burnt orange with bold turquoise patches on the hindwings and thin black branching veins, dark brown tips with cream dots, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "114-orange-turquoise.png"
+  },
+  {
+    "id": "butterflies-115-pearl-fern",
+    "original": "originals/butterflies-115-pearl-fern-57617d4112621584.png",
+    "preview": "previews/butterflies-115-pearl-fern-57617d4112621584.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Pearl white butterfly",
+    "description": "Butterfly with long slender forewings and short rounded hindwings, pearl white wings with delicate fern green branching stripes and tiny black spots near the tips, fine dark antennae, natural realistic scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "115-pearl-fern.png"
+  },
+  {
+    "id": "butterflies-116-plum-peach",
+    "original": "originals/butterflies-116-plum-peach-ff49a9d934dddf21.png",
+    "preview": "previews/butterflies-116-plum-peach-ff49a9d934dddf21.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Plum peach butterfly",
+    "description": "Butterfly, graceful broad wings in deep plum purple patterned with large pale peach patches, delicate black veins and small powder blue marginal crescents, subtle realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "116-plum-peach.png"
+  },
+  {
+    "id": "butterflies-117-copper-mint-veins",
+    "original": "originals/butterflies-117-copper-mint-veins-32c45e2200668cae.png",
+    "preview": "previews/butterflies-117-copper-mint-veins-32c45e2200668cae.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Butterfly with rounded broad wings",
+    "description": "Butterfly with rounded broad wings, copper brown scales with an intricate network of pale mint green veins and cream scalloped edge markings, subtle tiny blue eyespots, realistic natural scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "117-copper-mint-veins.png"
+  },
+  {
+    "id": "butterflies-118-white-magenta-swallowtail",
+    "original": "originals/butterflies-118-white-magenta-swallowtail-487cc15e33b16231.png",
+    "preview": "previews/butterflies-118-white-magenta-swallowtail-487cc15e33b16231.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Swallowtail butterfly with slim long paired tails",
+    "description": "Swallowtail butterfly with slim long paired tails, snow white wings with elegant dark magenta diagonal streaks and small black spots along the edges, two teal blue hindwing accents, natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "118-white-magenta-swallowtail.png"
+  },
+  {
+    "id": "butterflies-119-seafoam-rose",
+    "original": "originals/butterflies-119-seafoam-rose-6e8e63c69f21eb13.png",
+    "preview": "previews/butterflies-119-seafoam-rose-6e8e63c69f21eb13.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Butterfly with rounded wings",
+    "description": "Butterfly with rounded wings, soft seafoam green wing surfaces with delicate dusty rose marbling and thin cocoa brown veins, a row of tiny ivory-ringed black spots near the edges, realistic natural scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "119-seafoam-rose.png"
+  },
+  {
+    "id": "butterflies-120-navy-gold-turquoise",
+    "original": "originals/butterflies-120-navy-gold-turquoise-bb8169f33b745fe0.png",
+    "preview": "previews/butterflies-120-navy-gold-turquoise-bb8169f33b745fe0.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Navy gold turquoise butterfly",
+    "description": "Butterfly, broad wings in deep navy blue with vivid golden yellow angular patches and small turquoise border dots, black delicate branching veins and realistic fine scales, elegant symmetrical silhouette.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "120-navy-gold-turquoise.png"
+  },
+  {
+    "id": "butterflies-121-lilac-freckles",
+    "original": "originals/butterflies-121-lilac-freckles-1c9355cbd80ec6b9.png",
+    "preview": "previews/butterflies-121-lilac-freckles-1c9355cbd80ec6b9.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Soft lilac butterfly",
+    "description": "Butterfly with compact rounded wings, soft lilac wings patterned with dense tiny chocolate brown freckles and pale cream outer bands, thin peach rim on the hindwings, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "121-lilac-freckles.png"
+  },
+  {
+    "id": "butterflies-122-scarlet-ivory-teardrops",
+    "original": "originals/butterflies-122-scarlet-ivory-teardrops-fe857f0b34b9234b.png",
+    "preview": "previews/butterflies-122-scarlet-ivory-teardrops-fe857f0b34b9234b.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Scarlet ivory teardrops butterfly",
+    "description": "Butterfly, angular pointed wings in vivid scarlet red with large ivory teardrop spots between black veins, black tips with small golden ochre dots, realistic fine scales and slender dark body.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "122-scarlet-ivory-teardrops.png"
+  },
+  {
+    "id": "butterflies-123-sage-lavender",
+    "original": "originals/butterflies-123-sage-lavender-5ae03866fa482dea.png",
+    "preview": "previews/butterflies-123-sage-lavender-5ae03866fa482dea.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Sage lavender butterfly",
+    "description": "Butterfly, soft rounded wings with pale sage green centers and broad silvery lavender margins, tiny charcoal spots encircled in ivory and delicate taupe veins, natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "123-sage-lavender.png"
+  },
+  {
+    "id": "butterflies-124-cyan-orange-rim",
+    "original": "originals/butterflies-124-cyan-orange-rim-fb6f74a48781efb4.png",
+    "preview": "previews/butterflies-124-cyan-orange-rim-fb6f74a48781efb4.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Rich black butterfly",
+    "description": "Butterfly with broad slightly scalloped wings, rich black wings covered in vivid cyan blue radial streaks with a narrow warm orange band along the lower hindwing edges, tiny white tip spots, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "124-cyan-orange-rim.png"
+  },
+  {
+    "id": "butterflies-125-apricot-olive",
+    "original": "originals/butterflies-125-apricot-olive-920d77a92ad6324d.png",
+    "preview": "previews/butterflies-125-apricot-olive-920d77a92ad6324d.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Warm pale apricot butterfly",
+    "description": "Butterfly with broad smooth wings, warm pale apricot wings crossed by delicate olive green bands and fine brown veins, small cream ringed dark eyespots and ivory fringes, realistic natural scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "125-apricot-olive.png"
+  },
+  {
+    "id": "butterflies-126-ice-blue-burgundy",
+    "original": "originals/butterflies-126-ice-blue-burgundy-7acd56148b215c11.png",
+    "preview": "previews/butterflies-126-ice-blue-burgundy-7acd56148b215c11.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Ice blue burgundy butterfly",
+    "description": "Butterfly, elegant angular wings in pale icy blue with rich burgundy patches at the tips and delicate dark veins, small cream dots along burgundy borders and subtle silver scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "126-ice-blue-burgundy.png"
+  },
+  {
+    "id": "butterflies-127-black-mint-coral",
+    "original": "originals/butterflies-127-black-mint-coral-a1b543188ea76354.png",
+    "preview": "previews/butterflies-127-black-mint-coral-a1b543188ea76354.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Velvety black butterfly",
+    "description": "Butterfly with elongated graceful forewings, velvety black wings with large mint green teardrop markings and delicate golden yellow marginal dots, a narrow coral band on the hindwings, realistic natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "127-black-mint-coral.png"
+  },
+  {
+    "id": "butterflies-128-gold-cobalt-marble",
+    "original": "originals/butterflies-128-gold-cobalt-marble-1208192decbd8327.png",
+    "preview": "previews/butterflies-128-gold-cobalt-marble-1208192decbd8327.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Gold cobalt marble butterfly",
+    "description": "Butterfly, broad rounded wings in creamy pale gold with delicate cobalt blue marbling and thin black veins, small blue and white eyespots near the lower edges, natural fine scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "128-gold-cobalt-marble.png"
+  },
+  {
+    "id": "butterflies-129-coral-forest",
+    "original": "originals/butterflies-129-coral-forest-94a8c2188ece12b7.png",
+    "preview": "previews/butterflies-129-coral-forest-94a8c2188ece12b7.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Dusty coral pink butterfly",
+    "description": "Butterfly with long slender forewings and scalloped hindwings, dusty coral pink wings with deep forest green radial markings, delicate dark veins and tiny cream dots along narrow green margins, realistic scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "129-coral-forest.png"
+  },
+  {
+    "id": "butterflies-130-pearl-zebra-violet",
+    "original": "originals/butterflies-130-pearl-zebra-violet-070c9aebcb7766c2.png",
+    "preview": "previews/butterflies-130-pearl-zebra-violet-070c9aebcb7766c2.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Pearl zebra violet butterfly",
+    "description": "Butterfly, elegant rounded wings in white and soft pearl gray with fine black zebra-like stripes, small rich violet patches near the wing bases and delicate gray fringes, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "130-pearl-zebra-violet.png"
+  },
+  {
+    "id": "butterflies-131-honey-wine-eyespots",
+    "original": "originals/butterflies-131-honey-wine-eyespots-aed752402404da69.png",
+    "preview": "previews/butterflies-131-honey-wine-eyespots-aed752402404da69.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Honey wine eyespots butterfly",
+    "description": "Butterfly with softly scalloped wings, warm honey amber wings with large wine purple eyespots ringed in ivory and delicate smoky brown marbling, fine realistic scales and slender clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "131-honey-wine-eyespots.png"
+  },
+  {
+    "id": "butterflies-132-sky-blue-moss",
+    "original": "originals/butterflies-132-sky-blue-moss-047de3f6987fdcf8.png",
+    "preview": "previews/butterflies-132-sky-blue-moss-047de3f6987fdcf8.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Sky blue moss butterfly",
+    "description": "Butterfly, graceful wide wings in soft sky blue with intricate moss green and cream mosaic borders, subtle black veins and tiny dark eyespots near hindwing corners, natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "132-sky-blue-moss.png"
+  },
+  {
+    "id": "butterflies-133-mahogany-ivory",
+    "original": "originals/butterflies-133-mahogany-ivory-3257c9e844f4205d.png",
+    "preview": "previews/butterflies-133-mahogany-ivory-3257c9e844f4205d.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Deep mahogany red butterfly",
+    "description": "Butterfly with sharply angled forewings and scalloped hindwings, deep mahogany red wings with ivory jagged bands and small pale turquoise eyespots, natural fine scale texture and slender antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "133-mahogany-ivory.png"
+  },
+  {
+    "id": "butterflies-134-blush-gray-lace",
+    "original": "originals/butterflies-134-blush-gray-lace-2ccd0f8dfce17ec7.png",
+    "preview": "previews/butterflies-134-blush-gray-lace-2ccd0f8dfce17ec7.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Ivory and delicate blush pink butterfly",
+    "description": "Butterfly with broad rounded wings, ivory and delicate blush pink wings with intricate dark gray fine lace-like veins and small sky blue spots along the margins, realistic natural scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "134-blush-gray-lace.png"
+  },
+  {
+    "id": "butterflies-135-turquoise-rust",
+    "original": "originals/butterflies-135-turquoise-rust-516925bcce5500d6.png",
+    "preview": "previews/butterflies-135-turquoise-rust-516925bcce5500d6.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Rich turquoise butterfly",
+    "description": "Butterfly with elongated smooth wings, rich turquoise wings with wide rust red transverse bands, black tips dotted with pearl white spots and fine black veins, realistic natural scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "135-turquoise-rust.png"
+  },
+  {
+    "id": "butterflies-136-yellow-magenta-swallowtail",
+    "original": "originals/butterflies-136-yellow-magenta-swallowtail-3f0c26dc616b6c89.png",
+    "preview": "previews/butterflies-136-yellow-magenta-swallowtail-3f0c26dc616b6c89.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Pale buttery yellow butterfly",
+    "description": "Butterfly with elegant pointed forewings and short slender hindwing tails, pale buttery yellow wings with black branching veins and rich magenta patches at the tips, tiny blue hindwing crescents, natural realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "136-yellow-magenta-swallowtail.png"
+  },
+  {
+    "id": "butterflies-137-lavender-copper",
+    "original": "originals/butterflies-137-lavender-copper-85dc5110bfd14704.png",
+    "preview": "previews/butterflies-137-lavender-copper-85dc5110bfd14704.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Rounded lavender blue butterfly",
+    "description": "Butterfly, rounded lavender blue wings with rich copper brown scalloped borders and tiny ivory speckles, paired small black eyespots ringed in golden yellow, natural detailed scales and fine antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "137-lavender-copper.png"
+  },
+  {
+    "id": "butterflies-138-jade-cream",
+    "original": "originals/butterflies-138-jade-cream-5c84631d11568848.png",
+    "preview": "previews/butterflies-138-jade-cream-5c84631d11568848.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bright jade green butterfly",
+    "description": "Butterfly with elegant long forewings and small rounded hindwings, bright jade green wings with irregular cream white panels and fine black outlines, tiny orange spots near the wing tips, realistic natural scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "138-jade-cream.png"
+  },
+  {
+    "id": "butterflies-139-gray-salmon",
+    "original": "originals/butterflies-139-gray-salmon-05bbffd639509cc7.png",
+    "preview": "previews/butterflies-139-gray-salmon-05bbffd639509cc7.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Butterfly with soft rounded wings",
+    "description": "Butterfly with soft rounded wings, pale warm gray ground color with rich salmon pink patches and delicate charcoal lace-like bands, tiny ivory dots at the tips and fine realistic scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "139-gray-salmon.png"
+  },
+  {
+    "id": "butterflies-140-blue-lime-swallowtail",
+    "original": "originals/butterflies-140-blue-lime-swallowtail-c42b5e6e9e5770f4.png",
+    "preview": "previews/butterflies-140-blue-lime-swallowtail-c42b5e6e9e5770f4.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Swallowtail butterfly with elegant long paired tails",
+    "description": "Swallowtail butterfly with elegant long paired tails, rich royal blue wings with broad pale lime green bands and small cream dots along black margins, two coral red eyespots near the tails, fine realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "140-blue-lime-swallowtail.png"
+  },
+  {
+    "id": "butterflies-141-ivory-cinnamon-rose",
+    "original": "originals/butterflies-141-ivory-cinnamon-rose-e8c3ae40a9ad91b3.png",
+    "preview": "previews/butterflies-141-ivory-cinnamon-rose-e8c3ae40a9ad91b3.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Warm ivory butterfly",
+    "description": "Butterfly with broad rounded wings, warm ivory wings with intricate cinnamon brown and dusty rose bands, small black eyespots with pale green rings and delicate natural scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "141-ivory-cinnamon-rose.png"
+  },
+  {
+    "id": "butterflies-142-midnight-purple-mint",
+    "original": "originals/butterflies-142-midnight-purple-mint-fb03fd29529df00e.png",
+    "preview": "previews/butterflies-142-midnight-purple-mint-fb03fd29529df00e.webp",
+    "width": 1402,
+    "height": 1122,
+    "title": "Midnight purple mint butterfly",
+    "description": "Butterfly, angular pointed wings in deep midnight purple with bold bright mint green diagonal panels, narrow black margins with small white flecks, a pair of warm orange hindwing eyespots, natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "142-midnight-purple-mint.png"
+  },
+  {
+    "id": "butterflies-143-cream-teal-marble",
+    "original": "originals/butterflies-143-cream-teal-marble-bc97d44c96879c20.png",
+    "preview": "previews/butterflies-143-cream-teal-marble-bc97d44c96879c20.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Warm cream butterfly",
+    "description": "Butterfly with rounded soft-edged wings, warm cream wings with intricate delicate teal green marbling and small rust orange eyespots along the hindwing margins, fine brown veins and realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "143-cream-teal-marble.png"
+  },
+  {
+    "id": "butterflies-144-coral-lavender",
+    "original": "originals/butterflies-144-coral-lavender-d24da3436d9e45d0.png",
+    "preview": "previews/butterflies-144-coral-lavender-d24da3436d9e45d0.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Brilliant coral orange butterfly",
+    "description": "Butterfly with angular broad wings, brilliant coral orange wings with a broad charcoal black band through each forewing and tiny pale lilac dots near the tips, lavender blue patches on the hindwings and realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "144-coral-lavender.png"
+  },
+  {
+    "id": "butterflies-145-silver-indigo-checkered",
+    "original": "originals/butterflies-145-silver-indigo-checkered-336e47392143f4c9.png",
+    "preview": "previews/butterflies-145-silver-indigo-checkered-336e47392143f4c9.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pale silver blue butterfly",
+    "description": "Butterfly with graceful rounded wings, pale silver blue wings overlaid with intricate dark indigo and warm tan checker markings, thin white fringes and subtle natural scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "145-silver-indigo-checkered.png"
+  },
+  {
+    "id": "butterflies-146-fuchsia-mint-crescents",
+    "original": "originals/butterflies-146-fuchsia-mint-crescents-acacad086d2c4ba9.png",
+    "preview": "previews/butterflies-146-fuchsia-mint-crescents-acacad086d2c4ba9.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Butterfly with wide scalloped wings",
+    "description": "Butterfly with wide scalloped wings, deep fuchsia pink wing centers blending into dark burgundy borders, pale mint crescent markings and fine ivory edge dots, natural realistic scale texture and slender body.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "146-fuchsia-mint-crescents.png"
+  },
+  {
+    "id": "butterflies-147-ivory-lavender-gold",
+    "original": "originals/butterflies-147-ivory-lavender-gold-319254c266d86f76.png",
+    "preview": "previews/butterflies-147-ivory-lavender-gold-319254c266d86f76.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Creamy ivory butterfly",
+    "description": "Butterfly with slender long wings, creamy ivory forewings with smoky black tips and pale lavender diagonal bands, warm golden yellow hindwings with fine dark veins and tiny black dots, realistic natural scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "147-ivory-lavender-gold.png"
+  },
+  {
+    "id": "butterflies-148-bronze-ice-blue",
+    "original": "originals/butterflies-148-bronze-ice-blue-3b18ce533c65541b.png",
+    "preview": "previews/butterflies-148-bronze-ice-blue-3b18ce533c65541b.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Charcoal black butterfly",
+    "description": "Butterfly with broad scalloped wings, charcoal black wings with rich bronze orange centers and pale icy blue outer bands, tiny white marginal dots and subtle natural scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "148-bronze-ice-blue.png"
+  },
+  {
+    "id": "butterflies-149-pink-emerald",
+    "original": "originals/butterflies-149-pink-emerald-477cfaf84462956a.png",
+    "preview": "previews/butterflies-149-pink-emerald-477cfaf84462956a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pale pastel pink butterfly",
+    "description": "Butterfly with smooth rounded wings, pale pastel pink wings with delicate emerald green veins and dark green scalloped borders, tiny cream spots and two small orange hindwing eyespots, natural fine scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "149-pink-emerald.png"
+  },
+  {
+    "id": "butterflies-150-cobalt-ivory-scarlet",
+    "original": "originals/butterflies-150-cobalt-ivory-scarlet-a88f521d841af717.png",
+    "preview": "previews/butterflies-150-cobalt-ivory-scarlet-a88f521d841af717.webp",
+    "width": 1418,
+    "height": 1109,
+    "title": "Rich cobalt blue butterfly",
+    "description": "Butterfly with elegant pointed forewings and scalloped hindwings, rich cobalt blue wings with intricate creamy ivory radial markings and small scarlet red spots along the black outer margins, natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "150-cobalt-ivory-scarlet.png"
+  },
+  {
+    "id": "butterflies-151-peach-navy-mint",
+    "original": "originals/butterflies-151-peach-navy-mint-6fb3a8f99a0e9a44.png",
+    "preview": "previews/butterflies-151-peach-navy-mint-6fb3a8f99a0e9a44.webp",
+    "width": 1402,
+    "height": 1122,
+    "title": "Warm pale peach butterfly",
+    "description": "Butterfly with delicate rounded wings, warm pale peach wings with dark navy blue outer panels and tiny ivory freckles, a soft mint green band across the hindwings and natural realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "151-peach-navy-mint.png"
+  },
+  {
+    "id": "butterflies-152-forest-copper",
+    "original": "originals/butterflies-152-forest-copper-b07fb60b446ffd5d.png",
+    "preview": "previews/butterflies-152-forest-copper-b07fb60b446ffd5d.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Dark forest green butterfly",
+    "description": "Butterfly with elegant angular wings, dark forest green wings with broad metallic-looking copper orange bands and ivory tip patches, fine black veins and tiny turquoise hindwing dots, natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "152-forest-copper.png"
+  },
+  {
+    "id": "butterflies-153-lavender-garnet",
+    "original": "originals/butterflies-153-lavender-garnet-871f4f1ab7f36237.png",
+    "preview": "previews/butterflies-153-lavender-garnet-871f4f1ab7f36237.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Lavender garnet butterfly",
+    "description": "Butterfly, broad rounded wings with pale lavender centers and creamy ivory edges, fine black speckling and small garnet red eyespots ringed in soft gold, delicate realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "153-lavender-garnet.png"
+  },
+  {
+    "id": "butterflies-154-black-gold-sapphire",
+    "original": "originals/butterflies-154-black-gold-sapphire-d1bef0582f0bd394.png",
+    "preview": "previews/butterflies-154-black-gold-sapphire-d1bef0582f0bd394.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Deep black butterfly",
+    "description": "Butterfly with elongated elegant wings, deep black wings patterned with bold golden yellow teardrop panels and small vivid sapphire blue spots, thin ivory fringes and fine natural scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "154-black-gold-sapphire.png"
+  },
+  {
+    "id": "butterflies-155-aqua-blush",
+    "original": "originals/butterflies-155-aqua-blush-e9c264da00775b4d.png",
+    "preview": "previews/butterflies-155-aqua-blush-e9c264da00775b4d.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Butterfly with compact rounded wings",
+    "description": "Butterfly with compact rounded wings, pale aqua wing centers and soft blush pink scalloped margins, fine dark brown veins and small ivory-ringed charcoal spots, natural realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "155-aqua-blush.png"
+  },
+  {
+    "id": "butterflies-156-rust-violet",
+    "original": "originals/butterflies-156-rust-violet-c3d716f2efa4c383.png",
+    "preview": "previews/butterflies-156-rust-violet-c3d716f2efa4c383.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Deep rust orange butterfly",
+    "description": "Butterfly with broad slightly angular wings, deep rust orange forewings and rich violet hindwings, black fine veins and cream spotted dark margins, subtle blue scales at the wing bases, realistic natural texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "156-rust-violet.png"
+  },
+  {
+    "id": "butterflies-157-white-olive-zebra",
+    "original": "originals/butterflies-157-white-olive-zebra-596868869bfcfc81.png",
+    "preview": "previews/butterflies-157-white-olive-zebra-596868869bfcfc81.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "White butterfly",
+    "description": "Butterfly with graceful long forewings and smooth rounded hindwings, white wings patterned with dark olive green zebra stripes and small pale lemon patches, narrow black veins and realistic natural scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "157-white-olive-zebra.png"
+  },
+  {
+    "id": "butterflies-158-teal-burgundy",
+    "original": "originals/butterflies-158-teal-burgundy-2e2a491e690aedd2.png",
+    "preview": "previews/butterflies-158-teal-burgundy-2e2a491e690aedd2.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Butterfly with broad scalloped wings",
+    "description": "Butterfly with broad scalloped wings, deep teal blue wing centers and rich burgundy outer borders, fine creamy ivory zigzag bands and small pale peach eyespots, natural fine scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "158-teal-burgundy.png"
+  },
+  {
+    "id": "butterflies-159-beige-chocolate-mosaic",
+    "original": "originals/butterflies-159-beige-chocolate-mosaic-3921d4cec5bed506.png",
+    "preview": "previews/butterflies-159-beige-chocolate-mosaic-3921d4cec5bed506.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Pale golden beige butterfly",
+    "description": "Butterfly with compact rounded wings, pale golden beige wings with intricate dark chocolate mosaic bands and small lavender blue patches, tiny white-ringed black eyespots and realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "159-beige-chocolate-mosaic.png"
+  },
+  {
+    "id": "butterflies-160-mint-navy-swallowtail",
+    "original": "originals/butterflies-160-mint-navy-swallowtail-be7a3339d65ab112.png",
+    "preview": "previews/butterflies-160-mint-navy-swallowtail-be7a3339d65ab112.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Swallowtail butterfly with slender long tails",
+    "description": "Swallowtail butterfly with slender long tails, pale mint green wings with broad navy blue stripes and ivory spots near the wing tips, small magenta hindwing crescents and natural realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "160-mint-navy-swallowtail.png"
+  },
+  {
+    "id": "butterflies-161-copper-rose-pearl",
+    "original": "originals/butterflies-161-copper-rose-pearl-74882baf47bab61d.png",
+    "preview": "previews/butterflies-161-copper-rose-pearl-74882baf47bab61d.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Rich copper rose butterfly",
+    "description": "Butterfly with broad rounded wings, rich copper rose wings with black fine veins and bold pearl white patches near the forewing tips, small dark teal spots along the hindwing edges, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "161-copper-rose-pearl.png"
+  },
+  {
+    "id": "butterflies-162-sea-green-purple-marble",
+    "original": "originals/butterflies-162-sea-green-purple-marble-2ca12cef641939ae.png",
+    "preview": "previews/butterflies-162-sea-green-purple-marble-2ca12cef641939ae.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pale sea green and ivory butterfly",
+    "description": "Butterfly with softly rounded wings, pale sea green and ivory wings with intricate smoky purple marbled bands and tiny amber eyespots, fine natural scales and delicate dark clubbed antennae.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "162-sea-green-purple-marble.png"
+  },
+  {
+    "id": "butterflies-163-raspberry-ice-longwing",
+    "original": "originals/butterflies-163-raspberry-ice-longwing-911be5cae111c6a5.png",
+    "preview": "previews/butterflies-163-raspberry-ice-longwing-911be5cae111c6a5.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Deep black butterfly",
+    "description": "Butterfly with graceful long forewings, deep black wings with broad raspberry red panels and slender icy blue diagonal stripes, tiny ivory spots at the tips and natural realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "163-raspberry-ice-longwing.png"
+  },
+  {
+    "id": "butterflies-164-ivory-orange-plum",
+    "original": "originals/butterflies-164-ivory-orange-plum-a86be95c7e3876ea.png",
+    "preview": "previews/butterflies-164-ivory-orange-plum-a86be95c7e3876ea.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Butterfly with soft rounded wings",
+    "description": "Butterfly with soft rounded wings, ivory wing centers surrounded by broad pale golden orange margins, delicate plum purple veins and a row of small purple spots, realistic natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "164-ivory-orange-plum.png"
+  },
+  {
+    "id": "butterflies-165-indigo-white-rose",
+    "original": "originals/butterflies-165-indigo-white-rose-223d8723fc35b51a.png",
+    "preview": "previews/butterflies-165-indigo-white-rose-223d8723fc35b51a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Deep indigo blue butterfly",
+    "description": "Butterfly with elongated angular wings, deep indigo blue forewings with large snowy white panels, pale rose pink hindwings framed in black with tiny white dots, realistic natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "165-indigo-white-rose.png"
+  },
+  {
+    "id": "butterflies-166-sage-copper-marble",
+    "original": "originals/butterflies-166-sage-copper-marble-591ec447f36b5dff.png",
+    "preview": "previews/butterflies-166-sage-copper-marble-591ec447f36b5dff.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Muted sage green butterfly",
+    "description": "Butterfly with rounded softly scalloped wings, muted sage green wings with warm copper brown marbling and pale cream zigzag bands, small black eyespots rimmed in dusty pink, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "166-sage-copper-marble.png"
+  },
+  {
+    "id": "butterflies-167-violet-blue-coral",
+    "original": "originals/butterflies-167-violet-blue-coral-24f81114f60eca32.png",
+    "preview": "previews/butterflies-167-violet-blue-coral-24f81114f60eca32.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Rich violet blue butterfly",
+    "description": "Butterfly with angular elongated wings, rich violet blue wings with large bright coral pink patches and fine ivory streaks between black veins, dark margins dotted with cream, natural realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "167-violet-blue-coral.png"
+  },
+  {
+    "id": "butterflies-168-yellow-gray-lace",
+    "original": "originals/butterflies-168-yellow-gray-lace-95d0ad29be5b1771.png",
+    "preview": "previews/butterflies-168-yellow-gray-lace-95d0ad29be5b1771.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pale buttery yellow butterfly",
+    "description": "Butterfly with rounded wings, pale buttery yellow wings with intricate cool gray lace-like markings and tiny red spots near the outer edges, fine dark veins and natural realistic scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "168-yellow-gray-lace.png"
+  },
+  {
+    "id": "butterflies-169-green-lilac-amber",
+    "original": "originals/butterflies-169-green-lilac-amber-c20cfc8d794732fb.png",
+    "preview": "previews/butterflies-169-green-lilac-amber-c20cfc8d794732fb.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Deep bottle green butterfly",
+    "description": "Butterfly with elegant broad pointed wings, deep bottle green wings with luminous pale lilac central bands and small amber orange crescents along the dark edges, realistic fine wing scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "169-green-lilac-amber.png"
+  },
+  {
+    "id": "butterflies-170-rose-espresso",
+    "original": "originals/butterflies-170-rose-espresso-7ae1dd45071b5fc1.png",
+    "preview": "previews/butterflies-170-rose-espresso-7ae1dd45071b5fc1.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Dusty rose pink butterfly",
+    "description": "Butterfly with broad rounded wings, dusty rose pink wings with dark espresso brown veins and irregular creamy ivory patches, subtle blue-gray scallops along the wing edges, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "170-rose-espresso.png"
+  },
+  {
+    "id": "butterflies-171-cerulean-yellow-swallowtail",
+    "original": "originals/butterflies-171-cerulean-yellow-swallowtail-d200a49530b10444.png",
+    "preview": "previews/butterflies-171-cerulean-yellow-swallowtail-d200a49530b10444.webp",
+    "width": 1349,
+    "height": 1166,
+    "title": "Brilliant cerulean blue butterfly",
+    "description": "Butterfly with swallowtail wings and two slender tails, brilliant cerulean blue wings with creamy pale yellow diagonal bands and small crimson spots on the hindwings, fine black borders and realistic scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "171-cerulean-yellow-swallowtail.png"
+  },
+  {
+    "id": "butterflies-172-ivory-burgundy-eyespots",
+    "original": "originals/butterflies-172-ivory-burgundy-eyespots-95630971abbac8b4.png",
+    "preview": "previews/butterflies-172-ivory-burgundy-eyespots-95630971abbac8b4.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Warm ivory butterfly",
+    "description": "Butterfly with gently rounded wings, warm ivory wings patterned with cinnamon brown fine speckles and bold velvety burgundy eyespots ringed in pale turquoise, realistic scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "172-ivory-burgundy-eyespots.png"
+  },
+  {
+    "id": "butterflies-173-coral-navy-mint",
+    "original": "originals/butterflies-173-coral-navy-mint-75500f34abc7df19.png",
+    "preview": "previews/butterflies-173-coral-navy-mint-75500f34abc7df19.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Luminous coral orange butterfly",
+    "description": "Butterfly with long narrow wings, luminous coral orange wings crossed by dark midnight blue veins and pale mint green bands, small white dots on the dark outer edges, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "173-coral-navy-mint.png"
+  },
+  {
+    "id": "butterflies-174-periwinkle-plum-gold",
+    "original": "originals/butterflies-174-periwinkle-plum-gold-c0f259b7676b57c7.png",
+    "preview": "previews/butterflies-174-periwinkle-plum-gold-c0f259b7676b57c7.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Soft periwinkle blue butterfly",
+    "description": "Butterfly with compact rounded wings, soft periwinkle blue wings with delicate dark plum marbled bands and small golden yellow spots, thin ivory fringes and realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "174-periwinkle-plum-gold.png"
+  },
+  {
+    "id": "butterflies-175-ochre-forest-peach",
+    "original": "originals/butterflies-175-ochre-forest-peach-3ad79e9a3c060a0f.png",
+    "preview": "previews/butterflies-175-ochre-forest-peach-3ad79e9a3c060a0f.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Burnished golden ochre butterfly",
+    "description": "Butterfly with angular scalloped wings, burnished golden ochre wings with deep forest green veins and broad dark green outer margins dotted with pale peach spots, realistic fine wing scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "175-ochre-forest-peach.png"
+  },
+  {
+    "id": "butterflies-176-pearl-ruby-blue",
+    "original": "originals/butterflies-176-pearl-ruby-blue-8b72e1d274f35b35.png",
+    "preview": "previews/butterflies-176-pearl-ruby-blue-8b72e1d274f35b35.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Pearl white butterfly",
+    "description": "Butterfly with elegant rounded wings, pearl white wings with wide ruby pink ribbons and fine charcoal gray veins, small pale blue dots around the softly scalloped edges, realistic fine scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "176-pearl-ruby-blue.png"
+  },
+  {
+    "id": "butterflies-177-aubergine-apricot-emerald",
+    "original": "originals/butterflies-177-aubergine-apricot-emerald-e6e023efcb2f3f38.png",
+    "preview": "previews/butterflies-177-aubergine-apricot-emerald-e6e023efcb2f3f38.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Dark aubergine purple butterfly",
+    "description": "Butterfly with broad rounded wings, dark aubergine purple wings with large pale apricot teardrop patches and vivid emerald green freckles at the margins, realistic fine scales and subtle natural iridescence.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "177-aubergine-apricot-emerald.png"
+  },
+  {
+    "id": "butterflies-178-ice-turquoise-chocolate",
+    "original": "originals/butterflies-178-ice-turquoise-chocolate-0c616a0a43ae9343.png",
+    "preview": "previews/butterflies-178-ice-turquoise-chocolate-0c616a0a43ae9343.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Pale icy turquoise butterfly",
+    "description": "Butterfly with broad swallowtail wings and short elegant tails, pale icy turquoise wings with chocolate brown lattice markings and small burnt orange crescents, fine realistic wing scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "178-ice-turquoise-chocolate.png"
+  },
+  {
+    "id": "butterflies-179-wine-silver-eyespots",
+    "original": "originals/butterflies-179-wine-silver-eyespots-3679ed740d9677e3.png",
+    "preview": "previews/butterflies-179-wine-silver-eyespots-3679ed740d9677e3.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Rich wine red butterfly",
+    "description": "Butterfly with rounded scalloped wings, rich wine red wings with silver gray wavy bands and small pale yellow eyespots, fine dark veins and realistic scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "179-wine-silver-eyespots.png"
+  },
+  {
+    "id": "butterflies-180-pistachio-lilac-zigzag",
+    "original": "originals/butterflies-180-pistachio-lilac-zigzag-7271aad5ba74cf8d.png",
+    "preview": "previews/butterflies-180-pistachio-lilac-zigzag-7271aad5ba74cf8d.webp",
+    "width": 1390,
+    "height": 1132,
+    "title": "Soft pistachio green butterfly",
+    "description": "Butterfly with long pointed forewings and rounded hindwings, soft pistachio green wings with bold charcoal zigzag bands and luminous lilac oval markings, natural realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "180-pistachio-lilac-zigzag.png"
+  },
+  {
+    "id": "butterflies-181-tangerine-lavender-spotted",
+    "original": "originals/butterflies-181-tangerine-lavender-spotted-9c84610780245170.png",
+    "preview": "previews/butterflies-181-tangerine-lavender-spotted-9c84610780245170.webp",
+    "width": 1416,
+    "height": 1111,
+    "title": "Bright tangerine orange butterfly",
+    "description": "Butterfly with broad rounded wings, bright tangerine orange wings with a dense pattern of small black rectangular spots and large cool lavender patches on the hindwings, delicate cream fringes and realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "181-tangerine-lavender-spotted.png"
+  },
+  {
+    "id": "butterflies-182-sapphire-rose-gold",
+    "original": "originals/butterflies-182-sapphire-rose-gold-6b16c66a216c5373.png",
+    "preview": "previews/butterflies-182-sapphire-rose-gold-6b16c66a216c5373.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Deep sapphire blue butterfly",
+    "description": "Butterfly with elegant elongated wings, deep sapphire blue wings with broad muted rose gold bands and fine cream freckles, black veins and velvety navy margins, realistic scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "182-sapphire-rose-gold.png"
+  },
+  {
+    "id": "butterflies-183-beige-olive-coral",
+    "original": "originals/butterflies-183-beige-olive-coral-bd2eb35def2d40e2.png",
+    "preview": "previews/butterflies-183-beige-olive-coral-bd2eb35def2d40e2.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Creamy beige butterfly",
+    "description": "Butterfly with broad rounded wings, creamy beige wings with intricate dark olive green marbled markings and small coral pink spots, subtle pale blue patches near the wing bases, natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "183-beige-olive-coral.png"
+  },
+  {
+    "id": "butterflies-184-turquoise-magenta-stripes",
+    "original": "originals/butterflies-184-turquoise-magenta-stripes-64562992164f1d03.png",
+    "preview": "previews/butterflies-184-turquoise-magenta-stripes-64562992164f1d03.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Rich turquoise butterfly",
+    "description": "Butterfly with elegant broad wings and softly scalloped hindwings, rich turquoise wings with dramatic black radial stripes and small vivid magenta crescents near the edges, fine ivory spots and realistic natural scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "184-turquoise-magenta-stripes.png"
+  },
+  {
+    "id": "butterflies-185-peach-mint-plum",
+    "original": "originals/butterflies-185-peach-mint-plum-6a1710843b78173f.png",
+    "preview": "previews/butterflies-185-peach-mint-plum-6a1710843b78173f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Soft peach butterfly",
+    "description": "Butterfly with compact rounded wings, soft peach wings with deep plum veins and a mosaic of pale mint oval spots framed by dark brown, delicate ivory edge fringes, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "185-peach-mint-plum.png"
+  },
+  {
+    "id": "butterflies-186-silver-zebra-amber",
+    "original": "originals/butterflies-186-silver-zebra-amber-f3d9dae50d782a2d.png",
+    "preview": "previews/butterflies-186-silver-zebra-amber-f3d9dae50d782a2d.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Silvery blue-gray butterfly",
+    "description": "Butterfly with angular broad wings, silvery blue-gray wings with striking black and ivory zebra bands and small amber orange hindwing patches, fine realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "186-silver-zebra-amber.png"
+  },
+  {
+    "id": "butterflies-187-lavender-chestnut-yellow",
+    "original": "originals/butterflies-187-lavender-chestnut-yellow-99e014188efa1ffd.png",
+    "preview": "previews/butterflies-187-lavender-chestnut-yellow-99e014188efa1ffd.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Lavender chestnut yellow butterfly",
+    "description": "Butterfly with rounded wings, muted lavender wings with deep chestnut brown lace-like patterns and warm yellow oval spots, subtle white fringes and fine natural scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "187-lavender-chestnut-yellow.png"
+  },
+  {
+    "id": "butterflies-188-black-emerald-scarlet",
+    "original": "originals/butterflies-188-black-emerald-scarlet-4ed84df109ac390a.png",
+    "preview": "previews/butterflies-188-black-emerald-scarlet-4ed84df109ac390a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Velvety black butterfly",
+    "description": "Butterfly with long elegant forewings and scalloped hindwings, velvety black wings with large emerald green central patches and narrow scarlet red bands, tiny pale cream dots, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "188-black-emerald-scarlet.png"
+  },
+  {
+    "id": "butterflies-189-blush-lemon-eyespots",
+    "original": "originals/butterflies-189-blush-lemon-eyespots-6e1e7cc1f6eee244.png",
+    "preview": "previews/butterflies-189-blush-lemon-eyespots-6e1e7cc1f6eee244.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pale blush pink butterfly",
+    "description": "Butterfly with rounded broad wings, pale blush pink wings with intricate cool gray marbling and large pale lemon yellow eyespots ringed with deep violet, fine natural wing scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "189-blush-lemon-eyespots.png"
+  },
+  {
+    "id": "butterflies-190-bronze-sky-blue",
+    "original": "originals/butterflies-190-bronze-sky-blue-0a82da5835cf261c.png",
+    "preview": "previews/butterflies-190-bronze-sky-blue-0a82da5835cf261c.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Warm bronze copper butterfly",
+    "description": "Butterfly with broad wings and small swallowtail tips, warm bronze copper wings with large soft sky blue patches and thin black veins, cream scallops along the dark margins, realistic fine scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "190-bronze-sky-blue.png"
+  },
+  {
+    "id": "butterflies-191-white-violet-gold",
+    "original": "originals/butterflies-191-white-violet-gold-b66b2f88b14060bc.png",
+    "preview": "previews/butterflies-191-white-violet-gold-b66b2f88b14060bc.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Snow white butterfly",
+    "description": "Butterfly with rounded wings, snow white wings with bold black veins and delicate deep violet teardrop markings, fine golden yellow freckles near the outer margins, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "191-white-violet-gold.png"
+  },
+  {
+    "id": "butterflies-192-teal-salmon-longwing",
+    "original": "originals/butterflies-192-teal-salmon-longwing-3bfbaa89089bbf17.png",
+    "preview": "previews/butterflies-192-teal-salmon-longwing-3bfbaa89089bbf17.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Deep teal blue butterfly",
+    "description": "Butterfly with long narrow wings, deep teal blue wings with large salmon pink patches and fine ivory curved stripes between black veins, tiny cream dots along the edges, realistic scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "192-teal-salmon-longwing.png"
+  },
+  {
+    "id": "butterflies-193-cream-moss-burgundy",
+    "original": "originals/butterflies-193-cream-moss-burgundy-522f5a9f2e37bdd3.png",
+    "preview": "previews/butterflies-193-cream-moss-burgundy-522f5a9f2e37bdd3.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Pale golden cream butterfly",
+    "description": "Butterfly with broad scalloped wings, pale golden cream wings with muted moss green checker markings and delicate burgundy crescents along the margins, natural realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "193-cream-moss-burgundy.png"
+  },
+  {
+    "id": "butterflies-194-fuchsia-navy-silver",
+    "original": "originals/butterflies-194-fuchsia-navy-silver-e71a1257e23073af.png",
+    "preview": "previews/butterflies-194-fuchsia-navy-silver-e71a1257e23073af.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Vivid fuchsia pink butterfly",
+    "description": "Butterfly with long pointed forewings and softly rounded hindwings, vivid fuchsia pink wings with deep navy central bands and pale silvery blue edge spots, realistic wing veins and fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "194-fuchsia-navy-silver.png"
+  },
+  {
+    "id": "butterflies-195-mint-walnut-orange",
+    "original": "originals/butterflies-195-mint-walnut-orange-499feb2650b8a212.png",
+    "preview": "previews/butterflies-195-mint-walnut-orange-499feb2650b8a212.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Soft mint green butterfly",
+    "description": "Butterfly with broad rounded wings, soft mint green wings with deep walnut brown wavy stripes and small pale orange eyespots, delicate cream edges and realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "195-mint-walnut-orange.png"
+  },
+  {
+    "id": "butterflies-196-lemon-indigo-swallowtail",
+    "original": "originals/butterflies-196-lemon-indigo-swallowtail-51df606abd22a6ef.png",
+    "preview": "previews/butterflies-196-lemon-indigo-swallowtail-51df606abd22a6ef.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Bright lemon yellow butterfly",
+    "description": "Butterfly with elegant swallowtail wings and two slender tails, bright lemon yellow wings with broad deep indigo diagonal bands and vivid coral red small spots on the hindwings, realistic fine scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "196-lemon-indigo-swallowtail.png"
+  },
+  {
+    "id": "butterflies-197-mauve-rust-aqua",
+    "original": "originals/butterflies-197-mauve-rust-aqua-2095f51017247a5e.png",
+    "preview": "previews/butterflies-197-mauve-rust-aqua-2095f51017247a5e.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Smoky mauve butterfly",
+    "description": "Butterfly with rounded wings, smoky mauve wings with rich rust orange irregular bands and tiny pale aqua spots, dark charcoal veins and cream fringes, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "197-mauve-rust-aqua.png"
+  },
+  {
+    "id": "butterflies-198-violet-mint-copper",
+    "original": "originals/butterflies-198-violet-mint-copper-cbe45f7e8d6f3ba7.png",
+    "preview": "previews/butterflies-198-violet-mint-copper-cbe45f7e8d6f3ba7.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Jewel violet butterfly",
+    "description": "Butterfly with broad scalloped wings, jewel violet wings with pale mint green radial patches and small copper orange crescents along dark plum margins, realistic fine scales and subtle iridescence.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "198-violet-mint-copper.png"
+  },
+  {
+    "id": "butterflies-199-sand-navy-rose",
+    "original": "originals/butterflies-199-sand-navy-rose-e955f034b02f0f58.png",
+    "preview": "previews/butterflies-199-sand-navy-rose-e955f034b02f0f58.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Sand navy rose butterfly",
+    "description": "Butterfly with broad rounded wings, warm sandy beige wings with intricate dark navy lace-like bands and small blush rose spots, delicate white fringes and natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "199-sand-navy-rose.png"
+  },
+  {
+    "id": "butterflies-200-emerald-cobalt-swallowtail",
+    "original": "originals/butterflies-200-emerald-cobalt-swallowtail-1f2eec613d367cb1.png",
+    "preview": "previews/butterflies-200-emerald-cobalt-swallowtail-1f2eec613d367cb1.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Brilliant emerald and cobalt blue iridescent butterfly",
+    "description": "Butterfly with elegant broad wings and long slender swallowtail tips, brilliant emerald and cobalt blue iridescent wings with bold creamy ivory bands and small crimson red crescents on the hindwings, fine black veins and realistic scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "200-emerald-cobalt-swallowtail.png"
+  },
+  {
+    "id": "butterflies-201-peach-teal-marble",
+    "original": "originals/butterflies-201-peach-teal-marble-86bb6e7bbbfeae1d.png",
+    "preview": "previews/butterflies-201-peach-teal-marble-86bb6e7bbbfeae1d.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pale peach pink butterfly",
+    "description": "Butterfly with compact rounded wings, pale peach pink wings with delicate dark teal marbling and small ivory crescent spots, fine brown veins and realistic natural scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "201-peach-teal-marble.png"
+  },
+  {
+    "id": "butterflies-202-cobalt-yellow-wine",
+    "original": "originals/butterflies-202-cobalt-yellow-wine-98e8baa0ec061b39.png",
+    "preview": "previews/butterflies-202-cobalt-yellow-wine-98e8baa0ec061b39.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Rich cobalt blue butterfly",
+    "description": "Butterfly with broad pointed wings, rich cobalt blue wings with large buttery yellow oval patches and delicate wine red edge markings, realistic fine wing scales and dark veins.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "202-cobalt-yellow-wine.png"
+  },
+  {
+    "id": "butterflies-203-ivory-sienna-lavender",
+    "original": "originals/butterflies-203-ivory-sienna-lavender-e66b48d31fa2dba8.png",
+    "preview": "previews/butterflies-203-ivory-sienna-lavender-e66b48d31fa2dba8.webp",
+    "width": 1402,
+    "height": 1122,
+    "title": "Pearl ivory butterfly",
+    "description": "Butterfly with rounded scalloped wings, pearl ivory wings with rich sienna brown marbled patterns and soft lavender blue small eyespots, realistic fine scale texture and fine veins.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "203-ivory-sienna-lavender.png"
+  },
+  {
+    "id": "butterflies-204-garnet-turquoise-white",
+    "original": "originals/butterflies-204-garnet-turquoise-white-1aad5193d04f999f.png",
+    "preview": "previews/butterflies-204-garnet-turquoise-white-1aad5193d04f999f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Deep garnet red butterfly",
+    "description": "Butterfly with elegant elongated wings, deep garnet red wings with broad pale turquoise bands and delicate white spots along black margins, realistic fine wing scales and slender dark body.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "204-garnet-turquoise-white.png"
+  },
+  {
+    "id": "butterflies-205-powder-blue-olive-apricot",
+    "original": "originals/butterflies-205-powder-blue-olive-apricot-f75f873e3ffa1696.png",
+    "preview": "previews/butterflies-205-powder-blue-olive-apricot-f75f873e3ffa1696.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pale powder blue butterfly",
+    "description": "Butterfly with broad rounded wings, pale powder blue wings with intricate dark olive and charcoal mosaic markings and tiny apricot spots, fine ivory fringes and realistic natural wing scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "205-powder-blue-olive-apricot.png"
+  },
+  {
+    "id": "butterflies-206-amber-plum-swallowtail",
+    "original": "originals/butterflies-206-amber-plum-swallowtail-d6ada13e05537979.png",
+    "preview": "previews/butterflies-206-amber-plum-swallowtail-d6ada13e05537979.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Warm amber orange butterfly",
+    "description": "Butterfly with elegant swallowtail wings and two short tails, warm amber orange wings with deep plum purple veins and pale ivory bands, tiny turquoise blue spots on the hindwing margins, realistic fine scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "206-amber-plum-swallowtail.png"
+  },
+  {
+    "id": "butterflies-207-lilac-peach-emerald",
+    "original": "originals/butterflies-207-lilac-peach-emerald-61b8847eb7eec425.png",
+    "preview": "previews/butterflies-207-lilac-peach-emerald-61b8847eb7eec425.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Pale lilac butterfly",
+    "description": "Butterfly with rounded wings, pale lilac wings with velvety black veins and large creamy peach patches, tiny deep emerald green spots along the outer margins, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "207-lilac-peach-emerald.png"
+  },
+  {
+    "id": "butterflies-208-midnight-ivory-copper",
+    "original": "originals/butterflies-208-midnight-ivory-copper-b1f4c4035582a299.png",
+    "preview": "previews/butterflies-208-midnight-ivory-copper-b1f4c4035582a299.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Deep midnight blue butterfly",
+    "description": "Butterfly with broad angular wings, deep midnight blue wings with wide creamy ivory central patches and copper red small crescents, fine pale blue edge speckles and natural realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "208-midnight-ivory-copper.png"
+  },
+  {
+    "id": "butterflies-209-dusty-rose-sage-eyespots",
+    "original": "originals/butterflies-209-dusty-rose-sage-eyespots-3e304b98d5db6ea6.png",
+    "preview": "previews/butterflies-209-dusty-rose-sage-eyespots-3e304b98d5db6ea6.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Warm dusty rose butterfly",
+    "description": "Butterfly with rounded wings, warm dusty rose wings with intricate charcoal black speckled patterns and pale sage green circular eyespots, thin ivory fringes and natural fine wing scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "209-dusty-rose-sage-eyespots.png"
+  },
+  {
+    "id": "butterflies-210-seafoam-violet-coral",
+    "original": "originals/butterflies-210-seafoam-violet-coral-a349354ca7e9d619.png",
+    "preview": "previews/butterflies-210-seafoam-violet-coral-a349354ca7e9d619.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Pale seafoam green butterfly",
+    "description": "Butterfly with elegant broad swallowtail wings and two long tails, pale seafoam green wings with deep violet black stripes and bright coral pink small hindwing crescents, ivory edge spots and realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "210-seafoam-violet-coral.png"
+  },
+  {
+    "id": "butterflies-211-terracotta-ivory-green",
+    "original": "originals/butterflies-211-terracotta-ivory-green-f205188f4667676b.png",
+    "preview": "previews/butterflies-211-terracotta-ivory-green-f205188f4667676b.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Rich terracotta red butterfly",
+    "description": "Butterfly with broad rounded wings, rich terracotta red wings with soft ivory scalloped bands and fine dark green marbled markings, tiny sky blue edge spots, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "211-terracotta-ivory-green.png"
+  },
+  {
+    "id": "butterflies-212-lavender-navy-yellow",
+    "original": "originals/butterflies-212-lavender-navy-yellow-e7454b8b305149fc.png",
+    "preview": "previews/butterflies-212-lavender-navy-yellow-e7454b8b305149fc.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Soft lavender gray butterfly",
+    "description": "Butterfly with broad rounded wings, soft lavender gray wings with dark navy lace patterns and large buttery yellow teardrop patches, tiny rose pink dots along the edges, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "212-lavender-navy-yellow.png"
+  },
+  {
+    "id": "butterflies-213-grass-green-coral",
+    "original": "originals/butterflies-213-grass-green-coral-80ce5897298ca0b5.png",
+    "preview": "previews/butterflies-213-grass-green-coral-80ce5897298ca0b5.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bright grass green butterfly",
+    "description": "Butterfly with elegant long wings, bright grass green wings with black veins and broad soft coral bands, small creamy white dots at the black wing tips, realistic fine scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "213-grass-green-coral.png"
+  },
+  {
+    "id": "butterflies-214-ivory-raspberry-slate",
+    "original": "originals/butterflies-214-ivory-raspberry-slate-7ad383c853e88463.png",
+    "preview": "previews/butterflies-214-ivory-raspberry-slate-7ad383c853e88463.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Warm ivory butterfly",
+    "description": "Butterfly with compact rounded wings, warm ivory wings with delicate coffee brown veins and dense small raspberry pink spots, cool slate blue scalloped edging and realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "214-ivory-raspberry-slate.png"
+  },
+  {
+    "id": "butterflies-215-azure-apricot-pearl",
+    "original": "originals/butterflies-215-azure-apricot-pearl-bd96964fc0971108.png",
+    "preview": "previews/butterflies-215-azure-apricot-pearl-bd96964fc0971108.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Brilliant azure blue butterfly",
+    "description": "Butterfly with broad pointed wings and scalloped lower wings, brilliant azure blue wings with fine black veins and large warm apricot patches near the outer edges, small pearl white dots, realistic natural scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "215-azure-apricot-pearl.png"
+  },
+  {
+    "id": "butterflies-216-pistachio-rose-burgundy",
+    "original": "originals/butterflies-216-pistachio-rose-burgundy-502a7edf106be94f.png",
+    "preview": "previews/butterflies-216-pistachio-rose-burgundy-502a7edf106be94f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pistachio rose burgundy butterfly",
+    "description": "Butterfly with broad rounded wings, muted pistachio wings with fine deep burgundy veins and a delicate pattern of dusty rose and ivory oval spots, dark chocolate margins, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "216-pistachio-rose-burgundy.png"
+  },
+  {
+    "id": "butterflies-217-violet-gold-aqua",
+    "original": "originals/butterflies-217-violet-gold-aqua-f05dc7ed0784153e.png",
+    "preview": "previews/butterflies-217-violet-gold-aqua-f05dc7ed0784153e.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Dark violet purple butterfly",
+    "description": "Butterfly with broad angular wings, dark violet purple wings with large bright golden yellow central patches and narrow pale aqua stripes, small ivory dots on dark margins, realistic fine natural scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "217-violet-gold-aqua.png"
+  },
+  {
+    "id": "butterflies-218-silver-coral-eyespots",
+    "original": "originals/butterflies-218-silver-coral-eyespots-3525dacea4ade38b.png",
+    "preview": "previews/butterflies-218-silver-coral-eyespots-3525dacea4ade38b.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pale silver gray butterfly",
+    "description": "Butterfly with rounded broad wings, pale silver gray wings with fine black marbled bands and large soft coral pink eyespots ringed in warm cream, realistic fine scales and delicate veins.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "218-silver-coral-eyespots.png"
+  },
+  {
+    "id": "butterflies-219-chocolate-lavender-orange",
+    "original": "originals/butterflies-219-chocolate-lavender-orange-f8896da98d2c278f.png",
+    "preview": "previews/butterflies-219-chocolate-lavender-orange-f8896da98d2c278f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Dark chocolate brown butterfly",
+    "description": "Butterfly with elegant elongated wings, dark chocolate brown wings with large pale lavender central patches and vivid orange small edge spots, delicate ivory streaks and natural fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "219-chocolate-lavender-orange.png"
+  },
+  {
+    "id": "butterflies-220-ice-blue-rose-zigzag",
+    "original": "originals/butterflies-220-ice-blue-rose-zigzag-ed719a29237ea5b7.png",
+    "preview": "previews/butterflies-220-ice-blue-rose-zigzag-ed719a29237ea5b7.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Soft icy blue butterfly",
+    "description": "Butterfly with broad rounded wings, soft icy blue wings with narrow black zigzag bands and large delicate rose pink oval patches, fine cream edges and realistic natural scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "220-ice-blue-rose-zigzag.png"
+  },
+  {
+    "id": "butterflies-221-green-cream-plum",
+    "original": "originals/butterflies-221-green-cream-plum-e0f66c1b5d34cabc.png",
+    "preview": "previews/butterflies-221-green-cream-plum-e0f66c1b5d34cabc.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Deep bottle green butterfly",
+    "description": "Butterfly with elegant broad swallowtail wings and long tails, deep bottle green wings with large creamy yellow bands and delicate plum pink hindwing spots, fine black veins and realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "221-green-cream-plum.png"
+  },
+  {
+    "id": "butterflies-222-apricot-indigo-mint",
+    "original": "originals/butterflies-222-apricot-indigo-mint-f654a6c0624602af.png",
+    "preview": "previews/butterflies-222-apricot-indigo-mint-f654a6c0624602af.webp",
+    "width": 1387,
+    "height": 1134,
+    "title": "Pale warm apricot butterfly",
+    "description": "Butterfly with rounded wings, pale warm apricot wings with intricate deep indigo marbled markings and small soft mint green spots, thin dark veins and realistic fine scale texture.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "222-apricot-indigo-mint.png"
+  },
+  {
+    "id": "butterflies-223-turquoise-peach-crimson",
+    "original": "originals/butterflies-223-turquoise-peach-crimson-693444612a300828.png",
+    "preview": "previews/butterflies-223-turquoise-peach-crimson-693444612a300828.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Luminous turquoise butterfly",
+    "description": "Butterfly with narrow elongated wings, luminous turquoise wings with bold black veins and broad creamy peach bands, small deep crimson spots on the dark margins, realistic fine scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "223-turquoise-peach-crimson.png"
+  },
+  {
+    "id": "butterflies-224-pearl-purple-orange",
+    "original": "originals/butterflies-224-pearl-purple-orange-772ba52add7c1df3.png",
+    "preview": "previews/butterflies-224-pearl-purple-orange-772ba52add7c1df3.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pearl white butterfly",
+    "description": "Butterfly with broad rounded wings, pearl white wings with delicate deep purple marbling and soft pale orange eyespots, tiny dark green speckles and realistic natural scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "224-pearl-purple-orange.png"
+  },
+  {
+    "id": "butterflies-225-teal-raspberry-gold",
+    "original": "originals/butterflies-225-teal-raspberry-gold-de4838badb9531ce.png",
+    "preview": "previews/butterflies-225-teal-raspberry-gold-de4838badb9531ce.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Deep teal green butterfly",
+    "description": "Butterfly with broad pointed wings, deep teal green wings with bold raspberry red central bands and small pale gold crescents, fine black veins and realistic wing scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "225-teal-raspberry-gold.png"
+  },
+  {
+    "id": "butterflies-226-yellow-gray-lavender",
+    "original": "originals/butterflies-226-yellow-gray-lavender-e5e60e322dd6a6ed.png",
+    "preview": "previews/butterflies-226-yellow-gray-lavender-e5e60e322dd6a6ed.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Soft pale yellow butterfly",
+    "description": "Butterfly with rounded scalloped wings, soft pale yellow wings with intricate cool gray zigzag patterns and small lavender pink spots, thin brown veins and natural realistic scales.",
+    "tags": [
+      "butterfly"
+    ],
+    "filename": "226-yellow-gray-lavender.png"
+  }
+]

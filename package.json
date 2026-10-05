@@ -10,7 +10,8 @@
     "test": "node --test tests/*.test.js",
     "test:ui": "playwright test",
     "images:preview": "node scripts/prepare-previews.js",
-    "images:deploy": "node scripts/deploy-images.js"
+    "images:deploy": "node scripts/deploy-images.js",
+    "images:import": "node scripts/import-images.js"
   },
   "devDependencies": {
     "@astrojs/check": "0.9.10",

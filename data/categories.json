@@ -1,1 +1,7 @@
-[]
+[
+  { "id": "butterflies", "title": "Бабочки" },
+  { "id": "byzantine-ornaments", "title": "Византийские орнаменты" },
+  { "id": "flowers", "title": "Цветы" },
+  { "id": "insects", "title": "Насекомые" },
+  { "id": "microorganisms", "title": "Микроорганизмы" }
+]
