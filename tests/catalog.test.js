@@ -59,3 +59,12 @@ test('empty and populated pagination keep every object and expose real navigable
   assert.equal(pageHref('chairs', 3), '/category/chairs/page/3/');
   assert.throws(() => paginate(['a'], 0));
 });
+
+test('originals and previews can use separate domains while explicit URLs are preserved', () => {
+  const catalog = createCatalog([categories[0]], { chairs: [chair] }, 'https://png.example/', 'https://webp.example/');
+  assert.equal(catalog.objects[0].original, 'https://png.example/originals/chair_01.png');
+  assert.equal(catalog.objects[0].preview, 'https://webp.example/previews/chair_01.webp');
+  const explicit = createCatalog([categories[0]], { chairs: [{ ...chair, preview: 'https://external.example/chair.webp' }] });
+  assert.equal(explicit.objects[0].preview, 'https://external.example/chair.webp');
+  assert.throws(() => createCatalog([], {}, '/', 'javascript:evil'), /invalid preview base/i);
+});

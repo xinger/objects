@@ -1,0 +1,15 @@
+{
+  "$schema": "../node_modules/wrangler/config-schema.json",
+  "name": "objects-previews",
+  "account_id": "5d48142333b7032637d81321e6435d97",
+  "compatibility_date": "2026-10-05",
+  "workers_dev": false,
+  "routes": [{ "pattern": "objects-previews.xinger.net", "custom_domain": true }],
+  "assets": {
+    "directory": "../media/cloudflare/previews",
+    "html_handling": "none",
+    "not_found_handling": "none",
+    "run_worker_first": false
+  },
+  "preview_urls": false
+}

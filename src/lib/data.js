@@ -13,6 +13,8 @@ export function getCatalog() {
   const entries = Object.fromEntries(readdirSync(categoryDirectory)
     .filter((name) => name.endsWith('.json'))
     .map((name) => [basename(name, '.json'), JSON.parse(readFileSync(resolve(categoryDirectory, name), 'utf8'))]));
-  catalog = createCatalog(categories, entries, import.meta.env.PUBLIC_MEDIA_BASE_URL || 'https://objects-media.xinger.net/');
+  catalog = createCatalog(categories, entries,
+    import.meta.env.PUBLIC_MEDIA_BASE_URL || 'https://objects-media.xinger.net/',
+    import.meta.env.PUBLIC_PREVIEW_BASE_URL || import.meta.env.PUBLIC_MEDIA_BASE_URL || 'https://objects-previews.xinger.net/');
   return catalog;
 }

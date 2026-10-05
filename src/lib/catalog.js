@@ -17,8 +17,9 @@ const objectSchema = z.object({
 
 /** @param {{id: string, title: string}[]} categories
  * @param {Record<string, unknown>} entries
- * @param {string} mediaBaseUrl */
-export function createCatalog(categories, entries, mediaBaseUrl = 'https://objects-media.xinger.net/') {
+ * @param {string} mediaBaseUrl
+ * @param {string} previewBaseUrl */
+export function createCatalog(categories, entries, mediaBaseUrl = 'https://objects-media.xinger.net/', previewBaseUrl = mediaBaseUrl) {
   const parsedCategories = z.array(categorySchema).parse(categories);
   const categoryIds = new Set();
   const objectIds = new Set();
@@ -26,6 +27,7 @@ export function createCatalog(categories, entries, mediaBaseUrl = 'https://objec
   const resultCategories = [];
 
   if (!isSafeBase(mediaBaseUrl)) throw new Error('Invalid media base URL');
+  if (!isSafeBase(previewBaseUrl)) throw new Error('Invalid preview base URL');
   for (const category of parsedCategories) {
     if (categoryIds.has(category.id)) throw new Error(`Duplicate category: ${category.id}`);
     categoryIds.add(category.id);
@@ -39,7 +41,7 @@ export function createCatalog(categories, entries, mediaBaseUrl = 'https://objec
       objects.push({
         ...record,
         original,
-        preview: assetUrl(record.preview, mediaBaseUrl),
+        preview: assetUrl(record.preview, previewBaseUrl),
         title: record.title || `${category.title} · ${record.id}`,
         categoryId: category.id,
         categoryTitle: category.title,

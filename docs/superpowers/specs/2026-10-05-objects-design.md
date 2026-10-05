@@ -1,3 +1,6 @@
+> Hosting update (2026-10-05): R2 was replaced with two Free Workers Static Assets apps.
+> Current configuration and image publication commands are documented in README.md.
+
 # Objects: web interface
 
 Approved direction: a static library at https://objects.xinger.net, with a JSON

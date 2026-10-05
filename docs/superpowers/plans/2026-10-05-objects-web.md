@@ -1,3 +1,6 @@
+> Hosting update (2026-10-05): R2 was replaced with two Free Workers Static Assets apps.
+> Current configuration and image publication commands are documented in README.md.
+
 # Objects Web Implementation Plan
 
 > **For agentic workers:** Use superpowers:executing-plans to implement the tasks
