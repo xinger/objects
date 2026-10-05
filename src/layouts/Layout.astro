@@ -44,6 +44,7 @@ const imageUrl = image ? new URL(image, Astro.site) : undefined;
     <div class="site-shell"><slot /></div>
     <script>
       import '../scripts/download.js';
+      import '../scripts/previews.js';
 
       const root = document.documentElement;
       const toggle = document.querySelector<HTMLButtonElement>('[data-theme-toggle]');
@@ -64,6 +65,7 @@ const imageUrl = image ? new URL(image, Astro.site) : undefined;
         updateLabel();
       });
       const handleImageError = (image: HTMLImageElement) => {
+        if (image.hasAttribute('data-preview-suspended') || !image.getAttribute('src')) return;
         image.hidden = true;
         const message = image.parentElement?.querySelector<HTMLElement>('.image-unavailable');
         if (message) message.hidden = false;

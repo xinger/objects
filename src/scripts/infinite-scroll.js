@@ -1,3 +1,5 @@
+import { observePreviews } from './previews.js';
+
 const grid = document.querySelector('.object-grid');
 const pagination = document.querySelector('.pagination');
 const loader = document.querySelector('[data-scroll-loader]');
@@ -42,6 +44,7 @@ async function loadNextPage() {
       throw new Error('Invalid catalog page');
     }
     tiles.forEach((tile) => tile.querySelectorAll('img').forEach((image) => { image.loading = 'lazy'; }));
+    observePreviews(tiles);
     grid.append(...tiles);
     loadedPages.add(path);
     next = following;

@@ -109,3 +109,36 @@ test('images appended by scrolling show the existing fallback when their preview
   await expect(page.locator('.object-tile')).toHaveCount(120);
   await expect(page.locator('.object-tile').nth(60).getByText('Изображение недоступно')).toBeVisible();
 });
+
+for (const viewport of [{ width: 1280, height: 720 }, { width: 390, height: 844 }]) {
+  test(`far previews detach and restore without changing the grid at ${viewport.width}px`, async ({ page }) => {
+    await page.setViewportSize(viewport);
+    await page.goto('/category/test/');
+    const first = page.locator('.object-tile img').first();
+    await expect.poll(() => first.evaluate((image) => image.complete && image.naturalWidth > 0)).toBe(true);
+    await expect(page.locator('.object-tile img').nth(59)).not.toHaveAttribute('src');
+    await page.locator('.object-tile').nth(59).scrollIntoViewIfNeeded();
+    await expect(page.locator('.object-tile')).toHaveCount(120);
+    await page.locator('.object-tile').nth(119).scrollIntoViewIfNeeded();
+    await expect(page.locator('.object-tile')).toHaveCount(121);
+    await page.locator('.object-tile').last().scrollIntoViewIfNeeded();
+    const last = page.locator('.object-tile img').last();
+    await expect.poll(() => last.evaluate((image) => image.complete && image.naturalWidth > 0)).toBe(true);
+    await expect(first).not.toHaveAttribute('src');
+    const height = await page.evaluate(() => document.documentElement.scrollHeight);
+    const sizes = await page.locator('.object-tile').evaluateAll((tiles) => tiles.map((tile) => {
+      const { width, height } = tile.getBoundingClientRect();
+      return { width, height };
+    }));
+    expect(sizes.every((size) => size.height > 100 && Math.abs(size.width - size.height) < 1)).toBe(true);
+    await page.locator('.object-tile').first().scrollIntoViewIfNeeded();
+    await expect(first).toHaveAttribute('src', '/media/tests/original.svg');
+    await expect.poll(() => first.evaluate((image) => image.complete && image.naturalWidth > 0)).toBe(true);
+    await expect(last).not.toHaveAttribute('src');
+    expect(await page.evaluate(() => document.documentElement.scrollHeight)).toBe(height);
+    await expect(page.locator('.image-unavailable:not([hidden])')).toHaveCount(0);
+    const downloadPromise = page.waitForEvent('download');
+    await page.getByRole('link', { name: 'Скачать: Объект 1', exact: true }).click();
+    expect(readFileSync(await (await downloadPromise).path())).toEqual(readFileSync('media/preview-public/media/tests/original.svg'));
+  });
+}
