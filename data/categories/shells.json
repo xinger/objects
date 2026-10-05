@@ -1,0 +1,740 @@
+[
+  {
+    "id": "shells-001-nautilus",
+    "original": "originals/shells-001-nautilus-c989eeba7701ebb6.png",
+    "preview": "previews/shells-001-nautilus-c989eeba7701ebb6.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Nautilus shell",
+    "description": "A rounded cream spiral shell with warm brown bands and a visible curved aperture.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "nautilus",
+      "spiral",
+      "banded"
+    ],
+    "filename": "001-nautilus.png"
+  },
+  {
+    "id": "shells-002-queen-conch",
+    "original": "originals/shells-002-queen-conch-9858526df523834c.png",
+    "preview": "previews/shells-002-queen-conch-9858526df523834c.webp",
+    "width": 1346,
+    "height": 1168,
+    "title": "Pink conch shell",
+    "description": "A large cream conch shell with a flared lip and a soft pink interior.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "conch",
+      "pink",
+      "flared"
+    ],
+    "filename": "002-queen-conch.png"
+  },
+  {
+    "id": "shells-003-tiger-cowrie",
+    "original": "originals/shells-003-tiger-cowrie-4167419ca568c48c.png",
+    "preview": "previews/shells-003-tiger-cowrie-4167419ca568c48c.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Spotted cowrie shell",
+    "description": "A glossy oval cream shell covered with irregular dark brown spots.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "cowrie",
+      "spotted",
+      "glossy"
+    ],
+    "filename": "003-tiger-cowrie.png"
+  },
+  {
+    "id": "shells-004-orange-scallop",
+    "original": "originals/shells-004-orange-scallop-0d17521d7eb06f0d.png",
+    "preview": "previews/shells-004-orange-scallop-0d17521d7eb06f0d.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Orange scallop shell",
+    "description": "A single fan-shaped orange valve with bold radial ribs and small hinge ears.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "scallop",
+      "orange",
+      "ribbed"
+    ],
+    "filename": "004-orange-scallop.png"
+  },
+  {
+    "id": "shells-005-abalone",
+    "original": "originals/shells-005-abalone-dbf8175ce2de6347.png",
+    "preview": "previews/shells-005-abalone-dbf8175ce2de6347.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Iridescent abalone shell",
+    "description": "A shallow oval shell with a luminous pearly interior and a row of small holes.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "abalone",
+      "iridescent",
+      "pearl"
+    ],
+    "filename": "005-abalone.png"
+  },
+  {
+    "id": "shells-006-spiny-murex",
+    "original": "originals/shells-006-spiny-murex-1c3cee539ad38400.png",
+    "preview": "previews/shells-006-spiny-murex-1c3cee539ad38400.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Spiny murex shell",
+    "description": "A pale spiral shell with branching spines and a long tapered canal.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "murex",
+      "spiny",
+      "ivory"
+    ],
+    "filename": "006-spiny-murex.png"
+  },
+  {
+    "id": "shells-007-turret",
+    "original": "originals/shells-007-turret-3ca89f848465bf36.png",
+    "preview": "previews/shells-007-turret-3ca89f848465bf36.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Turret shell",
+    "description": "A slender sand-colored cone built from many sharply ridged spiral whorls.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "turret",
+      "spiral",
+      "elongated"
+    ],
+    "filename": "007-turret.png"
+  },
+  {
+    "id": "shells-008-moon-snail",
+    "original": "originals/shells-008-moon-snail-73a078a7ccae06ff.png",
+    "preview": "previews/shells-008-moon-snail-73a078a7ccae06ff.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Moon snail shell",
+    "description": "A smooth rounded pale tan shell with a low spiral and broad opening.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "moon-snail",
+      "rounded",
+      "smooth"
+    ],
+    "filename": "008-moon-snail.png"
+  },
+  {
+    "id": "shells-009-olive",
+    "original": "originals/shells-009-olive-56351499f9f3b902.png",
+    "preview": "previews/shells-009-olive-56351499f9f3b902.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Olive shell",
+    "description": "A polished elongated cream shell marked with flowing caramel zigzags.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "olive",
+      "glossy",
+      "patterned"
+    ],
+    "filename": "009-olive.png"
+  },
+  {
+    "id": "shells-010-sundial",
+    "original": "originals/shells-010-sundial-c8d68bf4201dac6e.png",
+    "preview": "previews/shells-010-sundial-c8d68bf4201dac6e.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Sundial shell",
+    "description": "A flattened circular spiral shell with alternating tan and cream bands.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "sundial",
+      "flat",
+      "spiral"
+    ],
+    "filename": "010-sundial.png"
+  },
+  {
+    "id": "shells-011-whelk",
+    "original": "originals/shells-011-whelk-7b908a0c67f9d4ac.png",
+    "preview": "previews/shells-011-whelk-7b908a0c67f9d4ac.webp",
+    "width": 1296,
+    "height": 1213,
+    "title": "Whelk shell",
+    "description": "A substantial tan spiral shell with strong ribs and an elongated opening.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "whelk",
+      "tan",
+      "ribbed"
+    ],
+    "filename": "011-whelk.png"
+  },
+  {
+    "id": "shells-012-lightning-whelk",
+    "original": "originals/shells-012-lightning-whelk-54508170254d654f.png",
+    "preview": "previews/shells-012-lightning-whelk-54508170254d654f.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Striped whelk shell",
+    "description": "A pale spiral shell with dark angular streaks and a long narrow canal.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "whelk",
+      "striped",
+      "elongated"
+    ],
+    "filename": "012-lightning-whelk.png"
+  },
+  {
+    "id": "shells-013-cockle",
+    "original": "originals/shells-013-cockle-e6bcf3da7b3e8a35.png",
+    "preview": "previews/shells-013-cockle-e6bcf3da7b3e8a35.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Ribbed cockle shell",
+    "description": "A single heart-shaped cream valve with prominent rounded radial ribs.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "cockle",
+      "cream",
+      "ribbed"
+    ],
+    "filename": "013-cockle.png"
+  },
+  {
+    "id": "shells-014-blue-mussel",
+    "original": "originals/shells-014-blue-mussel-c57c81648947dba1.png",
+    "preview": "previews/shells-014-blue-mussel-c57c81648947dba1.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Blue mussel shell",
+    "description": "A single elongated dark blue valve with fine growth lines and a violet edge.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "mussel",
+      "blue",
+      "valve"
+    ],
+    "filename": "014-blue-mussel.png"
+  },
+  {
+    "id": "shells-015-oyster",
+    "original": "originals/shells-015-oyster-708a676b638d05d0.png",
+    "preview": "previews/shells-015-oyster-708a676b638d05d0.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Oyster shell",
+    "description": "A single irregular gray-beige valve with rough overlapping layers and rippled edges.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "oyster",
+      "rough",
+      "layered"
+    ],
+    "filename": "015-oyster.png"
+  },
+  {
+    "id": "shells-016-razor-clam",
+    "original": "originals/shells-016-razor-clam-631101fa36495be1.png",
+    "preview": "previews/shells-016-razor-clam-631101fa36495be1.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Razor clam shell",
+    "description": "A single long narrow pale golden valve with straight sides and delicate growth lines.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "razor-clam",
+      "elongated",
+      "golden"
+    ],
+    "filename": "016-razor-clam.png"
+  },
+  {
+    "id": "shells-017-limpet",
+    "original": "originals/shells-017-limpet-4abcf8af4e971fef.png",
+    "preview": "previews/shells-017-limpet-4abcf8af4e971fef.webp",
+    "width": 1399,
+    "height": 1124,
+    "title": "Limpet shell",
+    "description": "A low conical cream shell with dark radial stripes and a scalloped rim.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "limpet",
+      "conical",
+      "striped"
+    ],
+    "filename": "017-limpet.png"
+  },
+  {
+    "id": "shells-018-keyhole-limpet",
+    "original": "originals/shells-018-keyhole-limpet-e9166be238d87f69.png",
+    "preview": "previews/shells-018-keyhole-limpet-e9166be238d87f69.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Keyhole limpet shell",
+    "description": "A ribbed oval cap with a small opening at its highest point.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "limpet",
+      "keyhole",
+      "ribbed"
+    ],
+    "filename": "018-keyhole-limpet.png"
+  },
+  {
+    "id": "shells-019-tusk",
+    "original": "originals/shells-019-tusk-871286449ebb864b.png",
+    "preview": "previews/shells-019-tusk-871286449ebb864b.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Tusk shell",
+    "description": "A slender ivory tubular shell that curves gently and narrows toward one end.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "tusk",
+      "tubular",
+      "ivory"
+    ],
+    "filename": "019-tusk.png"
+  },
+  {
+    "id": "shells-020-paper-nautilus",
+    "original": "originals/shells-020-paper-nautilus-4e4a5c0af44bba38.png",
+    "preview": "previews/shells-020-paper-nautilus-4e4a5c0af44bba38.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Paper nautilus shell",
+    "description": "A delicate white spiral shell with a thin opening and pronounced radiating ridges.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "paper-nautilus",
+      "white",
+      "delicate"
+    ],
+    "filename": "020-paper-nautilus.png"
+  },
+  {
+    "id": "shells-021-harp",
+    "original": "originals/shells-021-harp-bf94e73573b6b749.png",
+    "preview": "previews/shells-021-harp-bf94e73573b6b749.webp",
+    "width": 1361,
+    "height": 1156,
+    "title": "Harp shell",
+    "description": "An inflated cream shell with bold caramel ribs and delicate fine bands.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "harp",
+      "ribbed",
+      "caramel"
+    ],
+    "filename": "021-harp.png"
+  },
+  {
+    "id": "shells-022-tun",
+    "original": "originals/shells-022-tun-051f22d0aae1cdf2.png",
+    "preview": "previews/shells-022-tun-051f22d0aae1cdf2.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Barrel-shaped tun shell",
+    "description": "A thin-walled rounded beige shell with deep spiral grooves and a wide opening.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "tun",
+      "rounded",
+      "grooved"
+    ],
+    "filename": "022-tun.png"
+  },
+  {
+    "id": "shells-023-frog",
+    "original": "originals/shells-023-frog-21af39273cc412b1.png",
+    "preview": "previews/shells-023-frog-21af39273cc412b1.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Frog shell",
+    "description": "A squat cream and rust shell with heavy knobs and a thick pink-rimmed opening.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "frog",
+      "knobby",
+      "pink"
+    ],
+    "filename": "023-frog.png"
+  },
+  {
+    "id": "shells-024-pelican-foot",
+    "original": "originals/shells-024-pelican-foot-8b010852a9322ba3.png",
+    "preview": "previews/shells-024-pelican-foot-8b010852a9322ba3.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Pelican-foot shell",
+    "description": "A small tan spiral shell with a wide lip that extends into slender fingers.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "pelican-foot",
+      "fingered",
+      "tan"
+    ],
+    "filename": "024-pelican-foot.png"
+  },
+  {
+    "id": "shells-025-violet-scallop",
+    "original": "originals/shells-025-violet-scallop-7513dffc986deff8.png",
+    "preview": "previews/shells-025-violet-scallop-7513dffc986deff8.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Violet scallop shell",
+    "description": "A single fan-shaped violet valve with delicate ribs and a softly pale rim.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "scallop",
+      "violet",
+      "ribbed"
+    ],
+    "filename": "025-violet-scallop.png"
+  },
+  {
+    "id": "shells-026-venus-clam",
+    "original": "originals/shells-026-venus-clam-1c02210c0ef889c9.png",
+    "preview": "previews/shells-026-venus-clam-1c02210c0ef889c9.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Patterned clam shell",
+    "description": "A single oval ivory valve with fine concentric grooves and brown chevron markings.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "clam",
+      "chevron",
+      "grooved"
+    ],
+    "filename": "026-venus-clam.png"
+  },
+  {
+    "id": "shells-027-ark-clam",
+    "original": "originals/shells-027-ark-clam-fddc29f03386850f.png",
+    "preview": "previews/shells-027-ark-clam-fddc29f03386850f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Ark clam shell",
+    "description": "A single chunky reddish brown valve with a straight hinge and dense radial ridges.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "ark-clam",
+      "brown",
+      "ribbed"
+    ],
+    "filename": "027-ark-clam.png"
+  },
+  {
+    "id": "shells-028-auger",
+    "original": "originals/shells-028-auger-7a128e45e8fb51f1.png",
+    "preview": "previews/shells-028-auger-7a128e45e8fb51f1.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Auger shell",
+    "description": "A narrow pointed shell with sharply angled whorls and alternating brown and cream bands.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "auger",
+      "pointed",
+      "banded"
+    ],
+    "filename": "028-auger.png"
+  },
+  {
+    "id": "shells-029-wentletrap",
+    "original": "originals/shells-029-wentletrap-51054bad8a559c67.png",
+    "preview": "previews/shells-029-wentletrap-51054bad8a559c67.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Wentletrap shell",
+    "description": "A small bright white spiral shell with tall thin ribs resembling curved steps.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "wentletrap",
+      "white",
+      "ribbed"
+    ],
+    "filename": "029-wentletrap.png"
+  },
+  {
+    "id": "shells-030-green-turban",
+    "original": "originals/shells-030-green-turban-9a8e019b59ed0779.png",
+    "preview": "previews/shells-030-green-turban-9a8e019b59ed0779.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Green turban shell",
+    "description": "A rounded dark green shell with raised spiral ridges and a luminous pearly opening.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "turban",
+      "green",
+      "pearl"
+    ],
+    "filename": "030-green-turban.png"
+  },
+  {
+    "id": "shells-031-triton-trumpet",
+    "original": "originals/shells-031-triton-trumpet-2e9a46d93f03e15b.png",
+    "preview": "previews/shells-031-triton-trumpet-2e9a46d93f03e15b.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Triton trumpet shell",
+    "description": "A long amber shell with brown chevrons and a broad flaring aperture.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "triton",
+      "amber",
+      "chevron"
+    ],
+    "filename": "031-triton-trumpet.png"
+  },
+  {
+    "id": "shells-032-helmet",
+    "original": "originals/shells-032-helmet-82478747e6d33193.png",
+    "preview": "previews/shells-032-helmet-82478747e6d33193.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Helmet shell",
+    "description": "A heavy rounded cream shell with blunt knobs and a thick orange lip.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "helmet",
+      "cream",
+      "knobby"
+    ],
+    "filename": "032-helmet.png"
+  },
+  {
+    "id": "shells-033-bonnet",
+    "original": "originals/shells-033-bonnet-38880275cf024bdf.png",
+    "preview": "previews/shells-033-bonnet-38880275cf024bdf.webp",
+    "width": 1359,
+    "height": 1158,
+    "title": "Bonnet shell",
+    "description": "A rounded tan shell with a brown checker pattern and rolled cream lip.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "bonnet",
+      "tan",
+      "checkered"
+    ],
+    "filename": "033-bonnet.png"
+  },
+  {
+    "id": "shells-034-fig",
+    "original": "originals/shells-034-fig-b0956e3c829ad3a9.png",
+    "preview": "previews/shells-034-fig-b0956e3c829ad3a9.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Fig shell",
+    "description": "A delicate pear-shaped beige shell with fine crosshatched texture.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "fig",
+      "pear-shaped",
+      "delicate"
+    ],
+    "filename": "034-fig.png"
+  },
+  {
+    "id": "shells-035-volute",
+    "original": "originals/shells-035-volute-9cfb76732c7307c6.png",
+    "preview": "previews/shells-035-volute-9cfb76732c7307c6.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Banded volute shell",
+    "description": "A smooth ivory shell with broad coral bands and an elongated opening.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "volute",
+      "coral",
+      "banded"
+    ],
+    "filename": "035-volute.png"
+  },
+  {
+    "id": "shells-036-tulip",
+    "original": "originals/shells-036-tulip-18bc1f4549ce9464.png",
+    "preview": "previews/shells-036-tulip-18bc1f4549ce9464.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Tulip shell",
+    "description": "A tapered tan shell with chestnut bands and a deep orange opening.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "tulip",
+      "chestnut",
+      "banded"
+    ],
+    "filename": "036-tulip.png"
+  },
+  {
+    "id": "shells-037-spindle",
+    "original": "originals/shells-037-spindle-95c8540b127ef112.png",
+    "preview": "previews/shells-037-spindle-95c8540b127ef112.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Spindle shell",
+    "description": "An elongated ivory shell with a high spire and long narrow canal.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "spindle",
+      "ivory",
+      "elongated"
+    ],
+    "filename": "037-spindle.png"
+  },
+  {
+    "id": "shells-038-mitre",
+    "original": "originals/shells-038-mitre-2f5988da35d3415b.png",
+    "preview": "previews/shells-038-mitre-2f5988da35d3415b.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Mitre shell",
+    "description": "A pointed ivory shell decorated with rows of orange spots.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "mitre",
+      "orange",
+      "spotted"
+    ],
+    "filename": "038-mitre.png"
+  },
+  {
+    "id": "shells-039-marbled-cone",
+    "original": "originals/shells-039-marbled-cone-4625a66ef4202685.png",
+    "preview": "previews/shells-039-marbled-cone-4625a66ef4202685.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Marbled cone shell",
+    "description": "A broad cream cone shell with dark brown marbling and a stepped crown.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "cone",
+      "marbled",
+      "brown"
+    ],
+    "filename": "039-marbled-cone.png"
+  },
+  {
+    "id": "shells-040-bubble",
+    "original": "originals/shells-040-bubble-8c99a0543997a273.png",
+    "preview": "previews/shells-040-bubble-8c99a0543997a273.webp",
+    "width": 1378,
+    "height": 1141,
+    "title": "Bubble shell",
+    "description": "A translucent pearl-white oval shell with a broad curved opening.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "bubble",
+      "white",
+      "delicate"
+    ],
+    "filename": "040-bubble.png"
+  },
+  {
+    "id": "shells-042-margin",
+    "original": "originals/shells-042-margin-3dcf70717b4928bc.png",
+    "preview": "previews/shells-042-margin-3dcf70717b4928bc.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Porcelain margin shell",
+    "description": "A polished pale cream oval shell with an amber center and thick white lip.",
+    "tags": [
+      "shell",
+      "seashell",
+      "photorealistic",
+      "margin",
+      "cream",
+      "glossy"
+    ],
+    "filename": "042-margin.png"
+  }
+]

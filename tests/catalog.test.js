@@ -53,8 +53,8 @@ test('unsafe image links and invalid dimensions are rejected before HTML generat
 test('empty and populated pagination keep every object and expose real navigable paths', () => {
   assert.deepEqual(paginate([], 2), [[]]);
   assert.deepEqual(paginate(['a', 'b', 'c', 'd', 'e'], 2), [['a', 'b'], ['c', 'd'], ['e']]);
-  assert.equal(pageHref(null, 1), '/');
-  assert.equal(pageHref(null, 2), '/page/2/');
+  assert.equal(pageHref(null, 1), '/all/');
+  assert.equal(pageHref(null, 2), '/all/page/2/');
   assert.equal(pageHref('chairs', 1), '/category/chairs/');
   assert.equal(pageHref('chairs', 3), '/category/chairs/page/3/');
   assert.throws(() => paginate(['a'], 0));
@@ -67,4 +67,35 @@ test('originals and previews can use separate domains while explicit URLs are pr
   const explicit = createCatalog([categories[0]], { chairs: [{ ...chair, preview: 'https://external.example/chair.webp' }] });
   assert.equal(explicit.objects[0].preview, 'https://external.example/chair.webp');
   assert.throws(() => createCatalog([], {}, '/', 'javascript:evil'), /invalid preview base/i);
+});
+
+test('the mixed feed is stable across rebuilds and input order and keeps category order intact', () => {
+  const chairs = Array.from({ length: 70 }, (_, index) => ({ ...chair, id: `chair_${index}` }));
+  const lights = Array.from({ length: 70 }, (_, index) => ({ ...chair, id: `light_${index}` }));
+  const first = createCatalog(categories, { chairs, lights });
+  const rebuilt = createCatalog(categories, { chairs, lights });
+  const reordered = createCatalog([...categories].reverse(), { chairs: [...chairs].reverse(), lights: [...lights].reverse() });
+  const ids = (catalog) => catalog.feed.map((object) => object.id);
+
+  assert.ok(Array.isArray(first.feed), 'The catalog exposes the mixed feed');
+  assert.deepEqual(ids(first), ids(rebuilt));
+  assert.deepEqual(ids(first), ids(reordered));
+  assert.equal(first.feed.length, 140);
+  assert.equal(new Set(ids(first)).size, 140);
+  assert.deepEqual([...ids(first)].sort(), first.objects.map((object) => object.id).sort());
+  assert.deepEqual(first.objects.map((object) => object.id), [...chairs, ...lights].map((object) => object.id));
+  for (const page of paginate(first.feed).slice(0, 2)) {
+    assert.deepEqual(new Set(page.map((object) => object.categoryId)), new Set(['chairs', 'lights']));
+  }
+});
+
+test('new objects join the mixed feed without changing the relative order of existing objects', () => {
+  const chairs = Array.from({ length: 20 }, (_, index) => ({ ...chair, id: `chair_${index}` }));
+  const before = createCatalog(categories, { chairs, lights: [] });
+  const after = createCatalog(categories, { chairs, lights: [{ ...chair, id: 'new_light' }] });
+
+  assert.ok(Array.isArray(after.feed), 'The catalog exposes the mixed feed');
+  assert.deepEqual(after.feed.filter((object) => object.id !== 'new_light').map((object) => object.id), before.feed.map((object) => object.id));
+  assert.equal(after.feed.filter((object) => object.id === 'new_light').length, 1);
+  assert.deepEqual(createCatalog([], {}).feed, []);
 });

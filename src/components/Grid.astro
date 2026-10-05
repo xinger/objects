@@ -1,5 +1,4 @@
 ---
-import Icon from './Icon.astro';
 import type { createCatalog } from '../lib/catalog.js';
 
 interface Props { objects: ReturnType<typeof createCatalog>['objects']; }
@@ -7,11 +6,9 @@ const { objects } = Astro.props;
 ---
 {objects.length ? <div class="object-grid">
   {objects.map((object, index) => <article class="object-tile" style={`--delay:${Math.min(index, 9) * 18}ms`}>
-    <a class="object-link" href={object.href} aria-label={object.title} title={object.title}>
+    <a class="object-link" href={object.href} aria-label={object.title}>
       <img src={object.preview} alt={object.title} width={object.width} height={object.height} loading={index < 10 ? 'eager' : 'lazy'} decoding="async" />
-      <span class="image-unavailable" hidden>Изображение недоступно</span>
+      <span class="image-unavailable" hidden>Image unavailable</span>
     </a>
-    <a class="icon-button tile-download" href={object.original} download={object.filename} data-download aria-label={`Скачать: ${object.title}`} title="Скачать оригинал"><Icon name="download" /></a>
-    <span class="download-error" role="status" hidden>Не удалось скачать</span>
   </article>)}
-</div> : <div class="empty-state"><p>Пока пусто</p></div>}
+</div> : <div class="empty-state"><p>No objects yet</p></div>}

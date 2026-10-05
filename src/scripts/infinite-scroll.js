@@ -30,7 +30,7 @@ async function loadNextPage() {
   loading = true;
   retry.hidden = true;
   loader.setAttribute('aria-busy', 'true');
-  loadStatus.textContent = 'Загрузка изображений';
+  loadStatus.textContent = 'Loading images';
   const controller = new AbortController();
   const timeout = setTimeout(() => controller.abort(), 15000);
   try {
@@ -48,7 +48,7 @@ async function loadNextPage() {
     grid.append(...tiles);
     loadedPages.add(path);
     next = following;
-    loadStatus.textContent = `Добавлено изображений: ${tiles.length}`;
+    loadStatus.textContent = `Images added: ${tiles.length}`;
     if (!next) {
       observer.disconnect();
       loader.hidden = true;
@@ -59,7 +59,7 @@ async function loadNextPage() {
   } catch {
     failed = true;
     retry.hidden = false;
-    loadStatus.textContent = 'Не удалось загрузить изображения';
+    loadStatus.textContent = 'Failed to load images';
   } finally {
     clearTimeout(timeout);
     loading = false;

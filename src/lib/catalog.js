@@ -1,4 +1,5 @@
 import { z } from 'zod';
+import { createHash } from 'node:crypto';
 
 const idSchema = z.string().regex(/^[a-z0-9]+(?:[_-][a-z0-9]+)*$/i);
 const categorySchema = z.object({ id: idSchema, title: z.string().trim().min(1) });
@@ -53,7 +54,7 @@ export function createCatalog(categories, entries, mediaBaseUrl = 'https://objec
   for (const id of Object.keys(entries)) {
     if (!categoryIds.has(id)) throw new Error(`Unknown category file: ${id}.json`);
   }
-  return { categories: resultCategories, objects };
+  return { categories: resultCategories, objects, feed: mixObjects(objects) };
 }
 
 /** @template T @param {T[]} items @param {number} size @returns {T[][]} */
@@ -65,7 +66,7 @@ export function paginate(items, size = 60) {
 
 /** @param {string | null} categoryId @param {number} page */
 export function pageHref(categoryId, page) {
-  const base = categoryId ? `/category/${categoryId}/` : '/';
+  const base = categoryId ? `/category/${categoryId}/` : '/all/';
   return page === 1 ? base : `${base}page/${page}/`;
 }
 
@@ -93,4 +94,11 @@ function assetUrl(key, base) {
   if (/^https?:\/\//.test(key)) return key;
   const encoded = key.split('/').map((part) => encodeURIComponent(decodeURIComponent(part))).join('/');
   return `${base.replace(/\/$/, '')}/${encoded}`;
+}
+
+/** @template {{id: string}} T @param {T[]} objects @returns {T[]} */
+function mixObjects(objects) {
+  return objects.map((object) => ({ object, key: createHash('sha256').update(`objects-feed-v1:${object.id}`).digest('hex') }))
+    .sort((a, b) => a.key < b.key ? -1 : a.key > b.key ? 1 : a.object.id.localeCompare(b.object.id))
+    .map(({ object }) => object);
 }

@@ -1,7 +1,30 @@
 [
-  { "id": "butterflies", "title": "Бабочки" },
-  { "id": "byzantine-ornaments", "title": "Византийские орнаменты" },
-  { "id": "flowers", "title": "Цветы" },
-  { "id": "insects", "title": "Насекомые" },
-  { "id": "microorganisms", "title": "Микроорганизмы" }
+  {
+    "id": "butterflies",
+    "title": "Butterflies"
+  },
+  {
+    "id": "byzantine-ornaments",
+    "title": "Ornaments"
+  },
+  {
+    "id": "flowers",
+    "title": "Flowers"
+  },
+  {
+    "id": "insects",
+    "title": "Insects"
+  },
+  {
+    "id": "microorganisms",
+    "title": "Microbes"
+  },
+  {
+    "id": "shells",
+    "title": "Shells"
+  },
+  {
+    "id": "rhinestones",
+    "title": "Gems"
+  }
 ]

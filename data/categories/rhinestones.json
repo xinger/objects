@@ -1,0 +1,524 @@
+[
+  {
+    "id": "rhinestones-001-aurora-round",
+    "original": "originals/rhinestones-001-aurora-round-7d7ab6d18a39366f.png",
+    "preview": "previews/rhinestones-001-aurora-round-7d7ab6d18a39366f.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Aurora Round Rhinestone",
+    "description": "A round brilliant-cut rhinestone with pink, aqua and violet aurora reflections.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "round",
+      "aurora",
+      "iridescent"
+    ],
+    "filename": "001-aurora-round.png"
+  },
+  {
+    "id": "rhinestones-002-fuchsia-heart",
+    "original": "originals/rhinestones-002-fuchsia-heart-41b35517af5a750e.png",
+    "preview": "previews/rhinestones-002-fuchsia-heart-41b35517af5a750e.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Fuchsia Heart Rhinestone",
+    "description": "A vivid fuchsia heart-shaped crystal with sharply polished facets.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "heart",
+      "fuchsia"
+    ],
+    "filename": "002-fuchsia-heart.png"
+  },
+  {
+    "id": "rhinestones-003-peacock-teardrop",
+    "original": "originals/rhinestones-003-peacock-teardrop-3481a834d1610718.png",
+    "preview": "previews/rhinestones-003-peacock-teardrop-3481a834d1610718.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Peacock Teardrop Rhinestone",
+    "description": "A teardrop crystal with peacock blue, teal and violet reflections.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "teardrop",
+      "teal",
+      "blue"
+    ],
+    "filename": "003-peacock-teardrop.png"
+  },
+  {
+    "id": "rhinestones-004-lime-marquise",
+    "original": "originals/rhinestones-004-lime-marquise-35833a51d68afa66.png",
+    "preview": "previews/rhinestones-004-lime-marquise-35833a51d68afa66.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Lime Marquise Rhinestone",
+    "description": "A pointed marquise crystal in electric lime green with golden flashes.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "marquise",
+      "lime",
+      "green"
+    ],
+    "filename": "004-lime-marquise.png"
+  },
+  {
+    "id": "rhinestones-005-amber-cushion",
+    "original": "originals/rhinestones-005-amber-cushion-e411ea87a8c1bf9e.png",
+    "preview": "previews/rhinestones-005-amber-cushion-e411ea87a8c1bf9e.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Amber Cushion Rhinestone",
+    "description": "A cushion-cut amber-orange crystal with warm honey highlights.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "cushion",
+      "amber",
+      "orange"
+    ],
+    "filename": "005-amber-cushion.png"
+  },
+  {
+    "id": "rhinestones-006-violet-star",
+    "original": "originals/rhinestones-006-violet-star-38d8255e6f86d128.png",
+    "preview": "previews/rhinestones-006-violet-star-38d8255e6f86d128.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Violet Star Rhinestone",
+    "description": "A five-pointed violet crystal star with lavender facet highlights.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "star",
+      "violet"
+    ],
+    "filename": "006-violet-star.png"
+  },
+  {
+    "id": "rhinestones-007-ice-triangle",
+    "original": "originals/rhinestones-007-ice-triangle-3f0d74129ee6041a.png",
+    "preview": "previews/rhinestones-007-ice-triangle-3f0d74129ee6041a.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Ice Triangle Rhinestone",
+    "description": "An icy blue triangular crystal with sharp facets and silver-white reflections.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "triangle",
+      "ice-blue"
+    ],
+    "filename": "007-ice-triangle.png"
+  },
+  {
+    "id": "rhinestones-008-watermelon-oval",
+    "original": "originals/rhinestones-008-watermelon-oval-8366b5c321379601.png",
+    "preview": "previews/rhinestones-008-watermelon-oval-8366b5c321379601.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Watermelon Oval Rhinestone",
+    "description": "An oval crystal with a rose-pink center and green outer facets.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "oval",
+      "pink",
+      "green"
+    ],
+    "filename": "008-watermelon-oval.png"
+  },
+  {
+    "id": "rhinestones-009-sunset-hexagon",
+    "original": "originals/rhinestones-009-sunset-hexagon-298f54e2b2a1514a.png",
+    "preview": "previews/rhinestones-009-sunset-hexagon-298f54e2b2a1514a.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Sunset Hexagon Rhinestone",
+    "description": "A hexagonal crystal shifting from warm coral to golden yellow.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "hexagon",
+      "coral",
+      "gold"
+    ],
+    "filename": "009-sunset-hexagon.png"
+  },
+  {
+    "id": "rhinestones-010-royal-blue-kite",
+    "original": "originals/rhinestones-010-royal-blue-kite-d722337839c0f6cd.png",
+    "preview": "previews/rhinestones-010-royal-blue-kite-d722337839c0f6cd.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Royal Blue Kite Rhinestone",
+    "description": "A kite-shaped sapphire-blue crystal with bright cobalt flashes.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "kite",
+      "blue"
+    ],
+    "filename": "010-royal-blue-kite.png"
+  },
+  {
+    "id": "rhinestones-011-opal-crescent",
+    "original": "originals/rhinestones-011-opal-crescent-accb08e3bf6fa7d5.png",
+    "preview": "previews/rhinestones-011-opal-crescent-accb08e3bf6fa7d5.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Opal Crescent Rhinestone",
+    "description": "A crescent-shaped opalescent crystal with pink, mint and lilac colors.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "crescent",
+      "opal",
+      "pastel"
+    ],
+    "filename": "011-opal-crescent.png"
+  },
+  {
+    "id": "rhinestones-012-rose-gold-octagon",
+    "original": "originals/rhinestones-012-rose-gold-octagon-87a03091b4bf583d.png",
+    "preview": "previews/rhinestones-012-rose-gold-octagon-87a03091b4bf583d.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Rose Gold Octagon Rhinestone",
+    "description": "An elongated octagonal crystal with rose-gold and blush reflections.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "octagon",
+      "rose-gold"
+    ],
+    "filename": "012-rose-gold-octagon.png"
+  },
+  {
+    "id": "rhinestones-013-emerald-shield",
+    "original": "originals/rhinestones-013-emerald-shield-7f41b8ee4a11bf91.png",
+    "preview": "previews/rhinestones-013-emerald-shield-7f41b8ee4a11bf91.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Emerald Shield Rhinestone",
+    "description": "A shield-shaped green crystal with pointed lower facets.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "shield",
+      "emerald",
+      "green"
+    ],
+    "filename": "013-emerald-shield.png"
+  },
+  {
+    "id": "rhinestones-014-citrus-diamond",
+    "original": "originals/rhinestones-014-citrus-diamond-afebd11869cdf743.png",
+    "preview": "previews/rhinestones-014-citrus-diamond-afebd11869cdf743.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Citrus Diamond Rhinestone",
+    "description": "A rhombus crystal in bright lemon yellow with tangerine flashes.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "rhombus",
+      "yellow"
+    ],
+    "filename": "014-citrus-diamond.png"
+  },
+  {
+    "id": "rhinestones-015-iridescent-butterfly",
+    "original": "originals/rhinestones-015-iridescent-butterfly-0984bf709cac4249.png",
+    "preview": "previews/rhinestones-015-iridescent-butterfly-0984bf709cac4249.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Iridescent Butterfly Rhinestone",
+    "description": "A butterfly-shaped crystal with rainbow reflections across its facets.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "butterfly",
+      "rainbow"
+    ],
+    "filename": "015-iridescent-butterfly.png"
+  },
+  {
+    "id": "rhinestones-016-ruby-baguette",
+    "original": "originals/rhinestones-016-ruby-baguette-9d385d5701f8a675.png",
+    "preview": "previews/rhinestones-016-ruby-baguette-9d385d5701f8a675.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Ruby Baguette Rhinestone",
+    "description": "A long rectangular ruby-red crystal with stepped facets.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "baguette",
+      "red"
+    ],
+    "filename": "016-ruby-baguette.png"
+  },
+  {
+    "id": "rhinestones-017-turquoise-fan",
+    "original": "originals/rhinestones-017-turquoise-fan-8f561e126eb1d1ed.png",
+    "preview": "previews/rhinestones-017-turquoise-fan-8f561e126eb1d1ed.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Turquoise Fan Rhinestone",
+    "description": "A fan-shaped turquoise crystal with radiating polished facets.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "fan",
+      "turquoise"
+    ],
+    "filename": "017-turquoise-fan.png"
+  },
+  {
+    "id": "rhinestones-018-lilac-trapezoid",
+    "original": "originals/rhinestones-018-lilac-trapezoid-8cfefb3de6c135ea.png",
+    "preview": "previews/rhinestones-018-lilac-trapezoid-8cfefb3de6c135ea.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Lilac Trapezoid Rhinestone",
+    "description": "A lavender trapezoid crystal with luminous mauve stepped facets.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "trapezoid",
+      "lilac"
+    ],
+    "filename": "018-lilac-trapezoid.png"
+  },
+  {
+    "id": "rhinestones-019-copper-flame",
+    "original": "originals/rhinestones-019-copper-flame-32317fe4d620a12b.png",
+    "preview": "previews/rhinestones-019-copper-flame-32317fe4d620a12b.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Copper Flame Rhinestone",
+    "description": "A curved flame-shaped crystal with copper, orange and red reflections.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "flame",
+      "copper",
+      "orange"
+    ],
+    "filename": "019-copper-flame.png"
+  },
+  {
+    "id": "rhinestones-020-mint-snowflake",
+    "original": "originals/rhinestones-020-mint-snowflake-92468dfd95faafda.png",
+    "preview": "previews/rhinestones-020-mint-snowflake-92468dfd95faafda.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Mint Snowflake Rhinestone",
+    "description": "A six-pointed mint crystal with an angular snowflake outline.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "snowflake",
+      "mint"
+    ],
+    "filename": "020-mint-snowflake.png"
+  },
+  {
+    "id": "rhinestones-021-holographic-pentagon",
+    "original": "originals/rhinestones-021-holographic-pentagon-988dbf195d6989f5.png",
+    "preview": "previews/rhinestones-021-holographic-pentagon-988dbf195d6989f5.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Holographic Pentagon Rhinestone",
+    "description": "A pentagonal crystal with rainbow colors and silver facet reflections.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "pentagon",
+      "holographic"
+    ],
+    "filename": "021-holographic-pentagon.png"
+  },
+  {
+    "id": "rhinestones-022-black-rainbow-drop",
+    "original": "originals/rhinestones-022-black-rainbow-drop-307e401961cfbede.png",
+    "preview": "previews/rhinestones-022-black-rainbow-drop-307e401961cfbede.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Black Rainbow Drop Rhinestone",
+    "description": "A dark teardrop crystal with oil-slick violet, blue and green reflections.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "teardrop",
+      "black",
+      "iridescent"
+    ],
+    "filename": "022-black-rainbow-drop.png"
+  },
+  {
+    "id": "rhinestones-023-cherry-flower",
+    "original": "originals/rhinestones-023-cherry-flower-2d3d6a08b1e159f8.png",
+    "preview": "previews/rhinestones-023-cherry-flower-2d3d6a08b1e159f8.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Cherry Flower Rhinestone",
+    "description": "A five-petal crystal flower in cherry pink with rosy highlights.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "flower",
+      "pink"
+    ],
+    "filename": "023-cherry-flower.png"
+  },
+  {
+    "id": "rhinestones-024-aqua-prism",
+    "original": "originals/rhinestones-024-aqua-prism-4e40435ec0e7c8e3.png",
+    "preview": "previews/rhinestones-024-aqua-prism-4e40435ec0e7c8e3.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Aqua Prism Rhinestone",
+    "description": "An elongated asymmetric aqua crystal with angular prism facets.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "prism",
+      "aqua"
+    ],
+    "filename": "024-aqua-prism.png"
+  },
+  {
+    "id": "rhinestones-025-champagne-oval",
+    "original": "originals/rhinestones-025-champagne-oval-99d14406973b33d9.png",
+    "preview": "previews/rhinestones-025-champagne-oval-99d14406973b33d9.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Champagne Oval Rhinestone",
+    "description": "A champagne oval crystal with golden and pearly facet highlights.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "oval",
+      "champagne"
+    ],
+    "filename": "025-champagne-oval.png"
+  },
+  {
+    "id": "rhinestones-026-magenta-arrow",
+    "original": "originals/rhinestones-026-magenta-arrow-6ba6973338e90e1d.png",
+    "preview": "previews/rhinestones-026-magenta-arrow-6ba6973338e90e1d.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Magenta Arrow Rhinestone",
+    "description": "An arrowhead-shaped magenta crystal with violet highlights.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "arrowhead",
+      "magenta"
+    ],
+    "filename": "026-magenta-arrow.png"
+  },
+  {
+    "id": "rhinestones-027-periwinkle-pyramid",
+    "original": "originals/rhinestones-027-periwinkle-pyramid-b819fbd748edf0c9.png",
+    "preview": "previews/rhinestones-027-periwinkle-pyramid-b819fbd748edf0c9.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Periwinkle Pyramid Rhinestone",
+    "description": "A square pyramidal crystal in periwinkle blue with lavender faces.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "pyramid",
+      "periwinkle"
+    ],
+    "filename": "027-periwinkle-pyramid.png"
+  },
+  {
+    "id": "rhinestones-028-rainbow-shell",
+    "original": "originals/rhinestones-028-rainbow-shell-c76883fe47d79c16.png",
+    "preview": "previews/rhinestones-028-rainbow-shell-c76883fe47d79c16.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Rainbow Shell Rhinestone",
+    "description": "A shell-shaped crystal with rainbow pastel colors along radial facets.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "shell",
+      "rainbow",
+      "pastel"
+    ],
+    "filename": "028-rainbow-shell.png"
+  },
+  {
+    "id": "rhinestones-029-neon-green-comet",
+    "original": "originals/rhinestones-029-neon-green-comet-5d3a9cf0042c9619.png",
+    "preview": "previews/rhinestones-029-neon-green-comet-5d3a9cf0042c9619.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Neon Green Comet Rhinestone",
+    "description": "An elongated curved crystal with acid-green and turquoise facets.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "comet",
+      "neon-green"
+    ],
+    "filename": "029-neon-green-comet.png"
+  },
+  {
+    "id": "rhinestones-030-pink-blue-freeform",
+    "original": "originals/rhinestones-030-pink-blue-freeform-3c8d2ba21d264ad9.png",
+    "preview": "previews/rhinestones-030-pink-blue-freeform-3c8d2ba21d264ad9.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Pink Blue Freeform Rhinestone",
+    "description": "An asymmetric freeform crystal with rose-pink, blue and violet colors.",
+    "tags": [
+      "rhinestone",
+      "crystal",
+      "sparkling",
+      "freeform",
+      "pink",
+      "blue"
+    ],
+    "filename": "030-pink-blue-freeform.png"
+  }
+]

@@ -16,7 +16,7 @@ export function getStaticPaths() {
 const { category, objects, page, pages } = Astro.props;
 const catalog = getCatalog();
 ---
-<Layout title={`${category.title} · Objects${page > 1 ? ` · ${page}` : ''}`} description={`${category.title}: изображения объектов и оригиналы для скачивания.`}>
+<Layout title={`${category.title} · Objects${page > 1 ? ` · ${page}` : ''}`} description={`${category.title}: object images and downloadable originals.`}>
   <Header categories={catalog.categories} total={catalog.objects.length} activeCategory={category.id} />
   <main id="content" tabindex="-1">
     <h1 class="sr-only">{category.title}</h1>

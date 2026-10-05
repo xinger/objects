@@ -4,7 +4,7 @@ document.addEventListener('click', async (event) => {
   if (!(link instanceof HTMLAnchorElement)) return;
   event.preventDefault();
   if (link.getAttribute('aria-busy') === 'true') return;
-  const container = link.closest('.object-tile, .object-detail');
+  const container = link.closest('.object-detail');
   const error = container?.querySelector('.download-error');
   if (error instanceof HTMLElement) error.hidden = true;
   link.setAttribute('aria-busy', 'true');

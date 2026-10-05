@@ -9,6 +9,7 @@ export const GET: APIRoute = ({ site }) => {
     const objects = catalog.objects.filter((object) => object.categoryId === category.id);
     paths.push(...paginate(objects).map((_, index) => pageHref(category.id, index + 1)));
   }
+  paths.push('/');
   const absolute = (path: string) => new URL(path, site).href;
   const escape = (value: string) => value.replace(/[<>&"']/g, (char) => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;', '"': '&quot;', "'": '&apos;' })[char]!);
   const urls = paths.map((path) => `<url><loc>${escape(absolute(path))}</loc></url>`);

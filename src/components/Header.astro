@@ -11,14 +11,14 @@ const { categories, activeCategory = null, total } = Astro.props;
 ---
 <header class="site-header">
   <div class="header-top">
-    <a class="wordmark" href="/" aria-label="Objects — все объекты">objects<span class="catalog-count">{total}</span></a>
-    <button class="icon-button theme-toggle" type="button" data-theme-toggle aria-label="Переключить тему" hidden>
+    <a class="wordmark" href="/" aria-label="Objects — home">objects<span class="catalog-count">{total}</span></a>
+    <button class="icon-button theme-toggle" type="button" data-theme-toggle aria-label="Toggle theme" hidden>
       <span class="theme-sun"><Icon name="sun" /></span>
       <span class="theme-moon"><Icon name="moon" /></span>
     </button>
   </div>
-  {categories.length > 0 && <nav class="category-nav" aria-label="Категории">
-    <a href="/" aria-current={activeCategory === null ? 'page' : undefined}>Все</a>
-    {categories.map((category) => <a href={`/category/${category.id}/`} aria-current={activeCategory === category.id ? 'page' : undefined}>{category.title}</a>)}
+  {categories.length > 0 && <nav class="category-nav" aria-label="Categories">
+    <a href="/all/" aria-current={activeCategory === null ? 'page' : undefined} data-label="All"><span>All</span></a>
+    {categories.map((category) => <a href={`/category/${category.id}/`} aria-current={activeCategory === category.id ? 'page' : undefined} data-label={category.title}><span>{category.title}</span></a>)}
   </nav>}
 </header>

@@ -1,0 +1,19 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Grid from '../components/Grid.astro';
+import { getCatalog } from '../lib/data.js';
+import Pagination from '../components/Pagination.astro';
+import { paginate } from '../lib/catalog.js';
+
+const catalog = getCatalog();
+const pages = paginate(catalog.feed);
+---
+<Layout title="Objects">
+  <Header categories={catalog.categories} total={catalog.objects.length} />
+  <main id="content" tabindex="-1">
+    <h1 class="sr-only">All objects</h1>
+    <Grid objects={pages[0]} />
+    <Pagination page={1} pages={pages.length} />
+  </main>
+</Layout>

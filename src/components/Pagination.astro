@@ -6,17 +6,17 @@ interface Props { page: number; pages: number; categoryId?: string | null; }
 const { page, pages, categoryId = null } = Astro.props;
 const numbers = Array.from({ length: pages }, (_, index) => index + 1).filter((number) => number === 1 || number === pages || Math.abs(number - page) <= 1);
 ---
-{pages > 1 && <nav class="pagination" aria-label="Страницы">
-  {page > 1 && <a class="icon-button" href={pageHref(categoryId, page - 1)} aria-label="Предыдущая страница" rel="prev"><Icon name="left" /></a>}
+{pages > 1 && <nav class="pagination" aria-label="Pages">
+  {page > 1 && <a class="icon-button" href={pageHref(categoryId, page - 1)} aria-label="Previous page" rel="prev"><Icon name="left" /></a>}
   {numbers.map((number, index) => <>
     {index > 0 && number - numbers[index - 1] > 1 && <span class="page-ellipsis" aria-hidden="true">…</span>}
-    <a class="page-number" href={pageHref(categoryId, number)} aria-current={number === page ? 'page' : undefined} aria-label={`Страница ${number}`}>{number}</a>
+    <a class="page-number" href={pageHref(categoryId, number)} aria-current={number === page ? 'page' : undefined} aria-label={`Page ${number}`}>{number}</a>
   </>)}
-  {page < pages && <a class="icon-button" href={pageHref(categoryId, page + 1)} aria-label="Следующая страница" rel="next"><Icon name="right" /></a>}
+  {page < pages && <a class="icon-button" href={pageHref(categoryId, page + 1)} aria-label="Next page" rel="next"><Icon name="right" /></a>}
 </nav>}
 {page < pages && <div class="scroll-loader" data-scroll-loader hidden>
   <span class="sr-only" role="status" aria-live="polite" data-scroll-status></span>
-  <button class="scroll-retry" type="button" data-scroll-retry hidden>Повторить</button>
+  <button class="scroll-retry" type="button" data-scroll-retry hidden>Retry</button>
 </div>}
 <script>
   import '../scripts/infinite-scroll.js';
