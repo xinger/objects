@@ -1,0 +1,4 @@
+interface:
+  display_name: "Objects: новая категория"
+  short_description: "Серия PNG, метаданные и импорт в каталог Objects"
+  default_prompt: "Используй $objects-category: создай 20 акварельных раковин на прозрачном фоне, в три потока, и подготовь категорию локально."
