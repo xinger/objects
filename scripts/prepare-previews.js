@@ -3,10 +3,10 @@ import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 import sharp from 'sharp';
 
-export async function preparePreviews(inputDirectory, outputDirectory = 'media/previews') {
+export async function preparePreviews(inputDirectory, outputDirectory = 'media/previews', filenames) {
   const input = path.resolve(inputDirectory);
   const output = path.resolve(outputDirectory);
-  const files = await findPngs(input);
+  const files = (await findPngs(input)).filter((file) => !filenames || filenames.has(path.relative(input, file)));
   const destinations = new Set();
   for (const file of files) {
     const destination = path.join(output, path.relative(input, file).replace(/\.png$/i, '.webp'));

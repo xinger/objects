@@ -3,7 +3,8 @@ import assert from 'node:assert/strict';
 import { mkdir, mkdtemp, readFile, writeFile, rm, access } from 'node:fs/promises';
 import path from 'node:path';
 import sharp from 'sharp';
-import { createJobs, saveImage, importBatch } from '../scripts/category-batch.js';
+import { createJobs, saveImage, importBatch, categoryContext } from '../scripts/category-batch.js';
+import { stat, utimes } from 'node:fs/promises';
 
 async function fixture(t, count = 4) {
   await mkdir('media', { recursive: true });
@@ -100,4 +101,85 @@ test('incomplete batches and missing old assets cannot change the catalogue', as
   await assert.rejects(() => importBatch(batch, root), /библиотек|ENOENT/i);
   assert.deepEqual(JSON.parse(await readFile(path.join(root, 'data/categories.json'), 'utf8')).map((category) => category.id), ['flowers']);
   await assert.rejects(() => access(path.join(root, 'data/categories/shells.json')), { code: 'ENOENT' });
+});
+
+test('appending a finished series preserves old records, assets and previews and is repeatable', async (t) => {
+  const { root, batch, manifest, source } = await fixture(t, 1);
+  await mkdir(path.join(root, 'data/categories'), { recursive: true });
+  await writeFile(path.join(root, 'data/categories.json'), '[]');
+  await saveImage(batch, '001-shell.png', source);
+  await importBatch(batch, root);
+  const categoryFile = path.join(root, 'data/categories/shells.json');
+  const first = JSON.parse(await readFile(categoryFile, 'utf8'));
+  const oldPreview = path.join(batch, 'prepared', first[0].preview);
+  const oldOriginal = path.join(root, 'media/library', first[0].original);
+  await utimes(oldPreview, 1, 1);
+  await utimes(oldOriginal, 1, 1);
+  await writeFile(path.join(root, 'data/categories.json'), '[{"id":"shells","title":"Раковины","cover":"shells-001-shell"}]\n');
+  const registry = await readFile(path.join(root, 'data/categories.json'), 'utf8');
+  manifest.objects.push({ filename: '002-nautilus.png', title: 'Nautilus', description: 'A spiral watercolor shell.', tags: ['nautilus'], prompt: 'One watercolor nautilus.' });
+  await writeFile(path.join(batch, 'collection.json'), JSON.stringify(manifest));
+  await saveImage(batch, '002-nautilus.png', source);
+  await assert.rejects(() => importBatch(batch, root), /append/);
+  const result = await importBatch(batch, root, true);
+  assert.equal(result.count, 2);
+  assert.equal(result.added, 1);
+  const second = JSON.parse(await readFile(categoryFile, 'utf8'));
+  assert.deepEqual(second[0], first[0]);
+  assert.equal(second[1].id, 'shells-002-nautilus');
+  assert.equal((await stat(oldPreview)).mtimeMs, 1000);
+  assert.equal((await stat(oldOriginal)).mtimeMs, 1000);
+  assert.deepEqual(await readFile(oldOriginal), await readFile(source));
+  assert.equal(await readFile(path.join(root, 'data/categories.json'), 'utf8'), registry);
+  const repeated = await importBatch(batch, root, true);
+  assert.equal(repeated.unchanged, true);
+  assert.equal(repeated.added, 0);
+  assert.deepEqual(JSON.parse(await readFile(categoryFile, 'utf8')), second);
+});
+
+test('a batch containing only additions merges into an existing category and cannot replace old objects', async (t) => {
+  const { root, batch, manifest, source } = await fixture(t, 1);
+  await mkdir(path.join(root, 'data/categories'), { recursive: true });
+  await writeFile(path.join(root, 'data/categories.json'), '[]');
+  await saveImage(batch, '001-shell.png', source);
+  await importBatch(batch, root);
+  const categoryFile = path.join(root, 'data/categories/shells.json');
+  const firstJson = await readFile(categoryFile, 'utf8');
+  manifest.objects[0].title = 'Changed old title';
+  await writeFile(path.join(batch, 'collection.json'), JSON.stringify(manifest));
+  await assert.rejects(() => importBatch(batch, root, true), /замен|измен|отлич/);
+  manifest.objects[0].title = 'Shell 1';
+  await writeFile(path.join(batch, 'collection.json'), JSON.stringify(manifest));
+  await sharp({ create: { width: 30, height: 40, channels: 4, background: { r: 0, g: 200, b: 0, alpha: 0.5 } } }).png().toFile(path.join(batch, 'images/001-shell.png'));
+  await assert.rejects(() => importBatch(batch, root, true), /замен|измен|отлич/);
+  assert.equal(await readFile(categoryFile, 'utf8'), firstJson);
+  const additions = path.join(root, 'additions');
+  await mkdir(additions);
+  manifest.objects = [{ filename: '031-nautilus.png', title: 'Nautilus', description: 'A watercolor nautilus.', tags: ['shell'], prompt: 'One watercolor nautilus.' }];
+  await writeFile(path.join(additions, 'collection.json'), JSON.stringify(manifest));
+  await saveImage(additions, '031-nautilus.png', source);
+  await importBatch(additions, root, true);
+  const records = JSON.parse(await readFile(categoryFile, 'utf8'));
+  assert.equal(records.length, 2);
+  assert.deepEqual(records[0], JSON.parse(firstJson)[0]);
+  assert.equal(records[1].id, 'shells-031-nautilus');
+});
+
+test('continuation context reserves existing and planned numbers and returns bounded style examples', async (t) => {
+  const { root, batch, manifest } = await fixture(t, 30);
+  await mkdir(path.join(root, 'data/categories'), { recursive: true });
+  await writeFile(path.join(root, 'data/categories.json'), '[]');
+  const planned = await categoryContext('shells', batch, root);
+  assert.equal(planned.nextNumber, 31);
+  assert.equal(planned.count, 0);
+  assert.equal(planned.examples.length, 3);
+  assert.equal(planned.examples[0].prompt, manifest.objects[0].prompt);
+  await writeFile(path.join(root, 'data/categories.json'), '[{"id":"shells","title":"Раковины"}]');
+  await writeFile(path.join(root, 'data/categories/shells.json'), '[{"id":"shells-040-shell","filename":"040-shell.png","title":"Shell","original":"originals/040-shell.png"}]');
+  assert.equal((await categoryContext('shells', batch, root)).nextNumber, 41);
+  const legacy = await categoryContext('shells', path.join(root, 'missing-batch'), root);
+  assert.equal(legacy.nextNumber, 41);
+  assert.equal(legacy.count, 1);
+  assert.equal(legacy.examples[0].title, 'Shell');
+  assert.equal(legacy.examples[0].image, path.join(root, 'media/library/originals/040-shell.png'));
 });

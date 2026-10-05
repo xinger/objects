@@ -1,6 +1,6 @@
 ---
 name: objects-category
-description: Generate a new category of transparent PNG objects for this Objects repository, prepare titles/descriptions/tags in a batch, and import WebP previews into its static catalogue. Use for creating or resuming an image collection from a description.
+description: Create, resume or extend a category of transparent PNG objects for this Objects repository, prepare titles/descriptions/tags in batches, and import WebP previews into its static catalogue. Use for generating a collection or adding more images to an existing one.
 ---
 
 # Objects category
@@ -29,6 +29,8 @@ Work from the repository root. The main agent designs the series and imports it;
 Names: lowercase category slug; PNG filenames use at least three digits and a descriptive lowercase slug. Use English object text/prompts unless requested otherwise; category titles follow the site's Russian interface. Descriptions describe the object, not generator instructions. Choose distinct subjects; keep one shared style and composition in every self-contained prompt. Never infer scientific or historical certainty from generated imagery.
 
 Write all metadata for a small series at once. For long/ongoing series prepare manageable chunks (about 20 objects), extending the manifest between worker runs; import once the requested series is complete. Never edit assignments while workers are active. An existing batch is resumed, not overwritten; inspect its manifest and status first.
+
+For “add another N” to a finished category, read [continue.md](references/continue.md). It distinguishes additions from retrying missing images and provides the next filename number and style examples without loading the whole old manifest.
 
 ## Generate
 
@@ -59,7 +61,7 @@ npm run check
 npm run build
 ```
 
-Import validates completeness/transparency, preserves original bytes and explicit text, makes WebP previews and appends the category. It preserves prior JSON/assets and checks the complete local `media/library` against the catalogue and asset quotas. It refuses to replace a different existing category. Do not use the older all-category `images:import` command for this workflow.
+Import validates completeness/transparency, preserves original bytes and explicit text, makes WebP previews and appends the category. For an already imported category use `import <batch> --append`: it adds only new objects, preserves old records/URLs and refuses replacement of an existing PNG or metadata. Only new previews are generated. Both modes check the complete local `media/library` against the catalogue and asset quotas. Do not use the older all-category `images:import` command for this workflow.
 
 When publication is requested, upload the **entire library** first:
 

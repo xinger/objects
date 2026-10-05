@@ -8,6 +8,7 @@ import { importCategory } from './import-images.js';
 import { preparePreviews } from './prepare-previews.js';
 import { findImages, validateUploads } from './deploy-images.js';
 import { createCatalog } from '../src/lib/catalog.js';
+import { isDeepStrictEqual } from 'node:util';
 
 const text = z.string().trim().min(1);
 const manifestSchema = z.object({
@@ -55,7 +56,7 @@ export async function saveImage(directory, filename, source) {
   return destination;
 }
 
-export async function importBatch(directory, repository = process.cwd()) {
+export async function importBatch(directory, repository = process.cwd(), append = false) {
   directory = path.resolve(directory);
   const manifest = await readBatch(directory);
   const pending = await pendingImages(directory, manifest);
@@ -81,18 +82,29 @@ export async function importBatch(directory, repository = process.cwd()) {
     record.tags = metadata.tags;
   }
   const existing = categories.find((category) => category.id === manifest.category.id);
+  const previous = existing ? entries[existing.id] : [];
+  if (append && !existing) throw new Error('Категория ещё не импортирована. Используйте import без --append.');
   if (existing) {
-    if (existing.title !== manifest.category.title || JSON.stringify(entries[existing.id]) !== JSON.stringify(records)) {
-      throw new Error(`Категория ${existing.id} уже существует и отличается от серии. Импорт не заменяет прежние категории.`);
+    if (existing.title !== manifest.category.title) throw new Error(`Название категории ${existing.id} отличается. Дополнение не переименовывает категорию.`);
+    if (!append && !isDeepStrictEqual(previous, records)) {
+      throw new Error(`Категория ${existing.id} уже существует. Для добавления новых объектов используйте import --append.`);
     }
-    validateUploads(await findImages(path.join(library, 'originals'), '.png'), await findImages(path.join(library, 'previews'), '.webp'));
-    return { category: existing.id, count: records.length, unchanged: true };
   }
-  categories.push(manifest.category);
-  entries[manifest.category.id] = records;
-  createCatalog(categories, entries);
-  await preparePreviews(path.join(prepared, 'originals'), path.join(prepared, 'previews'));
+  const previousById = new Map(previous.map((record) => [record.id, record]));
   for (const record of records) {
+    const old = previousById.get(record.id);
+    if (old && !isDeepStrictEqual(old, record)) throw new Error(`Объект ${record.id} отличается от прежнего. Дополнение не заменяет PNG или метаданные.`);
+  }
+  const additions = records.filter((record) => !previousById.has(record.id));
+  if (existing && !additions.length) {
+    validateUploads(await findImages(path.join(library, 'originals'), '.png'), await findImages(path.join(library, 'previews'), '.webp'));
+    return { category: existing.id, count: previous.length, unchanged: true, added: 0 };
+  }
+  if (!existing) categories.push(manifest.category);
+  entries[manifest.category.id] = [...previous, ...additions];
+  createCatalog(categories, entries);
+  await preparePreviews(path.join(prepared, 'originals'), path.join(prepared, 'previews'), new Set(additions.map((record) => record.original.slice('originals/'.length))));
+  for (const record of additions) {
     for (const key of [record.original, record.preview]) {
       const destination = path.join(library, key);
       await mkdir(path.dirname(destination), { recursive: true });
@@ -102,9 +114,9 @@ export async function importBatch(directory, repository = process.cwd()) {
   await verifyLibrary(library, entries);
   validateUploads(await findImages(path.join(library, 'originals'), '.png'), await findImages(path.join(library, 'previews'), '.webp'));
   await mkdir(path.join(data, 'categories'), { recursive: true });
-  await writeJson(path.join(data, 'categories', `${manifest.category.id}.json`), records);
-  await writeJson(path.join(data, 'categories.json'), categories);
-  return { category: manifest.category.id, count: records.length, unchanged: false };
+  await writeJson(path.join(data, 'categories', `${manifest.category.id}.json`), entries[manifest.category.id]);
+  if (!existing) await writeJson(path.join(data, 'categories.json'), categories);
+  return { category: manifest.category.id, count: entries[manifest.category.id].length, unchanged: false, added: additions.length };
 }
 
 async function readBatch(directory) {
@@ -159,7 +171,7 @@ async function writeJson(file, value) {
 
 async function main() {
   const [command, directory, ...args] = process.argv.slice(2);
-  if (!directory) throw new Error('Использование: npm run category:batch -- jobs <серия> [1–3] | save <серия> <filename> <PNG> | status <серия> | import <серия>');
+  if (!directory) throw new Error('Использование: npm run category:batch -- jobs <серия> [1–3] | save <серия> <filename> <PNG> | status <серия> | import <серия> [--append] | context <category-id> [серия]');
   if (command === 'jobs') {
     const jobs = await createJobs(directory, args[0] === undefined ? 3 : Number(args[0]));
     console.log(JSON.stringify({ jobs, workers: jobs.length }));
@@ -171,10 +183,37 @@ async function main() {
     const pending = await pendingImages(path.resolve(directory), manifest);
     console.log(JSON.stringify({ total: manifest.objects.length, saved: manifest.objects.length - pending.length, pending: pending.map((object) => object.filename) }));
   } else if (command === 'import') {
-    console.log(JSON.stringify(await importBatch(directory)));
+    if (args.some((arg) => arg !== '--append')) throw new Error('import: допустим только флаг --append.');
+    console.log(JSON.stringify(await importBatch(directory, process.cwd(), args.includes('--append'))));
+  } else if (command === 'context') {
+    console.log(JSON.stringify(await categoryContext(directory, args[0])));
   } else throw new Error(`Неизвестная команда: ${command}`);
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
   main().catch((error) => { console.error(error.message); process.exitCode = 1; });
+}
+
+export async function categoryContext(categoryId, directory, repository = process.cwd()) {
+  manifestSchema.shape.category.shape.id.parse(categoryId);
+  directory = path.resolve(directory ?? path.join(repository, 'media/batches', categoryId));
+  const categories = JSON.parse(await readFile(path.join(repository, 'data/categories.json'), 'utf8'));
+  const existing = categories.find((category) => category.id === categoryId);
+  const records = existing ? JSON.parse(await readFile(path.join(repository, 'data/categories', `${categoryId}.json`), 'utf8')) : [];
+  let manifest;
+  try { manifest = await readBatch(directory); }
+  catch (error) { if (error.code !== 'ENOENT') throw error; }
+  if (manifest && manifest.category.id !== categoryId) throw new Error('Папка серии принадлежит другой категории.');
+  if (!existing && !manifest) throw new Error(`Категория ${categoryId} не найдена.`);
+  const objects = [...records, ...(manifest?.objects || [])];
+  const numbers = objects.map((object) => Number((object.filename || object.id.slice(categoryId.length + 1)).match(/^\d+/)?.[0] || 0));
+  return {
+    category: existing || manifest.category,
+    count: records.length,
+    nextNumber: Math.max(0, ...numbers) + 1,
+    examples: (manifest?.objects || records).slice(0, 3).map((object) => ({
+      filename: object.filename, title: object.title, tags: object.tags, prompt: object.prompt,
+      image: object.original ? path.join(repository, 'media/library', object.original) : path.join(directory, 'images', object.filename),
+    })),
+  };
 }

@@ -36,3 +36,19 @@ test('PNG previews preserve alpha and proportions without changing originals', a
     await rm(root, { recursive: true, force: true });
   }
 });
+
+test('selected previews process only added PNGs, ignoring unrelated old inputs', async () => {
+  await mkdir('media', { recursive: true });
+  const root = await mkdtemp('media/preview-selection-test-');
+  try {
+    const input = path.join(root, 'originals');
+    const output = path.join(root, 'previews');
+    await mkdir(input);
+    await writeFile(path.join(input, 'old.png'), 'Not a selected image; must not be decoded.');
+    await sharp({ create: { width: 30, height: 40, channels: 4, background: { r: 120, g: 60, b: 30, alpha: 0.5 } } }).png().toFile(path.join(input, 'new.png'));
+    const result = await preparePreviews(input, output, new Set(['new.png']));
+    assert.equal(result.length, 1);
+    assert.equal((await sharp(path.join(output, 'new.webp')).metadata()).hasAlpha, true);
+    await assert.rejects(() => readFile(path.join(output, 'old.webp')), { code: 'ENOENT' });
+  } finally { await rm(root, { recursive: true, force: true }); }
+});
