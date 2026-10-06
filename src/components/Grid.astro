@@ -4,10 +4,12 @@ import type { createCatalog } from '../lib/catalog.js';
 interface Props { objects: ReturnType<typeof createCatalog>['objects']; }
 const { objects } = Astro.props;
 ---
+<noscript><style is:inline>.object-link noscript { display: contents; }</style></noscript>
 {objects.length ? <div class="object-grid">
-  {objects.map((object, index) => <article class="object-tile" style={`--delay:${Math.min(index, 9) * 18}ms`}>
+  {objects.map((object, index) => <article class="object-tile" data-preview-loading={index < 10 || undefined} style={`--delay:${Math.min(index, 9) * 18}ms`}>
     <a class="object-link" href={object.href} aria-label={object.title}>
-      <img src={object.preview} alt={object.title} width={object.width} height={object.height} loading={index < 10 ? 'eager' : 'lazy'} decoding="async" />
+      <img src={index < 10 ? object.preview : undefined} data-preview-source={object.preview} hidden={index >= 10} alt={object.title} width={object.width} height={object.height} decoding="async" />
+      {index >= 10 && <noscript><img src={object.preview} alt={object.title} width={object.width} height={object.height} decoding="async" /></noscript>}
       <span class="image-unavailable" hidden>Image unavailable</span>
     </a>
   </article>)}

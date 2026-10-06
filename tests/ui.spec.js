@@ -59,6 +59,7 @@ test('category and download links work without JavaScript', async ({ browser }) 
   const page = await context.newPage();
   await page.goto('/category/test/');
   await expect(page.locator('.object-tile')).toHaveCount(60);
+  await expect(page.locator('.object-tile').nth(20).locator('img:visible')).toHaveCount(1);
   await expect(page.getByRole('link', { name: /^Next page$/i })).toBeVisible();
   await page.getByRole('link', { name: /^Next page$/i }).click({ force: true });
   await page.waitForURL('**/category/test/page/2/');
@@ -143,6 +144,7 @@ for (const viewport of [{ width: 1280, height: 720 }, { width: 390, height: 844 
 
 test('home and all share a mixed feed that stays stable on reload and keeps category filters usable', async ({ page }) => {
   await page.goto('/');
+  expect(await page.locator('.object-link').nth(20).innerText()).toBe('');
   await expect(page.locator('.object-tile')).toHaveCount(60);
   await expect(page.locator('.category-card')).toHaveCount(0);
   await expect(page.locator('.object-link[href^="/object/test_"]').first()).toBeVisible();
@@ -182,4 +184,98 @@ test('the home feed fits mobile and paginates without JavaScript without duplica
   const secondPage = await fallback.locator('.object-link').evaluateAll((links) => links.map((link) => link.pathname));
   expect(new Set([...firstPage, ...secondPage]).size).toBe(120);
   await context.close();
+});
+
+test('the next page starts loading well before the end of the current grid', async ({ page }) => {
+  await page.setViewportSize({ width: 1280, height: 720 });
+  let requested = false;
+  let release;
+  const gate = new Promise((resolve) => { release = resolve; });
+  await page.route('**/category/test/page/2/', async (route) => {
+    requested = true;
+    await gate;
+    await route.continue();
+  });
+  try {
+    await page.goto('/category/test/');
+    await page.evaluate(() => {
+      const loader = document.querySelector('[data-scroll-loader]');
+      scrollTo(0, scrollY + loader.getBoundingClientRect().top - innerHeight - 1800);
+    });
+    await expect.poll(() => requested).toBe(true);
+    await expect(page.locator('.object-tile')).toHaveCount(60);
+    release();
+    await expect(page.locator('.object-tile')).toHaveCount(120);
+    expect(new Set(await page.locator('.object-link').evaluateAll((links) => links.map((link) => link.href))).size).toBe(120);
+    await expect(page.locator('.object-tile').nth(60).locator('img:visible')).toHaveCount(1);
+  } finally {
+    release();
+  }
+});
+
+test('nearby previews start loading before they enter the screen and recover after a fast return', async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  let requested = false;
+  let release;
+  const gate = new Promise((resolve) => { release = resolve; });
+  await page.route('**/preload.svg', async (route) => {
+    requested = true;
+    await gate;
+    await route.continue();
+  });
+  try {
+    await page.goto('/category/test/');
+    const tile = page.locator('.object-tile').nth(45);
+    const image = tile.locator('img');
+    await expect(image).not.toHaveAttribute('src');
+    await tile.evaluate((element) => scrollTo(0, scrollY + element.getBoundingClientRect().top - innerHeight - 1500));
+    await expect.poll(() => requested).toBe(true);
+    expect(await tile.evaluate((element) => element.getBoundingClientRect().top > innerHeight)).toBe(true);
+    release();
+    await expect.poll(() => image.evaluate((element) => element.complete && element.naturalWidth > 0)).toBe(true);
+    await tile.scrollIntoViewIfNeeded();
+    await expect(image).toBeVisible();
+    await page.locator('.object-tile').first().scrollIntoViewIfNeeded();
+    await expect(image).not.toHaveAttribute('src');
+    await tile.scrollIntoViewIfNeeded();
+    await expect.poll(() => image.evaluate((element) => element.complete && element.naturalWidth > 0 && !element.hidden)).toBe(true);
+    await expect(tile.getByText('Image unavailable')).toBeHidden();
+  } finally {
+    release();
+  }
+});
+
+test('a preview loading across scroll boundaries stays active nearby and can restart after cancellation', async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  let requests = 0;
+  let release;
+  const gate = new Promise((resolve) => { release = resolve; });
+  await page.route('**/preload.svg', async (route) => {
+    requests++;
+    if (requests === 1) {
+      await gate;
+      await route.abort();
+    } else {
+      await route.continue();
+    }
+  });
+  try {
+    await page.goto('/category/test/');
+    const tile = page.locator('.object-tile').nth(45);
+    const image = tile.locator('img');
+    await tile.scrollIntoViewIfNeeded();
+    await expect.poll(() => requests).toBe(1);
+    await expect(tile).toHaveAttribute('data-preview-loading');
+    await tile.evaluate((element) => scrollTo(0, scrollY + element.getBoundingClientRect().top - innerHeight - 2400));
+    await expect(image).toHaveAttribute('src', '/media/tests/preload.svg');
+    await page.locator('.object-tile').first().scrollIntoViewIfNeeded();
+    await expect(image).not.toHaveAttribute('src');
+    release();
+    await tile.scrollIntoViewIfNeeded();
+    await expect.poll(() => image.evaluate((element) => element.complete && element.naturalWidth > 0 && !element.hidden)).toBe(true);
+    await expect(tile).not.toHaveAttribute('data-preview-loading');
+    await expect(tile.getByText('Image unavailable')).toBeHidden();
+  } finally {
+    release();
+  }
 });

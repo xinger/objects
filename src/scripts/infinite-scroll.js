@@ -11,7 +11,7 @@ let failed = false;
 const loadedPages = new Set([location.pathname]);
 const observer = 'IntersectionObserver' in window ? new IntersectionObserver((entries) => {
   if (entries.some((entry) => entry.isIntersecting)) loadNextPage();
-}, { rootMargin: '900px 0px' }) : null;
+}, { rootMargin: `${Math.max(innerHeight * 3, 1800)}px 0px` }) : null;
 
 if (grid && pagination && observer) {
   pagination.hidden = true;
@@ -43,7 +43,7 @@ async function loadNextPage() {
     if (!tiles.length || loadedPages.has(path) || following && (following === path || loadedPages.has(following))) {
       throw new Error('Invalid catalog page');
     }
-    tiles.forEach((tile) => tile.querySelectorAll('img').forEach((image) => { image.loading = 'lazy'; }));
+    tiles.forEach((tile) => tile.querySelectorAll('noscript').forEach((fallback) => fallback.remove()));
     observePreviews(tiles);
     grid.append(...tiles);
     loadedPages.add(path);
@@ -52,9 +52,6 @@ async function loadNextPage() {
     if (!next) {
       observer.disconnect();
       loader.hidden = true;
-    } else {
-      observer.unobserve(loader);
-      observer.observe(loader);
     }
   } catch {
     failed = true;
@@ -64,5 +61,9 @@ async function loadNextPage() {
     clearTimeout(timeout);
     loading = false;
     loader.removeAttribute('aria-busy');
+    if (next && !failed) {
+      observer.unobserve(loader);
+      observer.observe(loader);
+    }
   }
 }

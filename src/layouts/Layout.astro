@@ -67,6 +67,8 @@ const imageUrl = image ? new URL(image, Astro.site) : undefined;
       });
       const handleImageError = (image: HTMLImageElement) => {
         if (image.hasAttribute('data-preview-suspended') || !image.getAttribute('src')) return;
+        if (!image.complete || image.naturalWidth > 0) return;
+        image.closest('.object-tile')?.removeAttribute('data-preview-loading');
         image.hidden = true;
         const message = image.parentElement?.querySelector<HTMLElement>('.image-unavailable');
         if (message) message.hidden = false;

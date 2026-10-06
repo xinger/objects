@@ -119,4 +119,5 @@ main:focus { outline: none; }
   override-colors: 0 #ededed, 1 #ededed, 2 #ededed, 3 #ededed, 4 #ededed, 5 #ededed, 6 #ededed, 7 #ededed, 8 #ededed, 9 #ededed, 10 #ededed, 11 #ededed, 12 #ededed, 13 #ededed, 14 #ededed, 15 #ededed, 16 #ededed, 17 #ededed, 18 #ededed, 19 #ededed, 20 #ededed, 21 #ededed, 22 #ededed, 23 #ededed, 24 #ededed, 25 #ededed, 26 #ededed, 27 #ededed, 28 #ededed;
 }
 [data-theme='dark'] .wordmark { font-palette: --logo-dark; }
+.object-grid[data-previews-active] .object-tile[data-preview-loading]::after { content: ''; position: absolute; top: 50%; left: 50%; width: 6px; height: 6px; border-radius: 50%; background: var(--muted); transform: translate(-50%, -50%); animation: pending 800ms ease-in-out infinite alternate; pointer-events: none; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme]) .wordmark { font-palette: --logo-dark; } }
