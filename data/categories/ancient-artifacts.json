@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "ancient-artifacts-001-egyptian-scarab",
+    "original": "originals/ancient-artifacts-001-egyptian-scarab-969404e5eb798119.png",
+    "preview": "previews/ancient-artifacts-001-egyptian-scarab-969404e5eb798119.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Faience scarab amulet",
+    "description": "A turquoise faience scarab with worn glaze and finely carved wing details.",
+    "tags": [
+      "ancient artifact",
+      "scarab",
+      "faience",
+      "amulet",
+      "museum style"
+    ],
+    "filename": "001-egyptian-scarab.png"
+  },
+  {
+    "id": "ancient-artifacts-002-greek-amphora",
+    "original": "originals/ancient-artifacts-002-greek-amphora-1c0db7842e7ddff9.png",
+    "preview": "previews/ancient-artifacts-002-greek-amphora-1c0db7842e7ddff9.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Terracotta amphora",
+    "description": "A terracotta amphora with two handles and faded black ornamental bands.",
+    "tags": [
+      "ancient artifact",
+      "amphora",
+      "terracotta",
+      "vessel",
+      "museum style"
+    ],
+    "filename": "002-greek-amphora.png"
+  },
+  {
+    "id": "ancient-artifacts-003-roman-oil-lamp",
+    "original": "originals/ancient-artifacts-003-roman-oil-lamp-07b04506dc00f7bb.png",
+    "preview": "previews/ancient-artifacts-003-roman-oil-lamp-07b04506dc00f7bb.webp",
+    "width": 1426,
+    "height": 1103,
+    "title": "Terracotta oil lamp",
+    "description": "A weathered terracotta oil lamp with a molded floral relief and darkened spout.",
+    "tags": [
+      "ancient artifact",
+      "oil lamp",
+      "terracotta",
+      "relief",
+      "museum style"
+    ],
+    "filename": "003-roman-oil-lamp.png"
+  },
+  {
+    "id": "ancient-artifacts-004-bronze-corinthian-helmet",
+    "original": "originals/ancient-artifacts-004-bronze-corinthian-helmet-c7ec98f66b4d2b6d.png",
+    "preview": "previews/ancient-artifacts-004-bronze-corinthian-helmet-c7ec98f66b4d2b6d.webp",
+    "width": 1191,
+    "height": 1321,
+    "title": "Bronze Corinthian helmet",
+    "description": "A bronze helmet with a narrow nose guard and mottled green patina.",
+    "tags": [
+      "ancient artifact",
+      "helmet",
+      "bronze",
+      "patina",
+      "museum style"
+    ],
+    "filename": "004-bronze-corinthian-helmet.png"
+  },
+  {
+    "id": "ancient-artifacts-005-clay-impression-tablet",
+    "original": "originals/ancient-artifacts-005-clay-impression-tablet-0c58eddb107d2e9f.png",
+    "preview": "previews/ancient-artifacts-005-clay-impression-tablet-0c58eddb107d2e9f.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Clay impression tablet",
+    "description": "A rectangular clay tablet covered with shallow wedge-shaped impressions.",
+    "tags": [
+      "ancient artifact",
+      "tablet",
+      "clay",
+      "impressions",
+      "museum style"
+    ],
+    "filename": "005-clay-impression-tablet.png"
+  },
+  {
+    "id": "ancient-artifacts-006-jade-bi-disc",
+    "original": "originals/ancient-artifacts-006-jade-bi-disc-59b24498a256ff90.png",
+    "preview": "previews/ancient-artifacts-006-jade-bi-disc-59b24498a256ff90.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Jade bi disc",
+    "description": "A circular jade disc with a central opening and softly polished green surface.",
+    "tags": [
+      "ancient artifact",
+      "jade",
+      "disc",
+      "stone",
+      "museum style"
+    ],
+    "filename": "006-jade-bi-disc.png"
+  },
+  {
+    "id": "ancient-artifacts-007-bronze-celtic-torc",
+    "original": "originals/ancient-artifacts-007-bronze-celtic-torc-861653205e2efb08.png",
+    "preview": "previews/ancient-artifacts-007-bronze-celtic-torc-861653205e2efb08.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze torc",
+    "description": "An open bronze neck ring with bulbous terminals and a muted green patina.",
+    "tags": [
+      "ancient artifact",
+      "torc",
+      "bronze",
+      "jewelry",
+      "museum style"
+    ],
+    "filename": "007-bronze-celtic-torc.png"
+  },
+  {
+    "id": "ancient-artifacts-008-obsidian-arrowhead",
+    "original": "originals/ancient-artifacts-008-obsidian-arrowhead-343a3d8a8ba847da.png",
+    "preview": "previews/ancient-artifacts-008-obsidian-arrowhead-343a3d8a8ba847da.webp",
+    "width": 1223,
+    "height": 1286,
+    "title": "Obsidian arrowhead",
+    "description": "A dark obsidian arrowhead with flaked edges and a glossy volcanic texture.",
+    "tags": [
+      "ancient artifact",
+      "arrowhead",
+      "obsidian",
+      "stone",
+      "museum style"
+    ],
+    "filename": "008-obsidian-arrowhead.png"
+  },
+  {
+    "id": "ancient-artifacts-009-egyptian-canopic-jar",
+    "original": "originals/ancient-artifacts-009-egyptian-canopic-jar-32b6806972448cca.png",
+    "preview": "previews/ancient-artifacts-009-egyptian-canopic-jar-32b6806972448cca.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Canopic jar",
+    "description": "A pale stone jar with an integrated jackal-shaped lid and softly worn details.",
+    "tags": [
+      "ancient artifact",
+      "canopic jar",
+      "limestone",
+      "vessel",
+      "museum style"
+    ],
+    "filename": "009-egyptian-canopic-jar.png"
+  },
+  {
+    "id": "ancient-artifacts-010-roman-glass-flask",
+    "original": "originals/ancient-artifacts-010-roman-glass-flask-8441c9fca8658096.png",
+    "preview": "previews/ancient-artifacts-010-roman-glass-flask-8441c9fca8658096.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Iridescent glass flask",
+    "description": "A small glass flask with a long neck and an iridescent blue-green surface.",
+    "tags": [
+      "ancient artifact",
+      "flask",
+      "glass",
+      "iridescent",
+      "museum style"
+    ],
+    "filename": "010-roman-glass-flask.png"
+  },
+  {
+    "id": "ancient-artifacts-011-bronze-fibula",
+    "original": "originals/ancient-artifacts-011-bronze-fibula-77c0144cf4d772bd.png",
+    "preview": "previews/ancient-artifacts-011-bronze-fibula-77c0144cf4d772bd.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze fibula brooch",
+    "description": "An arched bronze brooch with a coiled spring and patches of green patina.",
+    "tags": [
+      "ancient artifact",
+      "fibula",
+      "brooch",
+      "bronze",
+      "museum style"
+    ],
+    "filename": "011-bronze-fibula.png"
+  },
+  {
+    "id": "ancient-artifacts-012-greek-silver-coin",
+    "original": "originals/ancient-artifacts-012-greek-silver-coin-decac31890b0d19e.png",
+    "preview": "previews/ancient-artifacts-012-greek-silver-coin-decac31890b0d19e.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Silver owl coin",
+    "description": "A worn silver coin with a raised owl motif and an irregular edge.",
+    "tags": [
+      "ancient artifact",
+      "coin",
+      "silver",
+      "owl",
+      "museum style"
+    ],
+    "filename": "012-greek-silver-coin.png"
+  },
+  {
+    "id": "ancient-artifacts-013-egyptian-ushabti",
+    "original": "originals/ancient-artifacts-013-egyptian-ushabti-65a21551476d50e6.png",
+    "preview": "previews/ancient-artifacts-013-egyptian-ushabti-65a21551476d50e6.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Faience ushabti figurine",
+    "description": "A slender blue faience figurine with crossed arms and a worn glazed surface.",
+    "tags": [
+      "ancient artifact",
+      "ushabti",
+      "faience",
+      "figurine",
+      "museum style"
+    ],
+    "filename": "013-egyptian-ushabti.png"
+  },
+  {
+    "id": "ancient-artifacts-014-bronze-hand-mirror",
+    "original": "originals/ancient-artifacts-014-bronze-hand-mirror-a4d21ca2d56c8e4e.png",
+    "preview": "previews/ancient-artifacts-014-bronze-hand-mirror-a4d21ca2d56c8e4e.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bronze hand mirror",
+    "description": "A round bronze hand mirror with a long decorated handle and a weathered surface.",
+    "tags": [
+      "ancient artifact",
+      "mirror",
+      "bronze",
+      "handle",
+      "museum style"
+    ],
+    "filename": "014-bronze-hand-mirror.png"
+  },
+  {
+    "id": "ancient-artifacts-015-minoan-rhyton",
+    "original": "originals/ancient-artifacts-015-minoan-rhyton-e95722a3c2495842.png",
+    "preview": "previews/ancient-artifacts-015-minoan-rhyton-e95722a3c2495842.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Bull-head rhyton",
+    "description": "A dark stone bull-head vessel with curved horns and softly polished contours.",
+    "tags": [
+      "ancient artifact",
+      "rhyton",
+      "bull",
+      "steatite",
+      "museum style"
+    ],
+    "filename": "015-minoan-rhyton.png"
+  },
+  {
+    "id": "ancient-artifacts-016-bronze-dagger",
+    "original": "originals/ancient-artifacts-016-bronze-dagger-bc681634339f28b8.png",
+    "preview": "previews/ancient-artifacts-016-bronze-dagger-bc681634339f28b8.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze dagger",
+    "description": "A short bronze dagger with a leaf-shaped blade and a riveted handle.",
+    "tags": [
+      "ancient artifact",
+      "dagger",
+      "bronze",
+      "blade",
+      "museum style"
+    ],
+    "filename": "016-bronze-dagger.png"
+  },
+  {
+    "id": "ancient-artifacts-017-terracotta-ritual-figurine",
+    "original": "originals/ancient-artifacts-017-terracotta-ritual-figurine-78331907d6e66ef6.png",
+    "preview": "previews/ancient-artifacts-017-terracotta-ritual-figurine-78331907d6e66ef6.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Terracotta figurine",
+    "description": "A small terracotta figure with a simple rounded head and folded arms.",
+    "tags": [
+      "ancient artifact",
+      "figurine",
+      "terracotta",
+      "sculpture",
+      "museum style"
+    ],
+    "filename": "017-terracotta-ritual-figurine.png"
+  },
+  {
+    "id": "ancient-artifacts-018-lapis-cylinder-seal",
+    "original": "originals/ancient-artifacts-018-lapis-cylinder-seal-558949d5afdf4e25.png",
+    "preview": "previews/ancient-artifacts-018-lapis-cylinder-seal-558949d5afdf4e25.webp",
+    "width": 1402,
+    "height": 1122,
+    "title": "Lapis cylinder seal",
+    "description": "A deep-blue cylindrical seal carved with an ornamental animal pattern.",
+    "tags": [
+      "ancient artifact",
+      "seal",
+      "lapis lazuli",
+      "cylinder",
+      "museum style"
+    ],
+    "filename": "018-lapis-cylinder-seal.png"
+  },
+  {
+    "id": "ancient-artifacts-019-bronze-spearhead",
+    "original": "originals/ancient-artifacts-019-bronze-spearhead-0b254ed13ac2f5d5.png",
+    "preview": "previews/ancient-artifacts-019-bronze-spearhead-0b254ed13ac2f5d5.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze spearhead",
+    "description": "A long bronze spearhead with a central ridge and a hollow socket.",
+    "tags": [
+      "ancient artifact",
+      "spearhead",
+      "bronze",
+      "socket",
+      "museum style"
+    ],
+    "filename": "019-bronze-spearhead.png"
+  },
+  {
+    "id": "ancient-artifacts-020-stone-mace-head",
+    "original": "originals/ancient-artifacts-020-stone-mace-head-183cc3f3c4d1598e.png",
+    "preview": "previews/ancient-artifacts-020-stone-mace-head-183cc3f3c4d1598e.webp",
+    "width": 1222,
+    "height": 1287,
+    "title": "Stone mace head",
+    "description": "A rounded limestone mace head with a drilled central hole and a grainy surface.",
+    "tags": [
+      "ancient artifact",
+      "mace head",
+      "limestone",
+      "stone",
+      "museum style"
+    ],
+    "filename": "020-stone-mace-head.png"
+  },
+  {
+    "id": "ancient-artifacts-021-gold-rosette-pendant",
+    "original": "originals/ancient-artifacts-021-gold-rosette-pendant-f1dcd68f715d1445.png",
+    "preview": "previews/ancient-artifacts-021-gold-rosette-pendant-f1dcd68f715d1445.webp",
+    "width": 1282,
+    "height": 1227,
+    "title": "Gold rosette pendant",
+    "description": "A warm gold pendant shaped like a rosette with a small suspension loop.",
+    "tags": [
+      "ancient artifact",
+      "pendant",
+      "gold",
+      "rosette",
+      "museum style"
+    ],
+    "filename": "021-gold-rosette-pendant.png"
+  },
+  {
+    "id": "ancient-artifacts-022-ancient-stone-game-board",
+    "original": "originals/ancient-artifacts-022-ancient-stone-game-board-6be7ea0e4f1a3a6a.png",
+    "preview": "previews/ancient-artifacts-022-ancient-stone-game-board-6be7ea0e4f1a3a6a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Stone game board",
+    "description": "A small rectangular stone game board with shallow round playing hollows.",
+    "tags": [
+      "ancient artifact",
+      "game board",
+      "sandstone",
+      "carved stone",
+      "museum style"
+    ],
+    "filename": "022-ancient-stone-game-board.png"
+  },
+  {
+    "id": "ancient-artifacts-023-roman-bronze-key",
+    "original": "originals/ancient-artifacts-023-roman-bronze-key-8a8a05a8ff39ce77.png",
+    "preview": "previews/ancient-artifacts-023-roman-bronze-key-8a8a05a8ff39ce77.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze ring key",
+    "description": "A compact bronze key with an integrated ring handle and angular teeth.",
+    "tags": [
+      "ancient artifact",
+      "key",
+      "bronze",
+      "ring",
+      "museum style"
+    ],
+    "filename": "023-roman-bronze-key.png"
+  },
+  {
+    "id": "ancient-artifacts-024-egyptian-stone-palette",
+    "original": "originals/ancient-artifacts-024-egyptian-stone-palette-aa4984ed0245d9f2.png",
+    "preview": "previews/ancient-artifacts-024-egyptian-stone-palette-aa4984ed0245d9f2.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Stone cosmetic palette",
+    "description": "A flat fish-shaped stone palette with carved eyes and a gently worn surface.",
+    "tags": [
+      "ancient artifact",
+      "palette",
+      "slate",
+      "fish",
+      "museum style"
+    ],
+    "filename": "024-egyptian-stone-palette.png"
+  },
+  {
+    "id": "ancient-artifacts-025-stone-bust",
+    "original": "originals/ancient-artifacts-025-stone-bust-072d0efcc2bb3da6.png",
+    "preview": "previews/ancient-artifacts-025-stone-bust-072d0efcc2bb3da6.webp",
+    "width": 1179,
+    "height": 1334,
+    "title": "Marble bust",
+    "description": "A small marble bust with curled hair and a softly weathered face.",
+    "tags": [
+      "ancient artifact",
+      "bust",
+      "marble",
+      "sculpture",
+      "museum style"
+    ],
+    "filename": "025-stone-bust.png"
+  },
+  {
+    "id": "ancient-artifacts-026-bronze-bell",
+    "original": "originals/ancient-artifacts-026-bronze-bell-b3783f09d9776924.png",
+    "preview": "previews/ancient-artifacts-026-bronze-bell-b3783f09d9776924.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Bronze bell",
+    "description": "A small bronze bell with a rounded body and a sturdy suspension loop.",
+    "tags": [
+      "ancient artifact",
+      "bell",
+      "bronze",
+      "patina",
+      "museum style"
+    ],
+    "filename": "026-bronze-bell.png"
+  },
+  {
+    "id": "ancient-artifacts-027-gold-funerary-mask",
+    "original": "originals/ancient-artifacts-027-gold-funerary-mask-80a4e099f6a76461.png",
+    "preview": "previews/ancient-artifacts-027-gold-funerary-mask-80a4e099f6a76461.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Gold funerary mask",
+    "description": "A thin gold face mask with embossed features and a gently crumpled surface.",
+    "tags": [
+      "ancient artifact",
+      "mask",
+      "gold",
+      "embossed",
+      "museum style"
+    ],
+    "filename": "027-gold-funerary-mask.png"
+  },
+  {
+    "id": "ancient-artifacts-028-bronze-dragon-vessel",
+    "original": "originals/ancient-artifacts-028-bronze-dragon-vessel-950e5ea2d82b1ffe.png",
+    "preview": "previews/ancient-artifacts-028-bronze-dragon-vessel-950e5ea2d82b1ffe.webp",
+    "width": 1234,
+    "height": 1274,
+    "title": "Bronze tripod vessel",
+    "description": "A bronze tripod vessel with two attached handles and stylized animal reliefs.",
+    "tags": [
+      "ancient artifact",
+      "ding",
+      "bronze",
+      "tripod vessel",
+      "museum style"
+    ],
+    "filename": "028-bronze-dragon-vessel.png"
+  },
+  {
+    "id": "ancient-artifacts-029-stone-spindle-whorl",
+    "original": "originals/ancient-artifacts-029-stone-spindle-whorl-c2df1e79a48bf149.png",
+    "preview": "previews/ancient-artifacts-029-stone-spindle-whorl-c2df1e79a48bf149.webp",
+    "width": 1351,
+    "height": 1164,
+    "title": "Stone spindle whorl",
+    "description": "A small circular stone spindle whorl with a central bore and incised bands.",
+    "tags": [
+      "ancient artifact",
+      "spindle whorl",
+      "stone",
+      "disc",
+      "museum style"
+    ],
+    "filename": "029-stone-spindle-whorl.png"
+  },
+  {
+    "id": "ancient-artifacts-030-etruscan-bucchero-cup",
+    "original": "originals/ancient-artifacts-030-etruscan-bucchero-cup-01de56fcd5fe33ec.png",
+    "preview": "previews/ancient-artifacts-030-etruscan-bucchero-cup-01de56fcd5fe33ec.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Black ceramic chalice",
+    "description": "A dark ceramic chalice with a wide bowl and a short integrated stem.",
+    "tags": [
+      "ancient artifact",
+      "chalice",
+      "bucchero",
+      "ceramic",
+      "museum style"
+    ],
+    "filename": "030-etruscan-bucchero-cup.png"
+  },
+  {
+    "id": "ancient-artifacts-031-alabaster-alabastron",
+    "original": "originals/ancient-artifacts-031-alabaster-alabastron-6bb70d96b94ef842.png",
+    "preview": "previews/ancient-artifacts-031-alabaster-alabastron-6bb70d96b94ef842.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Alabaster perfume vessel",
+    "description": "A slender alabaster perfume vessel with a rounded base and a wide disk-shaped rim.",
+    "tags": [
+      "ancient artifact",
+      "alabastron",
+      "alabaster",
+      "perfume vessel",
+      "museum style"
+    ],
+    "filename": "031-alabaster-alabastron.png"
+  },
+  {
+    "id": "ancient-artifacts-032-terracotta-lekythos",
+    "original": "originals/ancient-artifacts-032-terracotta-lekythos-94e2b9dd30739287.png",
+    "preview": "previews/ancient-artifacts-032-terracotta-lekythos-94e2b9dd30739287.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Painted lekythos",
+    "description": "A slender terracotta oil vessel with one attached handle, a narrow neck, and faded black vine decoration.",
+    "tags": [
+      "ancient artifact",
+      "lekythos",
+      "terracotta",
+      "oil vessel",
+      "museum style"
+    ],
+    "filename": "032-terracotta-lekythos.png"
+  },
+  {
+    "id": "ancient-artifacts-033-red-figure-kylix",
+    "original": "originals/ancient-artifacts-033-red-figure-kylix-5acfc8f2f7885f8d.png",
+    "preview": "previews/ancient-artifacts-033-red-figure-kylix-5acfc8f2f7885f8d.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Terracotta drinking cup",
+    "description": "A shallow terracotta drinking cup with two attached horizontal handles, a short foot, and faded red leaf motifs on black glaze.",
+    "tags": [
+      "ancient artifact",
+      "kylix",
+      "terracotta",
+      "drinking cup",
+      "museum style"
+    ],
+    "filename": "033-red-figure-kylix.png"
+  },
+  {
+    "id": "ancient-artifacts-034-corinthian-aryballos",
+    "original": "originals/ancient-artifacts-034-corinthian-aryballos-82023e30d61873c3.png",
+    "preview": "previews/ancient-artifacts-034-corinthian-aryballos-82023e30d61873c3.webp",
+    "width": 1295,
+    "height": 1214,
+    "title": "Round perfume flask",
+    "description": "A small round terracotta perfume flask with a tiny attached handle and faded ochre floral bands.",
+    "tags": [
+      "ancient artifact",
+      "aryballos",
+      "terracotta",
+      "perfume flask",
+      "museum style"
+    ],
+    "filename": "034-corinthian-aryballos.png"
+  },
+  {
+    "id": "ancient-artifacts-035-terracotta-askos",
+    "original": "originals/ancient-artifacts-035-terracotta-askos-5ad15c70a1031e79.png",
+    "preview": "previews/ancient-artifacts-035-terracotta-askos-5ad15c70a1031e79.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Spouted terracotta askos",
+    "description": "An oval terracotta vessel with one off-center pouring spout and an integrated arched handle.",
+    "tags": [
+      "ancient artifact",
+      "askos",
+      "terracotta",
+      "vessel",
+      "museum style"
+    ],
+    "filename": "035-terracotta-askos.png"
+  },
+  {
+    "id": "ancient-artifacts-036-silver-drinking-horn",
+    "original": "originals/ancient-artifacts-036-silver-drinking-horn-cc69f4808ba0081d.png",
+    "preview": "previews/ancient-artifacts-036-silver-drinking-horn-cc69f4808ba0081d.webp",
+    "width": 1223,
+    "height": 1286,
+    "title": "Silver drinking horn",
+    "description": "A curved silver drinking horn ending in a sculpted ibex head, with a worn fluted rim and a softly tarnished surface.",
+    "tags": [
+      "ancient artifact",
+      "rhyton",
+      "silver",
+      "ibex",
+      "museum style"
+    ],
+    "filename": "036-silver-drinking-horn.png"
+  },
+  {
+    "id": "ancient-artifacts-037-faience-lotus-chalice",
+    "original": "originals/ancient-artifacts-037-faience-lotus-chalice-ad202ec36d22c93b.png",
+    "preview": "previews/ancient-artifacts-037-faience-lotus-chalice-ad202ec36d22c93b.webp",
+    "width": 1217,
+    "height": 1293,
+    "title": "Faience lotus chalice",
+    "description": "A turquoise faience chalice shaped like a lotus bloom, with incised petals and a short integrated stem.",
+    "tags": [
+      "ancient artifact",
+      "chalice",
+      "faience",
+      "lotus",
+      "museum style"
+    ],
+    "filename": "037-faience-lotus-chalice.png"
+  },
+  {
+    "id": "ancient-artifacts-038-basalt-bowl",
+    "original": "originals/ancient-artifacts-038-basalt-bowl-0da7eaba5d9a4f3e.png",
+    "preview": "previews/ancient-artifacts-038-basalt-bowl-0da7eaba5d9a4f3e.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Basalt bowl",
+    "description": "A shallow dark basalt bowl with a thick rounded rim and subtly mottled volcanic stone.",
+    "tags": [
+      "ancient artifact",
+      "bowl",
+      "basalt",
+      "stone",
+      "museum style"
+    ],
+    "filename": "038-basalt-bowl.png"
+  },
+  {
+    "id": "ancient-artifacts-039-limestone-mortar",
+    "original": "originals/ancient-artifacts-039-limestone-mortar-aec5cde92fbb8f97.png",
+    "preview": "previews/ancient-artifacts-039-limestone-mortar-aec5cde92fbb8f97.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Limestone mortar",
+    "description": "A squat limestone mortar with a deep hollow, thick rounded walls, and a softly worn rim.",
+    "tags": [
+      "ancient artifact",
+      "mortar",
+      "limestone",
+      "stone",
+      "museum style"
+    ],
+    "filename": "039-limestone-mortar.png"
+  },
+  {
+    "id": "ancient-artifacts-040-granite-handstone",
+    "original": "originals/ancient-artifacts-040-granite-handstone-ba130c9212a16177.png",
+    "preview": "previews/ancient-artifacts-040-granite-handstone-ba130c9212a16177.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Granite grinding stone",
+    "description": "An oval granite handstone with a flattened grinding face and a finely speckled worn surface.",
+    "tags": [
+      "ancient artifact",
+      "handstone",
+      "granite",
+      "grinding tool",
+      "museum style"
+    ],
+    "filename": "040-granite-handstone.png"
+  },
+  {
+    "id": "ancient-artifacts-041-calcite-cosmetic-spoon",
+    "original": "originals/ancient-artifacts-041-calcite-cosmetic-spoon-3b088f451b0e1c79.png",
+    "preview": "previews/ancient-artifacts-041-calcite-cosmetic-spoon-3b088f451b0e1c79.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Calcite cosmetic spoon",
+    "description": "A pale calcite cosmetic spoon with a shallow oval bowl and an integrated handle carved as a swimming duck.",
+    "tags": [
+      "ancient artifact",
+      "spoon",
+      "calcite",
+      "duck",
+      "museum style"
+    ],
+    "filename": "041-calcite-cosmetic-spoon.png"
+  },
+  {
+    "id": "ancient-artifacts-042-bronze-ladle",
+    "original": "originals/ancient-artifacts-042-bronze-ladle-a38ffdbe15d10790.png",
+    "preview": "previews/ancient-artifacts-042-bronze-ladle-a38ffdbe15d10790.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze ladle",
+    "description": "A bronze ladle with a deep round cup and a long curved handle ending in a small hook.",
+    "tags": [
+      "ancient artifact",
+      "ladle",
+      "bronze",
+      "utensil",
+      "museum style"
+    ],
+    "filename": "042-bronze-ladle.png"
+  },
+  {
+    "id": "ancient-artifacts-043-bronze-strainer",
+    "original": "originals/ancient-artifacts-043-bronze-strainer-934fb596586b590c.png",
+    "preview": "previews/ancient-artifacts-043-bronze-strainer-934fb596586b590c.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze strainer",
+    "description": "A shallow bronze strainer with tiny round perforations and one long integrated handle.",
+    "tags": [
+      "ancient artifact",
+      "strainer",
+      "bronze",
+      "utensil",
+      "museum style"
+    ],
+    "filename": "043-bronze-strainer.png"
+  },
+  {
+    "id": "ancient-artifacts-044-bronze-pan",
+    "original": "originals/ancient-artifacts-044-bronze-pan-ada829c3e440aada.png",
+    "preview": "previews/ancient-artifacts-044-bronze-pan-ada829c3e440aada.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze cooking pan",
+    "description": "A broad shallow bronze pan with a short attached handle and a weathered dark interior.",
+    "tags": [
+      "ancient artifact",
+      "pan",
+      "bronze",
+      "cooking vessel",
+      "museum style"
+    ],
+    "filename": "044-bronze-pan.png"
+  },
+  {
+    "id": "ancient-artifacts-045-bronze-cauldron",
+    "original": "originals/ancient-artifacts-045-bronze-cauldron-b870d732f23537d0.png",
+    "preview": "previews/ancient-artifacts-045-bronze-cauldron-b870d732f23537d0.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze cauldron",
+    "description": "A squat hammered bronze cauldron with two attached side loops and a dark patinated surface.",
+    "tags": [
+      "ancient artifact",
+      "cauldron",
+      "bronze",
+      "vessel",
+      "museum style"
+    ],
+    "filename": "045-bronze-cauldron.png"
+  },
+  {
+    "id": "ancient-artifacts-046-bronze-oinochoe",
+    "original": "originals/ancient-artifacts-046-bronze-oinochoe-96b640326f63aaea.png",
+    "preview": "previews/ancient-artifacts-046-bronze-oinochoe-96b640326f63aaea.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Bronze wine jug",
+    "description": "A bronze wine jug with a trefoil pouring lip, an attached curved handle, and raised vine decoration.",
+    "tags": [
+      "ancient artifact",
+      "oinochoe",
+      "bronze",
+      "jug",
+      "museum style"
+    ],
+    "filename": "046-bronze-oinochoe.png"
+  },
+  {
+    "id": "ancient-artifacts-047-fluted-silver-bowl",
+    "original": "originals/ancient-artifacts-047-fluted-silver-bowl-00822f96e8fd1baa.png",
+    "preview": "previews/ancient-artifacts-047-fluted-silver-bowl-00822f96e8fd1baa.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Fluted silver bowl",
+    "description": "A shallow silver bowl with radial fluting and a softly tarnished scalloped rim.",
+    "tags": [
+      "ancient artifact",
+      "bowl",
+      "silver",
+      "fluted",
+      "museum style"
+    ],
+    "filename": "047-fluted-silver-bowl.png"
+  },
+  {
+    "id": "ancient-artifacts-048-alabaster-kohl-pot",
+    "original": "originals/ancient-artifacts-048-alabaster-kohl-pot-064cd6bfb4435dab.png",
+    "preview": "previews/ancient-artifacts-048-alabaster-kohl-pot-064cd6bfb4435dab.webp",
+    "width": 1210,
+    "height": 1300,
+    "title": "Alabaster kohl pot",
+    "description": "A tiny pale alabaster kohl pot with thick walls, a narrow opening, and softly banded stone.",
+    "tags": [
+      "ancient artifact",
+      "kohl pot",
+      "alabaster",
+      "cosmetics",
+      "museum style"
+    ],
+    "filename": "048-alabaster-kohl-pot.png"
+  },
+  {
+    "id": "ancient-artifacts-049-bone-kohl-applicator",
+    "original": "originals/ancient-artifacts-049-bone-kohl-applicator-a302b356fb2a60ac.png",
+    "preview": "previews/ancient-artifacts-049-bone-kohl-applicator-a302b356fb2a60ac.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bone kohl applicator",
+    "description": "A slender bone cosmetic applicator with a smooth tapered tip and a carved finial shaped like a small leaf.",
+    "tags": [
+      "ancient artifact",
+      "applicator",
+      "bone",
+      "cosmetics",
+      "museum style"
+    ],
+    "filename": "049-bone-kohl-applicator.png"
+  },
+  {
+    "id": "ancient-artifacts-050-faience-hippopotamus",
+    "original": "originals/ancient-artifacts-050-faience-hippopotamus-271734e669868bb6.png",
+    "preview": "previews/ancient-artifacts-050-faience-hippopotamus-271734e669868bb6.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Faience hippopotamus",
+    "description": "A small turquoise faience hippopotamus figurine with dark lotus motifs and softly worn glaze.",
+    "tags": [
+      "ancient artifact",
+      "hippopotamus",
+      "faience",
+      "figurine",
+      "museum style"
+    ],
+    "filename": "050-faience-hippopotamus.png"
+  },
+  {
+    "id": "ancient-artifacts-051-faience-eye-amulet",
+    "original": "originals/ancient-artifacts-051-faience-eye-amulet-29e84f6fdf0b8745.png",
+    "preview": "previews/ancient-artifacts-051-faience-eye-amulet-29e84f6fdf0b8745.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Faience eye amulet",
+    "description": "A blue-green faience eye amulet with raised eyelid contours and dark inset-looking line details.",
+    "tags": [
+      "ancient artifact",
+      "eye amulet",
+      "faience",
+      "jewelry",
+      "museum style"
+    ],
+    "filename": "051-faience-eye-amulet.png"
+  },
+  {
+    "id": "ancient-artifacts-052-carnelian-djed-amulet",
+    "original": "originals/ancient-artifacts-052-carnelian-djed-amulet-d46afc088b01df20.png",
+    "preview": "previews/ancient-artifacts-052-carnelian-djed-amulet-d46afc088b01df20.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Carnelian djed amulet",
+    "description": "A translucent orange-red carnelian amulet shaped like a column with four horizontal bars and a small suspension hole.",
+    "tags": [
+      "ancient artifact",
+      "djed",
+      "carnelian",
+      "amulet",
+      "museum style"
+    ],
+    "filename": "052-carnelian-djed-amulet.png"
+  },
+  {
+    "id": "ancient-artifacts-053-jasper-papyrus-amulet",
+    "original": "originals/ancient-artifacts-053-jasper-papyrus-amulet-bd1818689ad74413.png",
+    "preview": "previews/ancient-artifacts-053-jasper-papyrus-amulet-bd1818689ad74413.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Jasper papyrus amulet",
+    "description": "A dark green jasper amulet shaped like a papyrus stalk with an open flower and a small drilled suspension hole.",
+    "tags": [
+      "ancient artifact",
+      "papyrus",
+      "jasper",
+      "amulet",
+      "museum style"
+    ],
+    "filename": "053-jasper-papyrus-amulet.png"
+  },
+  {
+    "id": "ancient-artifacts-054-gold-lotus-earring",
+    "original": "originals/ancient-artifacts-054-gold-lotus-earring-3eb15fea3049e54a.png",
+    "preview": "previews/ancient-artifacts-054-gold-lotus-earring-3eb15fea3049e54a.webp",
+    "width": 1086,
+    "height": 1448,
+    "title": "Gold lotus earring",
+    "description": "A single gold earring with a curved integrated hook and a delicately embossed lotus-bloom pendant.",
+    "tags": [
+      "ancient artifact",
+      "earring",
+      "gold",
+      "lotus",
+      "museum style"
+    ],
+    "filename": "054-gold-lotus-earring.png"
+  },
+  {
+    "id": "ancient-artifacts-055-gold-snake-armband",
+    "original": "originals/ancient-artifacts-055-gold-snake-armband-57f622053b3fef10.png",
+    "preview": "previews/ancient-artifacts-055-gold-snake-armband-57f622053b3fef10.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Gold snake armband",
+    "description": "A single gold armband formed as a coiled snake with a modeled head and lightly incised scales.",
+    "tags": [
+      "ancient artifact",
+      "armband",
+      "gold",
+      "snake",
+      "museum style"
+    ],
+    "filename": "055-gold-snake-armband.png"
+  },
+  {
+    "id": "ancient-artifacts-056-gold-spiral-ring",
+    "original": "originals/ancient-artifacts-056-gold-spiral-ring-86089cd8e10f38fd.png",
+    "preview": "previews/ancient-artifacts-056-gold-spiral-ring-86089cd8e10f38fd.webp",
+    "width": 1334,
+    "height": 1179,
+    "title": "Gold spiral ring",
+    "description": "A gold finger ring made from one curled spiral wire with flattened ornamental ends.",
+    "tags": [
+      "ancient artifact",
+      "ring",
+      "gold",
+      "spiral",
+      "museum style"
+    ],
+    "filename": "056-gold-spiral-ring.png"
+  },
+  {
+    "id": "ancient-artifacts-057-garnet-intaglio-ring",
+    "original": "originals/ancient-artifacts-057-garnet-intaglio-ring-b5a1a1aa082b115c.png",
+    "preview": "previews/ancient-artifacts-057-garnet-intaglio-ring-b5a1a1aa082b115c.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Garnet intaglio ring",
+    "description": "A worn gold ring set with one dark red oval garnet carved with a tiny abstract bird motif.",
+    "tags": [
+      "ancient artifact",
+      "ring",
+      "garnet",
+      "intaglio",
+      "museum style"
+    ],
+    "filename": "057-garnet-intaglio-ring.png"
+  },
+  {
+    "id": "ancient-artifacts-058-gold-leaf-diadem",
+    "original": "originals/ancient-artifacts-058-gold-leaf-diadem-eeb0367c263569e2.png",
+    "preview": "previews/ancient-artifacts-058-gold-leaf-diadem-eeb0367c263569e2.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Gold leaf diadem",
+    "description": "A single curved gold diadem with attached laurel leaves and a narrow softly hammered band.",
+    "tags": [
+      "ancient artifact",
+      "diadem",
+      "gold",
+      "laurel",
+      "museum style"
+    ],
+    "filename": "058-gold-leaf-diadem.png"
+  },
+  {
+    "id": "ancient-artifacts-059-bronze-belt-buckle",
+    "original": "originals/ancient-artifacts-059-bronze-belt-buckle-08ccc3c2eefc38db.png",
+    "preview": "previews/ancient-artifacts-059-bronze-belt-buckle-08ccc3c2eefc38db.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze belt buckle",
+    "description": "A bronze belt buckle with an oval frame, an attached tongue, and geometric relief on the integrated plate.",
+    "tags": [
+      "ancient artifact",
+      "buckle",
+      "bronze",
+      "belt",
+      "museum style"
+    ],
+    "filename": "059-bronze-belt-buckle.png"
+  },
+  {
+    "id": "ancient-artifacts-060-bronze-cloak-pin",
+    "original": "originals/ancient-artifacts-060-bronze-cloak-pin-62ae61f822013ae2.png",
+    "preview": "previews/ancient-artifacts-060-bronze-cloak-pin-62ae61f822013ae2.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bronze cloak pin",
+    "description": "A long bronze cloak pin with a broad wheel-shaped head and subtle incised circles.",
+    "tags": [
+      "ancient artifact",
+      "cloak pin",
+      "bronze",
+      "fastener",
+      "museum style"
+    ],
+    "filename": "060-bronze-cloak-pin.png"
+  },
+  {
+    "id": "ancient-artifacts-061-jade-cong",
+    "original": "originals/ancient-artifacts-061-jade-cong-a771174022fa49da.png",
+    "preview": "previews/ancient-artifacts-061-jade-cong-a771174022fa49da.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Jade cong tube",
+    "description": "A pale green jade cong with a square outer form, a round central bore, and shallow abstract face reliefs.",
+    "tags": [
+      "ancient artifact",
+      "cong",
+      "jade",
+      "tube",
+      "museum style"
+    ],
+    "filename": "061-jade-cong.png"
+  },
+  {
+    "id": "ancient-artifacts-062-jade-dragon-pendant",
+    "original": "originals/ancient-artifacts-062-jade-dragon-pendant-53ecfe28d8c51a2e.png",
+    "preview": "previews/ancient-artifacts-062-jade-dragon-pendant-53ecfe28d8c51a2e.webp",
+    "width": 1224,
+    "height": 1285,
+    "title": "Jade dragon pendant",
+    "description": "A curved green jade pendant carved as a stylized dragon with a curled body and a small suspension hole.",
+    "tags": [
+      "ancient artifact",
+      "pendant",
+      "jade",
+      "dragon",
+      "museum style"
+    ],
+    "filename": "062-jade-dragon-pendant.png"
+  },
+  {
+    "id": "ancient-artifacts-063-jade-ceremonial-axe",
+    "original": "originals/ancient-artifacts-063-jade-ceremonial-axe-e718d0f2fda5e3a9.png",
+    "preview": "previews/ancient-artifacts-063-jade-ceremonial-axe-e718d0f2fda5e3a9.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Jade ceremonial axe",
+    "description": "A flat pale green jade ceremonial axe blade with a flared cutting edge and a drilled mounting hole.",
+    "tags": [
+      "ancient artifact",
+      "axe blade",
+      "jade",
+      "ceremonial object",
+      "museum style"
+    ],
+    "filename": "063-jade-ceremonial-axe.png"
+  },
+  {
+    "id": "ancient-artifacts-064-jade-comb",
+    "original": "originals/ancient-artifacts-064-jade-comb-7eec5f6d7163c7a9.png",
+    "preview": "previews/ancient-artifacts-064-jade-comb-7eec5f6d7163c7a9.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Jade comb",
+    "description": "A compact olive-green jade comb with broad teeth and an arched carved upper edge.",
+    "tags": [
+      "ancient artifact",
+      "comb",
+      "jade",
+      "grooming",
+      "museum style"
+    ],
+    "filename": "064-jade-comb.png"
+  },
+  {
+    "id": "ancient-artifacts-065-bone-comb",
+    "original": "originals/ancient-artifacts-065-bone-comb-b422468cc9f75d8b.png",
+    "preview": "previews/ancient-artifacts-065-bone-comb-b422468cc9f75d8b.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bone comb",
+    "description": "A rectangular bone comb with closely spaced teeth, a reinforced carved spine, and warm aged ivory tones.",
+    "tags": [
+      "ancient artifact",
+      "comb",
+      "bone",
+      "grooming",
+      "museum style"
+    ],
+    "filename": "065-bone-comb.png"
+  },
+  {
+    "id": "ancient-artifacts-066-carved-ivory-hairpin",
+    "original": "originals/ancient-artifacts-066-carved-ivory-hairpin-e94ef11d67056fd0.png",
+    "preview": "previews/ancient-artifacts-066-carved-ivory-hairpin-e94ef11d67056fd0.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Carved ivory hairpin",
+    "description": "A slender ivory-colored carved hairpin with a curled ram-head finial and a softly worn shaft.",
+    "tags": [
+      "ancient artifact",
+      "hairpin",
+      "carved material",
+      "ram",
+      "museum style"
+    ],
+    "filename": "066-carved-ivory-hairpin.png"
+  },
+  {
+    "id": "ancient-artifacts-067-bronze-razor",
+    "original": "originals/ancient-artifacts-067-bronze-razor-a9dad2426af05750.png",
+    "preview": "previews/ancient-artifacts-067-bronze-razor-a9dad2426af05750.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze razor",
+    "description": "A crescent-shaped bronze razor with an integrated short handle, a gently worn edge, and green patina.",
+    "tags": [
+      "ancient artifact",
+      "razor",
+      "bronze",
+      "grooming",
+      "museum style"
+    ],
+    "filename": "067-bronze-razor.png"
+  },
+  {
+    "id": "ancient-artifacts-068-bronze-tweezers",
+    "original": "originals/ancient-artifacts-068-bronze-tweezers-bd4888ff6044018e.png",
+    "preview": "previews/ancient-artifacts-068-bronze-tweezers-bd4888ff6044018e.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze tweezers",
+    "description": "A single folded bronze tweezer tool with two joined tapered arms and dark green oxidation.",
+    "tags": [
+      "ancient artifact",
+      "tweezers",
+      "bronze",
+      "tool",
+      "museum style"
+    ],
+    "filename": "068-bronze-tweezers.png"
+  },
+  {
+    "id": "ancient-artifacts-069-bronze-medical-probe",
+    "original": "originals/ancient-artifacts-069-bronze-medical-probe-0371f3771e1d7f10.png",
+    "preview": "previews/ancient-artifacts-069-bronze-medical-probe-0371f3771e1d7f10.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bronze probe",
+    "description": "A slender bronze probe with a small rounded tip and a spoon-shaped end on the same shaft.",
+    "tags": [
+      "ancient artifact",
+      "probe",
+      "bronze",
+      "instrument",
+      "museum style"
+    ],
+    "filename": "069-bronze-medical-probe.png"
+  },
+  {
+    "id": "ancient-artifacts-070-iron-forceps",
+    "original": "originals/ancient-artifacts-070-iron-forceps-11556885b4105a7e.png",
+    "preview": "previews/ancient-artifacts-070-iron-forceps-11556885b4105a7e.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Iron forceps",
+    "description": "A single iron forceps tool with two joined curved arms, blunt jaws, and a worn dark brown surface.",
+    "tags": [
+      "ancient artifact",
+      "forceps",
+      "iron",
+      "instrument",
+      "museum style"
+    ],
+    "filename": "070-iron-forceps.png"
+  },
+  {
+    "id": "ancient-artifacts-071-duck-stone-weight",
+    "original": "originals/ancient-artifacts-071-duck-stone-weight-3f6d321c3b5fec7c.png",
+    "preview": "previews/ancient-artifacts-071-duck-stone-weight-3f6d321c3b5fec7c.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Duck-shaped stone weight",
+    "description": "A polished dark stone weight carved as a sleeping duck with its head folded back onto its body.",
+    "tags": [
+      "ancient artifact",
+      "weight",
+      "stone",
+      "duck",
+      "museum style"
+    ],
+    "filename": "071-duck-stone-weight.png"
+  },
+  {
+    "id": "ancient-artifacts-072-bronze-scale-pan",
+    "original": "originals/ancient-artifacts-072-bronze-scale-pan-27429a0a623c3344.png",
+    "preview": "previews/ancient-artifacts-072-bronze-scale-pan-27429a0a623c3344.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze scale pan",
+    "description": "A shallow circular bronze scale pan with three small suspension holes near the rim and a mottled patina.",
+    "tags": [
+      "ancient artifact",
+      "scale pan",
+      "bronze",
+      "measurement",
+      "museum style"
+    ],
+    "filename": "072-bronze-scale-pan.png"
+  },
+  {
+    "id": "ancient-artifacts-073-stone-hemispherical-sundial",
+    "original": "originals/ancient-artifacts-073-stone-hemispherical-sundial-816cdb4bc2f12e9b.png",
+    "preview": "previews/ancient-artifacts-073-stone-hemispherical-sundial-816cdb4bc2f12e9b.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Stone sundial",
+    "description": "A single sandstone sundial block with a carved hemispherical recess, fine radial grooves, and one integrated short bronze gnomon.",
+    "tags": [
+      "ancient artifact",
+      "sundial",
+      "sandstone",
+      "measurement",
+      "museum style"
+    ],
+    "filename": "073-stone-hemispherical-sundial.png"
+  },
+  {
+    "id": "ancient-artifacts-074-bronze-dividers",
+    "original": "originals/ancient-artifacts-074-bronze-dividers-869c26cccd3144f3.png",
+    "preview": "previews/ancient-artifacts-074-bronze-dividers-869c26cccd3144f3.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bronze dividers",
+    "description": "A single bronze divider instrument with two pointed legs joined at one rounded hinge.",
+    "tags": [
+      "ancient artifact",
+      "dividers",
+      "bronze",
+      "measurement",
+      "museum style"
+    ],
+    "filename": "074-bronze-dividers.png"
+  },
+  {
+    "id": "ancient-artifacts-075-bronze-caliper",
+    "original": "originals/ancient-artifacts-075-bronze-caliper-dd4ce6533aeb5048.png",
+    "preview": "previews/ancient-artifacts-075-bronze-caliper-dd4ce6533aeb5048.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze caliper",
+    "description": "A single bronze caliper with two curved arms connected by a central pivot and softly worn gripping tips.",
+    "tags": [
+      "ancient artifact",
+      "caliper",
+      "bronze",
+      "measurement",
+      "museum style"
+    ],
+    "filename": "075-bronze-caliper.png"
+  },
+  {
+    "id": "ancient-artifacts-076-bone-game-die",
+    "original": "originals/ancient-artifacts-076-bone-game-die-c1c4a89aee581b5a.png",
+    "preview": "previews/ancient-artifacts-076-bone-game-die-c1c4a89aee581b5a.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Bone game die",
+    "description": "A single small bone game die with rounded worn corners and shallow circular pips on its visible faces.",
+    "tags": [
+      "ancient artifact",
+      "die",
+      "bone",
+      "game",
+      "museum style"
+    ],
+    "filename": "076-bone-game-die.png"
+  },
+  {
+    "id": "ancient-artifacts-077-knucklebone-game-piece",
+    "original": "originals/ancient-artifacts-077-knucklebone-game-piece-9fa536a6302e5ca8.png",
+    "preview": "previews/ancient-artifacts-077-knucklebone-game-piece-9fa536a6302e5ca8.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Knucklebone game piece",
+    "description": "A single smooth cream-colored knucklebone gaming piece with rounded natural contours and subtle surface wear.",
+    "tags": [
+      "ancient artifact",
+      "knucklebone",
+      "bone",
+      "game",
+      "museum style"
+    ],
+    "filename": "077-knucklebone-game-piece.png"
+  },
+  {
+    "id": "ancient-artifacts-078-bone-flute",
+    "original": "originals/ancient-artifacts-078-bone-flute-4a7b29c3a6aa0f2e.png",
+    "preview": "previews/ancient-artifacts-078-bone-flute-4a7b29c3a6aa0f2e.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bone flute",
+    "description": "A slender bone flute with evenly spaced finger holes and a gently beveled mouth opening.",
+    "tags": [
+      "ancient artifact",
+      "flute",
+      "bone",
+      "musical instrument",
+      "museum style"
+    ],
+    "filename": "078-bone-flute.png"
+  },
+  {
+    "id": "ancient-artifacts-079-terracotta-ocarina",
+    "original": "originals/ancient-artifacts-079-terracotta-ocarina-cced076dd5d727d3.png",
+    "preview": "previews/ancient-artifacts-079-terracotta-ocarina-cced076dd5d727d3.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Terracotta ocarina",
+    "description": "A small rounded terracotta ocarina with finger holes and an integrated short mouthpiece.",
+    "tags": [
+      "ancient artifact",
+      "ocarina",
+      "terracotta",
+      "musical instrument",
+      "museum style"
+    ],
+    "filename": "079-terracotta-ocarina.png"
+  },
+  {
+    "id": "ancient-artifacts-080-clay-bird-whistle",
+    "original": "originals/ancient-artifacts-080-clay-bird-whistle-36b89375528aee12.png",
+    "preview": "previews/ancient-artifacts-080-clay-bird-whistle-36b89375528aee12.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Clay bird whistle",
+    "description": "A small terracotta whistle shaped like a plump bird with an integrated tail mouthpiece and incised feathers.",
+    "tags": [
+      "ancient artifact",
+      "whistle",
+      "clay",
+      "bird",
+      "museum style"
+    ],
+    "filename": "080-clay-bird-whistle.png"
+  },
+  {
+    "id": "ancient-artifacts-081-bronze-cymbal",
+    "original": "originals/ancient-artifacts-081-bronze-cymbal-4549f4c29cee52d1.png",
+    "preview": "previews/ancient-artifacts-081-bronze-cymbal-4549f4c29cee52d1.webp",
+    "width": 1362,
+    "height": 1155,
+    "title": "Bronze cymbal",
+    "description": "A single round bronze cymbal with a raised central boss and a small center hole, without cords or a second cymbal.",
+    "tags": [
+      "ancient artifact",
+      "cymbal",
+      "bronze",
+      "musical instrument",
+      "museum style"
+    ],
+    "filename": "081-bronze-cymbal.png"
+  },
+  {
+    "id": "ancient-artifacts-082-bronze-sistrum",
+    "original": "originals/ancient-artifacts-082-bronze-sistrum-e0c087b1e3450895.png",
+    "preview": "previews/ancient-artifacts-082-bronze-sistrum-e0c087b1e3450895.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bronze sistrum",
+    "description": "A single bronze sistrum with an integrated handle, an arched frame, and three attached horizontal rattle rods.",
+    "tags": [
+      "ancient artifact",
+      "sistrum",
+      "bronze",
+      "musical instrument",
+      "museum style"
+    ],
+    "filename": "082-bronze-sistrum.png"
+  },
+  {
+    "id": "ancient-artifacts-083-bronze-ritual-drum",
+    "original": "originals/ancient-artifacts-083-bronze-ritual-drum-b8e9072ce034a112.png",
+    "preview": "previews/ancient-artifacts-083-bronze-ritual-drum-b8e9072ce034a112.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Bronze ritual drum",
+    "description": "A single bronze ritual drum with a flat circular top, a short cylindrical body, and concentric geometric relief bands.",
+    "tags": [
+      "ancient artifact",
+      "drum",
+      "bronze",
+      "musical instrument",
+      "museum style"
+    ],
+    "filename": "083-bronze-ritual-drum.png"
+  },
+  {
+    "id": "ancient-artifacts-084-bronze-socketed-axe",
+    "original": "originals/ancient-artifacts-084-bronze-socketed-axe-e4f73d5112790ae6.png",
+    "preview": "previews/ancient-artifacts-084-bronze-socketed-axe-e4f73d5112790ae6.webp",
+    "width": 1161,
+    "height": 1354,
+    "title": "Bronze socketed axe",
+    "description": "A bronze socketed axe head with a flared blade, a hollow mounting socket, and one integrated side loop.",
+    "tags": [
+      "ancient artifact",
+      "axe head",
+      "bronze",
+      "socket",
+      "museum style"
+    ],
+    "filename": "084-bronze-socketed-axe.png"
+  },
+  {
+    "id": "ancient-artifacts-085-flint-sickle-blade",
+    "original": "originals/ancient-artifacts-085-flint-sickle-blade-66188ff31cf36a2f.png",
+    "preview": "previews/ancient-artifacts-085-flint-sickle-blade-66188ff31cf36a2f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Flint sickle blade",
+    "description": "A curved flint sickle blade with a serrated inner edge and warm honey-brown stone.",
+    "tags": [
+      "ancient artifact",
+      "sickle blade",
+      "flint",
+      "tool",
+      "museum style"
+    ],
+    "filename": "085-flint-sickle-blade.png"
+  },
+  {
+    "id": "ancient-artifacts-086-bronze-shield-boss",
+    "original": "originals/ancient-artifacts-086-bronze-shield-boss-0d3d19818de02baa.png",
+    "preview": "previews/ancient-artifacts-086-bronze-shield-boss-0d3d19818de02baa.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Bronze shield boss",
+    "description": "A circular bronze shield boss with a domed center, a wide flat flange, and evenly spaced rivet holes.",
+    "tags": [
+      "ancient artifact",
+      "shield boss",
+      "bronze",
+      "armor",
+      "museum style"
+    ],
+    "filename": "086-bronze-shield-boss.png"
+  },
+  {
+    "id": "ancient-artifacts-087-bronze-greave",
+    "original": "originals/ancient-artifacts-087-bronze-greave-789b3240ce12287f.png",
+    "preview": "previews/ancient-artifacts-087-bronze-greave-789b3240ce12287f.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bronze greave",
+    "description": "A single bronze shin guard with modeled calf contours and a softly flared upper rim.",
+    "tags": [
+      "ancient artifact",
+      "greave",
+      "bronze",
+      "armor",
+      "museum style"
+    ],
+    "filename": "087-bronze-greave.png"
+  },
+  {
+    "id": "ancient-artifacts-088-bronze-sword",
+    "original": "originals/ancient-artifacts-088-bronze-sword-271c5507cd9f74ba.png",
+    "preview": "previews/ancient-artifacts-088-bronze-sword-271c5507cd9f74ba.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bronze sword",
+    "description": "A complete bronze sword with a long leaf-shaped blade and an integrated ridged handle with a rounded pommel.",
+    "tags": [
+      "ancient artifact",
+      "sword",
+      "bronze",
+      "blade",
+      "museum style"
+    ],
+    "filename": "088-bronze-sword.png"
+  },
+  {
+    "id": "ancient-artifacts-089-terracotta-palmette",
+    "original": "originals/ancient-artifacts-089-terracotta-palmette-740059d0567e6965.png",
+    "preview": "previews/ancient-artifacts-089-terracotta-palmette-740059d0567e6965.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Terracotta palmette ornament",
+    "description": "A single terracotta architectural ornament shaped like an upright palmette with raised curling leaves.",
+    "tags": [
+      "ancient artifact",
+      "palmette",
+      "terracotta",
+      "architectural ornament",
+      "museum style"
+    ],
+    "filename": "089-terracotta-palmette.png"
+  },
+  {
+    "id": "ancient-artifacts-090-painted-antefix",
+    "original": "originals/ancient-artifacts-090-painted-antefix-9963ede081a3c5ce.png",
+    "preview": "previews/ancient-artifacts-090-painted-antefix-9963ede081a3c5ce.webp",
+    "width": 1336,
+    "height": 1177,
+    "title": "Painted terracotta antefix",
+    "description": "A single terracotta roof ornament with a modeled feminine face, a fan-shaped border, and traces of faded red pigment.",
+    "tags": [
+      "ancient artifact",
+      "antefix",
+      "terracotta",
+      "architectural ornament",
+      "museum style"
+    ],
+    "filename": "090-painted-antefix.png"
+  },
+  {
+    "id": "ancient-artifacts-091-griffin-relief-plaque",
+    "original": "originals/ancient-artifacts-091-griffin-relief-plaque-8beda75688989eb2.png",
+    "preview": "previews/ancient-artifacts-091-griffin-relief-plaque-8beda75688989eb2.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Griffin relief plaque",
+    "description": "A rectangular limestone plaque with one raised winged griffin surrounded by a narrow ornamental border.",
+    "tags": [
+      "ancient artifact",
+      "griffin",
+      "limestone",
+      "relief",
+      "museum style"
+    ],
+    "filename": "091-griffin-relief-plaque.png"
+  },
+  {
+    "id": "ancient-artifacts-092-bronze-lion-statuette",
+    "original": "originals/ancient-artifacts-092-bronze-lion-statuette-2e7497735c206119.png",
+    "preview": "previews/ancient-artifacts-092-bronze-lion-statuette-2e7497735c206119.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Bronze lion statuette",
+    "description": "A small bronze lion statuette with a curling tail, textured mane, and mottled green patina.",
+    "tags": [
+      "ancient artifact",
+      "lion",
+      "bronze",
+      "statuette",
+      "museum style"
+    ],
+    "filename": "092-bronze-lion-statuette.png"
+  },
+  {
+    "id": "ancient-artifacts-093-bronze-horse-figurine",
+    "original": "originals/ancient-artifacts-093-bronze-horse-figurine-222984701ec1a3ad.png",
+    "preview": "previews/ancient-artifacts-093-bronze-horse-figurine-222984701ec1a3ad.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Bronze horse figurine",
+    "description": "A compact bronze horse figurine with a raised neck, a short mane, and slender attached legs.",
+    "tags": [
+      "ancient artifact",
+      "horse",
+      "bronze",
+      "figurine",
+      "museum style"
+    ],
+    "filename": "093-bronze-horse-figurine.png"
+  },
+  {
+    "id": "ancient-artifacts-094-bronze-ibex-statuette",
+    "original": "originals/ancient-artifacts-094-bronze-ibex-statuette-2369002c4334b33b.png",
+    "preview": "previews/ancient-artifacts-094-bronze-ibex-statuette-2369002c4334b33b.webp",
+    "width": 1214,
+    "height": 1295,
+    "title": "Bronze ibex statuette",
+    "description": "A small bronze ibex statuette with long backward-curving horns and a finely modeled beard.",
+    "tags": [
+      "ancient artifact",
+      "ibex",
+      "bronze",
+      "statuette",
+      "museum style"
+    ],
+    "filename": "094-bronze-ibex-statuette.png"
+  },
+  {
+    "id": "ancient-artifacts-095-bronze-votive-hand",
+    "original": "originals/ancient-artifacts-095-bronze-votive-hand-2fd6c60370bae428.png",
+    "preview": "previews/ancient-artifacts-095-bronze-votive-hand-2fd6c60370bae428.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bronze votive hand",
+    "description": "A single small bronze sculpted hand with an upright palm, extended fingers, and softly worn incised ornament.",
+    "tags": [
+      "ancient artifact",
+      "hand",
+      "bronze",
+      "votive object",
+      "museum style"
+    ],
+    "filename": "095-bronze-votive-hand.png"
+  },
+  {
+    "id": "ancient-artifacts-096-clay-foundation-cone",
+    "original": "originals/ancient-artifacts-096-clay-foundation-cone-0bf459920a75d88a.png",
+    "preview": "previews/ancient-artifacts-096-clay-foundation-cone-0bf459920a75d88a.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Clay foundation cone",
+    "description": "A tapered terracotta foundation cone with a broad flat head and shallow abstract nonlinguistic impressions.",
+    "tags": [
+      "ancient artifact",
+      "cone",
+      "terracotta",
+      "foundation object",
+      "museum style"
+    ],
+    "filename": "096-clay-foundation-cone.png"
+  },
+  {
+    "id": "ancient-artifacts-097-stone-stamp-seal",
+    "original": "originals/ancient-artifacts-097-stone-stamp-seal-13f21fede0ddcd13.png",
+    "preview": "previews/ancient-artifacts-097-stone-stamp-seal-13f21fede0ddcd13.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Stone stamp seal",
+    "description": "A small dark steatite stamp seal with a rounded pierced handle and a flat oval underside carved with a geometric animal motif.",
+    "tags": [
+      "ancient artifact",
+      "stamp seal",
+      "steatite",
+      "carved stone",
+      "museum style"
+    ],
+    "filename": "097-stone-stamp-seal.png"
+  },
+  {
+    "id": "ancient-artifacts-098-banded-calcite-bead",
+    "original": "originals/ancient-artifacts-098-banded-calcite-bead-1bf138cd2ec27502.png",
+    "preview": "previews/ancient-artifacts-098-banded-calcite-bead-1bf138cd2ec27502.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Banded calcite bead",
+    "description": "A single large barrel-shaped calcite bead with warm translucent bands and one axial drilled hole.",
+    "tags": [
+      "ancient artifact",
+      "bead",
+      "calcite",
+      "jewelry",
+      "museum style"
+    ],
+    "filename": "098-banded-calcite-bead.png"
+  },
+  {
+    "id": "ancient-artifacts-099-mosaic-rosette-fragment",
+    "original": "originals/ancient-artifacts-099-mosaic-rosette-fragment-344e0ae717396ffc.png",
+    "preview": "previews/ancient-artifacts-099-mosaic-rosette-fragment-344e0ae717396ffc.webp",
+    "width": 1302,
+    "height": 1208,
+    "title": "Mosaic rosette fragment",
+    "description": "A single cohesive small mosaic slab with cream and ochre stone tesserae forming a rosette within a worn square border.",
+    "tags": [
+      "ancient artifact",
+      "mosaic",
+      "stone",
+      "rosette",
+      "museum style"
+    ],
+    "filename": "099-mosaic-rosette-fragment.png"
+  },
+  {
+    "id": "ancient-artifacts-100-bronze-incense-burner",
+    "original": "originals/ancient-artifacts-100-bronze-incense-burner-279b2188a23ac3b7.png",
+    "preview": "previews/ancient-artifacts-100-bronze-incense-burner-279b2188a23ac3b7.webp",
+    "width": 1326,
+    "height": 1187,
+    "title": "Bronze incense burner",
+    "description": "A single assembled bronze incense burner with a rounded bowl, three attached short legs, and one fitted perforated dome lid with an integrated finial.",
+    "tags": [
+      "ancient artifact",
+      "incense burner",
+      "bronze",
+      "ritual vessel",
+      "museum style"
+    ],
+    "filename": "100-bronze-incense-burner.png"
+  },
+  {
+    "id": "ancient-artifacts-101-stone-incense-altar",
+    "original": "originals/ancient-artifacts-101-stone-incense-altar-14d180dd523fd7d9.png",
+    "preview": "previews/ancient-artifacts-101-stone-incense-altar-14d180dd523fd7d9.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Stone incense altar",
+    "description": "A small limestone incense altar carved as a squat rectangular block with a shallow recessed top and stepped edges.",
+    "tags": [
+      "ancient artifact",
+      "altar",
+      "limestone",
+      "ritual object",
+      "museum style"
+    ],
+    "filename": "101-stone-incense-altar.png"
+  },
+  {
+    "id": "ancient-artifacts-102-alabaster-headrest",
+    "original": "originals/ancient-artifacts-102-alabaster-headrest-7c96b88eff907f5f.png",
+    "preview": "previews/ancient-artifacts-102-alabaster-headrest-7c96b88eff907f5f.webp",
+    "width": 1458,
+    "height": 1079,
+    "title": "Alabaster headrest",
+    "description": "A pale alabaster headrest with a curved upper cradle and a short integrated column on a broad foot.",
+    "tags": [
+      "ancient artifact",
+      "headrest",
+      "alabaster",
+      "furniture",
+      "museum style"
+    ],
+    "filename": "102-alabaster-headrest.png"
+  },
+  {
+    "id": "ancient-artifacts-103-carved-cosmetic-box",
+    "original": "originals/ancient-artifacts-103-carved-cosmetic-box-c2c6b1799cae2c4b.png",
+    "preview": "previews/ancient-artifacts-103-carved-cosmetic-box-c2c6b1799cae2c4b.webp",
+    "width": 1402,
+    "height": 1122,
+    "title": "Carved cosmetic box",
+    "description": "A single closed ivory-colored cosmetic box with a fitted lid and carved floral relief on its sides.",
+    "tags": [
+      "ancient artifact",
+      "box",
+      "carved material",
+      "cosmetics",
+      "museum style"
+    ],
+    "filename": "103-carved-cosmetic-box.png"
+  },
+  {
+    "id": "ancient-artifacts-104-stone-offering-table",
+    "original": "originals/ancient-artifacts-104-stone-offering-table-705c4bf764dac00c.png",
+    "preview": "previews/ancient-artifacts-104-stone-offering-table-705c4bf764dac00c.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Stone offering table",
+    "description": "A small rectangular limestone offering table with shallow carved channels and a raised ornamental border.",
+    "tags": [
+      "ancient artifact",
+      "offering table",
+      "limestone",
+      "ritual object",
+      "museum style"
+    ],
+    "filename": "104-stone-offering-table.png"
+  },
+  {
+    "id": "ancient-artifacts-105-alabaster-fish-dish",
+    "original": "originals/ancient-artifacts-105-alabaster-fish-dish-070aee217602ec14.png",
+    "preview": "previews/ancient-artifacts-105-alabaster-fish-dish-070aee217602ec14.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Alabaster fish dish",
+    "description": "A shallow alabaster dish shaped like a fish, with a carved eye and a smooth recessed center.",
+    "tags": [
+      "ancient artifact",
+      "dish",
+      "alabaster",
+      "fish",
+      "museum style"
+    ],
+    "filename": "105-alabaster-fish-dish.png"
+  },
+  {
+    "id": "ancient-artifacts-106-faience-lotus-tile",
+    "original": "originals/ancient-artifacts-106-faience-lotus-tile-dae89ef3428f8a0c.png",
+    "preview": "previews/ancient-artifacts-106-faience-lotus-tile-dae89ef3428f8a0c.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Faience lotus tile",
+    "description": "A single rectangular turquoise faience tile with one raised lotus bloom and softly worn glaze.",
+    "tags": [
+      "ancient artifact",
+      "tile",
+      "faience",
+      "lotus",
+      "museum style"
+    ],
+    "filename": "106-faience-lotus-tile.png"
+  },
+  {
+    "id": "ancient-artifacts-107-faience-lion-amulet",
+    "original": "originals/ancient-artifacts-107-faience-lion-amulet-7efada1db4c3b51e.png",
+    "preview": "previews/ancient-artifacts-107-faience-lion-amulet-7efada1db4c3b51e.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Faience lion amulet",
+    "description": "A small blue-green faience amulet carved as a reclining lion with a suspension hole along its back.",
+    "tags": [
+      "ancient artifact",
+      "amulet",
+      "faience",
+      "lion",
+      "museum style"
+    ],
+    "filename": "107-faience-lion-amulet.png"
+  },
+  {
+    "id": "ancient-artifacts-108-faience-baboon",
+    "original": "originals/ancient-artifacts-108-faience-baboon-cb7064f3f3805a15.png",
+    "preview": "previews/ancient-artifacts-108-faience-baboon-cb7064f3f3805a15.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Faience baboon figurine",
+    "description": "A small blue faience figurine of a seated baboon with long folded arms and finely modeled fur.",
+    "tags": [
+      "ancient artifact",
+      "baboon",
+      "faience",
+      "figurine",
+      "museum style"
+    ],
+    "filename": "108-faience-baboon.png"
+  },
+  {
+    "id": "ancient-artifacts-109-bronze-cat-figurine",
+    "original": "originals/ancient-artifacts-109-bronze-cat-figurine-5cfbfde8742e6376.png",
+    "preview": "previews/ancient-artifacts-109-bronze-cat-figurine-5cfbfde8742e6376.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bronze cat figurine",
+    "description": "A slender seated bronze cat figurine with upright ears, a curled tail, and a dark green patina.",
+    "tags": [
+      "ancient artifact",
+      "cat",
+      "bronze",
+      "figurine",
+      "museum style"
+    ],
+    "filename": "109-bronze-cat-figurine.png"
+  },
+  {
+    "id": "ancient-artifacts-110-carnelian-heart-amulet",
+    "original": "originals/ancient-artifacts-110-carnelian-heart-amulet-e64393644bd46106.png",
+    "preview": "previews/ancient-artifacts-110-carnelian-heart-amulet-e64393644bd46106.webp",
+    "width": 1227,
+    "height": 1282,
+    "title": "Carnelian heart amulet",
+    "description": "A small translucent carnelian heart-shaped amulet with a softly rounded body and one drilled suspension hole.",
+    "tags": [
+      "ancient artifact",
+      "amulet",
+      "carnelian",
+      "heart",
+      "museum style"
+    ],
+    "filename": "110-carnelian-heart-amulet.png"
+  },
+  {
+    "id": "ancient-artifacts-111-green-stone-frog",
+    "original": "originals/ancient-artifacts-111-green-stone-frog-2347115863ec2c86.png",
+    "preview": "previews/ancient-artifacts-111-green-stone-frog-2347115863ec2c86.webp",
+    "width": 1376,
+    "height": 1143,
+    "title": "Green stone frog amulet",
+    "description": "A squat green stone frog amulet with carved folded legs and a small drilled suspension hole.",
+    "tags": [
+      "ancient artifact",
+      "amulet",
+      "green stone",
+      "frog",
+      "museum style"
+    ],
+    "filename": "111-green-stone-frog.png"
+  },
+  {
+    "id": "ancient-artifacts-112-gold-falcon-pendant",
+    "original": "originals/ancient-artifacts-112-gold-falcon-pendant-de42cdbd5ca08c71.png",
+    "preview": "previews/ancient-artifacts-112-gold-falcon-pendant-de42cdbd5ca08c71.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Gold falcon pendant",
+    "description": "A single embossed gold falcon pendant with outspread wings and a small integrated suspension loop.",
+    "tags": [
+      "ancient artifact",
+      "pendant",
+      "gold",
+      "falcon",
+      "museum style"
+    ],
+    "filename": "112-gold-falcon-pendant.png"
+  },
+  {
+    "id": "ancient-artifacts-113-gold-fly-amulet",
+    "original": "originals/ancient-artifacts-113-gold-fly-amulet-28e9ccbee98e17b4.png",
+    "preview": "previews/ancient-artifacts-113-gold-fly-amulet-28e9ccbee98e17b4.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Gold fly amulet",
+    "description": "A small gold amulet modeled as a fly with embossed wing details and an integrated loop at its head.",
+    "tags": [
+      "ancient artifact",
+      "amulet",
+      "gold",
+      "fly",
+      "museum style"
+    ],
+    "filename": "113-gold-fly-amulet.png"
+  },
+  {
+    "id": "ancient-artifacts-114-bronze-cobra-figure",
+    "original": "originals/ancient-artifacts-114-bronze-cobra-figure-5ca7c507c0127ffc.png",
+    "preview": "previews/ancient-artifacts-114-bronze-cobra-figure-5ca7c507c0127ffc.webp",
+    "width": 1222,
+    "height": 1287,
+    "title": "Bronze cobra figure",
+    "description": "A small bronze cobra figure with a raised hood, a coiled body, and mottled green patina.",
+    "tags": [
+      "ancient artifact",
+      "cobra",
+      "bronze",
+      "figure",
+      "museum style"
+    ],
+    "filename": "114-bronze-cobra-figure.png"
+  },
+  {
+    "id": "ancient-artifacts-115-painted-wooden-bird",
+    "original": "originals/ancient-artifacts-115-painted-wooden-bird-825f9de82200d541.png",
+    "preview": "previews/ancient-artifacts-115-painted-wooden-bird-825f9de82200d541.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Painted wooden bird",
+    "description": "A single carved wooden bird with a long folded tail and remnants of muted red, cream, and blue pigment.",
+    "tags": [
+      "ancient artifact",
+      "bird",
+      "wood",
+      "painted sculpture",
+      "museum style"
+    ],
+    "filename": "115-painted-wooden-bird.png"
+  },
+  {
+    "id": "ancient-artifacts-116-stone-falcon-statuette",
+    "original": "originals/ancient-artifacts-116-stone-falcon-statuette-44f3b026584e2d70.png",
+    "preview": "previews/ancient-artifacts-116-stone-falcon-statuette-44f3b026584e2d70.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Stone falcon statuette",
+    "description": "A compact dark stone falcon statuette with folded wings and delicately carved feather bands.",
+    "tags": [
+      "ancient artifact",
+      "falcon",
+      "stone",
+      "statuette",
+      "museum style"
+    ],
+    "filename": "116-stone-falcon-statuette.png"
+  },
+  {
+    "id": "ancient-artifacts-117-basalt-crocodile",
+    "original": "originals/ancient-artifacts-117-basalt-crocodile-e7c66706fa40f39a.png",
+    "preview": "previews/ancient-artifacts-117-basalt-crocodile-e7c66706fa40f39a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Basalt crocodile statuette",
+    "description": "A low dark basalt crocodile statuette with a long tapered tail and raised scale details.",
+    "tags": [
+      "ancient artifact",
+      "crocodile",
+      "basalt",
+      "statuette",
+      "museum style"
+    ],
+    "filename": "117-basalt-crocodile.png"
+  },
+  {
+    "id": "ancient-artifacts-118-limestone-sphinx",
+    "original": "originals/ancient-artifacts-118-limestone-sphinx-839c44d2e02b080f.png",
+    "preview": "previews/ancient-artifacts-118-limestone-sphinx-839c44d2e02b080f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Limestone sphinx miniature",
+    "description": "A small limestone sphinx sculpture with a human face, a reclining lion body, and softly weathered contours.",
+    "tags": [
+      "ancient artifact",
+      "sphinx",
+      "limestone",
+      "sculpture",
+      "museum style"
+    ],
+    "filename": "118-limestone-sphinx.png"
+  },
+  {
+    "id": "ancient-artifacts-119-stone-seated-scribe",
+    "original": "originals/ancient-artifacts-119-stone-seated-scribe-d8f4e53e1f05b79b.png",
+    "preview": "previews/ancient-artifacts-119-stone-seated-scribe-d8f4e53e1f05b79b.webp",
+    "width": 1214,
+    "height": 1295,
+    "title": "Stone seated scribe",
+    "description": "A small dark stone sculpture of a seated scribe with crossed legs and an integrated smooth tablet across the lap.",
+    "tags": [
+      "ancient artifact",
+      "scribe",
+      "stone",
+      "sculpture",
+      "museum style"
+    ],
+    "filename": "119-stone-seated-scribe.png"
+  },
+  {
+    "id": "ancient-artifacts-120-stone-ankh-amulet",
+    "original": "originals/ancient-artifacts-120-stone-ankh-amulet-d6fb8e21f155f127.png",
+    "preview": "previews/ancient-artifacts-120-stone-ankh-amulet-d6fb8e21f155f127.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Stone ankh amulet",
+    "description": "A pale green stone ankh-shaped amulet with a smooth oval loop and softly worn cross arms.",
+    "tags": [
+      "ancient artifact",
+      "ankh",
+      "stone",
+      "amulet",
+      "museum style"
+    ],
+    "filename": "120-stone-ankh-amulet.png"
+  },
+  {
+    "id": "ancient-artifacts-121-bronze-scepter",
+    "original": "originals/ancient-artifacts-121-bronze-scepter-b9bc4772ed88b86e.png",
+    "preview": "previews/ancient-artifacts-121-bronze-scepter-b9bc4772ed88b86e.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bronze ceremonial scepter",
+    "description": "A slender bronze ceremonial scepter with an angular animal-head finial and a small forked lower end.",
+    "tags": [
+      "ancient artifact",
+      "scepter",
+      "bronze",
+      "ceremonial object",
+      "museum style"
+    ],
+    "filename": "121-bronze-scepter.png"
+  },
+  {
+    "id": "ancient-artifacts-122-bone-clapper",
+    "original": "originals/ancient-artifacts-122-bone-clapper-5ffd6bec9c16364e.png",
+    "preview": "previews/ancient-artifacts-122-bone-clapper-5ffd6bec9c16364e.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bone hand-shaped clapper",
+    "description": "A single curved bone clapper carved with a hand-shaped end and a small drilled hole at the opposite end.",
+    "tags": [
+      "ancient artifact",
+      "clapper",
+      "bone",
+      "musical instrument",
+      "museum style"
+    ],
+    "filename": "122-bone-clapper.png"
+  },
+  {
+    "id": "ancient-artifacts-123-woven-sandal",
+    "original": "originals/ancient-artifacts-123-woven-sandal-e48aee8e33d752c9.png",
+    "preview": "previews/ancient-artifacts-123-woven-sandal-e48aee8e33d752c9.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Woven plant-fiber sandal",
+    "description": "A single worn plant-fiber sandal with an oval woven sole and attached braided straps.",
+    "tags": [
+      "ancient artifact",
+      "sandal",
+      "plant fiber",
+      "clothing",
+      "museum style"
+    ],
+    "filename": "123-woven-sandal.png"
+  },
+  {
+    "id": "ancient-artifacts-124-linen-textile-fragment",
+    "original": "originals/ancient-artifacts-124-linen-textile-fragment-95c0c2e737b4c4ff.png",
+    "preview": "previews/ancient-artifacts-124-linen-textile-fragment-95c0c2e737b4c4ff.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Linen textile fragment",
+    "description": "A single rectangular fragment of aged linen with a faded red geometric woven border and softly frayed edges.",
+    "tags": [
+      "ancient artifact",
+      "textile",
+      "linen",
+      "woven fabric",
+      "museum style"
+    ],
+    "filename": "124-linen-textile-fragment.png"
+  },
+  {
+    "id": "ancient-artifacts-125-painted-coffin-lid",
+    "original": "originals/ancient-artifacts-125-painted-coffin-lid-c4fe7dbd5a0b543b.png",
+    "preview": "previews/ancient-artifacts-125-painted-coffin-lid-c4fe7dbd5a0b543b.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Painted wooden coffin lid",
+    "description": "A single small wooden coffin lid with a stylized carved face and faded geometric bands of blue, red, and ochre pigment.",
+    "tags": [
+      "ancient artifact",
+      "coffin lid",
+      "wood",
+      "painted carving",
+      "museum style"
+    ],
+    "filename": "125-painted-coffin-lid.png"
+  },
+  {
+    "id": "ancient-artifacts-126-terracotta-hydria",
+    "original": "originals/ancient-artifacts-126-terracotta-hydria-e7d3e7a22ead355f.png",
+    "preview": "previews/ancient-artifacts-126-terracotta-hydria-e7d3e7a22ead355f.webp",
+    "width": 1236,
+    "height": 1272,
+    "title": "Terracotta water jar",
+    "description": "A broad terracotta water jar with three attached handles and faded dark geometric painted bands.",
+    "tags": [
+      "ancient artifact",
+      "hydria",
+      "terracotta",
+      "water jar",
+      "museum style"
+    ],
+    "filename": "126-terracotta-hydria.png"
+  },
+  {
+    "id": "ancient-artifacts-127-terracotta-krater",
+    "original": "originals/ancient-artifacts-127-terracotta-krater-400612fdcc7c3db7.png",
+    "preview": "previews/ancient-artifacts-127-terracotta-krater-400612fdcc7c3db7.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Terracotta mixing vessel",
+    "description": "A wide terracotta mixing vessel with a flared rim, two attached side handles, and faded black ivy ornament.",
+    "tags": [
+      "ancient artifact",
+      "krater",
+      "terracotta",
+      "mixing vessel",
+      "museum style"
+    ],
+    "filename": "127-terracotta-krater.png"
+  },
+  {
+    "id": "ancient-artifacts-128-terracotta-pelike",
+    "original": "originals/ancient-artifacts-128-terracotta-pelike-9d9ca83978271076.png",
+    "preview": "previews/ancient-artifacts-128-terracotta-pelike-9d9ca83978271076.webp",
+    "width": 1234,
+    "height": 1275,
+    "title": "Terracotta pelike",
+    "description": "A rounded terracotta pelike with two attached upright handles, a broad neck, and muted black leaf decoration.",
+    "tags": [
+      "ancient artifact",
+      "pelike",
+      "terracotta",
+      "vessel",
+      "museum style"
+    ],
+    "filename": "128-terracotta-pelike.png"
+  },
+  {
+    "id": "ancient-artifacts-129-terracotta-skyphos",
+    "original": "originals/ancient-artifacts-129-terracotta-skyphos-490fe701770b55e4.png",
+    "preview": "previews/ancient-artifacts-129-terracotta-skyphos-490fe701770b55e4.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Terracotta skyphos",
+    "description": "A deep terracotta drinking cup with two small attached horizontal handles and a dark burnished rim.",
+    "tags": [
+      "ancient artifact",
+      "skyphos",
+      "terracotta",
+      "drinking cup",
+      "museum style"
+    ],
+    "filename": "129-terracotta-skyphos.png"
+  },
+  {
+    "id": "ancient-artifacts-130-terracotta-kantharos",
+    "original": "originals/ancient-artifacts-130-terracotta-kantharos-587d07c6a8208f47.png",
+    "preview": "previews/ancient-artifacts-130-terracotta-kantharos-587d07c6a8208f47.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Terracotta kantharos",
+    "description": "A terracotta drinking cup with two tall attached loop handles, a short integrated stem, and worn dark glaze.",
+    "tags": [
+      "ancient artifact",
+      "kantharos",
+      "terracotta",
+      "drinking cup",
+      "museum style"
+    ],
+    "filename": "130-terracotta-kantharos.png"
+  },
+  {
+    "id": "ancient-artifacts-131-painted-fish-plate",
+    "original": "originals/ancient-artifacts-131-painted-fish-plate-f3a22bd1858e8949.png",
+    "preview": "previews/ancient-artifacts-131-painted-fish-plate-f3a22bd1858e8949.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Painted fish plate",
+    "description": "A shallow terracotta plate with a small central depression and faded painted fish motifs around the rim.",
+    "tags": [
+      "ancient artifact",
+      "plate",
+      "terracotta",
+      "fish motif",
+      "museum style"
+    ],
+    "filename": "131-painted-fish-plate.png"
+  },
+  {
+    "id": "ancient-artifacts-132-terracotta-pilgrim-flask",
+    "original": "originals/ancient-artifacts-132-terracotta-pilgrim-flask-d82b5f703cd36ebb.png",
+    "preview": "previews/ancient-artifacts-132-terracotta-pilgrim-flask-d82b5f703cd36ebb.webp",
+    "width": 1225,
+    "height": 1284,
+    "title": "Terracotta pilgrim flask",
+    "description": "A flattened circular terracotta flask with a narrow neck, two attached small shoulder loops, and raised rosette decoration.",
+    "tags": [
+      "ancient artifact",
+      "flask",
+      "terracotta",
+      "rosette",
+      "museum style"
+    ],
+    "filename": "132-terracotta-pilgrim-flask.png"
+  },
+  {
+    "id": "ancient-artifacts-133-pomegranate-jar",
+    "original": "originals/ancient-artifacts-133-pomegranate-jar-812ab3ab0882dcf3.png",
+    "preview": "previews/ancient-artifacts-133-pomegranate-jar-812ab3ab0882dcf3.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Pomegranate-shaped jar",
+    "description": "A small terracotta jar shaped like a pomegranate with a crown-like opening and softly burnished red clay.",
+    "tags": [
+      "ancient artifact",
+      "jar",
+      "terracotta",
+      "pomegranate",
+      "museum style"
+    ],
+    "filename": "133-pomegranate-jar.png"
+  },
+  {
+    "id": "ancient-artifacts-134-ram-shaped-vessel",
+    "original": "originals/ancient-artifacts-134-ram-shaped-vessel-0474263790b8fb74.png",
+    "preview": "previews/ancient-artifacts-134-ram-shaped-vessel-0474263790b8fb74.webp",
+    "width": 1319,
+    "height": 1192,
+    "title": "Ram-shaped ceramic vessel",
+    "description": "A single ceramic vessel shaped like a standing ram, with a small pouring neck integrated into its back.",
+    "tags": [
+      "ancient artifact",
+      "vessel",
+      "ceramic",
+      "ram",
+      "museum style"
+    ],
+    "filename": "134-ram-shaped-vessel.png"
+  },
+  {
+    "id": "ancient-artifacts-135-duck-shaped-vessel",
+    "original": "originals/ancient-artifacts-135-duck-shaped-vessel-61f46c6350eb00ca.png",
+    "preview": "previews/ancient-artifacts-135-duck-shaped-vessel-61f46c6350eb00ca.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Duck-shaped ceramic vessel",
+    "description": "A single terracotta vessel shaped like a resting duck, with a small opening integrated into its back and incised feathers.",
+    "tags": [
+      "ancient artifact",
+      "vessel",
+      "terracotta",
+      "duck",
+      "museum style"
+    ],
+    "filename": "135-duck-shaped-vessel.png"
+  },
+  {
+    "id": "ancient-artifacts-136-boot-shaped-cup",
+    "original": "originals/ancient-artifacts-136-boot-shaped-cup-235406218ee3fcf1.png",
+    "preview": "previews/ancient-artifacts-136-boot-shaped-cup-235406218ee3fcf1.webp",
+    "width": 1400,
+    "height": 1123,
+    "title": "Boot-shaped ceramic cup",
+    "description": "A small terracotta cup shaped like a curved boot, with incised lace ornament and an open upper rim.",
+    "tags": [
+      "ancient artifact",
+      "cup",
+      "terracotta",
+      "boot",
+      "museum style"
+    ],
+    "filename": "136-boot-shaped-cup.png"
+  },
+  {
+    "id": "ancient-artifacts-137-double-spout-jug",
+    "original": "originals/ancient-artifacts-137-double-spout-jug-52a444e5a1a9e695.png",
+    "preview": "previews/ancient-artifacts-137-double-spout-jug-52a444e5a1a9e695.webp",
+    "width": 1223,
+    "height": 1286,
+    "title": "Double-spout ceramic jug",
+    "description": "A single rounded ceramic jug with two attached pouring spouts and one integrated arched handle, decorated with muted ochre bands.",
+    "tags": [
+      "ancient artifact",
+      "jug",
+      "ceramic",
+      "double spout",
+      "museum style"
+    ],
+    "filename": "137-double-spout-jug.png"
+  },
+  {
+    "id": "ancient-artifacts-138-stone-tripod-bowl",
+    "original": "originals/ancient-artifacts-138-stone-tripod-bowl-ffbfdbb8d1598d44.png",
+    "preview": "previews/ancient-artifacts-138-stone-tripod-bowl-ffbfdbb8d1598d44.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Stone tripod bowl",
+    "description": "A dark green stone bowl with three short attached feet and a thick gently polished rim.",
+    "tags": [
+      "ancient artifact",
+      "bowl",
+      "stone",
+      "tripod",
+      "museum style"
+    ],
+    "filename": "138-stone-tripod-bowl.png"
+  },
+  {
+    "id": "ancient-artifacts-139-rock-crystal-cup",
+    "original": "originals/ancient-artifacts-139-rock-crystal-cup-9d89fe62c5b8bd60.png",
+    "preview": "previews/ancient-artifacts-139-rock-crystal-cup-9d89fe62c5b8bd60.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Rock crystal cup",
+    "description": "A small carved rock crystal cup with a rounded bowl, a thick rim, and softly cloudy natural inclusions.",
+    "tags": [
+      "ancient artifact",
+      "cup",
+      "rock crystal",
+      "carved stone",
+      "museum style"
+    ],
+    "filename": "139-rock-crystal-cup.png"
+  },
+  {
+    "id": "ancient-artifacts-140-serpentine-vase",
+    "original": "originals/ancient-artifacts-140-serpentine-vase-ebb8560ce4ef7f29.png",
+    "preview": "previews/ancient-artifacts-140-serpentine-vase-ebb8560ce4ef7f29.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Serpentine vase",
+    "description": "A slender dark green serpentine vase with a narrow neck, a rounded shoulder, and subtle pale stone veining.",
+    "tags": [
+      "ancient artifact",
+      "vase",
+      "serpentine",
+      "stone",
+      "museum style"
+    ],
+    "filename": "140-serpentine-vase.png"
+  },
+  {
+    "id": "ancient-artifacts-141-ribbed-glass-bowl",
+    "original": "originals/ancient-artifacts-141-ribbed-glass-bowl-dd6b81b0cf729ca1.png",
+    "preview": "previews/ancient-artifacts-141-ribbed-glass-bowl-dd6b81b0cf729ca1.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Ribbed glass bowl",
+    "description": "A shallow pale amber glass bowl with broad radial ribs and softly iridescent surface weathering.",
+    "tags": [
+      "ancient artifact",
+      "bowl",
+      "glass",
+      "ribbed",
+      "museum style"
+    ],
+    "filename": "141-ribbed-glass-bowl.png"
+  },
+  {
+    "id": "ancient-artifacts-142-cobalt-glass-amphoriskos",
+    "original": "originals/ancient-artifacts-142-cobalt-glass-amphoriskos-877894308ddcc2c0.png",
+    "preview": "previews/ancient-artifacts-142-cobalt-glass-amphoriskos-877894308ddcc2c0.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Cobalt glass amphoriskos",
+    "description": "A miniature cobalt blue glass amphora with two small attached handles and fine pale yellow trailing around the neck.",
+    "tags": [
+      "ancient artifact",
+      "amphoriskos",
+      "glass",
+      "cobalt blue",
+      "museum style"
+    ],
+    "filename": "142-cobalt-glass-amphoriskos.png"
+  },
+  {
+    "id": "ancient-artifacts-143-mosaic-glass-jar",
+    "original": "originals/ancient-artifacts-143-mosaic-glass-jar-38bdba633b28a2c7.png",
+    "preview": "previews/ancient-artifacts-143-mosaic-glass-jar-38bdba633b28a2c7.webp",
+    "width": 1222,
+    "height": 1287,
+    "title": "Mosaic glass perfume jar",
+    "description": "A small rounded mosaic glass perfume jar with green, amber, and cream floral patterns embedded in its thick walls.",
+    "tags": [
+      "ancient artifact",
+      "jar",
+      "mosaic glass",
+      "perfume",
+      "museum style"
+    ],
+    "filename": "143-mosaic-glass-jar.png"
+  },
+  {
+    "id": "ancient-artifacts-144-core-formed-glass-vessel",
+    "original": "originals/ancient-artifacts-144-core-formed-glass-vessel-df13ba9a4c333a90.png",
+    "preview": "previews/ancient-artifacts-144-core-formed-glass-vessel-df13ba9a4c333a90.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Core-formed glass vessel",
+    "description": "A small dark blue glass vessel with attached shoulder handles and fine turquoise and yellow zigzag trailing.",
+    "tags": [
+      "ancient artifact",
+      "vessel",
+      "glass",
+      "zigzag",
+      "museum style"
+    ],
+    "filename": "144-core-formed-glass-vessel.png"
+  },
+  {
+    "id": "ancient-artifacts-145-glass-unguentarium",
+    "original": "originals/ancient-artifacts-145-glass-unguentarium-861a0526ed97a4b1.png",
+    "preview": "previews/ancient-artifacts-145-glass-unguentarium-861a0526ed97a4b1.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Glass unguentarium",
+    "description": "A slender pale aqua glass unguentarium with a tall narrow neck, a tiny rounded base, and soft iridescent weathering.",
+    "tags": [
+      "ancient artifact",
+      "unguentarium",
+      "glass",
+      "vessel",
+      "museum style"
+    ],
+    "filename": "145-glass-unguentarium.png"
+  },
+  {
+    "id": "ancient-artifacts-146-faience-hedgehog-vessel",
+    "original": "originals/ancient-artifacts-146-faience-hedgehog-vessel-b8f513ac76c4f92c.png",
+    "preview": "previews/ancient-artifacts-146-faience-hedgehog-vessel-b8f513ac76c4f92c.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Faience hedgehog vessel",
+    "description": "A small turquoise faience vessel shaped like a hedgehog with incised spines and a narrow opening integrated into its back.",
+    "tags": [
+      "ancient artifact",
+      "vessel",
+      "faience",
+      "hedgehog",
+      "museum style"
+    ],
+    "filename": "146-faience-hedgehog-vessel.png"
+  },
+  {
+    "id": "ancient-artifacts-147-bronze-situla",
+    "original": "originals/ancient-artifacts-147-bronze-situla-a0c2d6cc9db14cd3.png",
+    "preview": "previews/ancient-artifacts-147-bronze-situla-a0c2d6cc9db14cd3.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Bronze situla bucket",
+    "description": "A tapered bronze bucket with one attached swinging bail handle and shallow ornamental relief bands.",
+    "tags": [
+      "ancient artifact",
+      "situla",
+      "bronze",
+      "bucket",
+      "museum style"
+    ],
+    "filename": "147-bronze-situla.png"
+  },
+  {
+    "id": "ancient-artifacts-148-bronze-beaker",
+    "original": "originals/ancient-artifacts-148-bronze-beaker-7217bf6dc034063f.png",
+    "preview": "previews/ancient-artifacts-148-bronze-beaker-7217bf6dc034063f.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bronze beaker",
+    "description": "A tall bronze beaker with a gently flared rim, a narrow foot, and fine hammered surface texture.",
+    "tags": [
+      "ancient artifact",
+      "beaker",
+      "bronze",
+      "drinking vessel",
+      "museum style"
+    ],
+    "filename": "148-bronze-beaker.png"
+  },
+  {
+    "id": "ancient-artifacts-149-silver-phiale",
+    "original": "originals/ancient-artifacts-149-silver-phiale-031d525ee033b6b4.png",
+    "preview": "previews/ancient-artifacts-149-silver-phiale-031d525ee033b6b4.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Silver offering bowl",
+    "description": "A shallow silver offering bowl with a raised central boss and petal-shaped embossed fluting.",
+    "tags": [
+      "ancient artifact",
+      "phiale",
+      "silver",
+      "offering bowl",
+      "museum style"
+    ],
+    "filename": "149-silver-phiale.png"
+  },
+  {
+    "id": "ancient-artifacts-150-gold-drinking-cup",
+    "original": "originals/ancient-artifacts-150-gold-drinking-cup-715112cb958a7f01.png",
+    "preview": "previews/ancient-artifacts-150-gold-drinking-cup-715112cb958a7f01.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Gold drinking cup",
+    "description": "A single hammered gold cup with one attached handle and raised spiral and leaf ornament around its bowl.",
+    "tags": [
+      "ancient artifact",
+      "cup",
+      "gold",
+      "drinking vessel",
+      "museum style"
+    ],
+    "filename": "150-gold-drinking-cup.png"
+  },
+  {
+    "id": "ancient-artifacts-151-bronze-sewing-needle",
+    "original": "originals/ancient-artifacts-151-bronze-sewing-needle-b12994ec8fb64326.png",
+    "preview": "previews/ancient-artifacts-151-bronze-sewing-needle-b12994ec8fb64326.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bronze sewing needle",
+    "description": "A single slender bronze sewing needle with one oval eye and a softly worn tapered tip.",
+    "tags": [
+      "ancient artifact",
+      "needle",
+      "bronze",
+      "sewing",
+      "museum style"
+    ],
+    "filename": "151-bronze-sewing-needle.png"
+  },
+  {
+    "id": "ancient-artifacts-152-bone-awl",
+    "original": "originals/ancient-artifacts-152-bone-awl-a2e1a0910d907eae.png",
+    "preview": "previews/ancient-artifacts-152-bone-awl-a2e1a0910d907eae.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bone awl",
+    "description": "A single bone awl with a thick rounded grip and a long tapered working point.",
+    "tags": [
+      "ancient artifact",
+      "awl",
+      "bone",
+      "tool",
+      "museum style"
+    ],
+    "filename": "152-bone-awl.png"
+  },
+  {
+    "id": "ancient-artifacts-153-bronze-chisel",
+    "original": "originals/ancient-artifacts-153-bronze-chisel-e6e9c5b8a39da6fa.png",
+    "preview": "previews/ancient-artifacts-153-bronze-chisel-e6e9c5b8a39da6fa.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze chisel",
+    "description": "A single bronze chisel with a broad flattened cutting edge and a sturdy rectangular shaft.",
+    "tags": [
+      "ancient artifact",
+      "chisel",
+      "bronze",
+      "tool",
+      "museum style"
+    ],
+    "filename": "153-bronze-chisel.png"
+  },
+  {
+    "id": "ancient-artifacts-154-bronze-adze-head",
+    "original": "originals/ancient-artifacts-154-bronze-adze-head-21776f0d575516d6.png",
+    "preview": "previews/ancient-artifacts-154-bronze-adze-head-21776f0d575516d6.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze adze head",
+    "description": "A curved bronze adze head with a broad downward-facing cutting edge and a hollow mounting socket.",
+    "tags": [
+      "ancient artifact",
+      "adze head",
+      "bronze",
+      "tool",
+      "museum style"
+    ],
+    "filename": "154-bronze-adze-head.png"
+  },
+  {
+    "id": "ancient-artifacts-155-copper-saw-blade",
+    "original": "originals/ancient-artifacts-155-copper-saw-blade-ad0220f1588e050a.png",
+    "preview": "previews/ancient-artifacts-155-copper-saw-blade-ad0220f1588e050a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Copper saw blade",
+    "description": "A single long copper saw blade with fine teeth along one edge and small mounting holes at its ends.",
+    "tags": [
+      "ancient artifact",
+      "saw blade",
+      "copper",
+      "tool",
+      "museum style"
+    ],
+    "filename": "155-copper-saw-blade.png"
+  },
+  {
+    "id": "ancient-artifacts-156-bronze-sickle",
+    "original": "originals/ancient-artifacts-156-bronze-sickle-9d6ab992c7f6772a.png",
+    "preview": "previews/ancient-artifacts-156-bronze-sickle-9d6ab992c7f6772a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze sickle",
+    "description": "A single bronze sickle with a curved blade and an integrated ridged metal grip.",
+    "tags": [
+      "ancient artifact",
+      "sickle",
+      "bronze",
+      "tool",
+      "museum style"
+    ],
+    "filename": "156-bronze-sickle.png"
+  },
+  {
+    "id": "ancient-artifacts-157-bronze-fishhook",
+    "original": "originals/ancient-artifacts-157-bronze-fishhook-6ed7771037a61104.png",
+    "preview": "previews/ancient-artifacts-157-bronze-fishhook-6ed7771037a61104.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Bronze fishhook",
+    "description": "A single thick bronze fishhook with a curved barbed point and one small suspension eye.",
+    "tags": [
+      "ancient artifact",
+      "fishhook",
+      "bronze",
+      "fishing",
+      "museum style"
+    ],
+    "filename": "157-bronze-fishhook.png"
+  },
+  {
+    "id": "ancient-artifacts-158-lead-net-weight",
+    "original": "originals/ancient-artifacts-158-lead-net-weight-e367b365bdbae398.png",
+    "preview": "previews/ancient-artifacts-158-lead-net-weight-e367b365bdbae398.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Lead fishing net weight",
+    "description": "A single folded lead fishing net weight with a central channel and a weathered gray surface.",
+    "tags": [
+      "ancient artifact",
+      "net weight",
+      "lead",
+      "fishing",
+      "museum style"
+    ],
+    "filename": "158-lead-net-weight.png"
+  },
+  {
+    "id": "ancient-artifacts-159-ceramic-loom-weight",
+    "original": "originals/ancient-artifacts-159-ceramic-loom-weight-f8e9d2e3d665d687.png",
+    "preview": "previews/ancient-artifacts-159-ceramic-loom-weight-f8e9d2e3d665d687.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Ceramic loom weight",
+    "description": "A single tapered terracotta loom weight with a drilled hole near its narrow upper end.",
+    "tags": [
+      "ancient artifact",
+      "loom weight",
+      "terracotta",
+      "weaving",
+      "museum style"
+    ],
+    "filename": "159-ceramic-loom-weight.png"
+  },
+  {
+    "id": "ancient-artifacts-160-clay-bobbin",
+    "original": "originals/ancient-artifacts-160-clay-bobbin-515f20720b312d2e.png",
+    "preview": "previews/ancient-artifacts-160-clay-bobbin-515f20720b312d2e.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Clay bobbin",
+    "description": "A single spool-shaped clay bobbin with two broad ends and a smoothly worn narrow middle.",
+    "tags": [
+      "ancient artifact",
+      "bobbin",
+      "clay",
+      "weaving",
+      "museum style"
+    ],
+    "filename": "160-clay-bobbin.png"
+  },
+  {
+    "id": "ancient-artifacts-161-wooden-spindle",
+    "original": "originals/ancient-artifacts-161-wooden-spindle-1abb6c8de872fcc0.png",
+    "preview": "previews/ancient-artifacts-161-wooden-spindle-1abb6c8de872fcc0.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Wooden spindle",
+    "description": "A single assembled wooden spindle with one fitted clay whorl and a long gently tapered shaft.",
+    "tags": [
+      "ancient artifact",
+      "spindle",
+      "wood",
+      "spinning",
+      "museum style"
+    ],
+    "filename": "161-wooden-spindle.png"
+  },
+  {
+    "id": "ancient-artifacts-162-wooden-loom-shuttle",
+    "original": "originals/ancient-artifacts-162-wooden-loom-shuttle-67560354e935a289.png",
+    "preview": "previews/ancient-artifacts-162-wooden-loom-shuttle-67560354e935a289.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Wooden loom shuttle",
+    "description": "A single elongated wooden loom shuttle with pointed ends and a recessed central slot.",
+    "tags": [
+      "ancient artifact",
+      "shuttle",
+      "wood",
+      "weaving",
+      "museum style"
+    ],
+    "filename": "162-wooden-loom-shuttle.png"
+  },
+  {
+    "id": "ancient-artifacts-163-bone-weaving-comb",
+    "original": "originals/ancient-artifacts-163-bone-weaving-comb-445c251e511d25f2.png",
+    "preview": "previews/ancient-artifacts-163-bone-weaving-comb-445c251e511d25f2.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bone weaving comb",
+    "description": "A single broad bone weaving comb with widely spaced sturdy teeth and a smoothly worn curved grip.",
+    "tags": [
+      "ancient artifact",
+      "weaving comb",
+      "bone",
+      "tool",
+      "museum style"
+    ],
+    "filename": "163-bone-weaving-comb.png"
+  },
+  {
+    "id": "ancient-artifacts-164-bronze-woodworking-plane",
+    "original": "originals/ancient-artifacts-164-bronze-woodworking-plane-b798e9152c87832a.png",
+    "preview": "previews/ancient-artifacts-164-bronze-woodworking-plane-b798e9152c87832a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze woodworking plane",
+    "description": "A single compact woodworking plane with a patinated bronze body, an integrated iron blade, and a worn wooden grip.",
+    "tags": [
+      "ancient artifact",
+      "plane",
+      "bronze",
+      "woodworking",
+      "museum style"
+    ],
+    "filename": "164-bronze-woodworking-plane.png"
+  },
+  {
+    "id": "ancient-artifacts-165-flint-handaxe",
+    "original": "originals/ancient-artifacts-165-flint-handaxe-1602b62e111f6217.png",
+    "preview": "previews/ancient-artifacts-165-flint-handaxe-1602b62e111f6217.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Flint handaxe",
+    "description": "A single teardrop-shaped flint handaxe with carefully flaked faces and warm gray-brown stone.",
+    "tags": [
+      "ancient artifact",
+      "handaxe",
+      "flint",
+      "tool",
+      "museum style"
+    ],
+    "filename": "165-flint-handaxe.png"
+  },
+  {
+    "id": "ancient-artifacts-166-obsidian-scraper",
+    "original": "originals/ancient-artifacts-166-obsidian-scraper-8e974fcc03dc64b5.png",
+    "preview": "previews/ancient-artifacts-166-obsidian-scraper-8e974fcc03dc64b5.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Obsidian scraper",
+    "description": "A single rounded obsidian scraper with a thick central face and finely chipped curved working edges.",
+    "tags": [
+      "ancient artifact",
+      "scraper",
+      "obsidian",
+      "tool",
+      "museum style"
+    ],
+    "filename": "166-obsidian-scraper.png"
+  },
+  {
+    "id": "ancient-artifacts-167-stone-drill-bit",
+    "original": "originals/ancient-artifacts-167-stone-drill-bit-a168bffb740a3ccb.png",
+    "preview": "previews/ancient-artifacts-167-stone-drill-bit-a168bffb740a3ccb.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Stone drill bit",
+    "description": "A single narrow flaked stone drill bit with a thick base and a sharply tapered triangular working point.",
+    "tags": [
+      "ancient artifact",
+      "drill bit",
+      "stone",
+      "tool",
+      "museum style"
+    ],
+    "filename": "167-stone-drill-bit.png"
+  },
+  {
+    "id": "ancient-artifacts-168-bronze-drill-bit",
+    "original": "originals/ancient-artifacts-168-bronze-drill-bit-c67d747ab8a1df4a.png",
+    "preview": "previews/ancient-artifacts-168-bronze-drill-bit-c67d747ab8a1df4a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze drill bit",
+    "description": "A single slender bronze drill bit with a cylindrical shaft and a small flattened pointed working end.",
+    "tags": [
+      "ancient artifact",
+      "drill bit",
+      "bronze",
+      "tool",
+      "museum style"
+    ],
+    "filename": "168-bronze-drill-bit.png"
+  },
+  {
+    "id": "ancient-artifacts-169-bone-harpoon-head",
+    "original": "originals/ancient-artifacts-169-bone-harpoon-head-85c0960b026192c3.png",
+    "preview": "previews/ancient-artifacts-169-bone-harpoon-head-85c0960b026192c3.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bone harpoon head",
+    "description": "A single elongated bone harpoon head with carved barbs along one edge and a drilled attachment hole.",
+    "tags": [
+      "ancient artifact",
+      "harpoon head",
+      "bone",
+      "fishing",
+      "museum style"
+    ],
+    "filename": "169-bone-harpoon-head.png"
+  },
+  {
+    "id": "ancient-artifacts-170-bronze-spear-butt",
+    "original": "originals/ancient-artifacts-170-bronze-spear-butt-a2486a32547b3399.png",
+    "preview": "previews/ancient-artifacts-170-bronze-spear-butt-a2486a32547b3399.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bronze spear butt",
+    "description": "A single tapered bronze spear-butt ferrule with a hollow upper socket and a sturdy pointed lower end.",
+    "tags": [
+      "ancient artifact",
+      "spear butt",
+      "bronze",
+      "socket",
+      "museum style"
+    ],
+    "filename": "170-bronze-spear-butt.png"
+  },
+  {
+    "id": "ancient-artifacts-171-bronze-sling-bullet",
+    "original": "originals/ancient-artifacts-171-bronze-sling-bullet-98f1ba9543bb4493.png",
+    "preview": "previews/ancient-artifacts-171-bronze-sling-bullet-98f1ba9543bb4493.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze sling projectile",
+    "description": "A single small spindle-shaped bronze sling projectile with blunt tapered ends and a dark patinated surface.",
+    "tags": [
+      "ancient artifact",
+      "projectile",
+      "bronze",
+      "sling",
+      "museum style"
+    ],
+    "filename": "171-bronze-sling-bullet.png"
+  },
+  {
+    "id": "ancient-artifacts-172-iron-nail",
+    "original": "originals/ancient-artifacts-172-iron-nail-c52354ea7036a49d.png",
+    "preview": "previews/ancient-artifacts-172-iron-nail-c52354ea7036a49d.webp",
+    "width": 1227,
+    "height": 1282,
+    "title": "Iron nail",
+    "description": "A single large iron nail with a square shaft, a broad hand-forged head, and dark rusted texture.",
+    "tags": [
+      "ancient artifact",
+      "nail",
+      "iron",
+      "hardware",
+      "museum style"
+    ],
+    "filename": "172-iron-nail.png"
+  },
+  {
+    "id": "ancient-artifacts-173-bronze-hinge",
+    "original": "originals/ancient-artifacts-173-bronze-hinge-041080fdd19ae4aa.png",
+    "preview": "previews/ancient-artifacts-173-bronze-hinge-041080fdd19ae4aa.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze hinge",
+    "description": "A single assembled bronze hinge with two joined rectangular leaves and an integrated cylindrical pivot.",
+    "tags": [
+      "ancient artifact",
+      "hinge",
+      "bronze",
+      "hardware",
+      "museum style"
+    ],
+    "filename": "173-bronze-hinge.png"
+  },
+  {
+    "id": "ancient-artifacts-174-bronze-door-knocker",
+    "original": "originals/ancient-artifacts-174-bronze-door-knocker-11e04ae3a9396197.png",
+    "preview": "previews/ancient-artifacts-174-bronze-door-knocker-11e04ae3a9396197.webp",
+    "width": 1222,
+    "height": 1287,
+    "title": "Bronze door knocker",
+    "description": "A single assembled bronze door knocker with a hanging ring fitted to a lion-head mounting plate.",
+    "tags": [
+      "ancient artifact",
+      "door knocker",
+      "bronze",
+      "lion",
+      "museum style"
+    ],
+    "filename": "174-bronze-door-knocker.png"
+  },
+  {
+    "id": "ancient-artifacts-175-bronze-lock-body",
+    "original": "originals/ancient-artifacts-175-bronze-lock-body-3b3be29d231b5071.png",
+    "preview": "previews/ancient-artifacts-175-bronze-lock-body-3b3be29d231b5071.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze lock body",
+    "description": "A single rectangular bronze lock body with a narrow key opening and embossed geometric borders.",
+    "tags": [
+      "ancient artifact",
+      "lock",
+      "bronze",
+      "hardware",
+      "museum style"
+    ],
+    "filename": "175-bronze-lock-body.png"
+  },
+  {
+    "id": "ancient-artifacts-176-bronze-dolphin",
+    "original": "originals/ancient-artifacts-176-bronze-dolphin-3b1f04de9357211f.png",
+    "preview": "previews/ancient-artifacts-176-bronze-dolphin-3b1f04de9357211f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze dolphin figurine",
+    "description": "A small curved bronze dolphin figurine with an arched back and a gently curled tail.",
+    "tags": [
+      "ancient artifact",
+      "dolphin",
+      "bronze",
+      "figurine",
+      "museum style"
+    ],
+    "filename": "176-bronze-dolphin.png"
+  },
+  {
+    "id": "ancient-artifacts-177-bronze-tortoise",
+    "original": "originals/ancient-artifacts-177-bronze-tortoise-5526e2fa340cb611.png",
+    "preview": "previews/ancient-artifacts-177-bronze-tortoise-5526e2fa340cb611.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bronze tortoise figurine",
+    "description": "A small bronze tortoise figurine with a domed shell and finely modeled hexagonal shell plates.",
+    "tags": [
+      "ancient artifact",
+      "tortoise",
+      "bronze",
+      "figurine",
+      "museum style"
+    ],
+    "filename": "177-bronze-tortoise.png"
+  },
+  {
+    "id": "ancient-artifacts-178-bronze-boar",
+    "original": "originals/ancient-artifacts-178-bronze-boar-d0808518b6549649.png",
+    "preview": "previews/ancient-artifacts-178-bronze-boar-d0808518b6549649.webp",
+    "width": 1402,
+    "height": 1122,
+    "title": "Bronze boar statuette",
+    "description": "A compact bronze boar statuette with a raised bristled spine and short curved tusks.",
+    "tags": [
+      "ancient artifact",
+      "boar",
+      "bronze",
+      "statuette",
+      "museum style"
+    ],
+    "filename": "178-bronze-boar.png"
+  },
+  {
+    "id": "ancient-artifacts-179-bronze-rooster",
+    "original": "originals/ancient-artifacts-179-bronze-rooster-87b7f5c4bf98d65b.png",
+    "preview": "previews/ancient-artifacts-179-bronze-rooster-87b7f5c4bf98d65b.webp",
+    "width": 1207,
+    "height": 1303,
+    "title": "Bronze rooster figurine",
+    "description": "A small bronze rooster figurine with a raised comb, a curved tail, and incised feather patterns.",
+    "tags": [
+      "ancient artifact",
+      "rooster",
+      "bronze",
+      "figurine",
+      "museum style"
+    ],
+    "filename": "179-bronze-rooster.png"
+  },
+  {
+    "id": "ancient-artifacts-180-bronze-eagle",
+    "original": "originals/ancient-artifacts-180-bronze-eagle-9c4be931f1d6cddc.png",
+    "preview": "previews/ancient-artifacts-180-bronze-eagle-9c4be931f1d6cddc.webp",
+    "width": 1214,
+    "height": 1295,
+    "title": "Bronze eagle statuette",
+    "description": "A small bronze eagle statuette with folded wings, a sharply modeled beak, and sturdy attached feet.",
+    "tags": [
+      "ancient artifact",
+      "eagle",
+      "bronze",
+      "statuette",
+      "museum style"
+    ],
+    "filename": "180-bronze-eagle.png"
+  },
+  {
+    "id": "ancient-artifacts-181-terracotta-dancer",
+    "original": "originals/ancient-artifacts-181-terracotta-dancer-346660c850d3e39f.png",
+    "preview": "previews/ancient-artifacts-181-terracotta-dancer-346660c850d3e39f.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Terracotta dancer figurine",
+    "description": "A single terracotta dancer figurine with a curved standing pose and finely modeled flowing drapery.",
+    "tags": [
+      "ancient artifact",
+      "dancer",
+      "terracotta",
+      "figurine",
+      "museum style"
+    ],
+    "filename": "181-terracotta-dancer.png"
+  },
+  {
+    "id": "ancient-artifacts-182-terracotta-musician",
+    "original": "originals/ancient-artifacts-182-terracotta-musician-afe04bf96ca1036e.png",
+    "preview": "previews/ancient-artifacts-182-terracotta-musician-afe04bf96ca1036e.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Terracotta musician figurine",
+    "description": "A single terracotta musician figurine holding a small lyre modeled as an integral part of the sculpture.",
+    "tags": [
+      "ancient artifact",
+      "musician",
+      "terracotta",
+      "figurine",
+      "museum style"
+    ],
+    "filename": "182-terracotta-musician.png"
+  },
+  {
+    "id": "ancient-artifacts-183-marble-female-statuette",
+    "original": "originals/ancient-artifacts-183-marble-female-statuette-116e3e27cb417dab.png",
+    "preview": "previews/ancient-artifacts-183-marble-female-statuette-116e3e27cb417dab.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Marble female statuette",
+    "description": "A small pale marble female statuette in a long draped robe with folded arms and softly weathered facial details.",
+    "tags": [
+      "ancient artifact",
+      "female figure",
+      "marble",
+      "statuette",
+      "museum style"
+    ],
+    "filename": "183-marble-female-statuette.png"
+  },
+  {
+    "id": "ancient-artifacts-184-sandstone-standing-figure",
+    "original": "originals/ancient-artifacts-184-sandstone-standing-figure-695c1ed0d3790073.png",
+    "preview": "previews/ancient-artifacts-184-sandstone-standing-figure-695c1ed0d3790073.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Sandstone standing figure",
+    "description": "A compact sandstone standing figure with a stylized headdress, a long robe, and shallow carved ornament.",
+    "tags": [
+      "ancient artifact",
+      "figure",
+      "sandstone",
+      "sculpture",
+      "museum style"
+    ],
+    "filename": "184-sandstone-standing-figure.png"
+  },
+  {
+    "id": "ancient-artifacts-185-alabaster-winged-bull",
+    "original": "originals/ancient-artifacts-185-alabaster-winged-bull-3631860531cbc67d.png",
+    "preview": "previews/ancient-artifacts-185-alabaster-winged-bull-3631860531cbc67d.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Alabaster winged bull",
+    "description": "A small alabaster guardian-bull sculpture with a stylized human face, attached wings, and softly carved fur.",
+    "tags": [
+      "ancient artifact",
+      "winged bull",
+      "alabaster",
+      "sculpture",
+      "museum style"
+    ],
+    "filename": "185-alabaster-winged-bull.png"
+  },
+  {
+    "id": "ancient-artifacts-186-silver-votive-eye",
+    "original": "originals/ancient-artifacts-186-silver-votive-eye-9732dc0c029f8d98.png",
+    "preview": "previews/ancient-artifacts-186-silver-votive-eye-9732dc0c029f8d98.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Silver votive eye plaque",
+    "description": "A single small silver plaque with one embossed almond-shaped eye and a gently hammered border.",
+    "tags": [
+      "ancient artifact",
+      "eye plaque",
+      "silver",
+      "votive object",
+      "museum style"
+    ],
+    "filename": "186-silver-votive-eye.png"
+  },
+  {
+    "id": "ancient-artifacts-187-bone-floral-plaque",
+    "original": "originals/ancient-artifacts-187-bone-floral-plaque-e73f0121787fffec.png",
+    "preview": "previews/ancient-artifacts-187-bone-floral-plaque-e73f0121787fffec.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bone floral relief plaque",
+    "description": "A single rectangular bone relief plaque with a raised floral vine and a narrow incised border.",
+    "tags": [
+      "ancient artifact",
+      "plaque",
+      "bone",
+      "floral relief",
+      "museum style"
+    ],
+    "filename": "187-bone-floral-plaque.png"
+  },
+  {
+    "id": "ancient-artifacts-188-bronze-lion-foot",
+    "original": "originals/ancient-artifacts-188-bronze-lion-foot-da7b01e808455466.png",
+    "preview": "previews/ancient-artifacts-188-bronze-lion-foot-da7b01e808455466.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Bronze lion-foot fitting",
+    "description": "A single bronze furniture fitting shaped like a lion paw with an integrated short mounting collar.",
+    "tags": [
+      "ancient artifact",
+      "furniture fitting",
+      "bronze",
+      "lion paw",
+      "museum style"
+    ],
+    "filename": "188-bronze-lion-foot.png"
+  },
+  {
+    "id": "ancient-artifacts-189-bronze-swan-terminal",
+    "original": "originals/ancient-artifacts-189-bronze-swan-terminal-7a401ac037656bee.png",
+    "preview": "previews/ancient-artifacts-189-bronze-swan-terminal-7a401ac037656bee.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Bronze swan terminal",
+    "description": "A single curved bronze furniture terminal shaped like a swan neck and head with a hollow mounting end.",
+    "tags": [
+      "ancient artifact",
+      "terminal",
+      "bronze",
+      "swan",
+      "museum style"
+    ],
+    "filename": "189-bronze-swan-terminal.png"
+  },
+  {
+    "id": "ancient-artifacts-190-stone-column-capital",
+    "original": "originals/ancient-artifacts-190-stone-column-capital-946ac10bb17822a4.png",
+    "preview": "previews/ancient-artifacts-190-stone-column-capital-946ac10bb17822a4.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Stone column capital",
+    "description": "A single small limestone column capital with two integrated spiral volutes and a carved central leaf band.",
+    "tags": [
+      "ancient artifact",
+      "capital",
+      "limestone",
+      "architecture",
+      "museum style"
+    ],
+    "filename": "190-stone-column-capital.png"
+  },
+  {
+    "id": "ancient-artifacts-191-painted-roof-tile",
+    "original": "originals/ancient-artifacts-191-painted-roof-tile-4638e264a2c8881f.png",
+    "preview": "previews/ancient-artifacts-191-painted-roof-tile-4638e264a2c8881f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Painted terracotta roof tile",
+    "description": "A single curved terracotta roof tile with a faded red and cream geometric painted border.",
+    "tags": [
+      "ancient artifact",
+      "roof tile",
+      "terracotta",
+      "architecture",
+      "museum style"
+    ],
+    "filename": "191-painted-roof-tile.png"
+  },
+  {
+    "id": "ancient-artifacts-192-limestone-marker",
+    "original": "originals/ancient-artifacts-192-limestone-marker-8eaea564c259dcf5.png",
+    "preview": "previews/ancient-artifacts-192-limestone-marker-8eaea564c259dcf5.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Limestone marker",
+    "description": "A single upright limestone marker with a rounded top and a deeply carved abstract geometric emblem.",
+    "tags": [
+      "ancient artifact",
+      "marker",
+      "limestone",
+      "carved stone",
+      "museum style"
+    ],
+    "filename": "192-limestone-marker.png"
+  },
+  {
+    "id": "ancient-artifacts-193-wooden-stamp",
+    "original": "originals/ancient-artifacts-193-wooden-stamp-a25999cf2e6b57d0.png",
+    "preview": "previews/ancient-artifacts-193-wooden-stamp-a25999cf2e6b57d0.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Carved wooden stamp",
+    "description": "A single wooden stamp with an integrated round handle and a square face carved with geometric floral ornament.",
+    "tags": [
+      "ancient artifact",
+      "stamp",
+      "wood",
+      "carved ornament",
+      "museum style"
+    ],
+    "filename": "193-wooden-stamp.png"
+  },
+  {
+    "id": "ancient-artifacts-194-amber-fish-pendant",
+    "original": "originals/ancient-artifacts-194-amber-fish-pendant-21226cb6f07cc100.png",
+    "preview": "previews/ancient-artifacts-194-amber-fish-pendant-21226cb6f07cc100.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Amber fish pendant",
+    "description": "A single translucent amber pendant carved as a fish with an incised eye and one drilled suspension hole.",
+    "tags": [
+      "ancient artifact",
+      "pendant",
+      "amber",
+      "fish",
+      "museum style"
+    ],
+    "filename": "194-amber-fish-pendant.png"
+  },
+  {
+    "id": "ancient-artifacts-195-agate-beetle-ring",
+    "original": "originals/ancient-artifacts-195-agate-beetle-ring-624838858561b2ba.png",
+    "preview": "previews/ancient-artifacts-195-agate-beetle-ring-624838858561b2ba.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Agate beetle ring",
+    "description": "A single gold ring set with a banded agate beetle-shaped stone with finely carved wing grooves.",
+    "tags": [
+      "ancient artifact",
+      "ring",
+      "agate",
+      "beetle",
+      "museum style"
+    ],
+    "filename": "195-agate-beetle-ring.png"
+  },
+  {
+    "id": "ancient-artifacts-196-silver-lunula",
+    "original": "originals/ancient-artifacts-196-silver-lunula-13782951c034b719.png",
+    "preview": "previews/ancient-artifacts-196-silver-lunula-13782951c034b719.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Silver crescent pendant",
+    "description": "A single silver crescent pendant with curled pointed tips and an integrated central suspension loop.",
+    "tags": [
+      "ancient artifact",
+      "pendant",
+      "silver",
+      "crescent",
+      "museum style"
+    ],
+    "filename": "196-silver-lunula.png"
+  },
+  {
+    "id": "ancient-artifacts-197-gold-crescent-nose-ring",
+    "original": "originals/ancient-artifacts-197-gold-crescent-nose-ring-6ecebfd7df22482f.png",
+    "preview": "previews/ancient-artifacts-197-gold-crescent-nose-ring-6ecebfd7df22482f.webp",
+    "width": 1222,
+    "height": 1287,
+    "title": "Gold crescent nose ring",
+    "description": "A single small gold nose ring with a thick crescent-shaped lower section and a narrow open upper loop.",
+    "tags": [
+      "ancient artifact",
+      "nose ring",
+      "gold",
+      "crescent",
+      "museum style"
+    ],
+    "filename": "197-gold-crescent-nose-ring.png"
+  },
+  {
+    "id": "ancient-artifacts-198-gold-conical-earring",
+    "original": "originals/ancient-artifacts-198-gold-conical-earring-a60696ec5827286d.png",
+    "preview": "previews/ancient-artifacts-198-gold-conical-earring-a60696ec5827286d.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Gold conical earring",
+    "description": "A single gold earring with an integrated hook and a hollow tapered pendant covered in tiny raised granules.",
+    "tags": [
+      "ancient artifact",
+      "earring",
+      "gold",
+      "granulation",
+      "museum style"
+    ],
+    "filename": "198-gold-conical-earring.png"
+  },
+  {
+    "id": "ancient-artifacts-199-bronze-openwork-pin",
+    "original": "originals/ancient-artifacts-199-bronze-openwork-pin-dc06207a133ccc68.png",
+    "preview": "previews/ancient-artifacts-199-bronze-openwork-pin-dc06207a133ccc68.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bronze openwork pin",
+    "description": "A single bronze pin with a large openwork circular head formed from interlaced curling leaves.",
+    "tags": [
+      "ancient artifact",
+      "pin",
+      "bronze",
+      "openwork",
+      "museum style"
+    ],
+    "filename": "199-bronze-openwork-pin.png"
+  },
+  {
+    "id": "ancient-artifacts-200-stone-feathered-serpent",
+    "original": "originals/ancient-artifacts-200-stone-feathered-serpent-aa7b32b3670ce3b0.png",
+    "preview": "previews/ancient-artifacts-200-stone-feathered-serpent-aa7b32b3670ce3b0.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Stone feathered serpent pendant",
+    "description": "A single green stone pendant carved as a curled feathered serpent with raised feather details and one suspension hole.",
+    "tags": [
+      "ancient artifact",
+      "pendant",
+      "green stone",
+      "serpent",
+      "museum style"
+    ],
+    "filename": "200-stone-feathered-serpent.png"
+  }
+]
