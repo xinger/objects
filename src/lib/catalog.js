@@ -19,8 +19,9 @@ const objectSchema = z.object({
 /** @param {{id: string, title: string}[]} categories
  * @param {Record<string, unknown>} entries
  * @param {string} mediaBaseUrl
- * @param {string} previewBaseUrl */
-export function createCatalog(categories, entries, mediaBaseUrl = 'https://objects-media.xinger.net/', previewBaseUrl = mediaBaseUrl) {
+ * @param {string} previewBaseUrl
+ * @param {string} feedSeed */
+export function createCatalog(categories, entries, mediaBaseUrl = 'https://objects-media.xinger.net/', previewBaseUrl = mediaBaseUrl, feedSeed = '') {
   const parsedCategories = z.array(categorySchema).parse(categories);
   const categoryIds = new Set();
   const objectIds = new Set();
@@ -54,7 +55,7 @@ export function createCatalog(categories, entries, mediaBaseUrl = 'https://objec
   for (const id of Object.keys(entries)) {
     if (!categoryIds.has(id)) throw new Error(`Unknown category file: ${id}.json`);
   }
-  return { categories: resultCategories, objects, feed: mixObjects(objects) };
+  return { categories: resultCategories, objects, feed: mixObjects(objects, feedSeed) };
 }
 
 /** @template T @param {T[]} items @param {number} size @returns {T[][]} */
@@ -96,9 +97,9 @@ function assetUrl(key, base) {
   return `${base.replace(/\/$/, '')}/${encoded}`;
 }
 
-/** @template {{id: string}} T @param {T[]} objects @returns {T[]} */
-function mixObjects(objects) {
-  return objects.map((object) => ({ object, key: createHash('sha256').update(`objects-feed-v1:${object.id}`).digest('hex') }))
+/** @template {{id: string}} T @param {T[]} objects @param {string} seed @returns {T[]} */
+function mixObjects(objects, seed) {
+  return objects.map((object) => ({ object, key: createHash('sha256').update(`objects-feed-v1:${seed}:${object.id}`).digest('hex') }))
     .sort((a, b) => a.key < b.key ? -1 : a.key > b.key ? 1 : a.object.id.localeCompare(b.object.id))
     .map(({ object }) => object);
 }

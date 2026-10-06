@@ -69,7 +69,7 @@ test('originals and previews can use separate domains while explicit URLs are pr
   assert.throws(() => createCatalog([], {}, '/', 'javascript:evil'), /invalid preview base/i);
 });
 
-test('the mixed feed is stable across rebuilds and input order and keeps category order intact', () => {
+test('the mixed feed is stable within a build and across input order and keeps category order intact', () => {
   const chairs = Array.from({ length: 70 }, (_, index) => ({ ...chair, id: `chair_${index}` }));
   const lights = Array.from({ length: 70 }, (_, index) => ({ ...chair, id: `light_${index}` }));
   const first = createCatalog(categories, { chairs, lights });
@@ -87,6 +87,23 @@ test('the mixed feed is stable across rebuilds and input order and keeps categor
   for (const page of paginate(first.feed).slice(0, 2)) {
     assert.deepEqual(new Set(page.map((object) => object.categoryId)), new Set(['chairs', 'lights']));
   }
+});
+
+test('a new build seed reshuffles the feed without losing objects or changing category order', () => {
+  const chairs = Array.from({ length: 70 }, (_, index) => ({ ...chair, id: `chair_${index}` }));
+  const lights = Array.from({ length: 70 }, (_, index) => ({ ...chair, id: `light_${index}` }));
+  const entries = { chairs, lights };
+  const first = createCatalog(categories, entries, '/media/', '/previews/', 'build-a');
+  const repeated = createCatalog(categories, entries, '/media/', '/previews/', 'build-a');
+  const next = createCatalog(categories, entries, '/media/', '/previews/', 'build-b');
+  const ids = (catalog) => catalog.feed.map((object) => object.id);
+
+  assert.deepEqual(ids(first), ids(repeated));
+  assert.notDeepEqual(ids(first).slice(0, 60), ids(next).slice(0, 60));
+  assert.deepEqual([...ids(first)].sort(), [...ids(next)].sort());
+  assert.equal(new Set(ids(next)).size, 140);
+  assert.deepEqual(first.objects, next.objects);
+  assert.deepEqual(paginate(next.feed).flat(), next.feed);
 });
 
 test('new objects join the mixed feed without changing the relative order of existing objects', () => {

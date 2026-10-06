@@ -1,9 +1,11 @@
 import { readFileSync, readdirSync } from 'node:fs';
 import { resolve, basename } from 'node:path';
 import { createCatalog } from './catalog.js';
+import { randomUUID } from 'node:crypto';
 
 /** @type {ReturnType<typeof createCatalog> | undefined} */
 let catalog;
+const feedSeed = randomUUID();
 
 export function getCatalog() {
   if (catalog && !import.meta.env.DEV) return catalog;
@@ -15,6 +17,6 @@ export function getCatalog() {
     .map((name) => [basename(name, '.json'), JSON.parse(readFileSync(resolve(categoryDirectory, name), 'utf8'))]));
   catalog = createCatalog(categories, entries,
     import.meta.env.PUBLIC_MEDIA_BASE_URL || 'https://objects-media.xinger.net/',
-    import.meta.env.PUBLIC_PREVIEW_BASE_URL || import.meta.env.PUBLIC_MEDIA_BASE_URL || 'https://objects-previews.xinger.net/');
+    import.meta.env.PUBLIC_PREVIEW_BASE_URL || import.meta.env.PUBLIC_MEDIA_BASE_URL || 'https://objects-previews.xinger.net/', feedSeed);
   return catalog;
 }
