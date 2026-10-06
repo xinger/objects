@@ -23,7 +23,7 @@ export async function createJobs(directory, workers = 3) {
   if (!Number.isInteger(workers) || workers < 1 || workers > 3) throw new Error('Число исполнителей должно быть от 1 до 3.');
   directory = path.resolve(directory);
   const manifest = await readBatch(directory);
-  const pending = await pendingImages(directory, manifest);
+  const pending = (await pendingImages(directory, manifest)).slice(0, workers * 10);
   const count = Math.min(workers, pending.length);
   const files = [];
   await mkdir(path.join(directory, 'jobs'), { recursive: true });

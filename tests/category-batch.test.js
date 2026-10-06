@@ -183,3 +183,33 @@ test('continuation context reserves existing and planned numbers and returns bou
   assert.equal(legacy.examples[0].title, 'Shell');
   assert.equal(legacy.examples[0].image, path.join(root, 'media/library/originals/040-shell.png'));
 });
+
+test('generation waves cap each worker at ten images and resume a large series without repeats', async (t) => {
+  const { batch, manifest, source } = await fixture(t, 65);
+  const saved = [];
+  for (const expectedCount of [30, 30, 5]) {
+    const jobs = await createJobs(batch);
+    assert.equal(jobs.length, 3);
+    const assignments = await Promise.all(jobs.map(async (file) => JSON.parse(await readFile(file, 'utf8'))));
+    assert.ok(assignments.every((job) => job.objects.length > 0 && job.objects.length <= 10));
+    const filenames = assignments.flatMap((job) => job.objects.map((object) => object.filename));
+    assert.equal(filenames.length, expectedCount);
+    assert.equal(new Set(filenames).size, expectedCount);
+    assert.ok(filenames.every((filename) => !saved.includes(filename)));
+    for (const filename of filenames) await saveImage(batch, filename, source);
+    saved.push(...filenames);
+  }
+  assert.deepEqual(saved.sort(), manifest.objects.map((object) => object.filename));
+  assert.deepEqual(await createJobs(batch), []);
+});
+
+test('one or two workers still receive at most ten assignments each', async (t) => {
+  const { batch } = await fixture(t, 35);
+  for (const workers of [1, 2]) {
+    const jobs = await createJobs(batch, workers);
+    assert.equal(jobs.length, workers);
+    const assignments = await Promise.all(jobs.map(async (file) => JSON.parse(await readFile(file, 'utf8'))));
+    assert.ok(assignments.every((job) => job.objects.length === 10));
+    assert.equal(new Set(assignments.flatMap((job) => job.objects.map((object) => object.filename))).size, workers * 10);
+  }
+});

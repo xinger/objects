@@ -38,9 +38,11 @@ For “add another N” to a finished category, read [continue.md](references/co
 npm run category:batch -- jobs media/batches/shells 3
 ```
 
-This returns **only current job paths**, with disjoint assignments excluding saved PNGs, and exports human-readable `prompts.txt`. Use those returned paths, not a directory glob of old jobs.
+This returns **only the current wave of job paths**: up to the requested number of workers, at most **10 images per job** (30 per wave with three workers), excluding saved PNGs. It also exports human-readable `prompts.txt`. Use those returned paths, not a directory glob of old jobs.
 
-Read [worker.md](references/worker.md) only when dispatching generation. Start up to the requested number of workers with `fork_turns="none"`, `model="gpt-6-luna"`, `reasoning_effort="low"`. Give each worker the repository path, its returned job path and the worker instructions, without the parent conversation or full collection. Reuse idle workers for later chunks; never run more than three simultaneously. With one worker, still use one Luna executor. If delegation is unavailable, execute the same jobs sequentially in the main agent and report the fallback.
+Read [worker.md](references/worker.md) only when dispatching generation. Start a **fresh agent for every job** with a unique task name, `fork_turns="none"`, `model="gpt-6-luna"`, `reasoning_effort="low"`. Give it only the repository path, its returned job path and the worker instructions. Never reuse a finished worker or send it another job: every worker stops after its one job, including failed attempts, so generation history cannot grow beyond ten image calls. Never run more than the requested number of workers or more than three simultaneously. With one worker, still use one Luna executor. If delegation is unavailable, execute the same jobs sequentially in the main agent and report that context isolation is unavailable.
+
+Wait for all workers in the wave to finish before rewriting job files. If the wave succeeded, rerun `jobs` and dispatch the returned paths to new agents; repeat until no jobs remain. On failures, preserve successes and resolve or retry missing assignments in fresh agents before continuing; stop and report repeated failures instead of looping indefinitely. Keep only compact worker summaries in the main chat; do not carry previous generation outputs into new workers.
 
 Workers use the built-in image generation tool, one call per object. Do not switch to a paid API/CLI path. Concurrent image-tool support and speed are unverified; on explicit concurrency/rate-limit failures finish active work, then retry missing jobs sequentially. Do not promise linear speedup or repeat successful images.
 
