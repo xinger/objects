@@ -15,7 +15,7 @@ Work from the repository root. The main agent designs the series and imports it;
 
 ```json
 {
-  "category": { "id": "shells", "title": "Раковины" },
+  "category": { "id": "shells", "title": "Shells" },
   "objects": [{
     "filename": "001-nautilus.png",
     "title": "Nautilus shell",
@@ -26,7 +26,7 @@ Work from the repository root. The main agent designs the series and imports it;
 }
 ```
 
-Names: lowercase category slug; PNG filenames use at least three digits and a descriptive lowercase slug. Use English object text/prompts unless requested otherwise; category titles follow the site's Russian interface. Descriptions describe the object, not generator instructions. Choose distinct subjects; keep one shared style and composition in every self-contained prompt. Never infer scientific or historical certainty from generated imagery.
+Names: lowercase category slug; PNG filenames use at least three digits and a descriptive lowercase slug. Use English for all website metadata and prompts unless requested otherwise. Keep category titles short, preferably one word (for example Shells, Gems, Artifacts); the site displays labels in lowercase. Descriptions describe the object, not generator instructions. Choose distinct subjects; keep one shared style and composition in every self-contained prompt. Never infer scientific or historical certainty from generated imagery.
 
 Write all metadata for a small series at once. For long/ongoing series prepare manageable chunks (about 20 objects), extending the manifest between worker runs; import once the requested series is complete. Never edit assignments while workers are active. An existing batch is resumed, not overwritten; inspect its manifest and status first.
 
