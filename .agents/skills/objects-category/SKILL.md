@@ -26,7 +26,9 @@ Work from the repository root. The main agent designs the series and imports it;
 }
 ```
 
-Names: lowercase category slug; PNG filenames use at least three digits and a descriptive lowercase slug. Use English for all website metadata and prompts unless requested otherwise. Keep category titles short, preferably one word (for example Shells, Gems, Artifacts); the site displays labels in lowercase. Descriptions describe the object, not generator instructions. Choose distinct subjects; keep one shared style and composition in every self-contained prompt. Never infer scientific or historical certainty from generated imagery.
+Names: lowercase category slug; PNG filenames use at least three digits and a descriptive lowercase slug. Use English for category and object names, descriptions, tags and prompts, even when the user briefs the series in Russian, unless they explicitly request another output language. The site displays labels in lowercase. Descriptions describe the object, not generator instructions. Choose distinct subjects; keep one shared style and composition in every self-contained prompt. Never infer scientific or historical certainty from generated imagery.
+
+Before choosing a new category name, inspect `data/categories.json`. Its `category.title` is the short English label shown in the category filters, preferably one word; `category.id` remains a descriptive English slug. Follow existing examples: `byzantine-ornaments` → `Ornaments`, `microorganisms` → `Microbes`, `rhinestones` → `Gems`, `ancient-artifacts` → `Artifacts`. Put this short title in the batch manifest. Object titles can be descriptive; do not abbreviate them to filter labels. When extending a category, preserve its existing ID and short title.
 
 Write all metadata for a small series at once. For long/ongoing series prepare manageable chunks (about 20 objects), extending the manifest between worker runs; import once the requested series is complete. Never edit assignments while workers are active. An existing batch is resumed, not overwritten; inspect its manifest and status first.
 
@@ -64,6 +66,8 @@ npm run build
 ```
 
 Import validates completeness/transparency, preserves original bytes and explicit text, makes WebP previews and appends the category. For an already imported category use `import <batch> --append`: it adds only new objects, preserves old records/URLs and refuses replacement of an existing PNG or metadata. Only new previews are generated. Both modes check the complete local `media/library` against the catalogue and asset quotas. Do not use the older all-category `images:import` command for this workflow.
+
+After importing a new category, verify that its `{ id, title }` entry was appended to `data/categories.json` and its objects are in `data/categories/<id>.json`. The header builds the category filters automatically from that registry using `category.title`; no separate filter field or manual header edit is needed. Preserve existing entries and confirm the new filter uses the chosen short English title.
 
 When publication is requested, upload the **entire library** first:
 
