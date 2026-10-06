@@ -9,7 +9,7 @@ Work from the repository root. The main agent designs the series and imports it;
 
 ## Prepare once
 
-- Resolve category, style, quantity and output requirements from the request. Ask only for missing essentials. Default: one isolated object per PNG, genuine transparent background, complete subject with margins, no text or watermark. Respect requested exceptions; this workflow's save command requires transparency.
+- Resolve category, style and quantity from the request. Ask only for missing essentials. Every PNG must show **exactly one isolated object on a genuinely transparent background (alpha)**, with the complete subject and clear margins, no text or watermark. Include the single-object and transparent-background requirements in every prompt. No collages, groups of objects, opaque backgrounds or painted checkerboards.
 - Default to **3 workers; allow only 1, 2 or 3** as requested. Fewer pending images need fewer workers. Keep the main chat's model; workers use `gpt-6-luna`, reasoning `low`.
 - Create `media/batches/<category-id>/collection.json` with this shape:
 

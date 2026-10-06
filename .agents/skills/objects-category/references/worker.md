@@ -4,7 +4,7 @@ You receive a repository root and one job JSON path, with at most **10 assignmen
 
 1. Read the job once. For each assignment, inspect an existing `images/<filename>` if present and skip an already completed valid PNG; never replace it automatically.
 2. Send the prompt verbatim to built-in `image_gen.imagegen` with `transparent_background: true`. Omit image references for new generation. Make one call per object; do not create sheets/collages or rewrite prompts.
-3. Inspect the returned image for the assigned subject, style, cropping and unwanted elements. Use the local output path returned by the tool; do not guess a filename or take an unrelated “latest” image. If needed, inspect only the current generation's output directory. Retain the generated original.
+3. Inspect the returned image: exactly one isolated object, genuine transparent background, assigned subject/style, complete subject with margins and no unwanted elements. Treat multiple objects, collages, opaque backgrounds or painted checkerboards as failed results; do not save them as successful assignments. Use the local output path returned by the tool; do not guess a filename or take an unrelated “latest” image. If needed, inspect only the current generation's output directory. Retain the generated original.
 4. Run one command from the repository root, quoting actual paths:
 
 ```bash
