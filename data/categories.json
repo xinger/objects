@@ -38,5 +38,9 @@
   {
     "id": "mushrooms",
     "title": "Mushrooms"
+  },
+  {
+    "id": "fish",
+    "title": "Fish"
   }
 ]
