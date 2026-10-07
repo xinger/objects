@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "leaves-001-monstera-leaf",
+    "original": "originals/leaves-001-monstera-leaf-1387b29c4ac7dd52.png",
+    "preview": "previews/leaves-001-monstera-leaf-1387b29c4ac7dd52.webp",
+    "width": 1224,
+    "height": 1285,
+    "title": "Monstera leaf",
+    "description": "A deep green heart-shaped blade with large natural splits and enclosed fenestrations.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "monstera"
+    ],
+    "filename": "001-monstera-leaf.png"
+  },
+  {
+    "id": "leaves-002-banana-leaf",
+    "original": "originals/leaves-002-banana-leaf-84b23fc0ec397aef.png",
+    "preview": "previews/leaves-002-banana-leaf-84b23fc0ec397aef.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Ribbed tropical leaf",
+    "description": "A bright green lance-shaped leaf with fine curved veins and a softly rippled edge.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "ribbed",
+      "green"
+    ],
+    "filename": "002-banana-leaf.png"
+  },
+  {
+    "id": "leaves-003-bird-of-paradise-leaf",
+    "original": "originals/leaves-003-bird-of-paradise-leaf-7e9ac9076f0b5e8a.png",
+    "preview": "previews/leaves-003-bird-of-paradise-leaf-7e9ac9076f0b5e8a.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bird of paradise leaf",
+    "description": "A blue-green oval paddle with a strong pale central rib.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "bird of paradise"
+    ],
+    "filename": "003-bird-of-paradise-leaf.png"
+  },
+  {
+    "id": "leaves-004-elephant-ear-leaf",
+    "original": "originals/leaves-004-elephant-ear-leaf-c37fc96ff4f5710c.png",
+    "preview": "previews/leaves-004-elephant-ear-leaf-c37fc96ff4f5710c.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Elephant ear leaf",
+    "description": "A large emerald arrow-shaped blade with raised branching veins.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "elephant ear"
+    ],
+    "filename": "004-elephant-ear-leaf.png"
+  },
+  {
+    "id": "leaves-005-fiddle-leaf-fig-leaf",
+    "original": "originals/leaves-005-fiddle-leaf-fig-leaf-b8da279e267d833a.png",
+    "preview": "previews/leaves-005-fiddle-leaf-fig-leaf-b8da279e267d833a.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Fiddle leaf fig leaf",
+    "description": "A violin-shaped dark green blade with softly wavy edges.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "fiddle leaf fig"
+    ],
+    "filename": "005-fiddle-leaf-fig-leaf.png"
+  },
+  {
+    "id": "leaves-006-rubber-plant-leaf",
+    "original": "originals/leaves-006-rubber-plant-leaf-9b367209343b726f.png",
+    "preview": "previews/leaves-006-rubber-plant-leaf-9b367209343b726f.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Rubber plant leaf",
+    "description": "A thick glossy oval blade in forest green with a pale central vein.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "rubber plant"
+    ],
+    "filename": "006-rubber-plant-leaf.png"
+  },
+  {
+    "id": "leaves-007-breadfruit-leaf",
+    "original": "originals/leaves-007-breadfruit-leaf-4d5574461ab2054a.png",
+    "preview": "previews/leaves-007-breadfruit-leaf-4d5574461ab2054a.webp",
+    "width": 1262,
+    "height": 1246,
+    "title": "Breadfruit leaf",
+    "description": "A broad shiny green blade with deep rounded finger-like lobes.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "breadfruit"
+    ],
+    "filename": "007-breadfruit-leaf.png"
+  },
+  {
+    "id": "leaves-008-papaya-leaf",
+    "original": "originals/leaves-008-papaya-leaf-ffc774c4465b450a.png",
+    "preview": "previews/leaves-008-papaya-leaf-ffc774c4465b450a.webp",
+    "width": 1263,
+    "height": 1245,
+    "title": "Serrated star leaf",
+    "description": "A green star-shaped leaf with five pointed lobes and finely serrated edges.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "lobed",
+      "serrated"
+    ],
+    "filename": "008-papaya-leaf.png"
+  },
+  {
+    "id": "leaves-009-split-philodendron-leaf",
+    "original": "originals/leaves-009-split-philodendron-leaf-b59ed1185e4ce910.png",
+    "preview": "previews/leaves-009-split-philodendron-leaf-b59ed1185e4ce910.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Split philodendron leaf",
+    "description": "A elongated green blade with deeply incised curved lobes.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "split philodendron"
+    ],
+    "filename": "009-split-philodendron-leaf.png"
+  },
+  {
+    "id": "leaves-010-anthurium-leaf",
+    "original": "originals/leaves-010-anthurium-leaf-d9f863f4614f1a25.png",
+    "preview": "previews/leaves-010-anthurium-leaf-d9f863f4614f1a25.webp",
+    "width": 1216,
+    "height": 1293,
+    "title": "Anthurium leaf",
+    "description": "A dark green heart-shaped blade with delicate white branching veins.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "anthurium"
+    ],
+    "filename": "010-anthurium-leaf.png"
+  },
+  {
+    "id": "leaves-011-cacao-leaf",
+    "original": "originals/leaves-011-cacao-leaf-b0e0f5e6352adf9d.png",
+    "preview": "previews/leaves-011-cacao-leaf-b0e0f5e6352adf9d.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Cacao leaf",
+    "description": "A bronze-green elongated oval blade with a pointed tip and ribbed veins.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "cacao"
+    ],
+    "filename": "011-cacao-leaf.png"
+  },
+  {
+    "id": "leaves-012-coffee-leaf",
+    "original": "originals/leaves-012-coffee-leaf-e7efb203fe512c28.png",
+    "preview": "previews/leaves-012-coffee-leaf-e7efb203fe512c28.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Coffee leaf",
+    "description": "A glossy dark green oval blade with rippled edges and fine lateral veins.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "coffee"
+    ],
+    "filename": "012-coffee-leaf.png"
+  },
+  {
+    "id": "leaves-013-mango-leaf",
+    "original": "originals/leaves-013-mango-leaf-5ecc5063cf205fa5.png",
+    "preview": "previews/leaves-013-mango-leaf-5ecc5063cf205fa5.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Mango leaf",
+    "description": "A long narrow green blade with a reddish central rib.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "mango"
+    ],
+    "filename": "013-mango-leaf.png"
+  },
+  {
+    "id": "leaves-014-avocado-leaf",
+    "original": "originals/leaves-014-avocado-leaf-273151bd8ca95b52.png",
+    "preview": "previews/leaves-014-avocado-leaf-273151bd8ca95b52.webp",
+    "width": 1166,
+    "height": 1349,
+    "title": "Avocado leaf",
+    "description": "A matte green oval blade with fine branching veins.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "avocado"
+    ],
+    "filename": "014-avocado-leaf.png"
+  },
+  {
+    "id": "leaves-015-jackfruit-leaf",
+    "original": "originals/leaves-015-jackfruit-leaf-b195309abb901f22.png",
+    "preview": "previews/leaves-015-jackfruit-leaf-b195309abb901f22.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Jackfruit leaf",
+    "description": "A leathery glossy green oval blade with a gently pointed tip.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "jackfruit"
+    ],
+    "filename": "015-jackfruit-leaf.png"
+  },
+  {
+    "id": "leaves-016-guava-leaf",
+    "original": "originals/leaves-016-guava-leaf-c06ccd19d3ff9d44.png",
+    "preview": "previews/leaves-016-guava-leaf-c06ccd19d3ff9d44.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Guava leaf",
+    "description": "A light green oval blade with strongly impressed regular lateral veins.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "guava"
+    ],
+    "filename": "016-guava-leaf.png"
+  },
+  {
+    "id": "leaves-017-passionflower-leaf",
+    "original": "originals/leaves-017-passionflower-leaf-626466544fee5fec.png",
+    "preview": "previews/leaves-017-passionflower-leaf-626466544fee5fec.webp",
+    "width": 1206,
+    "height": 1305,
+    "title": "Passionflower leaf",
+    "description": "A green blade with three long tapered lobes.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "passionflower"
+    ],
+    "filename": "017-passionflower-leaf.png"
+  },
+  {
+    "id": "leaves-018-castor-leaf",
+    "original": "originals/leaves-018-castor-leaf-d74e2dedfe986151.png",
+    "preview": "previews/leaves-018-castor-leaf-d74e2dedfe986151.webp",
+    "width": 1299,
+    "height": 1211,
+    "title": "Castor leaf",
+    "description": "A burgundy-green star-shaped blade with sharply serrated lobes.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "castor"
+    ],
+    "filename": "018-castor-leaf.png"
+  },
+  {
+    "id": "leaves-019-lotus-leaf",
+    "original": "originals/leaves-019-lotus-leaf-8afe2e4a2b95bce6.png",
+    "preview": "previews/leaves-019-lotus-leaf-8afe2e4a2b95bce6.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Lotus leaf",
+    "description": "A round blue-green shield-shaped blade with delicate radial veins, dry surface without droplets.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "lotus"
+    ],
+    "filename": "019-lotus-leaf.png"
+  },
+  {
+    "id": "leaves-020-water-lily-leaf",
+    "original": "originals/leaves-020-water-lily-leaf-d84db9115dc1758d.png",
+    "preview": "previews/leaves-020-water-lily-leaf-d84db9115dc1758d.webp",
+    "width": 1223,
+    "height": 1286,
+    "title": "Water lily leaf",
+    "description": "A glossy round green blade with one narrow natural basal notch.",
+    "tags": [
+      "leaf",
+      "tropical",
+      "botanical",
+      "water lily"
+    ],
+    "filename": "020-water-lily-leaf.png"
+  },
+  {
+    "id": "leaves-021-scarlet-maple-leaf",
+    "original": "originals/leaves-021-scarlet-maple-leaf-c94a65fc737952c2.png",
+    "preview": "previews/leaves-021-scarlet-maple-leaf-c94a65fc737952c2.webp",
+    "width": 1278,
+    "height": 1230,
+    "title": "Scarlet maple leaf",
+    "description": "A five pointed lobes in vivid scarlet with orange veins.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "scarlet maple"
+    ],
+    "filename": "021-scarlet-maple-leaf.png"
+  },
+  {
+    "id": "leaves-022-golden-ginkgo-leaf",
+    "original": "originals/leaves-022-golden-ginkgo-leaf-23a39f613c827bf0.png",
+    "preview": "previews/leaves-022-golden-ginkgo-leaf-23a39f613c827bf0.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Golden ginkgo leaf",
+    "description": "A fan-shaped golden yellow blade with radiating fine veins and a shallow central notch.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "golden ginkgo"
+    ],
+    "filename": "022-golden-ginkgo-leaf.png"
+  },
+  {
+    "id": "leaves-023-copper-oak-leaf",
+    "original": "originals/leaves-023-copper-oak-leaf-106d58d9c7766fea.png",
+    "preview": "previews/leaves-023-copper-oak-leaf-106d58d9c7766fea.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Copper oak leaf",
+    "description": "A warm copper-brown blade with rounded lobes and a pale central rib.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "copper oak"
+    ],
+    "filename": "023-copper-oak-leaf.png"
+  },
+  {
+    "id": "leaves-024-orange-sweetgum-leaf",
+    "original": "originals/leaves-024-orange-sweetgum-leaf-41a5d6b18c1d32bc.png",
+    "preview": "previews/leaves-024-orange-sweetgum-leaf-41a5d6b18c1d32bc.webp",
+    "width": 1261,
+    "height": 1247,
+    "title": "Orange sweetgum leaf",
+    "description": "A star-shaped blade with five pointed lobes in orange and amber.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "orange sweetgum"
+    ],
+    "filename": "024-orange-sweetgum-leaf.png"
+  },
+  {
+    "id": "leaves-025-yellow-birch-leaf",
+    "original": "originals/leaves-025-yellow-birch-leaf-33bd37b795767ba3.png",
+    "preview": "previews/leaves-025-yellow-birch-leaf-33bd37b795767ba3.webp",
+    "width": 1225,
+    "height": 1284,
+    "title": "Yellow birch leaf",
+    "description": "A small golden yellow triangular blade with finely serrated edges.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "yellow birch"
+    ],
+    "filename": "025-yellow-birch-leaf.png"
+  },
+  {
+    "id": "leaves-026-crimson-beech-leaf",
+    "original": "originals/leaves-026-crimson-beech-leaf-4e0f3237ad19ba21.png",
+    "preview": "previews/leaves-026-crimson-beech-leaf-4e0f3237ad19ba21.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Crimson beech leaf",
+    "description": "A elliptical crimson blade with straight lateral veins and gently scalloped edges.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "crimson beech"
+    ],
+    "filename": "026-crimson-beech-leaf.png"
+  },
+  {
+    "id": "leaves-027-amber-elm-leaf",
+    "original": "originals/leaves-027-amber-elm-leaf-1a6b21a628faecd9.png",
+    "preview": "previews/leaves-027-amber-elm-leaf-1a6b21a628faecd9.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Amber elm leaf",
+    "description": "A amber-gold asymmetrical oval blade with double-serrated edges.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "amber elm"
+    ],
+    "filename": "027-amber-elm-leaf.png"
+  },
+  {
+    "id": "leaves-028-russet-chestnut-leaf",
+    "original": "originals/leaves-028-russet-chestnut-leaf-d52bd0af541595d5.png",
+    "preview": "previews/leaves-028-russet-chestnut-leaf-d52bd0af541595d5.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Russet chestnut leaf",
+    "description": "A rust-red lanceolate blade with strong lateral ribs and coarse sawtooth edges.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "russet chestnut"
+    ],
+    "filename": "028-russet-chestnut-leaf.png"
+  },
+  {
+    "id": "leaves-029-golden-aspen-leaf",
+    "original": "originals/leaves-029-golden-aspen-leaf-47db68638597fe84.png",
+    "preview": "previews/leaves-029-golden-aspen-leaf-47db68638597fe84.webp",
+    "width": 1294,
+    "height": 1216,
+    "title": "Golden aspen leaf",
+    "description": "A nearly round golden yellow blade with delicate scalloped edges.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "golden aspen"
+    ],
+    "filename": "029-golden-aspen-leaf.png"
+  },
+  {
+    "id": "leaves-030-orange-tulip-tree-leaf",
+    "original": "originals/leaves-030-orange-tulip-tree-leaf-9bee32d6d71138e0.png",
+    "preview": "previews/leaves-030-orange-tulip-tree-leaf-9bee32d6d71138e0.webp",
+    "width": 1227,
+    "height": 1282,
+    "title": "Orange tulip tree leaf",
+    "description": "A orange four-lobed blade with a distinctive squared notched tip.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "orange tulip tree"
+    ],
+    "filename": "030-orange-tulip-tree-leaf.png"
+  },
+  {
+    "id": "leaves-031-red-dogwood-leaf",
+    "original": "originals/leaves-031-red-dogwood-leaf-c9b2ae47ae5216f3.png",
+    "preview": "previews/leaves-031-red-dogwood-leaf-c9b2ae47ae5216f3.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Red dogwood leaf",
+    "description": "A deep red oval blade with curved veins tracing toward the tip.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "red dogwood"
+    ],
+    "filename": "031-red-dogwood-leaf.png"
+  },
+  {
+    "id": "leaves-032-yellow-linden-leaf",
+    "original": "originals/leaves-032-yellow-linden-leaf-d4a41b13d9d1aed1.png",
+    "preview": "previews/leaves-032-yellow-linden-leaf-d4a41b13d9d1aed1.webp",
+    "width": 1183,
+    "height": 1329,
+    "title": "Yellow linden leaf",
+    "description": "A yellow heart-shaped blade with serrated edges and an asymmetrical base.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "yellow linden"
+    ],
+    "filename": "032-yellow-linden-leaf.png"
+  },
+  {
+    "id": "leaves-033-burgundy-grape-leaf",
+    "original": "originals/leaves-033-burgundy-grape-leaf-9ed245fc78c76fbd.png",
+    "preview": "previews/leaves-033-burgundy-grape-leaf-9ed245fc78c76fbd.webp",
+    "width": 1238,
+    "height": 1271,
+    "title": "Burgundy grape leaf",
+    "description": "A broad burgundy blade with five shallow lobes and toothed edges.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "burgundy grape"
+    ],
+    "filename": "033-burgundy-grape-leaf.png"
+  },
+  {
+    "id": "leaves-034-orange-sycamore-leaf",
+    "original": "originals/leaves-034-orange-sycamore-leaf-22d76b2c4f2bfa79.png",
+    "preview": "previews/leaves-034-orange-sycamore-leaf-22d76b2c4f2bfa79.webp",
+    "width": 1214,
+    "height": 1295,
+    "title": "Orange sycamore leaf",
+    "description": "A large orange-brown blade with broad angular lobes and pale veins.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "orange sycamore"
+    ],
+    "filename": "034-orange-sycamore-leaf.png"
+  },
+  {
+    "id": "leaves-035-golden-hornbeam-leaf",
+    "original": "originals/leaves-035-golden-hornbeam-leaf-73620c76d7838313.png",
+    "preview": "previews/leaves-035-golden-hornbeam-leaf-73620c76d7838313.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Golden hornbeam leaf",
+    "description": "A golden oval blade with tightly folded parallel ribs and sawtooth edges.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "golden hornbeam"
+    ],
+    "filename": "035-golden-hornbeam-leaf.png"
+  },
+  {
+    "id": "leaves-036-red-pear-leaf",
+    "original": "originals/leaves-036-red-pear-leaf-8f6596d71c48d294.png",
+    "preview": "previews/leaves-036-red-pear-leaf-8f6596d71c48d294.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Red pear leaf",
+    "description": "A glossy red oval blade with fine teeth and a tapered point.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "red pear"
+    ],
+    "filename": "036-red-pear-leaf.png"
+  },
+  {
+    "id": "leaves-037-amber-cherry-leaf",
+    "original": "originals/leaves-037-amber-cherry-leaf-099914aa92fd23d6.png",
+    "preview": "previews/leaves-037-amber-cherry-leaf-099914aa92fd23d6.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Amber cherry leaf",
+    "description": "A amber oval blade with fine serrations and a pointed tip.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "amber cherry"
+    ],
+    "filename": "037-amber-cherry-leaf.png"
+  },
+  {
+    "id": "leaves-038-purple-smoke-tree-leaf",
+    "original": "originals/leaves-038-purple-smoke-tree-leaf-c9a101adc9ed3d45.png",
+    "preview": "previews/leaves-038-purple-smoke-tree-leaf-c9a101adc9ed3d45.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Purple smoke tree leaf",
+    "description": "A rounded purple-red blade with a smooth edge and a rosy central vein.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "purple smoke tree"
+    ],
+    "filename": "038-purple-smoke-tree-leaf.png"
+  },
+  {
+    "id": "leaves-039-coral-witch-hazel-leaf",
+    "original": "originals/leaves-039-coral-witch-hazel-leaf-a8c55082a6669a5f.png",
+    "preview": "previews/leaves-039-coral-witch-hazel-leaf-a8c55082a6669a5f.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Coral witch hazel leaf",
+    "description": "A coral-orange broad oval blade with wavy scalloped edges and an uneven base.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "coral witch hazel"
+    ],
+    "filename": "039-coral-witch-hazel-leaf.png"
+  },
+  {
+    "id": "leaves-040-red-blueberry-leaf",
+    "original": "originals/leaves-040-red-blueberry-leaf-7cc6414ebbd20ae0.png",
+    "preview": "previews/leaves-040-red-blueberry-leaf-7cc6414ebbd20ae0.webp",
+    "width": 1128,
+    "height": 1394,
+    "title": "Red blueberry leaf",
+    "description": "A small vivid red oval blade with a smooth edge and fine veins.",
+    "tags": [
+      "leaf",
+      "autumn",
+      "botanical",
+      "red blueberry"
+    ],
+    "filename": "040-red-blueberry-leaf.png"
+  },
+  {
+    "id": "leaves-041-white-marbled-monstera-leaf",
+    "original": "originals/leaves-041-white-marbled-monstera-leaf-f93884c3d6817968.png",
+    "preview": "previews/leaves-041-white-marbled-monstera-leaf-f93884c3d6817968.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "White marbled monstera leaf",
+    "description": "A green split heart-shaped blade with irregular creamy white marbling and natural holes.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "white marbled monstera"
+    ],
+    "filename": "041-white-marbled-monstera-leaf.png"
+  },
+  {
+    "id": "leaves-042-yellow-marbled-pothos-leaf",
+    "original": "originals/leaves-042-yellow-marbled-pothos-leaf-ddc7f65623dbc3c6.png",
+    "preview": "previews/leaves-042-yellow-marbled-pothos-leaf-ddc7f65623dbc3c6.webp",
+    "width": 1241,
+    "height": 1268,
+    "title": "Yellow marbled pothos leaf",
+    "description": "A glossy heart-shaped green blade with golden yellow marbling.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "yellow marbled pothos"
+    ],
+    "filename": "042-yellow-marbled-pothos-leaf.png"
+  },
+  {
+    "id": "leaves-043-silver-satin-pothos-leaf",
+    "original": "originals/leaves-043-silver-satin-pothos-leaf-696cb9ae4065ca74.png",
+    "preview": "previews/leaves-043-silver-satin-pothos-leaf-696cb9ae4065ca74.webp",
+    "width": 1245,
+    "height": 1263,
+    "title": "Silver satin pothos leaf",
+    "description": "A matte dark green heart-shaped blade dotted with soft silver patches.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "silver satin pothos"
+    ],
+    "filename": "043-silver-satin-pothos-leaf.png"
+  },
+  {
+    "id": "leaves-044-pink-princess-philodendron-leaf",
+    "original": "originals/leaves-044-pink-princess-philodendron-leaf-9d5f9069156e330d.png",
+    "preview": "previews/leaves-044-pink-princess-philodendron-leaf-9d5f9069156e330d.webp",
+    "width": 1142,
+    "height": 1377,
+    "title": "Pink princess philodendron leaf",
+    "description": "A pointed dark burgundy heart-shaped blade with a broad irregular pink sector.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "pink princess philodendron"
+    ],
+    "filename": "044-pink-princess-philodendron-leaf.png"
+  },
+  {
+    "id": "leaves-045-white-princess-philodendron-leaf",
+    "original": "originals/leaves-045-white-princess-philodendron-leaf-95afdc0c9f075c89.png",
+    "preview": "previews/leaves-045-white-princess-philodendron-leaf-95afdc0c9f075c89.webp",
+    "width": 1145,
+    "height": 1373,
+    "title": "White princess philodendron leaf",
+    "description": "A pointed green oval-heart blade with crisp white variegated sectors.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "white princess philodendron"
+    ],
+    "filename": "045-white-princess-philodendron-leaf.png"
+  },
+  {
+    "id": "leaves-046-lime-philodendron-leaf",
+    "original": "originals/leaves-046-lime-philodendron-leaf-2176b5b02864e4db.png",
+    "preview": "previews/leaves-046-lime-philodendron-leaf-2176b5b02864e4db.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Lime philodendron leaf",
+    "description": "A heart-shaped blade with dark green margins and an irregular lime stripe down the center.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "lime philodendron"
+    ],
+    "filename": "046-lime-philodendron-leaf.png"
+  },
+  {
+    "id": "leaves-047-painted-begonia-leaf",
+    "original": "originals/leaves-047-painted-begonia-leaf-70ba4f09fa39ea06.png",
+    "preview": "previews/leaves-047-painted-begonia-leaf-70ba4f09fa39ea06.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Painted begonia leaf",
+    "description": "A asymmetrical spiral-shaped blade patterned in silver, plum and deep green.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "painted begonia"
+    ],
+    "filename": "047-painted-begonia-leaf.png"
+  },
+  {
+    "id": "leaves-048-polka-dot-begonia-leaf",
+    "original": "originals/leaves-048-polka-dot-begonia-leaf-f39a438f2093e559.png",
+    "preview": "previews/leaves-048-polka-dot-begonia-leaf-f39a438f2093e559.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Polka dot begonia leaf",
+    "description": "A elongated asymmetrical green blade with distinct silver-white spots.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "polka dot begonia"
+    ],
+    "filename": "048-polka-dot-begonia-leaf.png"
+  },
+  {
+    "id": "leaves-049-watermelon-peperomia-leaf",
+    "original": "originals/leaves-049-watermelon-peperomia-leaf-2c6c8d54bc82c370.png",
+    "preview": "previews/leaves-049-watermelon-peperomia-leaf-2c6c8d54bc82c370.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Silver striped leaf",
+    "description": "An oval green leaf with broad silver stripes curving outward from the central vein.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "silver",
+      "striped"
+    ],
+    "filename": "049-watermelon-peperomia-leaf.png"
+  },
+  {
+    "id": "leaves-050-cream-edged-peperomia-leaf",
+    "original": "originals/leaves-050-cream-edged-peperomia-leaf-d6ba682dfaca6d0b.png",
+    "preview": "previews/leaves-050-cream-edged-peperomia-leaf-d6ba682dfaca6d0b.webp",
+    "width": 1239,
+    "height": 1269,
+    "title": "Cream edged peperomia leaf",
+    "description": "A thick round green blade bordered by a broad creamy edge.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "cream edged peperomia"
+    ],
+    "filename": "050-cream-edged-peperomia-leaf.png"
+  },
+  {
+    "id": "leaves-051-pink-caladium-leaf",
+    "original": "originals/leaves-051-pink-caladium-leaf-2d2f7fc7e8dbc405.png",
+    "preview": "previews/leaves-051-pink-caladium-leaf-2d2f7fc7e8dbc405.webp",
+    "width": 1199,
+    "height": 1312,
+    "title": "Pink caladium leaf",
+    "description": "A delicate pink heart-shaped blade with dark green margins and branching rose veins.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "pink caladium"
+    ],
+    "filename": "051-pink-caladium-leaf.png"
+  },
+  {
+    "id": "leaves-052-white-caladium-leaf",
+    "original": "originals/leaves-052-white-caladium-leaf-ca331f97e5f20c46.png",
+    "preview": "previews/leaves-052-white-caladium-leaf-ca331f97e5f20c46.webp",
+    "width": 1209,
+    "height": 1300,
+    "title": "White caladium leaf",
+    "description": "A thin white heart-shaped blade with fine green veins and green edges.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "white caladium"
+    ],
+    "filename": "052-white-caladium-leaf.png"
+  },
+  {
+    "id": "leaves-053-red-caladium-leaf",
+    "original": "originals/leaves-053-red-caladium-leaf-c80ccab1440af686.png",
+    "preview": "previews/leaves-053-red-caladium-leaf-c80ccab1440af686.webp",
+    "width": 1226,
+    "height": 1283,
+    "title": "Red caladium leaf",
+    "description": "A heart-shaped blade with a vivid red center and dark green border.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "red caladium"
+    ],
+    "filename": "053-red-caladium-leaf.png"
+  },
+  {
+    "id": "leaves-054-red-prayer-plant-leaf",
+    "original": "originals/leaves-054-red-prayer-plant-leaf-50a32bbe96361a39.png",
+    "preview": "previews/leaves-054-red-prayer-plant-leaf-50a32bbe96361a39.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Red prayer plant leaf",
+    "description": "A oval green blade with feathered lime patches and red herringbone veins.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "red prayer plant"
+    ],
+    "filename": "054-red-prayer-plant-leaf.png"
+  },
+  {
+    "id": "leaves-055-peacock-calathea-leaf",
+    "original": "originals/leaves-055-peacock-calathea-leaf-8782ab60d7e6690e.png",
+    "preview": "previews/leaves-055-peacock-calathea-leaf-8782ab60d7e6690e.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Peacock calathea leaf",
+    "description": "A oval pale green blade with dark green feather-shaped markings along the midrib.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "peacock calathea"
+    ],
+    "filename": "055-peacock-calathea-leaf.png"
+  },
+  {
+    "id": "leaves-056-pinstripe-calathea-leaf",
+    "original": "originals/leaves-056-pinstripe-calathea-leaf-654ffb7cafc4845b.png",
+    "preview": "previews/leaves-056-pinstripe-calathea-leaf-654ffb7cafc4845b.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Pinstripe calathea leaf",
+    "description": "A deep green oval blade with fine paired pink-white pinstripes.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "pinstripe calathea"
+    ],
+    "filename": "056-pinstripe-calathea-leaf.png"
+  },
+  {
+    "id": "leaves-057-zebra-calathea-leaf",
+    "original": "originals/leaves-057-zebra-calathea-leaf-bb58c4aa98b6dae7.png",
+    "preview": "previews/leaves-057-zebra-calathea-leaf-bb58c4aa98b6dae7.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Zebra calathea leaf",
+    "description": "A velvety oval green blade with broad dark zebra-like stripes.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "zebra calathea"
+    ],
+    "filename": "057-zebra-calathea-leaf.png"
+  },
+  {
+    "id": "leaves-058-pink-stromanthe-leaf",
+    "original": "originals/leaves-058-pink-stromanthe-leaf-592cecb15fa589ad.png",
+    "preview": "previews/leaves-058-pink-stromanthe-leaf-592cecb15fa589ad.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Pink stromanthe leaf",
+    "description": "A elongated blade with cream, forest green and blush pink variegated streaks.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "pink stromanthe"
+    ],
+    "filename": "058-pink-stromanthe-leaf.png"
+  },
+  {
+    "id": "leaves-059-croton-leaf",
+    "original": "originals/leaves-059-croton-leaf-a2ed679d429cec60.png",
+    "preview": "previews/leaves-059-croton-leaf-a2ed679d429cec60.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Croton leaf",
+    "description": "A thick elongated leaf patterned in yellow, orange, red and green, without any other leaves.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "croton"
+    ],
+    "filename": "059-croton-leaf.png"
+  },
+  {
+    "id": "leaves-060-tricolor-cordyline-leaf",
+    "original": "originals/leaves-060-tricolor-cordyline-leaf-600096083c75c558.png",
+    "preview": "previews/leaves-060-tricolor-cordyline-leaf-600096083c75c558.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Tricolor cordyline leaf",
+    "description": "A long tapering blade striped in burgundy, cream and pink.",
+    "tags": [
+      "leaf",
+      "variegated",
+      "botanical",
+      "tricolor cordyline"
+    ],
+    "filename": "060-tricolor-cordyline-leaf.png"
+  },
+  {
+    "id": "leaves-061-japanese-maple-leaf",
+    "original": "originals/leaves-061-japanese-maple-leaf-8996e584652a4aae.png",
+    "preview": "previews/leaves-061-japanese-maple-leaf-8996e584652a4aae.webp",
+    "width": 1297,
+    "height": 1212,
+    "title": "Japanese maple leaf",
+    "description": "A delicate green blade with seven narrow deeply cut pointed lobes.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "japanese maple"
+    ],
+    "filename": "061-japanese-maple-leaf.png"
+  },
+  {
+    "id": "leaves-062-laceleaf-maple-leaf",
+    "original": "originals/leaves-062-laceleaf-maple-leaf-42732b12a019e41c.png",
+    "preview": "previews/leaves-062-laceleaf-maple-leaf-42732b12a019e41c.webp",
+    "width": 1299,
+    "height": 1211,
+    "title": "Laceleaf maple leaf",
+    "description": "A one finely divided red palm-shaped blade, all slender lace-like lobes connected to its central base.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "laceleaf maple"
+    ],
+    "filename": "062-laceleaf-maple-leaf.png"
+  },
+  {
+    "id": "leaves-063-white-oak-leaf",
+    "original": "originals/leaves-063-white-oak-leaf-b71c6411515354bc.png",
+    "preview": "previews/leaves-063-white-oak-leaf-b71c6411515354bc.webp",
+    "width": 1214,
+    "height": 1295,
+    "title": "White oak leaf",
+    "description": "A matte sage-green blade with rounded lobes and a short attached petiole.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "white oak"
+    ],
+    "filename": "063-white-oak-leaf.png"
+  },
+  {
+    "id": "leaves-064-red-oak-leaf",
+    "original": "originals/leaves-064-red-oak-leaf-f8f4561debe16d1d.png",
+    "preview": "previews/leaves-064-red-oak-leaf-f8f4561debe16d1d.webp",
+    "width": 1245,
+    "height": 1263,
+    "title": "Red oak leaf",
+    "description": "A green blade with sharply pointed bristle-tipped lobes.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "red oak"
+    ],
+    "filename": "064-red-oak-leaf.png"
+  },
+  {
+    "id": "leaves-065-english-ivy-leaf",
+    "original": "originals/leaves-065-english-ivy-leaf-3df4ed4937589905.png",
+    "preview": "previews/leaves-065-english-ivy-leaf-3df4ed4937589905.webp",
+    "width": 1223,
+    "height": 1286,
+    "title": "Glossy lobed leaf",
+    "description": "A glossy dark green leaf with five angular lobes and pale branching veins.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "glossy",
+      "green"
+    ],
+    "filename": "065-english-ivy-leaf.png"
+  },
+  {
+    "id": "leaves-066-boston-ivy-leaf",
+    "original": "originals/leaves-066-boston-ivy-leaf-4fa991387c48b95e.png",
+    "preview": "previews/leaves-066-boston-ivy-leaf-4fa991387c48b95e.webp",
+    "width": 1247,
+    "height": 1261,
+    "title": "Trifoliate serrated leaf",
+    "description": "A connected green compound leaf with three pointed serrated leaflets.",
+    "tags": [
+      "leaf",
+      "compound",
+      "botanical",
+      "serrated",
+      "green"
+    ],
+    "filename": "066-boston-ivy-leaf.png"
+  },
+  {
+    "id": "leaves-067-fig-leaf",
+    "original": "originals/leaves-067-fig-leaf-9494f28b04ad33c4.png",
+    "preview": "previews/leaves-067-fig-leaf-9494f28b04ad33c4.webp",
+    "width": 1296,
+    "height": 1214,
+    "title": "Fig leaf",
+    "description": "A matte deep green blade with five broad rounded lobes and coarse veins.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "fig"
+    ],
+    "filename": "067-fig-leaf.png"
+  },
+  {
+    "id": "leaves-068-mulberry-leaf",
+    "original": "originals/leaves-068-mulberry-leaf-544673d375e5d155.png",
+    "preview": "previews/leaves-068-mulberry-leaf-544673d375e5d155.webp",
+    "width": 1212,
+    "height": 1297,
+    "title": "Mulberry leaf",
+    "description": "A fresh green blade with irregular deep lobes and fine serrated edges.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "mulberry"
+    ],
+    "filename": "068-mulberry-leaf.png"
+  },
+  {
+    "id": "leaves-069-hops-leaf",
+    "original": "originals/leaves-069-hops-leaf-ac8d60b57308223a.png",
+    "preview": "previews/leaves-069-hops-leaf-ac8d60b57308223a.webp",
+    "width": 1228,
+    "height": 1281,
+    "title": "Textured compound leaf",
+    "description": "A connected green compound leaf with three broad serrated leaflets and deeply impressed veins.",
+    "tags": [
+      "leaf",
+      "compound",
+      "botanical",
+      "textured",
+      "serrated"
+    ],
+    "filename": "069-hops-leaf.png"
+  },
+  {
+    "id": "leaves-070-geranium-leaf",
+    "original": "originals/leaves-070-geranium-leaf-8e43dd0711ac8c8d.png",
+    "preview": "previews/leaves-070-geranium-leaf-8e43dd0711ac8c8d.webp",
+    "width": 1228,
+    "height": 1281,
+    "title": "Geranium leaf",
+    "description": "A rounded green blade with shallow fan-like lobes and a darker circular zone.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "geranium"
+    ],
+    "filename": "070-geranium-leaf.png"
+  },
+  {
+    "id": "leaves-071-nasturtium-leaf",
+    "original": "originals/leaves-071-nasturtium-leaf-ea37bec7feca0469.png",
+    "preview": "previews/leaves-071-nasturtium-leaf-ea37bec7feca0469.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Nasturtium leaf",
+    "description": "A round green shield-like blade with softly scalloped edges and radial pale veins.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "nasturtium"
+    ],
+    "filename": "071-nasturtium-leaf.png"
+  },
+  {
+    "id": "leaves-072-lady-s-mantle-leaf",
+    "original": "originals/leaves-072-lady-s-mantle-leaf-e3d9def012481001.png",
+    "preview": "previews/leaves-072-lady-s-mantle-leaf-e3d9def012481001.webp",
+    "width": 1226,
+    "height": 1283,
+    "title": "Lady's mantle leaf",
+    "description": "A one softly pleated fan-shaped green blade with rounded scallops, dry without droplets.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "lady s mantle"
+    ],
+    "filename": "072-lady-s-mantle-leaf.png"
+  },
+  {
+    "id": "leaves-073-dandelion-leaf",
+    "original": "originals/leaves-073-dandelion-leaf-9e17c976018de39d.png",
+    "preview": "previews/leaves-073-dandelion-leaf-9e17c976018de39d.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Dandelion leaf",
+    "description": "A long green blade with deep backward-pointing triangular teeth.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "dandelion"
+    ],
+    "filename": "073-dandelion-leaf.png"
+  },
+  {
+    "id": "leaves-074-arugula-leaf",
+    "original": "originals/leaves-074-arugula-leaf-3657c2a3037cc1cd.png",
+    "preview": "previews/leaves-074-arugula-leaf-3657c2a3037cc1cd.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Arugula leaf",
+    "description": "A slender green blade with uneven rounded lateral lobes and a wide terminal lobe.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "arugula"
+    ],
+    "filename": "074-arugula-leaf.png"
+  },
+  {
+    "id": "leaves-075-radicchio-leaf",
+    "original": "originals/leaves-075-radicchio-leaf-b00fa9f6c006943a.png",
+    "preview": "previews/leaves-075-radicchio-leaf-b00fa9f6c006943a.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Radicchio leaf",
+    "description": "A deep wine-red elongated blade with creamy branching ribs and gently curled edges.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "radicchio"
+    ],
+    "filename": "075-radicchio-leaf.png"
+  },
+  {
+    "id": "leaves-076-sword-fern-frond",
+    "original": "originals/leaves-076-sword-fern-frond-894e64cd897a6afd.png",
+    "preview": "previews/leaves-076-sword-fern-frond-894e64cd897a6afd.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Tapered compound leaf",
+    "description": "A green compound leaf with pairs of tapered serrated leaflets attached to a single central rachis.",
+    "tags": [
+      "leaf",
+      "compound",
+      "botanical",
+      "serrated",
+      "pinnate"
+    ],
+    "filename": "076-sword-fern-frond.png"
+  },
+  {
+    "id": "leaves-077-maidenhair-fern-frond",
+    "original": "originals/leaves-077-maidenhair-fern-frond-362cf0c3b5c6803c.png",
+    "preview": "previews/leaves-077-maidenhair-fern-frond-362cf0c3b5c6803c.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Maidenhair fern frond",
+    "description": "A exactly one delicate compound leaf, one connected dark rachis with small fan-shaped green pinnae.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "maidenhair fern"
+    ],
+    "filename": "077-maidenhair-fern-frond.png"
+  },
+  {
+    "id": "leaves-078-bird-s-nest-fern-leaf",
+    "original": "originals/leaves-078-bird-s-nest-fern-leaf-21cbe661fa8443f3.png",
+    "preview": "previews/leaves-078-bird-s-nest-fern-leaf-21cbe661fa8443f3.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bird's nest fern leaf",
+    "description": "A one undivided glossy green strap-shaped blade with rippled edges and a dark central rib.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "bird s nest fern"
+    ],
+    "filename": "078-bird-s-nest-fern-leaf.png"
+  },
+  {
+    "id": "leaves-079-staghorn-fern-leaf",
+    "original": "originals/leaves-079-staghorn-fern-leaf-afbe2b9d537cbc9e.png",
+    "preview": "previews/leaves-079-staghorn-fern-leaf-afbe2b9d537cbc9e.webp",
+    "width": 1214,
+    "height": 1295,
+    "title": "Staghorn fern leaf",
+    "description": "A exactly one matte blue-green fertile leaf branching into broad antler-like lobes from a single base.",
+    "tags": [
+      "leaf",
+      "lobed",
+      "botanical",
+      "staghorn fern"
+    ],
+    "filename": "079-staghorn-fern-leaf.png"
+  },
+  {
+    "id": "leaves-080-royal-fern-frond",
+    "original": "originals/leaves-080-royal-fern-frond-94330d8d26ba1bf3.png",
+    "preview": "previews/leaves-080-royal-fern-frond-94330d8d26ba1bf3.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Oval compound leaf",
+    "description": "A green compound leaf with pairs of smooth oval leaflets attached to one central rachis.",
+    "tags": [
+      "leaf",
+      "compound",
+      "botanical",
+      "oval",
+      "pinnate"
+    ],
+    "filename": "080-royal-fern-frond.png"
+  },
+  {
+    "id": "leaves-081-silver-sage-leaf",
+    "original": "originals/leaves-081-silver-sage-leaf-cbcf777f1b8ded1e.png",
+    "preview": "previews/leaves-081-silver-sage-leaf-cbcf777f1b8ded1e.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Silver sage leaf",
+    "description": "A soft gray-green oval blade covered with fine velvety hairs and a quilted vein pattern.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "silver sage"
+    ],
+    "filename": "081-silver-sage-leaf.png"
+  },
+  {
+    "id": "leaves-082-lamb-s-ear-leaf",
+    "original": "originals/leaves-082-lamb-s-ear-leaf-ebea5c376848af48.png",
+    "preview": "previews/leaves-082-lamb-s-ear-leaf-ebea5c376848af48.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Lamb's ear leaf",
+    "description": "A silvery pale green elongated oval blade with dense fine woolly hairs.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "lamb s ear"
+    ],
+    "filename": "082-lamb-s-ear-leaf.png"
+  },
+  {
+    "id": "leaves-083-purple-basil-leaf",
+    "original": "originals/leaves-083-purple-basil-leaf-6759e7ba3ca27bd0.png",
+    "preview": "previews/leaves-083-purple-basil-leaf-6759e7ba3ca27bd0.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Purple basil leaf",
+    "description": "A dark purple oval blade with softly toothed edges and fine surface wrinkles.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "purple basil"
+    ],
+    "filename": "083-purple-basil-leaf.png"
+  },
+  {
+    "id": "leaves-084-spearmint-leaf",
+    "original": "originals/leaves-084-spearmint-leaf-ee80d853aa27f9e4.png",
+    "preview": "previews/leaves-084-spearmint-leaf-ee80d853aa27f9e4.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Spearmint leaf",
+    "description": "A bright green oval blade with sharp serrations and deeply impressed veins.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "spearmint"
+    ],
+    "filename": "084-spearmint-leaf.png"
+  },
+  {
+    "id": "leaves-085-lemon-balm-leaf",
+    "original": "originals/leaves-085-lemon-balm-leaf-f4d6711a3187577f.png",
+    "preview": "previews/leaves-085-lemon-balm-leaf-f4d6711a3187577f.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Lemon balm leaf",
+    "description": "A yellow-green heart-oval blade with scalloped edges and a softly crinkled surface.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "lemon balm"
+    ],
+    "filename": "085-lemon-balm-leaf.png"
+  },
+  {
+    "id": "leaves-086-shiso-leaf",
+    "original": "originals/leaves-086-shiso-leaf-c1c36472ab6ee556.png",
+    "preview": "previews/leaves-086-shiso-leaf-c1c36472ab6ee556.webp",
+    "width": 1206,
+    "height": 1304,
+    "title": "Shiso leaf",
+    "description": "A burgundy-purple broad blade with pointed sawtooth edges and deeply textured veins.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "shiso"
+    ],
+    "filename": "086-shiso-leaf.png"
+  },
+  {
+    "id": "leaves-087-rosemary-leaf",
+    "original": "originals/leaves-087-rosemary-leaf-7a36a07017ea34fb.png",
+    "preview": "previews/leaves-087-rosemary-leaf-7a36a07017ea34fb.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Rosemary leaf",
+    "description": "A one small narrow dark green needle-like leaf with rolled edges and a visible pale underside along one edge.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "rosemary"
+    ],
+    "filename": "087-rosemary-leaf.png"
+  },
+  {
+    "id": "leaves-088-bay-leaf",
+    "original": "originals/leaves-088-bay-leaf-7703fe11dec5db6d.png",
+    "preview": "previews/leaves-088-bay-leaf-7703fe11dec5db6d.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bay leaf",
+    "description": "A olive-green narrow oval blade with a smooth edge and a subtle leathery texture.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "bay"
+    ],
+    "filename": "088-bay-leaf.png"
+  },
+  {
+    "id": "leaves-089-eucalyptus-leaf",
+    "original": "originals/leaves-089-eucalyptus-leaf-378f16302a501caf.png",
+    "preview": "previews/leaves-089-eucalyptus-leaf-378f16302a501caf.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Eucalyptus leaf",
+    "description": "A one powdery blue-gray round juvenile leaf with a smooth edge and fine veins.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "eucalyptus"
+    ],
+    "filename": "089-eucalyptus-leaf.png"
+  },
+  {
+    "id": "leaves-090-olive-leaf",
+    "original": "originals/leaves-090-olive-leaf-c385d8744f431c14.png",
+    "preview": "previews/leaves-090-olive-leaf-c385d8744f431c14.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Olive leaf",
+    "description": "A one slender pointed gray-green blade with a matte silvery surface.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "olive"
+    ],
+    "filename": "090-olive-leaf.png"
+  },
+  {
+    "id": "leaves-091-camellia-leaf",
+    "original": "originals/leaves-091-camellia-leaf-5f055a58ddad7d45.png",
+    "preview": "previews/leaves-091-camellia-leaf-5f055a58ddad7d45.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Camellia leaf",
+    "description": "A glossy deep green oval blade with small sawtooth edges and a stiff central rib.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "camellia"
+    ],
+    "filename": "091-camellia-leaf.png"
+  },
+  {
+    "id": "leaves-092-tea-leaf",
+    "original": "originals/leaves-092-tea-leaf-258d83281fae63fb.png",
+    "preview": "previews/leaves-092-tea-leaf-258d83281fae63fb.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Tea leaf",
+    "description": "A fresh green pointed oval blade with finely serrated edges and a delicate slightly ribbed surface.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "tea"
+    ],
+    "filename": "092-tea-leaf.png"
+  },
+  {
+    "id": "leaves-093-holly-leaf",
+    "original": "originals/leaves-093-holly-leaf-cb5fe38cc31b9598.png",
+    "preview": "previews/leaves-093-holly-leaf-cb5fe38cc31b9598.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Holly leaf",
+    "description": "A one dark glossy green oval blade with sharply spined wavy edges, no berries.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "holly"
+    ],
+    "filename": "093-holly-leaf.png"
+  },
+  {
+    "id": "leaves-094-magnolia-leaf",
+    "original": "originals/leaves-094-magnolia-leaf-2659985651a9bf63.png",
+    "preview": "previews/leaves-094-magnolia-leaf-2659985651a9bf63.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Magnolia leaf",
+    "description": "A thick glossy dark green oval blade gently turned at one edge to reveal a warm rust-colored underside.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "magnolia"
+    ],
+    "filename": "094-magnolia-leaf.png"
+  },
+  {
+    "id": "leaves-095-cyclamen-leaf",
+    "original": "originals/leaves-095-cyclamen-leaf-02c9c1e792d18cb1.png",
+    "preview": "previews/leaves-095-cyclamen-leaf-02c9c1e792d18cb1.webp",
+    "width": 1214,
+    "height": 1295,
+    "title": "Cyclamen leaf",
+    "description": "A heart-shaped green blade with a frosted silver horseshoe pattern and scalloped edges.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "cyclamen"
+    ],
+    "filename": "095-cyclamen-leaf.png"
+  },
+  {
+    "id": "leaves-096-silver-pilea-leaf",
+    "original": "originals/leaves-096-silver-pilea-leaf-9c8d1156615712f8.png",
+    "preview": "previews/leaves-096-silver-pilea-leaf-9c8d1156615712f8.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Silver pilea leaf",
+    "description": "A oval green blade with raised quilted silver panels between dark green veins.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "silver pilea"
+    ],
+    "filename": "096-silver-pilea-leaf.png"
+  },
+  {
+    "id": "leaves-097-coin-pilea-leaf",
+    "original": "originals/leaves-097-coin-pilea-leaf-bbaad0f6433ec77b.png",
+    "preview": "previews/leaves-097-coin-pilea-leaf-bbaad0f6433ec77b.webp",
+    "width": 1293,
+    "height": 1217,
+    "title": "Coin pilea leaf",
+    "description": "A round bright green coin-shaped blade with an off-center petiole and smooth edges.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "coin pilea"
+    ],
+    "filename": "097-coin-pilea-leaf.png"
+  },
+  {
+    "id": "leaves-098-nerve-plant-leaf",
+    "original": "originals/leaves-098-nerve-plant-leaf-d9a279180d8479c5.png",
+    "preview": "previews/leaves-098-nerve-plant-leaf-d9a279180d8479c5.webp",
+    "width": 1214,
+    "height": 1295,
+    "title": "Nerve plant leaf",
+    "description": "A one small dark green oval blade with a dense contrasting pink vein network.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "nerve plant"
+    ],
+    "filename": "098-nerve-plant-leaf.png"
+  },
+  {
+    "id": "leaves-099-purple-shamrock-leaf",
+    "original": "originals/leaves-099-purple-shamrock-leaf-373aecf8b4b6f5bb.png",
+    "preview": "previews/leaves-099-purple-shamrock-leaf-373aecf8b4b6f5bb.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Purple triangular leaf",
+    "description": "A broad triangular purple leaf with angular toothed edges and bright branching veins.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "purple",
+      "triangular",
+      "toothed"
+    ],
+    "filename": "099-purple-shamrock-leaf.png"
+  },
+  {
+    "id": "leaves-100-fan-palm-leaf",
+    "original": "originals/leaves-100-fan-palm-leaf-4918521b5b2997a3.png",
+    "preview": "previews/leaves-100-fan-palm-leaf-4918521b5b2997a3.webp",
+    "width": 1225,
+    "height": 1284,
+    "title": "Fan palm leaf",
+    "description": "A exactly one single connected fan-shaped palm leaf with long pleated green segments radiating from one basal petiole.",
+    "tags": [
+      "leaf",
+      "texture",
+      "botanical",
+      "fan palm"
+    ],
+    "filename": "100-fan-palm-leaf.png"
+  }
+]
