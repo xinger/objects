@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "masks-001-tragic-theatre-mask",
+    "original": "originals/masks-001-tragic-theatre-mask-dfe453bbc6793997.png",
+    "preview": "previews/masks-001-tragic-theatre-mask-dfe453bbc6793997.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Tragic theatre mask",
+    "description": "An ivory theatrical face with sorrowful brows, an open downturned mouth and an aged gilt laurel rim.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "001-tragic-theatre-mask.png",
+    "originalBytes": 2779657
+  },
+  {
+    "id": "masks-002-comic-theatre-mask",
+    "original": "originals/masks-002-comic-theatre-mask-6595aa467a6ad943.png",
+    "preview": "previews/masks-002-comic-theatre-mask-6595aa467a6ad943.webp",
+    "width": 1226,
+    "height": 1283,
+    "title": "Comic theatre mask",
+    "description": "An ochre theatrical face with rounded cheeks, a laughing mouth, gilt trim and attached tassels.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "002-comic-theatre-mask.png",
+    "originalBytes": 2479064
+  },
+  {
+    "id": "masks-003-neutral-mime-mask",
+    "original": "originals/masks-003-neutral-mime-mask-982a8c7d44ba54d9.png",
+    "preview": "previews/masks-003-neutral-mime-mask-982a8c7d44ba54d9.webp",
+    "width": 1149,
+    "height": 1369,
+    "title": "Neutral mime mask",
+    "description": "A pale oval mime mask with a small closed mouth, black tear markings and delicate gold edging.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "003-neutral-mime-mask.png",
+    "originalBytes": 1913331
+  },
+  {
+    "id": "masks-004-harlequin-half-mask",
+    "original": "originals/masks-004-harlequin-half-mask-849805a9b30d671a.png",
+    "preview": "previews/masks-004-harlequin-half-mask-849805a9b30d671a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Harlequin half mask",
+    "description": "A black leather half-face mask with a short upturned nose and a raised wart above one brow.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "004-harlequin-half-mask.png",
+    "originalBytes": 2588873
+  },
+  {
+    "id": "masks-005-pulcinella-mask",
+    "original": "originals/masks-005-pulcinella-mask-976c7d49a1ef2264.png",
+    "preview": "previews/masks-005-pulcinella-mask-976c7d49a1ef2264.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pulcinella mask",
+    "description": "A weathered black leather half mask with a long curved hooked nose and exaggerated forehead creases.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "005-pulcinella-mask.png",
+    "originalBytes": 2191261
+  },
+  {
+    "id": "masks-006-pantalone-mask",
+    "original": "originals/masks-006-pantalone-mask-6aa84cb27b1a15d1.png",
+    "preview": "previews/masks-006-pantalone-mask-6aa84cb27b1a15d1.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pantalone mask",
+    "description": "A russet leather old-man half mask with a narrow aquiline nose and thick sculpted eyebrows.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "006-pantalone-mask.png",
+    "originalBytes": 2108254
+  },
+  {
+    "id": "masks-007-columbina-lace-mask",
+    "original": "originals/masks-007-columbina-lace-mask-916740f651bc0b33.png",
+    "preview": "previews/masks-007-columbina-lace-mask-916740f651bc0b33.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Columbina lace mask",
+    "description": "A small ivory eye mask made of intricate rigid lace with scalloped edges and satin binding.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "007-columbina-lace-mask.png",
+    "originalBytes": 2726988
+  },
+  {
+    "id": "masks-008-pierrot-porcelain-mask",
+    "original": "originals/masks-008-pierrot-porcelain-mask-5c302ca020b5b151.png",
+    "preview": "previews/masks-008-pierrot-porcelain-mask-5c302ca020b5b151.webp",
+    "width": 1162,
+    "height": 1353,
+    "title": "Pierrot porcelain mask",
+    "description": "A pale porcelain Pierrot face with black tear marks, red lips and an attached pointed black-and-white cap.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "008-pierrot-porcelain-mask.png",
+    "originalBytes": 1411246
+  },
+  {
+    "id": "masks-009-scaramouche-mask",
+    "original": "originals/masks-009-scaramouche-mask-e78300c37079da25.png",
+    "preview": "previews/masks-009-scaramouche-mask-e78300c37079da25.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Scaramouche mask",
+    "description": "A black lacquer half mask with an exceptionally long straight narrow nose and stern brows.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "009-scaramouche-mask.png",
+    "originalBytes": 1875944
+  },
+  {
+    "id": "masks-010-doctor-comedy-mask",
+    "original": "originals/masks-010-doctor-comedy-mask-41afcf9c1ff8eeb8.png",
+    "preview": "previews/masks-010-doctor-comedy-mask-41afcf9c1ff8eeb8.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Doctor comedy mask",
+    "description": "A dark brown leather half mask with a bulbous nose, plump brow and embossed cheek folds.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "010-doctor-comedy-mask.png",
+    "originalBytes": 2372448
+  },
+  {
+    "id": "masks-011-vintage-clown-mask",
+    "original": "originals/masks-011-vintage-clown-mask-9ffc4f0d643f588b.png",
+    "preview": "previews/masks-011-vintage-clown-mask-9ffc4f0d643f588b.webp",
+    "width": 1202,
+    "height": 1309,
+    "title": "Vintage clown mask",
+    "description": "A faded cream molded carnival face with a single integrated red nose, blue painted brows and a jovial grin.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "011-vintage-clown-mask.png",
+    "originalBytes": 2175084
+  },
+  {
+    "id": "masks-012-melancholy-jester-mask",
+    "original": "originals/masks-012-melancholy-jester-mask-0fac24b35e649487.png",
+    "preview": "previews/masks-012-melancholy-jester-mask-0fac24b35e649487.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Melancholy jester mask",
+    "description": "A cracked cream full-face mask with asymmetrical maroon diamond paint and a restrained sorrowful expression.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "012-melancholy-jester-mask.png",
+    "originalBytes": 2111427
+  },
+  {
+    "id": "masks-013-expressionist-stage-mask",
+    "original": "originals/masks-013-expressionist-stage-mask-a7eb832bf82adcaf.png",
+    "preview": "previews/masks-013-expressionist-stage-mask-a7eb832bf82adcaf.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Expressionist stage mask",
+    "description": "An angular painted wooden face with cobalt and burnt-orange planes, one high eyebrow and a crooked mouth.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "013-expressionist-stage-mask.png",
+    "originalBytes": 2846893
+  },
+  {
+    "id": "masks-014-art-deco-stage-mask",
+    "original": "originals/masks-014-art-deco-stage-mask-f404ddeff8f181b2.png",
+    "preview": "previews/masks-014-art-deco-stage-mask-f404ddeff8f181b2.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Art deco stage mask",
+    "description": "A silver-and-black sculpted full face with stepped geometric eyebrows, long cheek planes and red lips.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "014-art-deco-stage-mask.png",
+    "originalBytes": 2707102
+  },
+  {
+    "id": "masks-015-silent-cinema-villain-mask",
+    "original": "originals/masks-015-silent-cinema-villain-mask-3eac3abdabe4528d.png",
+    "preview": "previews/masks-015-silent-cinema-villain-mask-3eac3abdabe4528d.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Silent cinema villain mask",
+    "description": "An aged pale rubber face with dramatic black brows, a thin painted curled moustache and a sinister smile.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "015-silent-cinema-villain-mask.png",
+    "originalBytes": 2429426
+  },
+  {
+    "id": "masks-016-vintage-ballerina-mask",
+    "original": "originals/masks-016-vintage-ballerina-mask-c65d4a6d61f9161a.png",
+    "preview": "previews/masks-016-vintage-ballerina-mask-c65d4a6d61f9161a.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Vintage ballerina mask",
+    "description": "An ivory decorative face with rosy cheeks, delicate rose-gold ornament, attached pink roses and curled ribbons.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "016-vintage-ballerina-mask.png",
+    "originalBytes": 2541807
+  },
+  {
+    "id": "masks-017-greek-inspired-bronze-mask",
+    "original": "originals/masks-017-greek-inspired-bronze-mask-8bb3d93dc4f67d82.png",
+    "preview": "previews/masks-017-greek-inspired-bronze-mask-8bb3d93dc4f67d82.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Greek-inspired bronze mask",
+    "description": "A single bronze-colored cast theatre face with stylized curled hair formed as part of the mask and a deep oval mouth.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "017-greek-inspired-bronze-mask.png",
+    "originalBytes": 2153674
+  },
+  {
+    "id": "masks-018-roman-inspired-terracotta-mask",
+    "original": "originals/masks-018-roman-inspired-terracotta-mask-94366c5dd64f9992.png",
+    "preview": "previews/masks-018-roman-inspired-terracotta-mask-94366c5dd64f9992.webp",
+    "width": 1202,
+    "height": 1308,
+    "title": "Roman-inspired terracotta mask",
+    "description": "A reddish terracotta theatrical face with rounded sculpted cheek folds and a wide rectangular open mouth.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "018-roman-inspired-terracotta-mask.png",
+    "originalBytes": 2135232
+  },
+  {
+    "id": "masks-019-moon-theatre-mask",
+    "original": "originals/masks-019-moon-theatre-mask-a5ce78d3bff5c42c.png",
+    "preview": "previews/masks-019-moon-theatre-mask-a5ce78d3bff5c42c.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Moon theatre mask",
+    "description": "A pale silver face with elongated eye openings, a raised crescent crest, small gems and delicate gilt scrolls.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "019-moon-theatre-mask.png",
+    "originalBytes": 2548975
+  },
+  {
+    "id": "masks-020-sun-theatre-mask",
+    "original": "originals/masks-020-sun-theatre-mask-18a74b6b94dfdb97.png",
+    "preview": "previews/masks-020-sun-theatre-mask-18a74b6b94dfdb97.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Sun theatre mask",
+    "description": "A gold-painted circular face mask with short integrated triangular rays around its rim and a laughing expression.",
+    "tags": [
+      "mask",
+      "theatre",
+      "photorealistic"
+    ],
+    "filename": "020-sun-theatre-mask.png",
+    "originalBytes": 2563316
+  },
+  {
+    "id": "masks-021-venetian-bauta-mask",
+    "original": "originals/masks-021-venetian-bauta-mask-a89cd7c25017c06e.png",
+    "preview": "previews/masks-021-venetian-bauta-mask-a89cd7c25017c06e.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Venetian bauta mask",
+    "description": "A white sculpted full-face Venetian-inspired bauta with projecting squared jaw and small narrow eye holes, without hat.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "021-venetian-bauta-mask.png",
+    "originalBytes": 2023838
+  },
+  {
+    "id": "masks-022-venetian-volto-mask",
+    "original": "originals/masks-022-venetian-volto-mask-0721607fb105953e.png",
+    "preview": "previews/masks-022-venetian-volto-mask-0721607fb105953e.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Venetian volto mask",
+    "description": "A softly modeled ivory full-face mask with subtle gilt arabesques, faint age cracks and a closed mouth.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "022-venetian-volto-mask.png",
+    "originalBytes": 2859737
+  },
+  {
+    "id": "masks-023-venetian-moretta-mask",
+    "original": "originals/masks-023-venetian-moretta-mask-b686d29875b9324a.png",
+    "preview": "previews/masks-023-venetian-moretta-mask-b686d29875b9324a.webp",
+    "width": 1427,
+    "height": 1102,
+    "title": "Venetian moretta mask",
+    "description": "A small oval black velvet face mask with round eye holes, no visible mouth and a finely stitched edge.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "023-venetian-moretta-mask.png",
+    "originalBytes": 1587711
+  },
+  {
+    "id": "masks-024-venetian-doctor-mask",
+    "original": "originals/masks-024-venetian-doctor-mask-67c9dc9461277eb5.png",
+    "preview": "previews/masks-024-venetian-doctor-mask-67c9dc9461277eb5.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Venetian doctor mask",
+    "description": "A cream leather bird-beak mask with round brass eye rings, visible seams and a long tapered beak.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "024-venetian-doctor-mask.png",
+    "originalBytes": 1416020
+  },
+  {
+    "id": "masks-025-gold-filigree-eye-mask",
+    "original": "originals/masks-025-gold-filigree-eye-mask-5f69834f9ef0a6b5.png",
+    "preview": "previews/masks-025-gold-filigree-eye-mask-5f69834f9ef0a6b5.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Gold filigree eye mask",
+    "description": "An intricate rigid antique-gold metal half mask made of fine scrollwork with raised curling outer corners.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "025-gold-filigree-eye-mask.png",
+    "originalBytes": 2621689
+  },
+  {
+    "id": "masks-026-silver-filigree-eye-mask",
+    "original": "originals/masks-026-silver-filigree-eye-mask-6d82a7e67741b0f2.png",
+    "preview": "previews/masks-026-silver-filigree-eye-mask-6d82a7e67741b0f2.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Silver filigree eye mask",
+    "description": "A delicate rigid silver eye mask with lace-like floral openwork and a central teardrop crystal fixed to the forehead.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "026-silver-filigree-eye-mask.png",
+    "originalBytes": 2855319
+  },
+  {
+    "id": "masks-027-butterfly-carnival-mask",
+    "original": "originals/masks-027-butterfly-carnival-mask-881edd53237a3764.png",
+    "preview": "previews/masks-027-butterfly-carnival-mask-881edd53237a3764.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Butterfly carnival mask",
+    "description": "A sculpted purple and turquoise eye mask shaped like a butterfly with integrated patterned wing-shaped sides.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "027-butterfly-carnival-mask.png",
+    "originalBytes": 3049234
+  },
+  {
+    "id": "masks-028-cat-carnival-mask",
+    "original": "originals/masks-028-cat-carnival-mask-268724dbc232045e.png",
+    "preview": "previews/masks-028-cat-carnival-mask-268724dbc232045e.webp",
+    "width": 1299,
+    "height": 1211,
+    "title": "Cat carnival mask",
+    "description": "An elegant silver feline full-face mask with pointed integrated ears, sculpted whisker lines and emerald accents.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "028-cat-carnival-mask.png",
+    "originalBytes": 2497459
+  },
+  {
+    "id": "masks-029-owl-carnival-mask",
+    "original": "originals/masks-029-owl-carnival-mask-3f080d74e2bdeb0c.png",
+    "preview": "previews/masks-029-owl-carnival-mask-3f080d74e2bdeb0c.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Owl carnival mask",
+    "description": "A bronze eye mask with layered engraved feather textures, round eye apertures and a small sculpted central beak.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "029-owl-carnival-mask.png",
+    "originalBytes": 2828015
+  },
+  {
+    "id": "masks-030-peacock-carnival-mask",
+    "original": "originals/masks-030-peacock-carnival-mask-524f106b2af20a27.png",
+    "preview": "previews/masks-030-peacock-carnival-mask-524f106b2af20a27.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Peacock carnival mask",
+    "description": "A teal and gold eye mask with a small fan of attached peacock feathers rising from its upper edge.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "030-peacock-carnival-mask.png",
+    "originalBytes": 2555284
+  },
+  {
+    "id": "masks-031-black-feather-carnival-mask",
+    "original": "originals/masks-031-black-feather-carnival-mask-78da0a8c54f3c949.png",
+    "preview": "previews/masks-031-black-feather-carnival-mask-78da0a8c54f3c949.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Black feather carnival mask",
+    "description": "A black velvet eye mask with a compact attached black feather crest and tiny gold bead trim.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "031-black-feather-carnival-mask.png",
+    "originalBytes": 2285950
+  },
+  {
+    "id": "masks-032-baroque-rose-mask",
+    "original": "originals/masks-032-baroque-rose-mask-a41288e7292de9dc.png",
+    "preview": "previews/masks-032-baroque-rose-mask-a41288e7292de9dc.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Baroque rose mask",
+    "description": "An ivory half mask with a single sculpted burgundy rose permanently attached at one temple and fine gilt vines.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "032-baroque-rose-mask.png",
+    "originalBytes": 2593898
+  },
+  {
+    "id": "masks-033-crimson-jester-mask",
+    "original": "originals/masks-033-crimson-jester-mask-1777f13c4f508ed6.png",
+    "preview": "previews/masks-033-crimson-jester-mask-1777f13c4f508ed6.webp",
+    "width": 1155,
+    "height": 1362,
+    "title": "Crimson jester mask",
+    "description": "A red and gold full-face mask with three short curved jester points integrated into the forehead rim and tiny attached bells.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "033-crimson-jester-mask.png",
+    "originalBytes": 2114052
+  },
+  {
+    "id": "masks-034-porcelain-mosaic-mask",
+    "original": "originals/masks-034-porcelain-mosaic-mask-6e7bb11fcda87031.png",
+    "preview": "previews/masks-034-porcelain-mosaic-mask-6e7bb11fcda87031.webp",
+    "width": 1205,
+    "height": 1305,
+    "title": "Porcelain mosaic mask",
+    "description": "A full-face carnival mask made of small blue and white glazed ceramic mosaic pieces with a smooth gold border.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "034-porcelain-mosaic-mask.png",
+    "originalBytes": 2215309
+  },
+  {
+    "id": "masks-035-pearl-carnival-mask",
+    "original": "originals/masks-035-pearl-carnival-mask-33e3ef9f267a292e.png",
+    "preview": "previews/masks-035-pearl-carnival-mask-33e3ef9f267a292e.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pearl carnival mask",
+    "description": "An ivory eye mask covered in closely fitted small pearls, with a larger pear-shaped pearl attached at its center.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "035-pearl-carnival-mask.png",
+    "originalBytes": 2315569
+  },
+  {
+    "id": "masks-036-garnet-carnival-mask",
+    "original": "originals/masks-036-garnet-carnival-mask-395d0f47c6beaff4.png",
+    "preview": "previews/masks-036-garnet-carnival-mask-395d0f47c6beaff4.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Garnet carnival mask",
+    "description": "A wine-red velvet half mask with antique brass trim, inset dark red gems and elegant pointed outer corners.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "036-garnet-carnival-mask.png",
+    "originalBytes": 2640164
+  },
+  {
+    "id": "masks-037-celestial-carnival-mask",
+    "original": "originals/masks-037-celestial-carnival-mask-5289d946d2b439e7.png",
+    "preview": "previews/masks-037-celestial-carnival-mask-5289d946d2b439e7.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Celestial carnival mask",
+    "description": "A midnight-blue full-face mask with an integrated crescent forehead crest and tiny gilded star ornament, no lettering.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "037-celestial-carnival-mask.png",
+    "originalBytes": 2143345
+  },
+  {
+    "id": "masks-038-gothic-carnival-mask",
+    "original": "originals/masks-038-gothic-carnival-mask-d4d4233454b3e943.png",
+    "preview": "previews/masks-038-gothic-carnival-mask-d4d4233454b3e943.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Gothic carnival mask",
+    "description": "A matte black full face with pointed cheek ridges, dark pewter tracery and a small closed crimson mouth.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "038-gothic-carnival-mask.png",
+    "originalBytes": 2234307
+  },
+  {
+    "id": "masks-039-copper-leaf-carnival-mask",
+    "original": "originals/masks-039-copper-leaf-carnival-mask-faf272131483468d.png",
+    "preview": "previews/masks-039-copper-leaf-carnival-mask-faf272131483468d.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Copper leaf carnival mask",
+    "description": "A warm copper eye mask formed from overlapping embossed leaves, each leaf physically joined into one mask.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "039-copper-leaf-carnival-mask.png",
+    "originalBytes": 2565532
+  },
+  {
+    "id": "masks-040-clockwork-carnival-mask",
+    "original": "originals/masks-040-clockwork-carnival-mask-2905ec8e014d4381.png",
+    "preview": "previews/masks-040-clockwork-carnival-mask-2905ec8e014d4381.webp",
+    "width": 1147,
+    "height": 1371,
+    "title": "Clockwork carnival mask",
+    "description": "A burnished brass full-face mask with fixed decorative gears integrated around one eye and engraved cheek panels.",
+    "tags": [
+      "mask",
+      "carnival",
+      "photorealistic"
+    ],
+    "filename": "040-clockwork-carnival-mask.png",
+    "originalBytes": 2377983
+  },
+  {
+    "id": "masks-041-dan-inspired-wood-mask",
+    "original": "originals/masks-041-dan-inspired-wood-mask-2bf6e5df8cf7737d.png",
+    "preview": "previews/masks-041-dan-inspired-wood-mask-2bf6e5df8cf7737d.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Dan-inspired wood mask",
+    "description": "An elongated polished dark wooden face with narrow eye slits, a small rounded mouth and a carved pointed crest.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "041-dan-inspired-wood-mask.png",
+    "originalBytes": 2200442
+  },
+  {
+    "id": "masks-042-baule-inspired-portrait-mask",
+    "original": "originals/masks-042-baule-inspired-portrait-mask-c1a55488ed008cb5.png",
+    "preview": "previews/masks-042-baule-inspired-portrait-mask-c1a55488ed008cb5.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Baule-inspired portrait mask",
+    "description": "A warm carved wooden oval face with delicate lowered eyes, a finely modeled nose and a sculpted coiffure integrated at the top.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "042-baule-inspired-portrait-mask.png",
+    "originalBytes": 2679890
+  },
+  {
+    "id": "masks-043-punu-inspired-pale-mask",
+    "original": "originals/masks-043-punu-inspired-pale-mask-1a77401dbece2b11.png",
+    "preview": "previews/masks-043-punu-inspired-pale-mask-1a77401dbece2b11.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Punu-inspired pale mask",
+    "description": "A white-pigmented carved wooden face with almond eye slits, red lips and a tall black sculpted coiffure.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "043-punu-inspired-pale-mask.png",
+    "originalBytes": 2882260
+  },
+  {
+    "id": "masks-044-fang-inspired-elongated-mask",
+    "original": "originals/masks-044-fang-inspired-elongated-mask-b8baeebfb7fb9869.png",
+    "preview": "previews/masks-044-fang-inspired-elongated-mask-b8baeebfb7fb9869.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Fang-inspired elongated mask",
+    "description": "A very long pale wooden face with a narrow central nose, dark eye recesses and a heart-shaped facial plane.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "044-fang-inspired-elongated-mask.png",
+    "originalBytes": 1957771
+  },
+  {
+    "id": "masks-045-songye-inspired-striped-mask",
+    "original": "originals/masks-045-songye-inspired-striped-mask-41d19cb9e0071e73.png",
+    "preview": "previews/masks-045-songye-inspired-striped-mask-41d19cb9e0071e73.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Songye-inspired striped mask",
+    "description": "A boldly carved wooden face with alternating cream and charcoal grooved stripes, a triangular nose and rectangular mouth.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "045-songye-inspired-striped-mask.png",
+    "originalBytes": 2888783
+  },
+  {
+    "id": "masks-046-bwa-inspired-butterfly-mask",
+    "original": "originals/masks-046-bwa-inspired-butterfly-mask-8b809a43a343c86a.png",
+    "preview": "previews/masks-046-bwa-inspired-butterfly-mask-8b809a43a343c86a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bwa-inspired butterfly mask",
+    "description": "A single broad wing-shaped wooden face mask with black-and-white geometric painted panels and central round eye holes.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "046-bwa-inspired-butterfly-mask.png",
+    "originalBytes": 2811560
+  },
+  {
+    "id": "masks-047-senufo-inspired-horned-mask",
+    "original": "originals/masks-047-senufo-inspired-horned-mask-ff6e9d8b434af7cf.png",
+    "preview": "previews/masks-047-senufo-inspired-horned-mask-ff6e9d8b434af7cf.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Senufo-inspired horned mask",
+    "description": "A dark carved wooden face with two short integrated horns, sharp cheek projections and a compact animal-like snout.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "047-senufo-inspired-horned-mask.png",
+    "originalBytes": 2569465
+  },
+  {
+    "id": "masks-048-guro-inspired-antelope-mask",
+    "original": "originals/masks-048-guro-inspired-antelope-mask-f76f2574af12c920.png",
+    "preview": "previews/masks-048-guro-inspired-antelope-mask-f76f2574af12c920.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Guro-inspired antelope mask",
+    "description": "An elongated polished wood face with a pair of slim antelope-like horns carved as part of its upper rim.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "048-guro-inspired-antelope-mask.png",
+    "originalBytes": 1765800
+  },
+  {
+    "id": "masks-049-bambara-inspired-animal-mask",
+    "original": "originals/masks-049-bambara-inspired-animal-mask-249c6e26fa48fc57.png",
+    "preview": "previews/masks-049-bambara-inspired-animal-mask-249c6e26fa48fc57.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Bambara-inspired animal mask",
+    "description": "A deep brown wooden mask with a long sculpted animal muzzle, carved geometric nostrils and two small integrated upright ears.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "049-bambara-inspired-animal-mask.png",
+    "originalBytes": 2215063
+  },
+  {
+    "id": "masks-050-yoruba-inspired-festival-mask",
+    "original": "originals/masks-050-yoruba-inspired-festival-mask-aa86a7ffce7750aa.png",
+    "preview": "previews/masks-050-yoruba-inspired-festival-mask-aa86a7ffce7750aa.webp",
+    "width": 1177,
+    "height": 1336,
+    "title": "Yoruba-inspired festival mask",
+    "description": "A broad ochre-painted wooden face with sculpted braided hair, red cheek ornament and finely carved expressive eyes.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "050-yoruba-inspired-festival-mask.png",
+    "originalBytes": 2215828
+  },
+  {
+    "id": "masks-051-luba-inspired-round-mask",
+    "original": "originals/masks-051-luba-inspired-round-mask-017bdc4222782017.png",
+    "preview": "previews/masks-051-luba-inspired-round-mask-017bdc4222782017.webp",
+    "width": 1199,
+    "height": 1312,
+    "title": "Luba-inspired round mask",
+    "description": "A rounded dark wood face with full cheeks, downcast slit eyes and a small stylized geometric pattern on the forehead.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "051-luba-inspired-round-mask.png",
+    "originalBytes": 2463491
+  },
+  {
+    "id": "masks-052-makonde-inspired-helmet-mask",
+    "original": "originals/masks-052-makonde-inspired-helmet-mask-0619da2f4cba46cd.png",
+    "preview": "previews/masks-052-makonde-inspired-helmet-mask-0619da2f4cba46cd.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Makonde-inspired helmet mask",
+    "description": "A reddish-brown carved wooden face with sculpted hair, incised cheek lines and elongated carved ear ornaments.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "052-makonde-inspired-helmet-mask.png",
+    "originalBytes": 3134154
+  },
+  {
+    "id": "masks-053-chokwe-inspired-graceful-mask",
+    "original": "originals/masks-053-chokwe-inspired-graceful-mask-4fd151a8a23004a7.png",
+    "preview": "previews/masks-053-chokwe-inspired-graceful-mask-4fd151a8a23004a7.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Chokwe-inspired graceful mask",
+    "description": "A honey-brown wooden face with half-closed eyes, a pointed chin and delicate incised geometric cheek patterns.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "053-chokwe-inspired-graceful-mask.png",
+    "originalBytes": 2569988
+  },
+  {
+    "id": "masks-054-dogon-inspired-angular-mask",
+    "original": "originals/masks-054-dogon-inspired-angular-mask-9b009c7dd36c5754.png",
+    "preview": "previews/masks-054-dogon-inspired-angular-mask-9b009c7dd36c5754.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Dogon-inspired angular mask",
+    "description": "A rectangular weathered wooden face with two long vertical eye openings and a strongly projecting squared nose.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "054-dogon-inspired-angular-mask.png",
+    "originalBytes": 2490768
+  },
+  {
+    "id": "masks-055-kuba-inspired-patterned-mask",
+    "original": "originals/masks-055-kuba-inspired-patterned-mask-acd2f1226e90d1d3.png",
+    "preview": "previews/masks-055-kuba-inspired-patterned-mask-acd2f1226e90d1d3.webp",
+    "width": 1127,
+    "height": 1396,
+    "title": "Kuba-inspired patterned mask",
+    "description": "A rounded wooden mask covered in alternating ochre, white and brown triangular painted patches with a prominent nose.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "055-kuba-inspired-patterned-mask.png",
+    "originalBytes": 2298794
+  },
+  {
+    "id": "masks-056-lega-inspired-white-mask",
+    "original": "originals/masks-056-lega-inspired-white-mask-07bf1b430a8f78c5.png",
+    "preview": "previews/masks-056-lega-inspired-white-mask-07bf1b430a8f78c5.webp",
+    "width": 1318,
+    "height": 1193,
+    "title": "Lega-inspired white mask",
+    "description": "A small heart-shaped carved wooden face with chalk-white pigment, round eye holes and a short central nose.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "056-lega-inspired-white-mask.png",
+    "originalBytes": 2173360
+  },
+  {
+    "id": "masks-057-kwele-inspired-heart-mask",
+    "original": "originals/masks-057-kwele-inspired-heart-mask-e3b623ed83157460.png",
+    "preview": "previews/masks-057-kwele-inspired-heart-mask-e3b623ed83157460.webp",
+    "width": 1152,
+    "height": 1365,
+    "title": "Kwele-inspired heart mask",
+    "description": "A white heart-shaped face framed by dark carved wood and two curved integrated horn forms.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "057-kwele-inspired-heart-mask.png",
+    "originalBytes": 2487526
+  },
+  {
+    "id": "masks-058-grebo-inspired-cylindrical-eye-mask",
+    "original": "originals/masks-058-grebo-inspired-cylindrical-eye-mask-ebbf7b2365966a0f.png",
+    "preview": "previews/masks-058-grebo-inspired-cylindrical-eye-mask-ebbf7b2365966a0f.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Grebo-inspired cylindrical-eye mask",
+    "description": "A flat weathered wood mask with two projecting hollow cylindrical eye forms and a small square mouth.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "058-grebo-inspired-cylindrical-eye-mask.png",
+    "originalBytes": 2898258
+  },
+  {
+    "id": "masks-059-african-inspired-raffia-mask",
+    "original": "originals/masks-059-african-inspired-raffia-mask-196970dd374353d9.png",
+    "preview": "previews/masks-059-african-inspired-raffia-mask-196970dd374353d9.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "African-inspired raffia mask",
+    "description": "A compact dark wooden oval face with a short attached raffia fringe around its entire edge, forming one complete mask.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "059-african-inspired-raffia-mask.png",
+    "originalBytes": 3071494
+  },
+  {
+    "id": "masks-060-african-inspired-beadwork-mask",
+    "original": "originals/masks-060-african-inspired-beadwork-mask-800f424acfc15224.png",
+    "preview": "previews/masks-060-african-inspired-beadwork-mask-800f424acfc15224.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "African-inspired beadwork mask",
+    "description": "A carved wooden face densely inlaid with cream, ochre and cobalt beads arranged in concentric geometric bands.",
+    "tags": [
+      "mask",
+      "african-inspired",
+      "photorealistic"
+    ],
+    "filename": "060-african-inspired-beadwork-mask.png",
+    "originalBytes": 2893462
+  },
+  {
+    "id": "masks-061-chinese-opera-red-mask",
+    "original": "originals/masks-061-chinese-opera-red-mask-16805a0b7ccc7187.png",
+    "preview": "previews/masks-061-chinese-opera-red-mask-16805a0b7ccc7187.webp",
+    "width": 1214,
+    "height": 1295,
+    "title": "Chinese opera red mask",
+    "description": "A bold red opera-inspired face with symmetric black brows, white eye frames, gold accents and attached red tassels.",
+    "tags": [
+      "mask",
+      "chinese-inspired",
+      "photorealistic"
+    ],
+    "filename": "061-chinese-opera-red-mask.png",
+    "originalBytes": 2309278
+  },
+  {
+    "id": "masks-062-chinese-opera-black-mask",
+    "original": "originals/masks-062-chinese-opera-black-mask-7568b632d5999745.png",
+    "preview": "previews/masks-062-chinese-opera-black-mask-7568b632d5999745.webp",
+    "width": 1147,
+    "height": 1371,
+    "title": "Chinese opera black mask",
+    "description": "A black painted opera face mask with sweeping white facial lines and a small red central forehead ornament without writing.",
+    "tags": [
+      "mask",
+      "chinese-inspired",
+      "photorealistic"
+    ],
+    "filename": "062-chinese-opera-black-mask.png",
+    "originalBytes": 2139900
+  },
+  {
+    "id": "masks-063-chinese-opera-white-mask",
+    "original": "originals/masks-063-chinese-opera-white-mask-f613830f1ca82939.png",
+    "preview": "previews/masks-063-chinese-opera-white-mask-f613830f1ca82939.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Chinese opera white mask",
+    "description": "A white opera-inspired face with finely angled black brows, crimson lips, an ornate dark crest and attached red tassels.",
+    "tags": [
+      "mask",
+      "chinese-inspired",
+      "photorealistic"
+    ],
+    "filename": "063-chinese-opera-white-mask.png",
+    "originalBytes": 2220126
+  },
+  {
+    "id": "masks-064-chinese-opera-blue-mask",
+    "original": "originals/masks-064-chinese-opera-blue-mask-e445fd332351ccf5.png",
+    "preview": "previews/masks-064-chinese-opera-blue-mask-e445fd332351ccf5.webp",
+    "width": 1199,
+    "height": 1312,
+    "title": "Chinese opera blue mask",
+    "description": "A vivid blue opera face mask with bold black swirling cheek lines and white triangular eye panels.",
+    "tags": [
+      "mask",
+      "chinese-inspired",
+      "photorealistic"
+    ],
+    "filename": "064-chinese-opera-blue-mask.png",
+    "originalBytes": 2184805
+  },
+  {
+    "id": "masks-065-chinese-opera-green-mask",
+    "original": "originals/masks-065-chinese-opera-green-mask-11c31552e1a90ecb.png",
+    "preview": "previews/masks-065-chinese-opera-green-mask-11c31552e1a90ecb.webp",
+    "width": 1227,
+    "height": 1282,
+    "title": "Chinese opera green mask",
+    "description": "A emerald green opera face mask with angular ivory motifs, black eyebrows and a strong sculpted jaw.",
+    "tags": [
+      "mask",
+      "chinese-inspired",
+      "photorealistic"
+    ],
+    "filename": "065-chinese-opera-green-mask.png",
+    "originalBytes": 2206151
+  },
+  {
+    "id": "masks-066-chinese-opera-yellow-mask",
+    "original": "originals/masks-066-chinese-opera-yellow-mask-85ae57dfbb76e4ef.png",
+    "preview": "previews/masks-066-chinese-opera-yellow-mask-85ae57dfbb76e4ef.webp",
+    "width": 1199,
+    "height": 1312,
+    "title": "Chinese opera yellow mask",
+    "description": "An ochre-yellow opera face mask with black flame-shaped brow patterns, red cheek accents and a fierce expression.",
+    "tags": [
+      "mask",
+      "chinese-inspired",
+      "photorealistic"
+    ],
+    "filename": "066-chinese-opera-yellow-mask.png",
+    "originalBytes": 2426351
+  },
+  {
+    "id": "masks-067-chinese-opera-purple-mask",
+    "original": "originals/masks-067-chinese-opera-purple-mask-79603ea957a0808e.png",
+    "preview": "previews/masks-067-chinese-opera-purple-mask-79603ea957a0808e.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Chinese opera purple mask",
+    "description": "A plum-purple opera face mask with silver-gray scroll ornament, broad black brows and a dignified expression.",
+    "tags": [
+      "mask",
+      "chinese-inspired",
+      "photorealistic"
+    ],
+    "filename": "067-chinese-opera-purple-mask.png",
+    "originalBytes": 2704735
+  },
+  {
+    "id": "masks-068-chinese-opera-gold-mask",
+    "original": "originals/masks-068-chinese-opera-gold-mask-e683f8992d392d8d.png",
+    "preview": "previews/masks-068-chinese-opera-gold-mask-e683f8992d392d8d.webp",
+    "width": 1206,
+    "height": 1304,
+    "title": "Chinese opera gold mask",
+    "description": "A metallic gold opera face mask with raised red and black flame ornament and a powerful supernatural expression.",
+    "tags": [
+      "mask",
+      "chinese-inspired",
+      "photorealistic"
+    ],
+    "filename": "068-chinese-opera-gold-mask.png",
+    "originalBytes": 2353866
+  },
+  {
+    "id": "masks-069-chinese-opera-silver-mask",
+    "original": "originals/masks-069-chinese-opera-silver-mask-df45673c331b1e0a.png",
+    "preview": "previews/masks-069-chinese-opera-silver-mask-df45673c331b1e0a.webp",
+    "width": 1199,
+    "height": 1312,
+    "title": "Chinese opera silver mask",
+    "description": "A metallic silver opera face mask with deep blue sweeping eye ornament and black curved cheek lines.",
+    "tags": [
+      "mask",
+      "chinese-inspired",
+      "photorealistic"
+    ],
+    "filename": "069-chinese-opera-silver-mask.png",
+    "originalBytes": 2452160
+  },
+  {
+    "id": "masks-070-chinese-opera-clown-mask",
+    "original": "originals/masks-070-chinese-opera-clown-mask-e477e2e36f187e0c.png",
+    "preview": "previews/masks-070-chinese-opera-clown-mask-e477e2e36f187e0c.webp",
+    "width": 1207,
+    "height": 1303,
+    "title": "Chinese opera clown mask",
+    "description": "A warm flesh-toned opera face mask with a distinct small white patch across the nose, thin black brows and a playful mouth.",
+    "tags": [
+      "mask",
+      "chinese-inspired",
+      "photorealistic"
+    ],
+    "filename": "070-chinese-opera-clown-mask.png",
+    "originalBytes": 2348102
+  },
+  {
+    "id": "masks-071-chinese-opera-female-mask",
+    "original": "originals/masks-071-chinese-opera-female-mask-5f428bfaf256173b.png",
+    "preview": "previews/masks-071-chinese-opera-female-mask-5f428bfaf256173b.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Chinese opera female mask",
+    "description": "A smooth ivory opera face mask with rosy blush, finely painted long black brows, narrow eyes and small red lips.",
+    "tags": [
+      "mask",
+      "chinese-inspired",
+      "photorealistic"
+    ],
+    "filename": "071-chinese-opera-female-mask.png",
+    "originalBytes": 2248588
+  },
+  {
+    "id": "masks-072-chinese-inspired-monkey-mask",
+    "original": "originals/masks-072-chinese-inspired-monkey-mask-9f227b37a81ef23e.png",
+    "preview": "previews/masks-072-chinese-inspired-monkey-mask-9f227b37a81ef23e.webp",
+    "width": 1222,
+    "height": 1287,
+    "title": "Chinese-inspired monkey mask",
+    "description": "A cream and red monkey-faced theatrical mask with sculpted brow fur ridges, rounded cheeks and black eye outlines.",
+    "tags": [
+      "mask",
+      "chinese-inspired",
+      "photorealistic"
+    ],
+    "filename": "072-chinese-inspired-monkey-mask.png",
+    "originalBytes": 2257211
+  },
+  {
+    "id": "masks-073-chinese-inspired-guardian-mask",
+    "original": "originals/masks-073-chinese-inspired-guardian-mask-7980dd2798a502ff.png",
+    "preview": "previews/masks-073-chinese-inspired-guardian-mask-7980dd2798a502ff.webp",
+    "width": 1206,
+    "height": 1305,
+    "title": "Chinese-inspired guardian mask",
+    "description": "A carved red wooden guardian face with bulging eyes, curled dark eyebrows, sculpted ivory fangs and small integrated horns.",
+    "tags": [
+      "mask",
+      "chinese-inspired",
+      "photorealistic"
+    ],
+    "filename": "073-chinese-inspired-guardian-mask.png",
+    "originalBytes": 2568363
+  },
+  {
+    "id": "masks-074-chinese-inspired-nuo-mask",
+    "original": "originals/masks-074-chinese-inspired-nuo-mask-6990f5844b87c24a.png",
+    "preview": "previews/masks-074-chinese-inspired-nuo-mask-6990f5844b87c24a.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Chinese-inspired nuo mask",
+    "description": "A weathered russet wooden ritual-style face mask with a broad nose, deep round eyes and densely carved curling brows.",
+    "tags": [
+      "mask",
+      "chinese-inspired",
+      "photorealistic"
+    ],
+    "filename": "074-chinese-inspired-nuo-mask.png",
+    "originalBytes": 3098240
+  },
+  {
+    "id": "masks-075-chinese-inspired-lion-mask",
+    "original": "originals/masks-075-chinese-inspired-lion-mask-27d244814e8c08dd.png",
+    "preview": "previews/masks-075-chinese-inspired-lion-mask-27d244814e8c08dd.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Chinese-inspired lion mask",
+    "description": "A single compact golden lion face mask with red lacquer accents, a broad sculpted muzzle and stylized curled mane integrated around the rim.",
+    "tags": [
+      "mask",
+      "chinese-inspired",
+      "photorealistic"
+    ],
+    "filename": "075-chinese-inspired-lion-mask.png",
+    "originalBytes": 2759524
+  },
+  {
+    "id": "masks-076-noh-inspired-young-woman-mask",
+    "original": "originals/masks-076-noh-inspired-young-woman-mask-ee72be85927add37.png",
+    "preview": "previews/masks-076-noh-inspired-young-woman-mask-ee72be85927add37.webp",
+    "width": 1152,
+    "height": 1366,
+    "title": "Noh-inspired young woman mask",
+    "description": "A pale wooden female face with fine black brows, narrow eye holes, a soft smile, dark teeth and attached hair ornaments.",
+    "tags": [
+      "mask",
+      "japanese-inspired",
+      "photorealistic"
+    ],
+    "filename": "076-noh-inspired-young-woman-mask.png",
+    "originalBytes": 2359011
+  },
+  {
+    "id": "masks-077-noh-inspired-older-woman-mask",
+    "original": "originals/masks-077-noh-inspired-older-woman-mask-d4a5be50a92e1895.png",
+    "preview": "previews/masks-077-noh-inspired-older-woman-mask-d4a5be50a92e1895.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Noh-inspired older woman mask",
+    "description": "An aged ivory wooden female face with hollow cheeks, deep lines, lowered brows and a sorrowful open mouth.",
+    "tags": [
+      "mask",
+      "japanese-inspired",
+      "photorealistic"
+    ],
+    "filename": "077-noh-inspired-older-woman-mask.png",
+    "originalBytes": 2324222
+  },
+  {
+    "id": "masks-078-noh-inspired-old-man-mask",
+    "original": "originals/masks-078-noh-inspired-old-man-mask-754a210842ae18fa.png",
+    "preview": "previews/masks-078-noh-inspired-old-man-mask-754a210842ae18fa.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Noh-inspired old man mask",
+    "description": "A cream wooden old-man face with sculpted wrinkles and a short attached white hair moustache and beard, all forming one mask.",
+    "tags": [
+      "mask",
+      "japanese-inspired",
+      "photorealistic"
+    ],
+    "filename": "078-noh-inspired-old-man-mask.png",
+    "originalBytes": 2621125
+  },
+  {
+    "id": "masks-079-noh-inspired-warrior-mask",
+    "original": "originals/masks-079-noh-inspired-warrior-mask-ee57b6299f7398bb.png",
+    "preview": "previews/masks-079-noh-inspired-warrior-mask-ee57b6299f7398bb.webp",
+    "width": 1173,
+    "height": 1341,
+    "title": "Noh-inspired warrior mask",
+    "description": "A yellow-ochre wooden face with tense eyes, deeply furrowed brows, an angular jaw and a small dark open mouth.",
+    "tags": [
+      "mask",
+      "japanese-inspired",
+      "photorealistic"
+    ],
+    "filename": "079-noh-inspired-warrior-mask.png",
+    "originalBytes": 2540426
+  },
+  {
+    "id": "masks-080-hannya-inspired-ivory-mask",
+    "original": "originals/masks-080-hannya-inspired-ivory-mask-b6bac6834ed9efdc.png",
+    "preview": "previews/masks-080-hannya-inspired-ivory-mask-b6bac6834ed9efdc.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Hannya-inspired ivory mask",
+    "description": "An ivory carved demon face with two slender integrated horns, bronze-colored glaring eyes and sculpted pointed fangs.",
+    "tags": [
+      "mask",
+      "japanese-inspired",
+      "photorealistic"
+    ],
+    "filename": "080-hannya-inspired-ivory-mask.png",
+    "originalBytes": 1904687
+  },
+  {
+    "id": "masks-081-hannya-inspired-red-mask",
+    "original": "originals/masks-081-hannya-inspired-red-mask-2a02394dca96fd70.png",
+    "preview": "previews/masks-081-hannya-inspired-red-mask-2a02394dca96fd70.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Hannya-inspired red mask",
+    "description": "A dark red lacquer demon face with short curved integrated horns, dramatically wrinkled brows and an open fanged mouth.",
+    "tags": [
+      "mask",
+      "japanese-inspired",
+      "photorealistic"
+    ],
+    "filename": "081-hannya-inspired-red-mask.png",
+    "originalBytes": 2046950
+  },
+  {
+    "id": "masks-082-white-kitsune-mask",
+    "original": "originals/masks-082-white-kitsune-mask-b6dd7c754fb13d5e.png",
+    "preview": "previews/masks-082-white-kitsune-mask-b6dd7c754fb13d5e.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "White kitsune mask",
+    "description": "A white fox face mask with pointed ears, narrow eye slits, red cheek markings and attached red tassels.",
+    "tags": [
+      "mask",
+      "japanese-inspired",
+      "photorealistic"
+    ],
+    "filename": "082-white-kitsune-mask.png",
+    "originalBytes": 2473534
+  },
+  {
+    "id": "masks-083-black-kitsune-mask",
+    "original": "originals/masks-083-black-kitsune-mask-cd5c133fa5b99cbf.png",
+    "preview": "previews/masks-083-black-kitsune-mask-cd5c133fa5b99cbf.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Black kitsune mask",
+    "description": "A black fox face mask with tall pointed ears, gilt swirl markings, gold inner ears and attached red tassels.",
+    "tags": [
+      "mask",
+      "japanese-inspired",
+      "photorealistic"
+    ],
+    "filename": "083-black-kitsune-mask.png",
+    "originalBytes": 2665716
+  },
+  {
+    "id": "masks-084-red-tengu-mask",
+    "original": "originals/masks-084-red-tengu-mask-5053bbd287407f72.png",
+    "preview": "previews/masks-084-red-tengu-mask-5053bbd287407f72.webp",
+    "width": 1242,
+    "height": 1266,
+    "title": "Red tengu mask",
+    "description": "A vermilion wooden face with an unusually long straight nose, furrowed brows and a painted black moustache.",
+    "tags": [
+      "mask",
+      "japanese-inspired",
+      "photorealistic"
+    ],
+    "filename": "084-red-tengu-mask.png",
+    "originalBytes": 2230612
+  },
+  {
+    "id": "masks-085-karasu-tengu-mask",
+    "original": "originals/masks-085-karasu-tengu-mask-18fc5b9fbf3d23e4.png",
+    "preview": "previews/masks-085-karasu-tengu-mask-18fc5b9fbf3d23e4.webp",
+    "width": 1214,
+    "height": 1295,
+    "title": "Karasu tengu mask",
+    "description": "A black bird-like mask with a strongly curved beak, fierce gold eye outlines and carved feather ridges around its brow.",
+    "tags": [
+      "mask",
+      "japanese-inspired",
+      "photorealistic"
+    ],
+    "filename": "085-karasu-tengu-mask.png",
+    "originalBytes": 2280050
+  },
+  {
+    "id": "masks-086-okame-inspired-mask",
+    "original": "originals/masks-086-okame-inspired-mask-d16fdec485bda31b.png",
+    "preview": "previews/masks-086-okame-inspired-mask-d16fdec485bda31b.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Okame-inspired mask",
+    "description": "A cream wooden smiling female face with very full round cheeks, a tiny nose, small red lips and fine black hair edging.",
+    "tags": [
+      "mask",
+      "japanese-inspired",
+      "photorealistic"
+    ],
+    "filename": "086-okame-inspired-mask.png",
+    "originalBytes": 2138106
+  },
+  {
+    "id": "masks-087-hyottoko-inspired-mask",
+    "original": "originals/masks-087-hyottoko-inspired-mask-929d3b06b5393f29.png",
+    "preview": "previews/masks-087-hyottoko-inspired-mask-929d3b06b5393f29.webp",
+    "width": 1199,
+    "height": 1312,
+    "title": "Hyottoko-inspired mask",
+    "description": "A warm ivory comic face with mismatched eye openings, wrinkled cheeks, a sideways puckered mouth and an attached dotted headscarf.",
+    "tags": [
+      "mask",
+      "japanese-inspired",
+      "photorealistic"
+    ],
+    "filename": "087-hyottoko-inspired-mask.png",
+    "originalBytes": 2296144
+  },
+  {
+    "id": "masks-088-shikami-inspired-mask",
+    "original": "originals/masks-088-shikami-inspired-mask-6bdb7033b95f5b0b.png",
+    "preview": "previews/masks-088-shikami-inspired-mask-6bdb7033b95f5b0b.webp",
+    "width": 1147,
+    "height": 1371,
+    "title": "Shikami-inspired mask",
+    "description": "A deep brown carved fierce face with curved horns, a wrinkled brow, sculpted teeth, red lips and attached tassels.",
+    "tags": [
+      "mask",
+      "japanese-inspired",
+      "photorealistic"
+    ],
+    "filename": "088-shikami-inspired-mask.png",
+    "originalBytes": 2518684
+  },
+  {
+    "id": "masks-089-bugaku-inspired-blue-mask",
+    "original": "originals/masks-089-bugaku-inspired-blue-mask-956529f2ada64f8a.png",
+    "preview": "previews/masks-089-bugaku-inspired-blue-mask-956529f2ada64f8a.webp",
+    "width": 1240,
+    "height": 1269,
+    "title": "Bugaku-inspired blue mask",
+    "description": "A blue-green lacquered ceremonial-style face with bulging inset gold eyes, sculpted curling eyebrows and a strong broad nose.",
+    "tags": [
+      "mask",
+      "japanese-inspired",
+      "photorealistic"
+    ],
+    "filename": "089-bugaku-inspired-blue-mask.png",
+    "originalBytes": 2592006
+  },
+  {
+    "id": "masks-090-oni-inspired-iron-mask",
+    "original": "originals/masks-090-oni-inspired-iron-mask-6d624398e5f03d10.png",
+    "preview": "previews/masks-090-oni-inspired-iron-mask-6d624398e5f03d10.webp",
+    "width": 1145,
+    "height": 1373,
+    "title": "Oni-inspired iron mask",
+    "description": "A dark aged iron demon face with two stubby integrated horns, pronounced cheek ridges and a row of sculpted metal fangs.",
+    "tags": [
+      "mask",
+      "japanese-inspired",
+      "photorealistic"
+    ],
+    "filename": "090-oni-inspired-iron-mask.png",
+    "originalBytes": 2329198
+  },
+  {
+    "id": "masks-091-balinese-inspired-barong-mask",
+    "original": "originals/masks-091-balinese-inspired-barong-mask-5620025dd975d61c.png",
+    "preview": "previews/masks-091-balinese-inspired-barong-mask-5620025dd975d61c.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Balinese-inspired barong mask",
+    "description": "A single red-and-gold carved creature face mask with round bulging eyes, curved ivory fangs and a layered sculpted ornamental crest.",
+    "tags": [
+      "mask",
+      "world-inspired",
+      "photorealistic"
+    ],
+    "filename": "091-balinese-inspired-barong-mask.png",
+    "originalBytes": 2718085
+  },
+  {
+    "id": "masks-092-balinese-inspired-rangda-mask",
+    "original": "originals/masks-092-balinese-inspired-rangda-mask-0d52ade9b274ccc0.png",
+    "preview": "previews/masks-092-balinese-inspired-rangda-mask-0d52ade9b274ccc0.webp",
+    "width": 1219,
+    "height": 1290,
+    "title": "Balinese-inspired rangda mask",
+    "description": "A dark red carved creature mask with staring eyes, long ivory-colored fangs, a protruding decorated tongue and attached dark hair.",
+    "tags": [
+      "mask",
+      "world-inspired",
+      "photorealistic"
+    ],
+    "filename": "092-balinese-inspired-rangda-mask.png",
+    "originalBytes": 3156340
+  },
+  {
+    "id": "masks-093-sri-lankan-inspired-cobra-mask",
+    "original": "originals/masks-093-sri-lankan-inspired-cobra-mask-dd698b12d085d229.png",
+    "preview": "previews/masks-093-sri-lankan-inspired-cobra-mask-dd698b12d085d229.webp",
+    "width": 1232,
+    "height": 1277,
+    "title": "Sri Lankan-inspired cobra mask",
+    "description": "A vivid ochre wooden face mask crowned by a fan of small cobra forms carved as one connected upper crest.",
+    "tags": [
+      "mask",
+      "world-inspired",
+      "photorealistic"
+    ],
+    "filename": "093-sri-lankan-inspired-cobra-mask.png",
+    "originalBytes": 2658973
+  },
+  {
+    "id": "masks-094-bhutanese-inspired-dance-mask",
+    "original": "originals/masks-094-bhutanese-inspired-dance-mask-dd930d24d806c12b.png",
+    "preview": "previews/masks-094-bhutanese-inspired-dance-mask-dd930d24d806c12b.webp",
+    "width": 1218,
+    "height": 1291,
+    "title": "Bhutanese-inspired dance mask",
+    "description": "A blue and gold carved face with three stylized eyes, ivory-colored fangs and an attached crest of five small skull motifs.",
+    "tags": [
+      "mask",
+      "world-inspired",
+      "photorealistic"
+    ],
+    "filename": "094-bhutanese-inspired-dance-mask.png",
+    "originalBytes": 2550898
+  },
+  {
+    "id": "masks-095-nepalese-inspired-festival-mask",
+    "original": "originals/masks-095-nepalese-inspired-festival-mask-3dd4d3f84e281c02.png",
+    "preview": "previews/masks-095-nepalese-inspired-festival-mask-3dd4d3f84e281c02.webp",
+    "width": 1161,
+    "height": 1354,
+    "title": "Nepalese-inspired festival mask",
+    "description": "A deep red carved wooden face with gold ornament, a broad fanged grin and an integrated ornate brow crest.",
+    "tags": [
+      "mask",
+      "world-inspired",
+      "photorealistic"
+    ],
+    "filename": "095-nepalese-inspired-festival-mask.png",
+    "originalBytes": 2646490
+  },
+  {
+    "id": "masks-096-korean-inspired-tal-mask",
+    "original": "originals/masks-096-korean-inspired-tal-mask-f05340a09a15587c.png",
+    "preview": "previews/masks-096-korean-inspired-tal-mask-f05340a09a15587c.webp",
+    "width": 1148,
+    "height": 1370,
+    "title": "Korean-inspired tal mask",
+    "description": "A warm brown carved wooden comic face with arched slit eyes, an asymmetric grin and a jointed lower jaw attached to the mask.",
+    "tags": [
+      "mask",
+      "world-inspired",
+      "photorealistic"
+    ],
+    "filename": "096-korean-inspired-tal-mask.png",
+    "originalBytes": 2123009
+  },
+  {
+    "id": "masks-097-mexican-inspired-jaguar-mask",
+    "original": "originals/masks-097-mexican-inspired-jaguar-mask-948cb683b2a95384.png",
+    "preview": "previews/masks-097-mexican-inspired-jaguar-mask-948cb683b2a95384.webp",
+    "width": 1239,
+    "height": 1270,
+    "title": "Mexican-inspired jaguar mask",
+    "description": "A ochre wooden jaguar face mask with painted black rosettes, rounded integrated ears and sculpted ivory canine teeth.",
+    "tags": [
+      "mask",
+      "world-inspired",
+      "photorealistic"
+    ],
+    "filename": "097-mexican-inspired-jaguar-mask.png",
+    "originalBytes": 2376838
+  },
+  {
+    "id": "masks-098-andean-inspired-devil-mask",
+    "original": "originals/masks-098-andean-inspired-devil-mask-171f93dcd65bdc5d.png",
+    "preview": "previews/masks-098-andean-inspired-devil-mask-171f93dcd65bdc5d.webp",
+    "width": 1205,
+    "height": 1305,
+    "title": "Andean-inspired devil mask",
+    "description": "A red and turquoise devil face with curled horns, round eye openings, sculpted fangs and engraved gold accents.",
+    "tags": [
+      "mask",
+      "world-inspired",
+      "photorealistic"
+    ],
+    "filename": "098-andean-inspired-devil-mask.png",
+    "originalBytes": 2433641
+  },
+  {
+    "id": "masks-099-alpine-inspired-carved-mask",
+    "original": "originals/masks-099-alpine-inspired-carved-mask-c9d0ebf998bb22a3.png",
+    "preview": "previews/masks-099-alpine-inspired-carved-mask-c9d0ebf998bb22a3.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Alpine-inspired carved mask",
+    "description": "A weathered dark wooden face with exaggerated carved wrinkles, a long hooked nose, pointed ears and rough hair texture carved into the brow.",
+    "tags": [
+      "mask",
+      "world-inspired",
+      "photorealistic"
+    ],
+    "filename": "099-alpine-inspired-carved-mask.png",
+    "originalBytes": 2447972
+  },
+  {
+    "id": "masks-100-indonesian-inspired-topeng-mask",
+    "original": "originals/masks-100-indonesian-inspired-topeng-mask-2a18f70f6baca7bb.png",
+    "preview": "previews/masks-100-indonesian-inspired-topeng-mask-2a18f70f6baca7bb.webp",
+    "width": 1225,
+    "height": 1284,
+    "title": "Indonesian-inspired topeng mask",
+    "description": "A pale wooden dance face with black eyebrows, almond eye openings, a fine moustache, red lips and an attached decorated crest.",
+    "tags": [
+      "mask",
+      "world-inspired",
+      "photorealistic"
+    ],
+    "filename": "100-indonesian-inspired-topeng-mask.png",
+    "originalBytes": 2442820
+  }
+]
