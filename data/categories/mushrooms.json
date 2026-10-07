@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "mushrooms-001-fly-agaric",
+    "original": "originals/mushrooms-001-fly-agaric-26627839d6037aa3.png",
+    "preview": "previews/mushrooms-001-fly-agaric-26627839d6037aa3.webp",
+    "width": 1226,
+    "height": 1283,
+    "title": "Fly agaric",
+    "description": "A mushroom illustration showing a vivid red domed cap scattered with white warts, ivory gills and a white stem with a delicate ring.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "001-fly-agaric.png"
+  },
+  {
+    "id": "mushrooms-002-porcini",
+    "original": "originals/mushrooms-002-porcini-445b137d8faee9e3.png",
+    "preview": "previews/mushrooms-002-porcini-445b137d8faee9e3.webp",
+    "width": 1223,
+    "height": 1286,
+    "title": "Porcini",
+    "description": "A mushroom illustration showing a broad chestnut-brown cushion cap and stout cream stem with fine pale netting.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "002-porcini.png"
+  },
+  {
+    "id": "mushrooms-003-chanterelle",
+    "original": "originals/mushrooms-003-chanterelle-7ca0409aa272527e.png",
+    "preview": "previews/mushrooms-003-chanterelle-7ca0409aa272527e.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Golden chanterelle",
+    "description": "A mushroom illustration showing a golden-yellow funnel cap with an irregular wavy rim and blunt descending folds.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "003-chanterelle.png"
+  },
+  {
+    "id": "mushrooms-004-morel",
+    "original": "originals/mushrooms-004-morel-f64af1244ded7135.png",
+    "preview": "previews/mushrooms-004-morel-f64af1244ded7135.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Yellow morel",
+    "description": "A mushroom illustration showing a tall honey-yellow honeycomb cap with deep angular pits on a short ivory stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "004-morel.png"
+  },
+  {
+    "id": "mushrooms-005-black-morel",
+    "original": "originals/mushrooms-005-black-morel-0fe0d3e87d14a053.png",
+    "preview": "previews/mushrooms-005-black-morel-0fe0d3e87d14a053.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Black morel",
+    "description": "A mushroom illustration showing a tapered dark brown honeycomb cap with black ridges and a pale stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "005-black-morel.png"
+  },
+  {
+    "id": "mushrooms-006-violet-webcap",
+    "original": "originals/mushrooms-006-violet-webcap-7979429ecf25ac13.png",
+    "preview": "previews/mushrooms-006-violet-webcap-7979429ecf25ac13.webp",
+    "width": 1236,
+    "height": 1272,
+    "title": "Violet webcap",
+    "description": "A mushroom illustration showing a velvety deep violet cap, violet gills and a thick softly textured purple stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "006-violet-webcap.png"
+  },
+  {
+    "id": "mushrooms-007-amethyst-deceiver",
+    "original": "originals/mushrooms-007-amethyst-deceiver-50a3c691c2f30459.png",
+    "preview": "previews/mushrooms-007-amethyst-deceiver-50a3c691c2f30459.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Amethyst deceiver",
+    "description": "A mushroom illustration showing a small amethyst-purple cap, widely spaced violet gills and a slender purple stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "007-amethyst-deceiver.png"
+  },
+  {
+    "id": "mushrooms-008-parasol",
+    "original": "originals/mushrooms-008-parasol-4d9d6db62b9e1fa7.png",
+    "preview": "previews/mushrooms-008-parasol-4d9d6db62b9e1fa7.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Parasol mushroom",
+    "description": "A mushroom illustration showing a broad cream umbrella cap with brown scales and a tall patterned stem with a ring.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "008-parasol.png"
+  },
+  {
+    "id": "mushrooms-009-bay-bolete",
+    "original": "originals/mushrooms-009-bay-bolete-4a36a063fedac1d3.png",
+    "preview": "previews/mushrooms-009-bay-bolete-4a36a063fedac1d3.webp",
+    "width": 1216,
+    "height": 1293,
+    "title": "Bay bolete",
+    "description": "A mushroom illustration showing a polished bay-brown rounded cap, yellow pore surface and ochre cylindrical stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "009-bay-bolete.png"
+  },
+  {
+    "id": "mushrooms-010-birch-bolete",
+    "original": "originals/mushrooms-010-birch-bolete-97d98e44a77b50f5.png",
+    "preview": "previews/mushrooms-010-birch-bolete-97d98e44a77b50f5.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Birch bolete",
+    "description": "A mushroom illustration showing a pale brown domed cap and long ivory stem speckled with dark flecks.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "010-birch-bolete.png"
+  },
+  {
+    "id": "mushrooms-011-orange-bolete",
+    "original": "originals/mushrooms-011-orange-bolete-93cc3ebf9ba610c1.png",
+    "preview": "previews/mushrooms-011-orange-bolete-93cc3ebf9ba610c1.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Orange birch bolete",
+    "description": "A mushroom illustration showing a bright orange cushion cap and stout pale stem dotted with dark scabers.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "011-orange-bolete.png"
+  },
+  {
+    "id": "mushrooms-012-red-cracking-bolete",
+    "original": "originals/mushrooms-012-red-cracking-bolete-206e90c74b307a9c.png",
+    "preview": "previews/mushrooms-012-red-cracking-bolete-206e90c74b307a9c.webp",
+    "width": 1224,
+    "height": 1285,
+    "title": "Red-cracking bolete",
+    "description": "A mushroom illustration showing an olive-brown cap with fine cracks showing red underneath and a yellow-red stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "012-red-cracking-bolete.png"
+  },
+  {
+    "id": "mushrooms-013-slippery-jack",
+    "original": "originals/mushrooms-013-slippery-jack-222fb1bcd37c4add.png",
+    "preview": "previews/mushrooms-013-slippery-jack-222fb1bcd37c4add.webp",
+    "width": 1222,
+    "height": 1287,
+    "title": "Slippery jack",
+    "description": "A mushroom illustration showing a glossy caramel-brown cap, fine yellow pores and a pale yellow stem with a soft ring.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "013-slippery-jack.png"
+  },
+  {
+    "id": "mushrooms-014-velvet-bolete",
+    "original": "originals/mushrooms-014-velvet-bolete-1d65421c481cdced.png",
+    "preview": "previews/mushrooms-014-velvet-bolete-1d65421c481cdced.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Velvet bolete",
+    "description": "A mushroom illustration showing a velvety olive-brown cap and yellow stem with subtle rust-colored streaks.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "014-velvet-bolete.png"
+  },
+  {
+    "id": "mushrooms-015-scarletina-bolete",
+    "original": "originals/mushrooms-015-scarletina-bolete-31dbee61388db19e.png",
+    "preview": "previews/mushrooms-015-scarletina-bolete-31dbee61388db19e.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Scarletina bolete",
+    "description": "A mushroom illustration showing a dark brown velvety cap, scarlet pore surface and yellow stem densely dotted red.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "015-scarletina-bolete.png"
+  },
+  {
+    "id": "mushrooms-016-saffron-milkcap",
+    "original": "originals/mushrooms-016-saffron-milkcap-4cfb66b2a8610f71.png",
+    "preview": "previews/mushrooms-016-saffron-milkcap-4cfb66b2a8610f71.webp",
+    "width": 1211,
+    "height": 1299,
+    "title": "Saffron milkcap",
+    "description": "A mushroom illustration showing an orange depressed cap marked by concentric rings and a short spotted orange stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "016-saffron-milkcap.png"
+  },
+  {
+    "id": "mushrooms-017-indigo-milkcap",
+    "original": "originals/mushrooms-017-indigo-milkcap-6d41180ff579f3ff.png",
+    "preview": "previews/mushrooms-017-indigo-milkcap-6d41180ff579f3ff.webp",
+    "width": 1227,
+    "height": 1282,
+    "title": "Indigo milkcap",
+    "description": "A mushroom illustration showing a striking blue funnel cap with concentric bands, blue gills and a blue stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "017-indigo-milkcap.png"
+  },
+  {
+    "id": "mushrooms-018-sickener",
+    "original": "originals/mushrooms-018-sickener-4bf2ea3d737dbc19.png",
+    "preview": "previews/mushrooms-018-sickener-4bf2ea3d737dbc19.webp",
+    "width": 1235,
+    "height": 1274,
+    "title": "Scarlet russula",
+    "description": "A mushroom illustration showing a smooth cherry-red cap, crisp white gills and a clean white stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "018-sickener.png"
+  },
+  {
+    "id": "mushrooms-019-green-russula",
+    "original": "originals/mushrooms-019-green-russula-0731f308a43ff087.png",
+    "preview": "previews/mushrooms-019-green-russula-0731f308a43ff087.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Green-cracking russula",
+    "description": "A mushroom illustration showing a pale green cap divided into small mosaic-like patches and a white stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "019-green-russula.png"
+  },
+  {
+    "id": "mushrooms-020-charcoal-burner",
+    "original": "originals/mushrooms-020-charcoal-burner-78b3e8eb1bfc7cdc.png",
+    "preview": "previews/mushrooms-020-charcoal-burner-78b3e8eb1bfc7cdc.webp",
+    "width": 1245,
+    "height": 1263,
+    "title": "Purple-green russula",
+    "description": "A mushroom illustration showing a broad cap blending muted purple and moss green with white gills and stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "020-charcoal-burner.png"
+  },
+  {
+    "id": "mushrooms-021-wood-blewit",
+    "original": "originals/mushrooms-021-wood-blewit-8c3994095233fedc.png",
+    "preview": "previews/mushrooms-021-wood-blewit-8c3994095233fedc.webp",
+    "width": 1214,
+    "height": 1295,
+    "title": "Wood blewit",
+    "description": "A mushroom illustration showing a soft lilac-brown convex cap, crowded lavender gills and a thick lilac stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "021-wood-blewit.png"
+  },
+  {
+    "id": "mushrooms-022-lilac-fibrecap",
+    "original": "originals/mushrooms-022-lilac-fibrecap-f22b7e0d652b9eab.png",
+    "preview": "previews/mushrooms-022-lilac-fibrecap-f22b7e0d652b9eab.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Lilac fibrecap",
+    "description": "A mushroom illustration showing a small silky lilac conical cap and a slender pale lavender stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "022-lilac-fibrecap.png"
+  },
+  {
+    "id": "mushrooms-023-hedgehog",
+    "original": "originals/mushrooms-023-hedgehog-cef1883572d50a5d.png",
+    "preview": "previews/mushrooms-023-hedgehog-cef1883572d50a5d.webp",
+    "width": 1222,
+    "height": 1287,
+    "title": "Hedgehog mushroom",
+    "description": "A mushroom illustration showing a warm cream irregular cap with tiny downward ivory spines and a thick pale stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "023-hedgehog.png"
+  },
+  {
+    "id": "mushrooms-024-black-trumpet",
+    "original": "originals/mushrooms-024-black-trumpet-4642cda600db4989.png",
+    "preview": "previews/mushrooms-024-black-trumpet-4642cda600db4989.webp",
+    "width": 1226,
+    "height": 1283,
+    "title": "Black trumpet",
+    "description": "A mushroom illustration showing one charcoal-black hollow trumpet with a flared rippled edge and tapered base.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "024-black-trumpet.png"
+  },
+  {
+    "id": "mushrooms-025-winter-chanterelle",
+    "original": "originals/mushrooms-025-winter-chanterelle-8a9126c2a4b3e768.png",
+    "preview": "previews/mushrooms-025-winter-chanterelle-8a9126c2a4b3e768.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Winter chanterelle",
+    "description": "A mushroom illustration showing a small smoky-brown funnel cap with a wavy rim and a slender golden-yellow stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "025-winter-chanterelle.png"
+  },
+  {
+    "id": "mushrooms-026-horn-of-plenty",
+    "original": "originals/mushrooms-026-horn-of-plenty-036a040893b2a61c.png",
+    "preview": "previews/mushrooms-026-horn-of-plenty-036a040893b2a61c.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Ruffled golden chanterelle",
+    "description": "A golden-yellow mushroom with a broad ruffled funnel cap and a slender curved stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "026-horn-of-plenty.png"
+  },
+  {
+    "id": "mushrooms-027-caesar-mushroom",
+    "original": "originals/mushrooms-027-caesar-mushroom-1fae76d078f9af83.png",
+    "preview": "previews/mushrooms-027-caesar-mushroom-1fae76d078f9af83.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Caesar mushroom",
+    "description": "A mushroom illustration showing a brilliant orange smooth cap, yellow gills and yellow stem emerging from one attached white cup.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "027-caesar-mushroom.png"
+  },
+  {
+    "id": "mushrooms-028-blusher",
+    "original": "originals/mushrooms-028-blusher-5a8bbb4820148636.png",
+    "preview": "previews/mushrooms-028-blusher-5a8bbb4820148636.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Blusher",
+    "description": "A mushroom illustration showing a pinkish tan cap with pale patches and a cream stem with soft rose blushes and a ring.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "028-blusher.png"
+  },
+  {
+    "id": "mushrooms-029-panther-cap",
+    "original": "originals/mushrooms-029-panther-cap-8d3a72388f75bb87.png",
+    "preview": "previews/mushrooms-029-panther-cap-8d3a72388f75bb87.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Panther cap",
+    "description": "A mushroom illustration showing a dark chocolate-brown cap with evenly scattered white flecks and a pale ringed stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "029-panther-cap.png"
+  },
+  {
+    "id": "mushrooms-030-destroying-angel",
+    "original": "originals/mushrooms-030-destroying-angel-a4010117cbe747fd.png",
+    "preview": "previews/mushrooms-030-destroying-angel-a4010117cbe747fd.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "White woodland amanita",
+    "description": "A mushroom illustration showing an elegant smooth white cap, fine white gills and a tall white stem with ring and attached basal cup.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "030-destroying-angel.png"
+  },
+  {
+    "id": "mushrooms-031-false-death-cap",
+    "original": "originals/mushrooms-031-false-death-cap-2706fc674ce16fcc.png",
+    "preview": "previews/mushrooms-031-false-death-cap-2706fc674ce16fcc.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Lemon amanita",
+    "description": "A mushroom illustration showing a pale lemon-yellow cap with cream patches and an ivory stem with a ring and swollen base.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "031-false-death-cap.png"
+  },
+  {
+    "id": "mushrooms-032-grisette",
+    "original": "originals/mushrooms-032-grisette-07779199a486f9ad.png",
+    "preview": "previews/mushrooms-032-grisette-07779199a486f9ad.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Grey grisette",
+    "description": "A mushroom illustration showing a slate-grey cap with a finely striated edge and a slender white stem with attached basal sheath.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "032-grisette.png"
+  },
+  {
+    "id": "mushrooms-033-tawny-grisette",
+    "original": "originals/mushrooms-033-tawny-grisette-7c7a45f25ff8b92d.png",
+    "preview": "previews/mushrooms-033-tawny-grisette-7c7a45f25ff8b92d.webp",
+    "width": 1166,
+    "height": 1349,
+    "title": "Tawny grisette",
+    "description": "A mushroom illustration showing a warm tawny-orange cap with a deeply lined rim and a slender peach-tinted stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "033-tawny-grisette.png"
+  },
+  {
+    "id": "mushrooms-034-shaggy-inkcap",
+    "original": "originals/mushrooms-034-shaggy-inkcap-06cdddd8f1605a3b.png",
+    "preview": "previews/mushrooms-034-shaggy-inkcap-06cdddd8f1605a3b.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Shaggy inkcap",
+    "description": "A mushroom illustration showing one elongated white bell cap covered in shaggy scales with a lightly darkened edge and slim white stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "034-shaggy-inkcap.png"
+  },
+  {
+    "id": "mushrooms-035-magpie-inkcap",
+    "original": "originals/mushrooms-035-magpie-inkcap-a4bb4a3c99954aa3.png",
+    "preview": "previews/mushrooms-035-magpie-inkcap-a4bb4a3c99954aa3.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Magpie inkcap",
+    "description": "A mushroom illustration showing one dark elongated bell cap boldly patched with white flakes on a slender white stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "035-magpie-inkcap.png"
+  },
+  {
+    "id": "mushrooms-036-fairy-inkcap",
+    "original": "originals/mushrooms-036-fairy-inkcap-d7b0e2506da8201b.png",
+    "preview": "previews/mushrooms-036-fairy-inkcap-d7b0e2506da8201b.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Fairy inkcap",
+    "description": "A mushroom illustration showing one tiny grey-brown bell cap with crisp radial pleats and a fine ivory stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "036-fairy-inkcap.png"
+  },
+  {
+    "id": "mushrooms-037-pleated-inkcap",
+    "original": "originals/mushrooms-037-pleated-inkcap-794b36abc31d309b.png",
+    "preview": "previews/mushrooms-037-pleated-inkcap-794b36abc31d309b.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Pleated inkcap",
+    "description": "A mushroom illustration showing one delicate pale grey parasol cap with deep paper-like radial pleats and a threadlike stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "037-pleated-inkcap.png"
+  },
+  {
+    "id": "mushrooms-038-rosy-bonnet",
+    "original": "originals/mushrooms-038-rosy-bonnet-3ef987ae3aa06835.png",
+    "preview": "previews/mushrooms-038-rosy-bonnet-3ef987ae3aa06835.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Rosy bonnet",
+    "description": "A mushroom illustration showing one translucent pink bell cap with subtly striped margins and a slim rose stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "038-rosy-bonnet.png"
+  },
+  {
+    "id": "mushrooms-039-orange-bonnet",
+    "original": "originals/mushrooms-039-orange-bonnet-cb4139534da7ebd0.png",
+    "preview": "previews/mushrooms-039-orange-bonnet-cb4139534da7ebd0.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Orange bonnet",
+    "description": "A mushroom illustration showing one tiny bright orange bell cap with a slender glowing orange stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "039-orange-bonnet.png"
+  },
+  {
+    "id": "mushrooms-040-garlic-parachute",
+    "original": "originals/mushrooms-040-garlic-parachute-3c57149d8477d565.png",
+    "preview": "previews/mushrooms-040-garlic-parachute-3c57149d8477d565.webp",
+    "width": 1149,
+    "height": 1369,
+    "title": "Garlic parachute",
+    "description": "A mushroom illustration showing one small cream parachute cap with widely spaced gills and a thin dark brown stem.",
+    "tags": [
+      "mushroom",
+      "forest",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "040-garlic-parachute.png"
+  },
+  {
+    "id": "mushrooms-041-oyster",
+    "original": "originals/mushrooms-041-oyster-f484c7b9e4ca0068.png",
+    "preview": "previews/mushrooms-041-oyster-f484c7b9e4ca0068.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pearl oyster",
+    "description": "A mushroom illustration showing one pearl-grey fan-shaped cap with elegant descending white gills and one short off-center stem.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "041-oyster.png"
+  },
+  {
+    "id": "mushrooms-042-pink-oyster",
+    "original": "originals/mushrooms-042-pink-oyster-208be312d5cc5f4c.png",
+    "preview": "previews/mushrooms-042-pink-oyster-208be312d5cc5f4c.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pink oyster",
+    "description": "A mushroom illustration showing one salmon-pink fan-shaped cap with finely ribbed rosy gills and a short lateral base.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "042-pink-oyster.png"
+  },
+  {
+    "id": "mushrooms-043-golden-oyster",
+    "original": "originals/mushrooms-043-golden-oyster-13a7c010fae9c592.png",
+    "preview": "previews/mushrooms-043-golden-oyster-13a7c010fae9c592.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Golden oyster",
+    "description": "A mushroom illustration showing one lemon-yellow fan cap with a gently rolled edge, pale gills and short cream stem.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "043-golden-oyster.png"
+  },
+  {
+    "id": "mushrooms-044-blue-oyster",
+    "original": "originals/mushrooms-044-blue-oyster-513563ccec56796c.png",
+    "preview": "previews/mushrooms-044-blue-oyster-513563ccec56796c.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Blue oyster",
+    "description": "A mushroom illustration showing one blue-grey fan cap with smoky gradients, descending ivory gills and one short lateral stem.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "044-blue-oyster.png"
+  },
+  {
+    "id": "mushrooms-045-king-oyster",
+    "original": "originals/mushrooms-045-king-oyster-d041abf6ebd7c261.png",
+    "preview": "previews/mushrooms-045-king-oyster-d041abf6ebd7c261.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "King oyster",
+    "description": "A mushroom illustration showing one small tan cap crowning a thick smooth ivory column-like stem.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "045-king-oyster.png"
+  },
+  {
+    "id": "mushrooms-046-shiitake",
+    "original": "originals/mushrooms-046-shiitake-c239e4a4bb77f36e.png",
+    "preview": "previews/mushrooms-046-shiitake-c239e4a4bb77f36e.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Shiitake",
+    "description": "A mushroom illustration showing one rich brown convex cap with decorative cream cracks, pale gills and a fibrous tan stem.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "046-shiitake.png"
+  },
+  {
+    "id": "mushrooms-047-velvet-shank",
+    "original": "originals/mushrooms-047-velvet-shank-922221836c994afe.png",
+    "preview": "previews/mushrooms-047-velvet-shank-922221836c994afe.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Velvet shank",
+    "description": "A mushroom illustration showing one glossy amber cap and a slender stem fading from golden yellow to dark velvety brown.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "047-velvet-shank.png"
+  },
+  {
+    "id": "mushrooms-048-reishi",
+    "original": "originals/mushrooms-048-reishi-ab465c82edfa7651.png",
+    "preview": "previews/mushrooms-048-reishi-ab465c82edfa7651.webp",
+    "width": 1233,
+    "height": 1275,
+    "title": "Reishi bracket",
+    "description": "A mushroom illustration showing one lacquered kidney-shaped reddish-brown bracket with a pale growing rim and one curved dark stem.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "048-reishi.png"
+  },
+  {
+    "id": "mushrooms-049-artist-conk",
+    "original": "originals/mushrooms-049-artist-conk-f141242f16fb236c.png",
+    "preview": "previews/mushrooms-049-artist-conk-f141242f16fb236c.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Artist conk",
+    "description": "A mushroom illustration showing one thick semicircular grey-brown bracket with subtle concentric ridges and a creamy lower edge.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "049-artist-conk.png"
+  },
+  {
+    "id": "mushrooms-050-tinder-conk",
+    "original": "originals/mushrooms-050-tinder-conk-b122ebd6a3e81cf1.png",
+    "preview": "previews/mushrooms-050-tinder-conk-b122ebd6a3e81cf1.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Tinder conk",
+    "description": "A mushroom illustration showing one hoof-shaped grey bracket with rounded concentric growth bands and a flat pale underside.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "050-tinder-conk.png"
+  },
+  {
+    "id": "mushrooms-051-turkey-tail",
+    "original": "originals/mushrooms-051-turkey-tail-250b080c0f215da3.png",
+    "preview": "previews/mushrooms-051-turkey-tail-250b080c0f215da3.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Turkey tail",
+    "description": "A mushroom illustration showing one thin fan-shaped bracket with tightly layered concentric brown, cream and blue-grey bands.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "051-turkey-tail.png"
+  },
+  {
+    "id": "mushrooms-052-birch-polypore",
+    "original": "originals/mushrooms-052-birch-polypore-65343501a35b410f.png",
+    "preview": "previews/mushrooms-052-birch-polypore-65343501a35b410f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Birch polypore",
+    "description": "A mushroom illustration showing one plump ivory kidney-shaped bracket with a tan top and smooth rounded edge.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "052-birch-polypore.png"
+  },
+  {
+    "id": "mushrooms-053-dryad-saddle",
+    "original": "originals/mushrooms-053-dryad-saddle-84f1e86ff27a693c.png",
+    "preview": "previews/mushrooms-053-dryad-saddle-84f1e86ff27a693c.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Dryad saddle",
+    "description": "A mushroom illustration showing one broad tan fan cap patterned with dark brown feather-like scales and a short black-based stem.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "053-dryad-saddle.png"
+  },
+  {
+    "id": "mushrooms-054-beefsteak",
+    "original": "originals/mushrooms-054-beefsteak-165576e5dd0f1d33.png",
+    "preview": "previews/mushrooms-054-beefsteak-165576e5dd0f1d33.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Beefsteak fungus",
+    "description": "A mushroom illustration showing one fleshy red tongue-shaped bracket with a moist softly stippled surface and thick rounded edge.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "054-beefsteak.png"
+  },
+  {
+    "id": "mushrooms-055-chicken-of-woods",
+    "original": "originals/mushrooms-055-chicken-of-woods-a8359646050f57c2.png",
+    "preview": "previews/mushrooms-055-chicken-of-woods-a8359646050f57c2.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Orange sulphur bracket",
+    "description": "A mushroom illustration showing one bright orange fan-shaped shelf with a lemon-yellow wavy growing margin.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "055-chicken-of-woods.png"
+  },
+  {
+    "id": "mushrooms-056-cinnabar-polypore",
+    "original": "originals/mushrooms-056-cinnabar-polypore-efee5a03cc7c806c.png",
+    "preview": "previews/mushrooms-056-cinnabar-polypore-efee5a03cc7c806c.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Cinnabar polypore",
+    "description": "A mushroom illustration showing one vivid vermilion semicircular bracket with a fine velvety surface and a thin curved edge.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "056-cinnabar-polypore.png"
+  },
+  {
+    "id": "mushrooms-057-blue-bracket",
+    "original": "originals/mushrooms-057-blue-bracket-83f2986bdeb8d38c.png",
+    "preview": "previews/mushrooms-057-blue-bracket-83f2986bdeb8d38c.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Blue bracket",
+    "description": "A mushroom illustration showing one deep cobalt-blue fan-shaped bracket with darker concentric bands and a delicate pale rim.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "057-blue-bracket.png"
+  },
+  {
+    "id": "mushrooms-058-violet-tooth",
+    "original": "originals/mushrooms-058-violet-tooth-377f2e3b29ea4341.png",
+    "preview": "previews/mushrooms-058-violet-tooth-377f2e3b29ea4341.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Violet-toothed bracket",
+    "description": "A mushroom illustration showing one thin grey-lilac fan bracket with a purple edge and fine violet teeth visible underneath.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "058-violet-tooth.png"
+  },
+  {
+    "id": "mushrooms-059-purple-crust-bracket",
+    "original": "originals/mushrooms-059-purple-crust-bracket-779c11528059c2e0.png",
+    "preview": "previews/mushrooms-059-purple-crust-bracket-779c11528059c2e0.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Purple velvet bracket",
+    "description": "A mushroom illustration showing one small deep-purple fan bracket with a velvety top and sharply rippled pale margin.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "059-purple-crust-bracket.png"
+  },
+  {
+    "id": "mushrooms-060-split-gill",
+    "original": "originals/mushrooms-060-split-gill-e0dae01775365bd8.png",
+    "preview": "previews/mushrooms-060-split-gill-e0dae01775365bd8.webp",
+    "width": 1222,
+    "height": 1287,
+    "title": "Hairy cream fan mushroom",
+    "description": "A cream mushroom with a softly hairy fan-shaped cap, forked gill folds and a curved pale stem.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "060-split-gill.png"
+  },
+  {
+    "id": "mushrooms-061-jelly-ear",
+    "original": "originals/mushrooms-061-jelly-ear-90f7dda836dbbf69.png",
+    "preview": "previews/mushrooms-061-jelly-ear-90f7dda836dbbf69.webp",
+    "width": 1242,
+    "height": 1266,
+    "title": "Jelly ear",
+    "description": "A mushroom illustration showing one translucent warm brown ear-shaped jelly body with gentle folds and a narrow attached base.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "061-jelly-ear.png"
+  },
+  {
+    "id": "mushrooms-062-amber-jelly",
+    "original": "originals/mushrooms-062-amber-jelly-cb31ab6ff68093ea.png",
+    "preview": "previews/mushrooms-062-amber-jelly-cb31ab6ff68093ea.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Amber jelly roll",
+    "description": "A mushroom illustration showing one compact translucent amber jelly body with rounded brain-like folds, a single connected specimen.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "062-amber-jelly.png"
+  },
+  {
+    "id": "mushrooms-063-witches-butter",
+    "original": "originals/mushrooms-063-witches-butter-cddd9cd47d579bb7.png",
+    "preview": "previews/mushrooms-063-witches-butter-cddd9cd47d579bb7.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Golden jelly fungus",
+    "description": "A mushroom illustration showing one compact golden-yellow gelatinous fruiting body with flowing rounded folds, a single connected specimen.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "063-witches-butter.png"
+  },
+  {
+    "id": "mushrooms-064-white-jelly",
+    "original": "originals/mushrooms-064-white-jelly-01038d9203c18eeb.png",
+    "preview": "previews/mushrooms-064-white-jelly-01038d9203c18eeb.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "White jelly fungus",
+    "description": "A mushroom illustration showing one compact translucent milky-white gelatinous fruiting body with delicate ruffled lobes, a single connected specimen.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "064-white-jelly.png"
+  },
+  {
+    "id": "mushrooms-065-lions-mane",
+    "original": "originals/mushrooms-065-lions-mane-f522bce75a852c09.png",
+    "preview": "previews/mushrooms-065-lions-mane-f522bce75a852c09.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Lion's mane",
+    "description": "A mushroom illustration showing one rounded ivory fruiting body covered with long silky downward hanging spines.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "065-lions-mane.png"
+  },
+  {
+    "id": "mushrooms-066-comb-tooth",
+    "original": "originals/mushrooms-066-comb-tooth-1e439da75237aea2.png",
+    "preview": "previews/mushrooms-066-comb-tooth-1e439da75237aea2.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Comb tooth fungus",
+    "description": "A mushroom illustration showing one compact connected ivory fruiting body with short branching shelves and fine hanging teeth.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "066-comb-tooth.png"
+  },
+  {
+    "id": "mushrooms-067-resinous-polypore",
+    "original": "originals/mushrooms-067-resinous-polypore-26cccdcb3799b995.png",
+    "preview": "previews/mushrooms-067-resinous-polypore-26cccdcb3799b995.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Resinous polypore",
+    "description": "A mushroom illustration showing one glossy honey-brown semicircular bracket with an ivory edge and a few amber resin droplets on its surface.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "067-resinous-polypore.png"
+  },
+  {
+    "id": "mushrooms-068-mazegill",
+    "original": "originals/mushrooms-068-mazegill-9be5288ab20ff4e6.png",
+    "preview": "previews/mushrooms-068-mazegill-9be5288ab20ff4e6.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Oak mazegill",
+    "description": "A mushroom illustration showing one thick ochre fan bracket tilted to reveal its distinctive labyrinth-like underside.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "068-mazegill.png"
+  },
+  {
+    "id": "mushrooms-069-shaggy-bracket",
+    "original": "originals/mushrooms-069-shaggy-bracket-5cba6095f06dad04.png",
+    "preview": "previews/mushrooms-069-shaggy-bracket-5cba6095f06dad04.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Shaggy bracket",
+    "description": "A mushroom illustration showing one rusty orange semicircular bracket with a soft shaggy surface and golden growing rim.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "069-shaggy-bracket.png"
+  },
+  {
+    "id": "mushrooms-070-black-foot-polypore",
+    "original": "originals/mushrooms-070-black-foot-polypore-ccc765ab4da966c1.png",
+    "preview": "previews/mushrooms-070-black-foot-polypore-ccc765ab4da966c1.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Black-foot polypore",
+    "description": "A mushroom illustration showing one pale tan shallow funnel cap on a slender stalk with a glossy black lower section.",
+    "tags": [
+      "mushroom",
+      "wood",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "070-black-foot-polypore.png"
+  },
+  {
+    "id": "mushrooms-071-veiled-lady",
+    "original": "originals/mushrooms-071-veiled-lady-90e7d3325df38c4b.png",
+    "preview": "previews/mushrooms-071-veiled-lady-90e7d3325df38c4b.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Veiled lady",
+    "description": "A mushroom illustration showing one slender white stinkhorn with an olive-brown conical tip and a delicate white lace skirt around its stem.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "071-veiled-lady.png"
+  },
+  {
+    "id": "mushrooms-072-yellow-veiled-lady",
+    "original": "originals/mushrooms-072-yellow-veiled-lady-390e3e456e81fecd.png",
+    "preview": "previews/mushrooms-072-yellow-veiled-lady-390e3e456e81fecd.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Yellow veiled lady",
+    "description": "A mushroom illustration showing one slender stinkhorn with a brown tip and an airy bright yellow netted skirt.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "072-yellow-veiled-lady.png"
+  },
+  {
+    "id": "mushrooms-073-orange-veiled-lady",
+    "original": "originals/mushrooms-073-orange-veiled-lady-3be93105eab9bbf5.png",
+    "preview": "previews/mushrooms-073-orange-veiled-lady-3be93105eab9bbf5.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Orange veiled lady",
+    "description": "A mushroom illustration showing one slender pale stinkhorn with a brown tip and a delicate orange lace skirt.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "073-orange-veiled-lady.png"
+  },
+  {
+    "id": "mushrooms-074-red-cage",
+    "original": "originals/mushrooms-074-red-cage-896a95eb3c143ec1.png",
+    "preview": "previews/mushrooms-074-red-cage-896a95eb3c143ec1.webp",
+    "width": 1223,
+    "height": 1286,
+    "title": "Red cage fungus",
+    "description": "A mushroom illustration showing one hollow scarlet spherical cage formed by rounded interconnected lattice branches.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "074-red-cage.png"
+  },
+  {
+    "id": "mushrooms-075-basket-stinkhorn",
+    "original": "originals/mushrooms-075-basket-stinkhorn-0ac8a324740d1208.png",
+    "preview": "previews/mushrooms-075-basket-stinkhorn-0ac8a324740d1208.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Basket stinkhorn",
+    "description": "A mushroom illustration showing one pale pink hollow basket-shaped lattice body rising from one attached small white basal cup.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "075-basket-stinkhorn.png"
+  },
+  {
+    "id": "mushrooms-076-column-stinkhorn",
+    "original": "originals/mushrooms-076-column-stinkhorn-41e04f25ef029232.png",
+    "preview": "previews/mushrooms-076-column-stinkhorn-41e04f25ef029232.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Column stinkhorn",
+    "description": "A mushroom illustration showing one connected orange-red fruiting body formed by three upright columns joined at the top.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "076-column-stinkhorn.png"
+  },
+  {
+    "id": "mushrooms-077-anemone-stinkhorn",
+    "original": "originals/mushrooms-077-anemone-stinkhorn-c3f6a31f1241f5da.png",
+    "preview": "previews/mushrooms-077-anemone-stinkhorn-c3f6a31f1241f5da.webp",
+    "width": 1227,
+    "height": 1282,
+    "title": "Anemone stinkhorn",
+    "description": "A mushroom illustration showing one connected red star-shaped fruiting body with short pointed arms emerging from a single white basal cup.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "077-anemone-stinkhorn.png"
+  },
+  {
+    "id": "mushrooms-078-octopus-stinkhorn",
+    "original": "originals/mushrooms-078-octopus-stinkhorn-9adde3adcccfad38.png",
+    "preview": "previews/mushrooms-078-octopus-stinkhorn-9adde3adcccfad38.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Octopus stinkhorn",
+    "description": "A mushroom illustration showing one connected crimson fruiting body with several curled tentacle-like arms radiating from one pale central base.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "078-octopus-stinkhorn.png"
+  },
+  {
+    "id": "mushrooms-079-elegant-stinkhorn",
+    "original": "originals/mushrooms-079-elegant-stinkhorn-4775bd400d6e0cfb.png",
+    "preview": "previews/mushrooms-079-elegant-stinkhorn-4775bd400d6e0cfb.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Elegant stinkhorn",
+    "description": "A mushroom illustration showing one slim orange-red stalk with a tapering dark olive tip and a small attached white basal cup.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "079-elegant-stinkhorn.png"
+  },
+  {
+    "id": "mushrooms-080-pink-stinkhorn",
+    "original": "originals/mushrooms-080-pink-stinkhorn-57a3ce00b26d8211.png",
+    "preview": "previews/mushrooms-080-pink-stinkhorn-57a3ce00b26d8211.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Pink spindle mushroom",
+    "description": "A rosy-pink mushroom with a slender textured stem, a small conical brown cap and an attached pale basal sheath.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "080-pink-stinkhorn.png"
+  },
+  {
+    "id": "mushrooms-081-bleeding-tooth",
+    "original": "originals/mushrooms-081-bleeding-tooth-89acfdb5ab1b10b1.png",
+    "preview": "previews/mushrooms-081-bleeding-tooth-89acfdb5ab1b10b1.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Bleeding tooth fungus",
+    "description": "A mushroom illustration showing one compact cream cushion-shaped cap displaying small ruby-red droplets, with a short cream base.",
+    "tags": [
+      "mushroom",
+      "unusual",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "081-bleeding-tooth.png"
+  },
+  {
+    "id": "mushrooms-082-blue-pinkgill",
+    "original": "originals/mushrooms-082-blue-pinkgill-4150428bb77b79ec.png",
+    "preview": "previews/mushrooms-082-blue-pinkgill-4150428bb77b79ec.webp",
+    "width": 1147,
+    "height": 1372,
+    "title": "Blue pinkgill",
+    "description": "A mushroom illustration showing one brilliant sky-blue conical cap with a pointed center, pale blue gills and a blue stem.",
+    "tags": [
+      "mushroom",
+      "unusual",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "082-blue-pinkgill.png"
+  },
+  {
+    "id": "mushrooms-083-green-parrot",
+    "original": "originals/mushrooms-083-green-parrot-0d4404573de9b150.png",
+    "preview": "previews/mushrooms-083-green-parrot-0d4404573de9b150.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Parrot waxcap",
+    "description": "A mushroom illustration showing one glossy lime-green cap shading to yellow at the margin and a slender green-yellow stem.",
+    "tags": [
+      "mushroom",
+      "unusual",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "083-green-parrot.png"
+  },
+  {
+    "id": "mushrooms-084-scarlet-waxcap",
+    "original": "originals/mushrooms-084-scarlet-waxcap-464a9fd2f5bde40f.png",
+    "preview": "previews/mushrooms-084-scarlet-waxcap-464a9fd2f5bde40f.webp",
+    "width": 1212,
+    "height": 1297,
+    "title": "Scarlet waxcap",
+    "description": "A mushroom illustration showing one bright scarlet waxy domed cap with an orange rim and a warm orange stem.",
+    "tags": [
+      "mushroom",
+      "unusual",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "084-scarlet-waxcap.png"
+  },
+  {
+    "id": "mushrooms-085-golden-waxcap",
+    "original": "originals/mushrooms-085-golden-waxcap-f6ef8542202cfad7.png",
+    "preview": "previews/mushrooms-085-golden-waxcap-f6ef8542202cfad7.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Golden waxcap",
+    "description": "A mushroom illustration showing one glossy sunshine-yellow conical cap and a slim golden stem.",
+    "tags": [
+      "mushroom",
+      "unusual",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "085-golden-waxcap.png"
+  },
+  {
+    "id": "mushrooms-086-pink-waxcap",
+    "original": "originals/mushrooms-086-pink-waxcap-2b1eb719e064fc92.png",
+    "preview": "previews/mushrooms-086-pink-waxcap-2b1eb719e064fc92.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Pink waxcap",
+    "description": "A mushroom illustration showing one rose-pink convex cap with a softly golden center and a smooth pale pink stem.",
+    "tags": [
+      "mushroom",
+      "unusual",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "086-pink-waxcap.png"
+  },
+  {
+    "id": "mushrooms-087-luminous-bonnet",
+    "original": "originals/mushrooms-087-luminous-bonnet-412bd51f8bdba5f5.png",
+    "preview": "previews/mushrooms-087-luminous-bonnet-412bd51f8bdba5f5.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Luminous green bonnet",
+    "description": "A mushroom illustration showing one delicate translucent green bonnet cap and slender pale-green stem, softly luminous details without any background glow.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "087-luminous-bonnet.png"
+  },
+  {
+    "id": "mushrooms-088-emerald-bonnet",
+    "original": "originals/mushrooms-088-emerald-bonnet-2bbc6f530fe6ee91.png",
+    "preview": "previews/mushrooms-088-emerald-bonnet-2bbc6f530fe6ee91.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Emerald bonnet",
+    "description": "A mushroom illustration showing one tiny emerald-green bell cap with a pleated edge and a threadlike dark green stem.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "088-emerald-bonnet.png"
+  },
+  {
+    "id": "mushrooms-089-violet-parachute",
+    "original": "originals/mushrooms-089-violet-parachute-47c051dc028511ff.png",
+    "preview": "previews/mushrooms-089-violet-parachute-47c051dc028511ff.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Violet parachute",
+    "description": "A mushroom illustration showing one tiny saturated violet umbrella cap with deep radial folds and an elegant fine purple stem.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "089-violet-parachute.png"
+  },
+  {
+    "id": "mushrooms-090-orange-pinwheel",
+    "original": "originals/mushrooms-090-orange-pinwheel-db3a795d52e5a2ab.png",
+    "preview": "previews/mushrooms-090-orange-pinwheel-db3a795d52e5a2ab.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Orange pinwheel",
+    "description": "A mushroom illustration showing one vivid orange paper-thin parasol cap with pronounced radial ribs and a wiry brown stem.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "090-orange-pinwheel.png"
+  },
+  {
+    "id": "mushrooms-091-pink-pinwheel",
+    "original": "originals/mushrooms-091-pink-pinwheel-d4a306906c88756b.png",
+    "preview": "previews/mushrooms-091-pink-pinwheel-d4a306906c88756b.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Pink pinwheel",
+    "description": "A mushroom illustration showing one vivid pink paper-thin parasol cap with sharply pleated ribs and a slender dark stem.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "091-pink-pinwheel.png"
+  },
+  {
+    "id": "mushrooms-092-white-pinwheel",
+    "original": "originals/mushrooms-092-white-pinwheel-947611b0f2eeeca3.png",
+    "preview": "previews/mushrooms-092-white-pinwheel-947611b0f2eeeca3.webp",
+    "width": 1223,
+    "height": 1286,
+    "title": "White pinwheel",
+    "description": "A mushroom illustration showing one tiny pure-white pleated parasol cap with a pin-like dark brown stem.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "092-white-pinwheel.png"
+  },
+  {
+    "id": "mushrooms-093-ruby-cup",
+    "original": "originals/mushrooms-093-ruby-cup-1fb91bf8d1965739.png",
+    "preview": "previews/mushrooms-093-ruby-cup-1fb91bf8d1965739.webp",
+    "width": 1212,
+    "height": 1298,
+    "title": "Ruby cup fungus",
+    "description": "A mushroom illustration showing one bright ruby-red goblet with a pale outer wall and a short slender pale stem.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "093-ruby-cup.png"
+  },
+  {
+    "id": "mushrooms-094-orange-peel",
+    "original": "originals/mushrooms-094-orange-peel-6756d5b3502f5ca3.png",
+    "preview": "previews/mushrooms-094-orange-peel-6756d5b3502f5ca3.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Orange peel fungus",
+    "description": "A mushroom illustration showing one vivid orange open cup with a gently curled uneven rim and a short narrow base.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "094-orange-peel.png"
+  },
+  {
+    "id": "mushrooms-095-hairy-scarlet-cup",
+    "original": "originals/mushrooms-095-hairy-scarlet-cup-d334298742f8fda5.png",
+    "preview": "previews/mushrooms-095-hairy-scarlet-cup-d334298742f8fda5.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Hairy scarlet cup",
+    "description": "A mushroom illustration showing one small scarlet open cup edged with delicate dark eyelashes and a short tapered base.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "095-hairy-scarlet-cup.png"
+  },
+  {
+    "id": "mushrooms-096-star-cup",
+    "original": "originals/mushrooms-096-star-cup-2d27ec1aaddb1fbc.png",
+    "preview": "previews/mushrooms-096-star-cup-2d27ec1aaddb1fbc.webp",
+    "width": 1297,
+    "height": 1212,
+    "title": "Star cup fungus",
+    "description": "A mushroom illustration showing one red open cup with a white outer surface and a rim divided into pointed star-like lobes.",
+    "tags": [
+      "mushroom",
+      "tropical",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "096-star-cup.png"
+  },
+  {
+    "id": "mushrooms-097-violet-coral",
+    "original": "originals/mushrooms-097-violet-coral-a99c85a08ed63df2.png",
+    "preview": "previews/mushrooms-097-violet-coral-a99c85a08ed63df2.webp",
+    "width": 1227,
+    "height": 1282,
+    "title": "Violet coral fungus",
+    "description": "A mushroom illustration showing one connected compact violet fruiting body with delicate branching coral-like tips rising from one base.",
+    "tags": [
+      "mushroom",
+      "unusual",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "097-violet-coral.png"
+  },
+  {
+    "id": "mushrooms-098-golden-spindle",
+    "original": "originals/mushrooms-098-golden-spindle-db5f9e47693180b6.png",
+    "preview": "previews/mushrooms-098-golden-spindle-db5f9e47693180b6.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Golden spindle fungus",
+    "description": "A mushroom illustration showing one smooth bright golden-yellow club-shaped fruiting body tapering toward a slender base.",
+    "tags": [
+      "mushroom",
+      "unusual",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "098-golden-spindle.png"
+  },
+  {
+    "id": "mushrooms-099-earthstar",
+    "original": "originals/mushrooms-099-earthstar-0e3af600bb1429cd.png",
+    "preview": "previews/mushrooms-099-earthstar-0e3af600bb1429cd.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Collared earthstar",
+    "description": "A mushroom illustration showing one tan spherical spore sac surrounded by a connected star-shaped collar of thick curled cream rays.",
+    "tags": [
+      "mushroom",
+      "unusual",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "099-earthstar.png"
+  },
+  {
+    "id": "mushrooms-100-stalked-puffball",
+    "original": "originals/mushrooms-100-stalked-puffball-480371b271575196.png",
+    "preview": "previews/mushrooms-100-stalked-puffball-480371b271575196.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Stalked puffball",
+    "description": "A mushroom illustration showing one ochre spherical spore sac with a small top opening on a long slender tawny stem.",
+    "tags": [
+      "mushroom",
+      "unusual",
+      "botanical",
+      "realistic"
+    ],
+    "filename": "100-stalked-puffball.png"
+  }
+]

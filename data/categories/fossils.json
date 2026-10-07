@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "fossils-001-ribbed-ammonite",
+    "original": "originals/fossils-001-ribbed-ammonite-aa8d3af2242fa9b1.png",
+    "preview": "previews/fossils-001-ribbed-ammonite-aa8d3af2242fa9b1.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Ribbed ammonite",
+    "description": "A fossil-inspired museum specimen depicting a round tightly coiled ammonite with raised ribs in warm tan stone.",
+    "tags": [
+      "fossil",
+      "ammonite",
+      "shell",
+      "stone",
+      "specimen"
+    ],
+    "filename": "001-ribbed-ammonite.png"
+  },
+  {
+    "id": "fossils-002-polished-ammonite-section",
+    "original": "originals/fossils-002-polished-ammonite-section-03124d4c804f7067.png",
+    "preview": "previews/fossils-002-polished-ammonite-section-03124d4c804f7067.webp",
+    "width": 1301,
+    "height": 1209,
+    "title": "Polished ammonite section",
+    "description": "A fossil-inspired museum specimen depicting a single sliced spiral ammonite with honey brown mineral filled chambers.",
+    "tags": [
+      "fossil",
+      "ammonite",
+      "section",
+      "stone",
+      "specimen"
+    ],
+    "filename": "002-polished-ammonite-section.png"
+  },
+  {
+    "id": "fossils-003-pyritized-ammonite",
+    "original": "originals/fossils-003-pyritized-ammonite-b7967c9b1f57a750.png",
+    "preview": "previews/fossils-003-pyritized-ammonite-b7967c9b1f57a750.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Pyritized ammonite",
+    "description": "A fossil-inspired museum specimen depicting a small coiled ammonite with muted metallic gold mineral replacement.",
+    "tags": [
+      "fossil",
+      "ammonite",
+      "pyrite",
+      "stone",
+      "specimen"
+    ],
+    "filename": "003-pyritized-ammonite.png"
+  },
+  {
+    "id": "fossils-004-spiny-ammonite",
+    "original": "originals/fossils-004-spiny-ammonite-edaf9bc6d1ae933b.png",
+    "preview": "previews/fossils-004-spiny-ammonite-edaf9bc6d1ae933b.webp",
+    "width": 1303,
+    "height": 1207,
+    "title": "Spiny ammonite",
+    "description": "A fossil-inspired museum specimen depicting a broad spiral ammonite with short stony spines along its outer whorl.",
+    "tags": [
+      "fossil",
+      "ammonite",
+      "spines",
+      "stone",
+      "specimen"
+    ],
+    "filename": "004-spiny-ammonite.png"
+  },
+  {
+    "id": "fossils-005-flattened-ammonite",
+    "original": "originals/fossils-005-flattened-ammonite-f53f11e5b8459168.png",
+    "preview": "previews/fossils-005-flattened-ammonite-f53f11e5b8459168.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Flattened ammonite",
+    "description": "A fossil-inspired museum specimen depicting a compressed charcoal gray spiral ammonite on one thin irregular shale slab.",
+    "tags": [
+      "fossil",
+      "ammonite",
+      "shale",
+      "stone",
+      "specimen"
+    ],
+    "filename": "005-flattened-ammonite.png"
+  },
+  {
+    "id": "fossils-006-opalized-ammonite",
+    "original": "originals/fossils-006-opalized-ammonite-c82cff87633d3c5d.png",
+    "preview": "previews/fossils-006-opalized-ammonite-c82cff87633d3c5d.webp",
+    "width": 1416,
+    "height": 1111,
+    "title": "Opalized ammonite",
+    "description": "A fossil-inspired museum specimen depicting a single ammonite shell with subtle iridescent green and copper mineral surfaces.",
+    "tags": [
+      "fossil",
+      "ammonite",
+      "iridescence",
+      "stone",
+      "specimen"
+    ],
+    "filename": "006-opalized-ammonite.png"
+  },
+  {
+    "id": "fossils-007-open-coil-ammonite",
+    "original": "originals/fossils-007-open-coil-ammonite-6c2bea9850234d79.png",
+    "preview": "previews/fossils-007-open-coil-ammonite-6c2bea9850234d79.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Open coil ammonite",
+    "description": "A fossil-inspired museum specimen depicting a fossil shell with one loose open hooked coil in cream limestone.",
+    "tags": [
+      "fossil",
+      "ammonite",
+      "open-coil",
+      "stone",
+      "specimen"
+    ],
+    "filename": "007-open-coil-ammonite.png"
+  },
+  {
+    "id": "fossils-008-tower-ammonite",
+    "original": "originals/fossils-008-tower-ammonite-b8ca5030bf94bf06.png",
+    "preview": "previews/fossils-008-tower-ammonite-b8ca5030bf94bf06.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Stacked coil ammonite",
+    "description": "A fossil-inspired ammonite specimen with a loose stacked coil in pale limestone.",
+    "tags": [
+      "fossil",
+      "ammonite",
+      "helix",
+      "stone",
+      "specimen"
+    ],
+    "filename": "008-tower-ammonite.png"
+  },
+  {
+    "id": "fossils-009-straight-nautiloid",
+    "original": "originals/fossils-009-straight-nautiloid-2cf403f4134b1c9f.png",
+    "preview": "previews/fossils-009-straight-nautiloid-2cf403f4134b1c9f.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Straight nautiloid",
+    "description": "A fossil-inspired museum specimen depicting a long tapering straight chambered shell fossil in dark gray stone.",
+    "tags": [
+      "fossil",
+      "nautiloid",
+      "chambers",
+      "stone",
+      "specimen"
+    ],
+    "filename": "009-straight-nautiloid.png"
+  },
+  {
+    "id": "fossils-010-curved-nautiloid",
+    "original": "originals/fossils-010-curved-nautiloid-daefdccc85f584e0.png",
+    "preview": "previews/fossils-010-curved-nautiloid-daefdccc85f584e0.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Curved nautiloid",
+    "description": "A fossil-inspired museum specimen depicting a gently curved horn shaped chambered shell fossil in ochre stone.",
+    "tags": [
+      "fossil",
+      "nautiloid",
+      "curve",
+      "stone",
+      "specimen"
+    ],
+    "filename": "010-curved-nautiloid.png"
+  },
+  {
+    "id": "fossils-011-coiled-nautiloid",
+    "original": "originals/fossils-011-coiled-nautiloid-b1d5de34a8c2b553.png",
+    "preview": "previews/fossils-011-coiled-nautiloid-b1d5de34a8c2b553.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Smooth coiled shell fossil",
+    "description": "A fossil-inspired coiled shell specimen with a broad smooth outer whorl in pale stone.",
+    "tags": [
+      "fossil",
+      "shell",
+      "spiral",
+      "stone",
+      "specimen"
+    ],
+    "filename": "011-coiled-nautiloid.png"
+  },
+  {
+    "id": "fossils-012-belemnite-guard",
+    "original": "originals/fossils-012-belemnite-guard-68fef0b3eb8eb05d.png",
+    "preview": "previews/fossils-012-belemnite-guard-68fef0b3eb8eb05d.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Belemnite guard",
+    "description": "A fossil-inspired museum specimen depicting a single elongated bullet shaped belemnite fossil in amber brown stone.",
+    "tags": [
+      "fossil",
+      "belemnite",
+      "guard",
+      "stone",
+      "specimen"
+    ],
+    "filename": "012-belemnite-guard.png"
+  },
+  {
+    "id": "fossils-013-belemnite-section",
+    "original": "originals/fossils-013-belemnite-section-4d058a581ed89e9f.png",
+    "preview": "previews/fossils-013-belemnite-section-4d058a581ed89e9f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Belemnite section",
+    "description": "A fossil-inspired museum specimen depicting one cut belemnite guard showing radial mineral structure at its circular end.",
+    "tags": [
+      "fossil",
+      "belemnite",
+      "section",
+      "stone",
+      "specimen"
+    ],
+    "filename": "013-belemnite-section.png"
+  },
+  {
+    "id": "fossils-014-turret-gastropod",
+    "original": "originals/fossils-014-turret-gastropod-5535ccae9b51f3aa.png",
+    "preview": "previews/fossils-014-turret-gastropod-5535ccae9b51f3aa.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Turret gastropod",
+    "description": "A fossil-inspired museum specimen depicting a tall tapering fossil snail shell with narrow stacked whorls in gray limestone.",
+    "tags": [
+      "fossil",
+      "gastropod",
+      "turret",
+      "stone",
+      "specimen"
+    ],
+    "filename": "014-turret-gastropod.png"
+  },
+  {
+    "id": "fossils-015-wide-gastropod",
+    "original": "originals/fossils-015-wide-gastropod-e0e9a484e495aa4c.png",
+    "preview": "previews/fossils-015-wide-gastropod-e0e9a484e495aa4c.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Wide gastropod",
+    "description": "A fossil-inspired museum specimen depicting a low broad spiraling fossil snail shell in honey colored stone.",
+    "tags": [
+      "fossil",
+      "gastropod",
+      "spiral",
+      "stone",
+      "specimen"
+    ],
+    "filename": "015-wide-gastropod.png"
+  },
+  {
+    "id": "fossils-016-spiny-gastropod",
+    "original": "originals/fossils-016-spiny-gastropod-40998b2a272c4ed8.png",
+    "preview": "previews/fossils-016-spiny-gastropod-40998b2a272c4ed8.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Spiny gastropod",
+    "description": "A fossil-inspired museum specimen depicting a single fossil snail shell with thick blunt knobs and worn stone ridges.",
+    "tags": [
+      "fossil",
+      "gastropod",
+      "knobs",
+      "stone",
+      "specimen"
+    ],
+    "filename": "016-spiny-gastropod.png"
+  },
+  {
+    "id": "fossils-017-ribbed-bivalve",
+    "original": "originals/fossils-017-ribbed-bivalve-ef15ae522709f202.png",
+    "preview": "previews/fossils-017-ribbed-bivalve-ef15ae522709f202.webp",
+    "width": 1303,
+    "height": 1207,
+    "title": "Ribbed bivalve",
+    "description": "A fossil-inspired museum specimen depicting one fossil bivalve shell with strong radial ridges in cream limestone.",
+    "tags": [
+      "fossil",
+      "bivalve",
+      "ribs",
+      "stone",
+      "specimen"
+    ],
+    "filename": "017-ribbed-bivalve.png"
+  },
+  {
+    "id": "fossils-018-oyster-fossil",
+    "original": "originals/fossils-018-oyster-fossil-008c07d671a30368.png",
+    "preview": "previews/fossils-018-oyster-fossil-008c07d671a30368.webp",
+    "width": 1372,
+    "height": 1146,
+    "title": "Oyster fossil",
+    "description": "A fossil-inspired museum specimen depicting a thick uneven curved fossil oyster shell with layered gray brown growth bands.",
+    "tags": [
+      "fossil",
+      "oyster",
+      "shell",
+      "stone",
+      "specimen"
+    ],
+    "filename": "018-oyster-fossil.png"
+  },
+  {
+    "id": "fossils-019-scallop-fossil",
+    "original": "originals/fossils-019-scallop-fossil-3efa058feb188bf8.png",
+    "preview": "previews/fossils-019-scallop-fossil-3efa058feb188bf8.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Scallop fossil",
+    "description": "A fossil-inspired museum specimen depicting a single fan shaped scallop shell fossil with radiating ribs in pale tan stone.",
+    "tags": [
+      "fossil",
+      "scallop",
+      "fan",
+      "stone",
+      "specimen"
+    ],
+    "filename": "019-scallop-fossil.png"
+  },
+  {
+    "id": "fossils-020-brachiopod-fossil",
+    "original": "originals/fossils-020-brachiopod-fossil-c4d338313f0fa904.png",
+    "preview": "previews/fossils-020-brachiopod-fossil-c4d338313f0fa904.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Brachiopod fossil",
+    "description": "A fossil-inspired museum specimen depicting one compact heart shaped brachiopod shell fossil with deep symmetrical ribs.",
+    "tags": [
+      "fossil",
+      "brachiopod",
+      "ribs",
+      "stone",
+      "specimen"
+    ],
+    "filename": "020-brachiopod-fossil.png"
+  },
+  {
+    "id": "fossils-021-oval-trilobite",
+    "original": "originals/fossils-021-oval-trilobite-4157040eda036524.png",
+    "preview": "previews/fossils-021-oval-trilobite-4157040eda036524.webp",
+    "width": 1218,
+    "height": 1291,
+    "title": "Oval trilobite",
+    "description": "A fossil-inspired museum specimen depicting one oval trilobite fossil with rounded head and segmented body in charcoal stone.",
+    "tags": [
+      "fossil",
+      "trilobite",
+      "segments",
+      "stone",
+      "specimen"
+    ],
+    "filename": "021-oval-trilobite.png"
+  },
+  {
+    "id": "fossils-022-spiny-trilobite",
+    "original": "originals/fossils-022-spiny-trilobite-e56a189ddfddad62.png",
+    "preview": "previews/fossils-022-spiny-trilobite-e56a189ddfddad62.webp",
+    "width": 1160,
+    "height": 1356,
+    "title": "Spiny trilobite",
+    "description": "A fossil-inspired museum specimen depicting one trilobite fossil with long delicate lateral spines and a raised central axis.",
+    "tags": [
+      "fossil",
+      "trilobite",
+      "spines",
+      "stone",
+      "specimen"
+    ],
+    "filename": "022-spiny-trilobite.png"
+  },
+  {
+    "id": "fossils-023-enrolled-trilobite",
+    "original": "originals/fossils-023-enrolled-trilobite-76d3434c46ab5a0d.png",
+    "preview": "previews/fossils-023-enrolled-trilobite-76d3434c46ab5a0d.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Enrolled trilobite",
+    "description": "A fossil-inspired museum specimen depicting one trilobite fossil curled into a compact ball with visible stone segments.",
+    "tags": [
+      "fossil",
+      "trilobite",
+      "enrolled",
+      "stone",
+      "specimen"
+    ],
+    "filename": "023-enrolled-trilobite.png"
+  },
+  {
+    "id": "fossils-024-wide-head-trilobite",
+    "original": "originals/fossils-024-wide-head-trilobite-328b9ac738a9c5cf.png",
+    "preview": "previews/fossils-024-wide-head-trilobite-328b9ac738a9c5cf.webp",
+    "width": 1147,
+    "height": 1371,
+    "title": "Wide head trilobite",
+    "description": "A fossil-inspired museum specimen depicting one broad headed trilobite fossil with small eyes and a tapering segmented tail.",
+    "tags": [
+      "fossil",
+      "trilobite",
+      "head",
+      "stone",
+      "specimen"
+    ],
+    "filename": "024-wide-head-trilobite.png"
+  },
+  {
+    "id": "fossils-025-forked-horn-trilobite",
+    "original": "originals/fossils-025-forked-horn-trilobite-39f7399a8ccee51a.png",
+    "preview": "previews/fossils-025-forked-horn-trilobite-39f7399a8ccee51a.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Forked horn trilobite",
+    "description": "A fossil-inspired museum specimen depicting one trilobite fossil with a bifurcated curved head horn in dark brown stone.",
+    "tags": [
+      "fossil",
+      "trilobite",
+      "horn",
+      "stone",
+      "specimen"
+    ],
+    "filename": "025-forked-horn-trilobite.png"
+  },
+  {
+    "id": "fossils-026-long-tail-trilobite",
+    "original": "originals/fossils-026-long-tail-trilobite-bdd7c4c9696f0ee8.png",
+    "preview": "previews/fossils-026-long-tail-trilobite-bdd7c4c9696f0ee8.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Long tail trilobite",
+    "description": "A fossil-inspired museum specimen depicting one elongated trilobite fossil with a long pointed tail spine in gray stone.",
+    "tags": [
+      "fossil",
+      "trilobite",
+      "tail",
+      "stone",
+      "specimen"
+    ],
+    "filename": "026-long-tail-trilobite.png"
+  },
+  {
+    "id": "fossils-027-bristled-trilobite",
+    "original": "originals/fossils-027-bristled-trilobite-1ce2d75e1dee0d0b.png",
+    "preview": "previews/fossils-027-bristled-trilobite-1ce2d75e1dee0d0b.webp",
+    "width": 1214,
+    "height": 1295,
+    "title": "Bristled trilobite",
+    "description": "A fossil-inspired museum specimen depicting one compact trilobite fossil with a crown of fine stone spines around its head.",
+    "tags": [
+      "fossil",
+      "trilobite",
+      "spines",
+      "stone",
+      "specimen"
+    ],
+    "filename": "027-bristled-trilobite.png"
+  },
+  {
+    "id": "fossils-028-smooth-trilobite",
+    "original": "originals/fossils-028-smooth-trilobite-41f3ca23e73defc2.png",
+    "preview": "previews/fossils-028-smooth-trilobite-41f3ca23e73defc2.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Smooth trilobite",
+    "description": "A fossil-inspired museum specimen depicting one smooth domed trilobite fossil with shallow fine segments in pale ochre stone.",
+    "tags": [
+      "fossil",
+      "trilobite",
+      "smooth",
+      "stone",
+      "specimen"
+    ],
+    "filename": "028-smooth-trilobite.png"
+  },
+  {
+    "id": "fossils-029-trilobite-head-shield",
+    "original": "originals/fossils-029-trilobite-head-shield-e564b95414afd4c2.png",
+    "preview": "previews/fossils-029-trilobite-head-shield-e564b95414afd4c2.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Trilobite head shield",
+    "description": "A fossil-inspired museum specimen depicting one detached fossil trilobite head shield with prominent faceted eye bulges.",
+    "tags": [
+      "fossil",
+      "trilobite",
+      "head-shield",
+      "stone",
+      "specimen"
+    ],
+    "filename": "029-trilobite-head-shield.png"
+  },
+  {
+    "id": "fossils-030-trilobite-tail-shield",
+    "original": "originals/fossils-030-trilobite-tail-shield-27e71f26cecba7e7.png",
+    "preview": "previews/fossils-030-trilobite-tail-shield-27e71f26cecba7e7.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Trilobite tail shield",
+    "description": "A fossil-inspired museum specimen depicting one detached semicircular trilobite tail shield with radiating segment grooves.",
+    "tags": [
+      "fossil",
+      "trilobite",
+      "tail-shield",
+      "stone",
+      "specimen"
+    ],
+    "filename": "030-trilobite-tail-shield.png"
+  },
+  {
+    "id": "fossils-031-sea-scorpion-imprint",
+    "original": "originals/fossils-031-sea-scorpion-imprint-1fff4489e0083ae2.png",
+    "preview": "previews/fossils-031-sea-scorpion-imprint-1fff4489e0083ae2.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Sea scorpion fossil plates",
+    "description": "A fossil-inspired mineral specimen depicting a broken limestone specimen containing the flattened mineralized dorsal plates of one sea scorpion, an incomplete sequence of low rounded body segments with brittle missing edges and a faint tapering tail remnant; no fleshy body or drawn legs.",
+    "tags": [
+      "fossil",
+      "sea-scorpion",
+      "plates",
+      "mineralized",
+      "specimen"
+    ],
+    "filename": "031-sea-scorpion-imprint.png"
+  },
+  {
+    "id": "fossils-032-horseshoe-crab-fossil",
+    "original": "originals/fossils-032-horseshoe-crab-fossil-b22b32c180d8693a.png",
+    "preview": "previews/fossils-032-horseshoe-crab-fossil-b22b32c180d8693a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Horseshoe crab carapace fossil",
+    "description": "A fossil-inspired mineral specimen depicting one mineralized horseshoe crab carapace with a shallow cracked horseshoe shaped shield, ragged margins and a short broken tail-spine root, partially exposed from weathered fine limestone.",
+    "tags": [
+      "fossil",
+      "horseshoe-crab",
+      "carapace",
+      "mineralized",
+      "specimen"
+    ],
+    "filename": "032-horseshoe-crab-fossil.png"
+  },
+  {
+    "id": "fossils-033-fossil-shrimp",
+    "original": "originals/fossils-033-fossil-shrimp-9f28724cde2bdeb5.png",
+    "preview": "previews/fossils-033-fossil-shrimp-9f28724cde2bdeb5.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Shrimp compression fossil",
+    "description": "A fossil-inspired mineral specimen depicting one small broken fine limestone specimen containing a flattened shrimp fossil, pale granular calcified abdominal segments and fragmentary fine appendages partly obscured by limestone, incomplete antenna traces and uneven preservation.",
+    "tags": [
+      "fossil",
+      "shrimp",
+      "compression",
+      "mineralized",
+      "specimen"
+    ],
+    "filename": "033-fossil-shrimp.png"
+  },
+  {
+    "id": "fossils-034-fossil-crab",
+    "original": "originals/fossils-034-fossil-crab-0812dd23e1b58337.png",
+    "preview": "previews/fossils-034-fossil-crab-0812dd23e1b58337.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Crab carapace fossil",
+    "description": "A fossil-inspired mineral specimen depicting one small mineralized crab carapace emerging from a limestone nodule, a low worn oval shell with eroded shallow ridges and unevenly fractured margins; no complete living crab silhouette.",
+    "tags": [
+      "fossil",
+      "crab",
+      "carapace",
+      "mineralized",
+      "specimen"
+    ],
+    "filename": "034-fossil-crab.png"
+  },
+  {
+    "id": "fossils-035-fossil-lobster",
+    "original": "originals/fossils-035-fossil-lobster-36c461073c8b1213.png",
+    "preview": "previews/fossils-035-fossil-lobster-36c461073c8b1213.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Lobster claw fossil",
+    "description": "A fossil-inspired mineral specimen depicting one mineralized lobster claw with a rough partly fractured calcified surface, short broken base and closed curved pincers, naturally weathered brown limestone attached locally.",
+    "tags": [
+      "fossil",
+      "lobster",
+      "claw",
+      "mineralized",
+      "specimen"
+    ],
+    "filename": "035-fossil-lobster.png"
+  },
+  {
+    "id": "fossils-036-dragonfly-imprint",
+    "original": "originals/fossils-036-dragonfly-imprint-0a3b5188224a60b8.png",
+    "preview": "previews/fossils-036-dragonfly-imprint-0a3b5188224a60b8.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Dragonfly wing fossil",
+    "description": "A fossil-inspired mineral specimen depicting one small shale specimen bearing a single faint dragonfly wing compression fossil, delicate incomplete mineralized vein impressions under thin flaky layers, subtle brown on gray contrast and an irregular missing wing tip.",
+    "tags": [
+      "fossil",
+      "dragonfly",
+      "wing",
+      "mineralized",
+      "specimen"
+    ],
+    "filename": "036-dragonfly-imprint.png"
+  },
+  {
+    "id": "fossils-037-beetle-imprint",
+    "original": "originals/fossils-037-beetle-imprint-c97b312d404e3c08.png",
+    "preview": "previews/fossils-037-beetle-imprint-c97b312d404e3c08.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Beetle wing case fossil",
+    "description": "A fossil-inspired mineral specimen depicting one small broken shale specimen bearing a single convex mineralized beetle wing case, shallow longitudinal grooves with fractured edges and weathered granular surface; no whole living insect outline.",
+    "tags": [
+      "fossil",
+      "beetle",
+      "wing-case",
+      "mineralized",
+      "specimen"
+    ],
+    "filename": "037-beetle-imprint.png"
+  },
+  {
+    "id": "fossils-038-cockroach-imprint",
+    "original": "originals/fossils-038-cockroach-imprint-8edfc305e2bc82ea.png",
+    "preview": "previews/fossils-038-cockroach-imprint-8edfc305e2bc82ea.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Cockroach wing fossil",
+    "description": "A fossil-inspired mineral specimen depicting one thin irregular shale specimen preserving one incomplete cockroach wing compression, faint discontinuous veins in a narrow pale mineral film, patchy preservation partly hidden by shale flakes.",
+    "tags": [
+      "fossil",
+      "cockroach",
+      "wing",
+      "mineralized",
+      "specimen"
+    ],
+    "filename": "038-cockroach-imprint.png"
+  },
+  {
+    "id": "fossils-039-centipede-imprint",
+    "original": "originals/fossils-039-centipede-imprint-029e2c7e6c596605.png",
+    "preview": "previews/fossils-039-centipede-imprint-029e2c7e6c596605.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Centipede segment fossil",
+    "description": "A fossil-inspired mineral specimen depicting one small shale specimen containing a single incomplete flattened centipede body fragment, a short curved chain of mineralized segment plates and a few broken low-relief appendage traces, patchy uneven preservation.",
+    "tags": [
+      "fossil",
+      "centipede",
+      "segments",
+      "mineralized",
+      "specimen"
+    ],
+    "filename": "039-centipede-imprint.png"
+  },
+  {
+    "id": "fossils-040-spider-imprint",
+    "original": "originals/fossils-040-spider-imprint-625ec13e1bc37b95.png",
+    "preview": "previews/fossils-040-spider-imprint-625ec13e1bc37b95.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Spider compression fossil",
+    "description": "A fossil-inspired mineral specimen depicting one small broken shale specimen bearing a subtle compressed spider fossil remnant, flattened small mineralized body and only short fragmentary appendage traces under layered shale, uneven partial preservation.",
+    "tags": [
+      "fossil",
+      "spider",
+      "compression",
+      "mineralized",
+      "specimen"
+    ],
+    "filename": "040-spider-imprint.png"
+  },
+  {
+    "id": "fossils-041-triangular-shark-tooth",
+    "original": "originals/fossils-041-triangular-shark-tooth-512513c84c0e7de9.png",
+    "preview": "previews/fossils-041-triangular-shark-tooth-512513c84c0e7de9.webp",
+    "width": 1227,
+    "height": 1282,
+    "title": "Triangular shark tooth",
+    "description": "A fossil-inspired museum specimen depicting one broad triangular fossil shark tooth with serrated edges and thick brown root.",
+    "tags": [
+      "fossil",
+      "shark",
+      "tooth",
+      "stone",
+      "specimen"
+    ],
+    "filename": "041-triangular-shark-tooth.png"
+  },
+  {
+    "id": "fossils-042-narrow-shark-tooth",
+    "original": "originals/fossils-042-narrow-shark-tooth-f45b9ba8df9b679e.png",
+    "preview": "previews/fossils-042-narrow-shark-tooth-f45b9ba8df9b679e.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Narrow shark tooth",
+    "description": "A fossil-inspired museum specimen depicting one narrow pointed fossil shark tooth with curved cream crown and dark root.",
+    "tags": [
+      "fossil",
+      "shark",
+      "tooth",
+      "stone",
+      "specimen"
+    ],
+    "filename": "042-narrow-shark-tooth.png"
+  },
+  {
+    "id": "fossils-043-hooked-shark-tooth",
+    "original": "originals/fossils-043-hooked-shark-tooth-06c985e39181a0db.png",
+    "preview": "previews/fossils-043-hooked-shark-tooth-06c985e39181a0db.webp",
+    "width": 1214,
+    "height": 1295,
+    "title": "Hooked shark tooth",
+    "description": "A fossil-inspired museum specimen depicting one strongly curved fossil shark tooth with a small side cusp in dark stone.",
+    "tags": [
+      "fossil",
+      "shark",
+      "tooth",
+      "stone",
+      "specimen"
+    ],
+    "filename": "043-hooked-shark-tooth.png"
+  },
+  {
+    "id": "fossils-044-flat-ray-tooth",
+    "original": "originals/fossils-044-flat-ray-tooth-5cd10545ac5e9ab7.png",
+    "preview": "previews/fossils-044-flat-ray-tooth-5cd10545ac5e9ab7.webp",
+    "width": 1342,
+    "height": 1172,
+    "title": "Patterned fossil plate",
+    "description": "A fossil-inspired stone plate with five radiating fields of small raised mineral nodules.",
+    "tags": [
+      "fossil",
+      "plate",
+      "pattern",
+      "stone",
+      "specimen"
+    ],
+    "filename": "044-flat-ray-tooth.png"
+  },
+  {
+    "id": "fossils-045-conical-reptile-tooth",
+    "original": "originals/fossils-045-conical-reptile-tooth-9de17e20584562fb.png",
+    "preview": "previews/fossils-045-conical-reptile-tooth-9de17e20584562fb.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Conical reptile tooth",
+    "description": "A fossil-inspired museum specimen depicting one long conical fossil reptile tooth with fine longitudinal ridges and brown mineral patina.",
+    "tags": [
+      "fossil",
+      "reptile",
+      "tooth",
+      "stone",
+      "specimen"
+    ],
+    "filename": "045-conical-reptile-tooth.png"
+  },
+  {
+    "id": "fossils-046-serrated-dinosaur-tooth",
+    "original": "originals/fossils-046-serrated-dinosaur-tooth-3ecf527e1a8bdf1b.png",
+    "preview": "previews/fossils-046-serrated-dinosaur-tooth-3ecf527e1a8bdf1b.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Serrated dinosaur tooth",
+    "description": "A fossil-inspired museum specimen depicting one curved blade shaped fossil dinosaur tooth with fine serrations and black brown enamel.",
+    "tags": [
+      "fossil",
+      "dinosaur",
+      "tooth",
+      "stone",
+      "specimen"
+    ],
+    "filename": "046-serrated-dinosaur-tooth.png"
+  },
+  {
+    "id": "fossils-047-leaf-shaped-dinosaur-tooth",
+    "original": "originals/fossils-047-leaf-shaped-dinosaur-tooth-334d8e718efa303a.png",
+    "preview": "previews/fossils-047-leaf-shaped-dinosaur-tooth-334d8e718efa303a.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Leaf shaped dinosaur tooth",
+    "description": "A fossil-inspired museum specimen depicting one broad leaf shaped fossil dinosaur tooth with denticulate edges in tan mineral tones.",
+    "tags": [
+      "fossil",
+      "dinosaur",
+      "tooth",
+      "stone",
+      "specimen"
+    ],
+    "filename": "047-leaf-shaped-dinosaur-tooth.png"
+  },
+  {
+    "id": "fossils-048-rounded-crushing-tooth",
+    "original": "originals/fossils-048-rounded-crushing-tooth-560cd3cffa63a6aa.png",
+    "preview": "previews/fossils-048-rounded-crushing-tooth-560cd3cffa63a6aa.webp",
+    "width": 1372,
+    "height": 1146,
+    "title": "Rounded crushing tooth",
+    "description": "A fossil-inspired museum specimen depicting one low domed fossil tooth with worn rounded crown and mottled gray mineral surface.",
+    "tags": [
+      "fossil",
+      "tooth",
+      "crushing",
+      "stone",
+      "specimen"
+    ],
+    "filename": "048-rounded-crushing-tooth.png"
+  },
+  {
+    "id": "fossils-049-fossil-tusk-segment",
+    "original": "originals/fossils-049-fossil-tusk-segment-d36a9cada70b97c4.png",
+    "preview": "previews/fossils-049-fossil-tusk-segment-d36a9cada70b97c4.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Fossil tusk segment",
+    "description": "A fossil-inspired museum specimen depicting one curved mineralized tusk segment with warm ivory brown striations and worn ends.",
+    "tags": [
+      "fossil",
+      "tusk",
+      "segment",
+      "stone",
+      "specimen"
+    ],
+    "filename": "049-fossil-tusk-segment.png"
+  },
+  {
+    "id": "fossils-050-fossil-molar",
+    "original": "originals/fossils-050-fossil-molar-3ad79a7e2f9ca28d.png",
+    "preview": "previews/fossils-050-fossil-molar-3ad79a7e2f9ca28d.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Fossil molar",
+    "description": "A fossil-inspired museum specimen depicting one blocky fossil molar with folded enamel ridges in beige and dark brown mineral tones.",
+    "tags": [
+      "fossil",
+      "molar",
+      "tooth",
+      "stone",
+      "specimen"
+    ],
+    "filename": "050-fossil-molar.png"
+  },
+  {
+    "id": "fossils-051-fossil-vertebra",
+    "original": "originals/fossils-051-fossil-vertebra-e2d5d752ab25a867.png",
+    "preview": "previews/fossils-051-fossil-vertebra-e2d5d752ab25a867.webp",
+    "width": 1419,
+    "height": 1109,
+    "title": "Fossil vertebra",
+    "description": "A fossil-inspired museum specimen depicting one mineralized vertebra with circular centrum and intact branching processes in tan stone.",
+    "tags": [
+      "fossil",
+      "vertebra",
+      "bone",
+      "stone",
+      "specimen"
+    ],
+    "filename": "051-fossil-vertebra.png"
+  },
+  {
+    "id": "fossils-052-fish-vertebra",
+    "original": "originals/fossils-052-fish-vertebra-c6cb6a8749c5f587.png",
+    "preview": "previews/fossils-052-fish-vertebra-c6cb6a8749c5f587.webp",
+    "width": 1298,
+    "height": 1212,
+    "title": "Fish vertebra",
+    "description": "A fossil-inspired museum specimen depicting one small disk shaped fossil fish vertebra with a deeply recessed center in gray stone.",
+    "tags": [
+      "fossil",
+      "fish",
+      "vertebra",
+      "stone",
+      "specimen"
+    ],
+    "filename": "052-fish-vertebra.png"
+  },
+  {
+    "id": "fossils-053-dinosaur-claw",
+    "original": "originals/fossils-053-dinosaur-claw-c845be1ab2d27d60.png",
+    "preview": "previews/fossils-053-dinosaur-claw-c845be1ab2d27d60.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Dinosaur claw",
+    "description": "A fossil-inspired museum specimen depicting one curved fossil claw with a tapering hooked tip and dark brown mineral texture.",
+    "tags": [
+      "fossil",
+      "dinosaur",
+      "claw",
+      "stone",
+      "specimen"
+    ],
+    "filename": "053-dinosaur-claw.png"
+  },
+  {
+    "id": "fossils-054-fossil-rib",
+    "original": "originals/fossils-054-fossil-rib-10a07d22311382b5.png",
+    "preview": "previews/fossils-054-fossil-rib-10a07d22311382b5.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Fossil rib",
+    "description": "A fossil-inspired museum specimen depicting one gently arched mineralized rib bone with complete tapered outline in ochre stone.",
+    "tags": [
+      "fossil",
+      "rib",
+      "bone",
+      "stone",
+      "specimen"
+    ],
+    "filename": "054-fossil-rib.png"
+  },
+  {
+    "id": "fossils-055-fossil-finger-bone",
+    "original": "originals/fossils-055-fossil-finger-bone-9c92755715e1ab18.png",
+    "preview": "previews/fossils-055-fossil-finger-bone-9c92755715e1ab18.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Fossil finger bone",
+    "description": "A fossil-inspired museum specimen depicting one short articulated shape finger bone fossil with rounded joint ends in brown stone.",
+    "tags": [
+      "fossil",
+      "finger",
+      "bone",
+      "stone",
+      "specimen"
+    ],
+    "filename": "055-fossil-finger-bone.png"
+  },
+  {
+    "id": "fossils-056-fossil-limb-bone",
+    "original": "originals/fossils-056-fossil-limb-bone-4693ac0af61aad72.png",
+    "preview": "previews/fossils-056-fossil-limb-bone-4693ac0af61aad72.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Fossil limb bone",
+    "description": "A fossil-inspired museum specimen depicting one complete elongated fossil limb bone with enlarged joint ends in mottled tan stone.",
+    "tags": [
+      "fossil",
+      "limb",
+      "bone",
+      "stone",
+      "specimen"
+    ],
+    "filename": "056-fossil-limb-bone.png"
+  },
+  {
+    "id": "fossils-057-fossil-jaw-fragment",
+    "original": "originals/fossils-057-fossil-jaw-fragment-efe6e17987a2595e.png",
+    "preview": "previews/fossils-057-fossil-jaw-fragment-efe6e17987a2595e.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Fossil jaw fragment",
+    "description": "A fossil-inspired museum specimen depicting one mineralized jaw fragment with a short continuous row of embedded teeth in brown stone.",
+    "tags": [
+      "fossil",
+      "jaw",
+      "bone",
+      "stone",
+      "specimen"
+    ],
+    "filename": "057-fossil-jaw-fragment.png"
+  },
+  {
+    "id": "fossils-058-fossil-skull",
+    "original": "originals/fossils-058-fossil-skull-96f041f90f3c7da7.png",
+    "preview": "previews/fossils-058-fossil-skull-96f041f90f3c7da7.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Fossil skull",
+    "description": "A fossil-inspired museum specimen depicting one small mineralized reptile skull with visible eye sockets and slender snout in sandy stone.",
+    "tags": [
+      "fossil",
+      "skull",
+      "reptile",
+      "stone",
+      "specimen"
+    ],
+    "filename": "058-fossil-skull.png"
+  },
+  {
+    "id": "fossils-059-fish-skeleton-slab",
+    "original": "originals/fossils-059-fish-skeleton-slab-182ae4b54c18b265.png",
+    "preview": "previews/fossils-059-fish-skeleton-slab-182ae4b54c18b265.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Fish skeleton slab",
+    "description": "A fossil-inspired museum specimen depicting one irregular limestone slab bearing a single complete fossil fish skeleton in side view.",
+    "tags": [
+      "fossil",
+      "fish",
+      "skeleton",
+      "stone",
+      "specimen"
+    ],
+    "filename": "059-fish-skeleton-slab.png"
+  },
+  {
+    "id": "fossils-060-coiled-coprolite",
+    "original": "originals/fossils-060-coiled-coprolite-522d23041fb6fc8a.png",
+    "preview": "previews/fossils-060-coiled-coprolite-522d23041fb6fc8a.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Coiled fossil nodule",
+    "description": "A compact fossil-inspired spiral nodule with a rough weathered brown mineral surface.",
+    "tags": [
+      "fossil",
+      "nodule",
+      "spiral",
+      "stone",
+      "specimen"
+    ],
+    "filename": "060-coiled-coprolite.png"
+  },
+  {
+    "id": "fossils-061-fern-frond-imprint",
+    "original": "originals/fossils-061-fern-frond-imprint-73ee9ba56fbec2fb.png",
+    "preview": "previews/fossils-061-fern-frond-imprint-73ee9ba56fbec2fb.webp",
+    "width": 1149,
+    "height": 1369,
+    "title": "Fern frond imprint",
+    "description": "A fossil-inspired museum specimen depicting one irregular charcoal shale slab bearing a single detailed feather shaped fern frond impression.",
+    "tags": [
+      "fossil",
+      "fern",
+      "imprint",
+      "stone",
+      "specimen"
+    ],
+    "filename": "061-fern-frond-imprint.png"
+  },
+  {
+    "id": "fossils-062-ginkgo-leaf-imprint",
+    "original": "originals/fossils-062-ginkgo-leaf-imprint-fb682b64745d5e46.png",
+    "preview": "previews/fossils-062-ginkgo-leaf-imprint-fb682b64745d5e46.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Ginkgo leaf imprint",
+    "description": "A fossil-inspired museum specimen depicting one fine gray stone slab bearing a single fan shaped ginkgo leaf impression with radiating veins.",
+    "tags": [
+      "fossil",
+      "ginkgo",
+      "leaf",
+      "stone",
+      "specimen"
+    ],
+    "filename": "062-ginkgo-leaf-imprint.png"
+  },
+  {
+    "id": "fossils-063-palm-leaf-imprint",
+    "original": "originals/fossils-063-palm-leaf-imprint-cce196ac7a310920.png",
+    "preview": "previews/fossils-063-palm-leaf-imprint-cce196ac7a310920.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Palm leaf imprint",
+    "description": "A fossil-inspired museum specimen depicting one elongated sandstone slab bearing a single narrow pleated palm leaf impression.",
+    "tags": [
+      "fossil",
+      "palm",
+      "leaf",
+      "stone",
+      "specimen"
+    ],
+    "filename": "063-palm-leaf-imprint.png"
+  },
+  {
+    "id": "fossils-064-maple-leaf-imprint",
+    "original": "originals/fossils-064-maple-leaf-imprint-d0cac541d8a490be.png",
+    "preview": "previews/fossils-064-maple-leaf-imprint-d0cac541d8a490be.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Maple leaf imprint",
+    "description": "A fossil-inspired museum specimen depicting one small pale limestone slab bearing a single lobed maple leaf impression with fine veins.",
+    "tags": [
+      "fossil",
+      "maple",
+      "leaf",
+      "stone",
+      "specimen"
+    ],
+    "filename": "064-maple-leaf-imprint.png"
+  },
+  {
+    "id": "fossils-065-oak-leaf-imprint",
+    "original": "originals/fossils-065-oak-leaf-imprint-fb5bf1ed97e0fc7e.png",
+    "preview": "previews/fossils-065-oak-leaf-imprint-fb5bf1ed97e0fc7e.webp",
+    "width": 1225,
+    "height": 1284,
+    "title": "Oak leaf imprint",
+    "description": "A fossil-inspired museum specimen depicting one warm gray shale slab bearing a single rounded lobed oak leaf impression.",
+    "tags": [
+      "fossil",
+      "oak",
+      "leaf",
+      "stone",
+      "specimen"
+    ],
+    "filename": "065-oak-leaf-imprint.png"
+  },
+  {
+    "id": "fossils-066-willow-leaf-imprint",
+    "original": "originals/fossils-066-willow-leaf-imprint-0502240acf49112e.png",
+    "preview": "previews/fossils-066-willow-leaf-imprint-0502240acf49112e.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Willow leaf imprint",
+    "description": "A fossil-inspired museum specimen depicting one narrow shale slab bearing a single lance shaped willow leaf impression.",
+    "tags": [
+      "fossil",
+      "willow",
+      "leaf",
+      "stone",
+      "specimen"
+    ],
+    "filename": "066-willow-leaf-imprint.png"
+  },
+  {
+    "id": "fossils-067-poplar-leaf-imprint",
+    "original": "originals/fossils-067-poplar-leaf-imprint-5ecc4d71880254ea.png",
+    "preview": "previews/fossils-067-poplar-leaf-imprint-5ecc4d71880254ea.webp",
+    "width": 1227,
+    "height": 1282,
+    "title": "Poplar leaf imprint",
+    "description": "A fossil-inspired museum specimen depicting one thin gray limestone slab bearing a single heart shaped poplar leaf impression.",
+    "tags": [
+      "fossil",
+      "poplar",
+      "leaf",
+      "stone",
+      "specimen"
+    ],
+    "filename": "067-poplar-leaf-imprint.png"
+  },
+  {
+    "id": "fossils-068-magnolia-leaf-imprint",
+    "original": "originals/fossils-068-magnolia-leaf-imprint-c58b15cc51a85173.png",
+    "preview": "previews/fossils-068-magnolia-leaf-imprint-c58b15cc51a85173.webp",
+    "width": 1223,
+    "height": 1286,
+    "title": "Magnolia leaf imprint",
+    "description": "A fossil-inspired museum specimen depicting one tan limestone slab bearing a single broad oval magnolia leaf impression with curved veins.",
+    "tags": [
+      "fossil",
+      "magnolia",
+      "leaf",
+      "stone",
+      "specimen"
+    ],
+    "filename": "068-magnolia-leaf-imprint.png"
+  },
+  {
+    "id": "fossils-069-cycad-frond-imprint",
+    "original": "originals/fossils-069-cycad-frond-imprint-cbace30eb5c904c3.png",
+    "preview": "previews/fossils-069-cycad-frond-imprint-cbace30eb5c904c3.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Cycad frond imprint",
+    "description": "A fossil-inspired museum specimen depicting one elongated limestone slab bearing a single stiff cycad frond impression with narrow leaflets.",
+    "tags": [
+      "fossil",
+      "cycad",
+      "imprint",
+      "stone",
+      "specimen"
+    ],
+    "filename": "069-cycad-frond-imprint.png"
+  },
+  {
+    "id": "fossils-070-horsetail-stem-imprint",
+    "original": "originals/fossils-070-horsetail-stem-imprint-bd2abede2b4a2465.png",
+    "preview": "previews/fossils-070-horsetail-stem-imprint-bd2abede2b4a2465.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Horsetail stem imprint",
+    "description": "A fossil-inspired museum specimen depicting one slim gray shale slab bearing a single jointed horsetail stem fossil impression.",
+    "tags": [
+      "fossil",
+      "horsetail",
+      "stem",
+      "stone",
+      "specimen"
+    ],
+    "filename": "070-horsetail-stem-imprint.png"
+  },
+  {
+    "id": "fossils-071-bark-scale-imprint",
+    "original": "originals/fossils-071-bark-scale-imprint-c3bcd629f658ea93.png",
+    "preview": "previews/fossils-071-bark-scale-imprint-c3bcd629f658ea93.webp",
+    "width": 1222,
+    "height": 1287,
+    "title": "Bark scale imprint",
+    "description": "A fossil-inspired museum specimen depicting one brown sandstone slab bearing one fossil bark impression with repeating diamond shaped leaf scars.",
+    "tags": [
+      "fossil",
+      "bark",
+      "imprint",
+      "stone",
+      "specimen"
+    ],
+    "filename": "071-bark-scale-imprint.png"
+  },
+  {
+    "id": "fossils-072-fossil-seed",
+    "original": "originals/fossils-072-fossil-seed-2fa0abd350c82f86.png",
+    "preview": "previews/fossils-072-fossil-seed-2fa0abd350c82f86.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Fossil seed",
+    "description": "A fossil-inspired museum specimen depicting one oval mineralized seed specimen with fine longitudinal grooves in dark brown stone.",
+    "tags": [
+      "fossil",
+      "seed",
+      "plant",
+      "stone",
+      "specimen"
+    ],
+    "filename": "072-fossil-seed.png"
+  },
+  {
+    "id": "fossils-073-fossil-seed-cone",
+    "original": "originals/fossils-073-fossil-seed-cone-74902916ff929efa.png",
+    "preview": "previews/fossils-073-fossil-seed-cone-74902916ff929efa.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Fossil seed cone",
+    "description": "A fossil-inspired museum specimen depicting one compact mineralized cone with visible overlapping scales in warm gray stone.",
+    "tags": [
+      "fossil",
+      "cone",
+      "plant",
+      "stone",
+      "specimen"
+    ],
+    "filename": "073-fossil-seed-cone.png"
+  },
+  {
+    "id": "fossils-074-fossil-flower-imprint",
+    "original": "originals/fossils-074-fossil-flower-imprint-e3f954e547d7ef70.png",
+    "preview": "previews/fossils-074-fossil-flower-imprint-e3f954e547d7ef70.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Partial fossil flower",
+    "description": "A fossil-inspired shale specimen with patchy mineralized traces of a small flower.",
+    "tags": [
+      "fossil",
+      "flower",
+      "imprint",
+      "stone",
+      "specimen"
+    ],
+    "filename": "074-fossil-flower-imprint.png"
+  },
+  {
+    "id": "fossils-075-fossil-fruit",
+    "original": "originals/fossils-075-fossil-fruit-9c2f34eef26bedfd.png",
+    "preview": "previews/fossils-075-fossil-fruit-9c2f34eef26bedfd.webp",
+    "width": 1233,
+    "height": 1275,
+    "title": "Fossil fruit",
+    "description": "A fossil-inspired museum specimen depicting one rounded fossil fruit specimen with shallow ridges and a short preserved stem in tan stone.",
+    "tags": [
+      "fossil",
+      "fruit",
+      "plant",
+      "stone",
+      "specimen"
+    ],
+    "filename": "075-fossil-fruit.png"
+  },
+  {
+    "id": "fossils-076-petrified-wood-branch",
+    "original": "originals/fossils-076-petrified-wood-branch-03d6412297813a1a.png",
+    "preview": "previews/fossils-076-petrified-wood-branch-03d6412297813a1a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Petrified wood branch",
+    "description": "A fossil-inspired museum specimen depicting one short intact petrified branch with rough bark texture and mineralized rings visible at its end.",
+    "tags": [
+      "fossil",
+      "wood",
+      "branch",
+      "stone",
+      "specimen"
+    ],
+    "filename": "076-petrified-wood-branch.png"
+  },
+  {
+    "id": "fossils-077-petrified-wood-slice",
+    "original": "originals/fossils-077-petrified-wood-slice-1bb7086b718320fa.png",
+    "preview": "previews/fossils-077-petrified-wood-slice-1bb7086b718320fa.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Petrified wood slice",
+    "description": "A fossil-inspired museum specimen depicting one polished oval petrified wood cross section with red brown and cream concentric growth rings.",
+    "tags": [
+      "fossil",
+      "wood",
+      "section",
+      "stone",
+      "specimen"
+    ],
+    "filename": "077-petrified-wood-slice.png"
+  },
+  {
+    "id": "fossils-078-petrified-root",
+    "original": "originals/fossils-078-petrified-root-3ea70f9870c6e8a7.png",
+    "preview": "previews/fossils-078-petrified-root-3ea70f9870c6e8a7.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Petrified root",
+    "description": "A fossil-inspired museum specimen depicting one curved unbranched fossil root with knobby weathered mineral surface in dark brown stone.",
+    "tags": [
+      "fossil",
+      "root",
+      "plant",
+      "stone",
+      "specimen"
+    ],
+    "filename": "078-petrified-root.png"
+  },
+  {
+    "id": "fossils-079-fossil-algae-imprint",
+    "original": "originals/fossils-079-fossil-algae-imprint-469db8a8bfa193c9.png",
+    "preview": "previews/fossils-079-fossil-algae-imprint-469db8a8bfa193c9.webp",
+    "width": 1223,
+    "height": 1286,
+    "title": "Branching plant impression",
+    "description": "A fossil-inspired stone slab with a patchy branching plant impression and cracked mineral layers.",
+    "tags": [
+      "fossil",
+      "plant",
+      "impression",
+      "stone",
+      "specimen"
+    ],
+    "filename": "079-fossil-algae-imprint.png"
+  },
+  {
+    "id": "fossils-080-fossil-pine-needle-imprint",
+    "original": "originals/fossils-080-fossil-pine-needle-imprint-f26f06955a13e24f.png",
+    "preview": "previews/fossils-080-fossil-pine-needle-imprint-f26f06955a13e24f.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Fossil pine needle imprint",
+    "description": "A fossil-inspired museum specimen depicting one narrow gray limestone slab bearing a single long slender pine needle fossil impression.",
+    "tags": [
+      "fossil",
+      "pine",
+      "needle",
+      "stone",
+      "specimen"
+    ],
+    "filename": "080-fossil-pine-needle-imprint.png"
+  },
+  {
+    "id": "fossils-081-crinoid-crown-fossil",
+    "original": "originals/fossils-081-crinoid-crown-fossil-329296ec642d564a.png",
+    "preview": "previews/fossils-081-crinoid-crown-fossil-329296ec642d564a.webp",
+    "width": 1243,
+    "height": 1266,
+    "title": "Crinoid crown fossil",
+    "description": "A fossil-inspired museum specimen depicting one small limestone slab bearing a single crinoid fossil with a stem and finely branching crown.",
+    "tags": [
+      "fossil",
+      "crinoid",
+      "crown",
+      "stone",
+      "specimen"
+    ],
+    "filename": "081-crinoid-crown-fossil.png"
+  },
+  {
+    "id": "fossils-082-crinoid-stem-fossil",
+    "original": "originals/fossils-082-crinoid-stem-fossil-9e534dc86f1bd50d.png",
+    "preview": "previews/fossils-082-crinoid-stem-fossil-9e534dc86f1bd50d.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Crinoid stem fossil",
+    "description": "A fossil-inspired museum specimen depicting one continuous cylindrical crinoid stem fossil with stacked disk segments in honey brown stone.",
+    "tags": [
+      "fossil",
+      "crinoid",
+      "stem",
+      "stone",
+      "specimen"
+    ],
+    "filename": "082-crinoid-stem-fossil.png"
+  },
+  {
+    "id": "fossils-083-sea-urchin-fossil",
+    "original": "originals/fossils-083-sea-urchin-fossil-8c0f524cad24c0aa.png",
+    "preview": "previews/fossils-083-sea-urchin-fossil-8c0f524cad24c0aa.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Sea urchin fossil",
+    "description": "A fossil-inspired museum specimen depicting one domed sea urchin fossil with a fivefold petal pattern in creamy limestone.",
+    "tags": [
+      "fossil",
+      "urchin",
+      "echinoid",
+      "stone",
+      "specimen"
+    ],
+    "filename": "083-sea-urchin-fossil.png"
+  },
+  {
+    "id": "fossils-084-sand-dollar-fossil",
+    "original": "originals/fossils-084-sand-dollar-fossil-1c7fb3b3d4392dcf.png",
+    "preview": "previews/fossils-084-sand-dollar-fossil-1c7fb3b3d4392dcf.webp",
+    "width": 1306,
+    "height": 1204,
+    "title": "Sand dollar fossil",
+    "description": "A fossil-inspired museum specimen depicting one flattened round sand dollar fossil with a delicate five petal pattern in pale gray stone.",
+    "tags": [
+      "fossil",
+      "sand-dollar",
+      "echinoid",
+      "stone",
+      "specimen"
+    ],
+    "filename": "084-sand-dollar-fossil.png"
+  },
+  {
+    "id": "fossils-085-starfish-fossil",
+    "original": "originals/fossils-085-starfish-fossil-817b270a4e8d843f.png",
+    "preview": "previews/fossils-085-starfish-fossil-817b270a4e8d843f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Starfish fossil",
+    "description": "A fossil-inspired museum specimen depicting one limestone slab bearing a single five armed starfish fossil with fine plate texture.",
+    "tags": [
+      "fossil",
+      "starfish",
+      "slab",
+      "stone",
+      "specimen"
+    ],
+    "filename": "085-starfish-fossil.png"
+  },
+  {
+    "id": "fossils-086-brittle-star-fossil",
+    "original": "originals/fossils-086-brittle-star-fossil-5490ca2c566d7f04.png",
+    "preview": "previews/fossils-086-brittle-star-fossil-5490ca2c566d7f04.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Brittle star fossil",
+    "description": "A fossil-inspired museum specimen depicting one small gray slab bearing a single brittle star fossil with five thin curved arms.",
+    "tags": [
+      "fossil",
+      "brittle-star",
+      "slab",
+      "stone",
+      "specimen"
+    ],
+    "filename": "086-brittle-star-fossil.png"
+  },
+  {
+    "id": "fossils-087-horn-coral-fossil",
+    "original": "originals/fossils-087-horn-coral-fossil-2abb8d6049dee1f9.png",
+    "preview": "previews/fossils-087-horn-coral-fossil-2abb8d6049dee1f9.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Horn coral fossil",
+    "description": "A fossil-inspired museum specimen depicting one tapering curved horn coral fossil with a cup showing radial septa in tan stone.",
+    "tags": [
+      "fossil",
+      "coral",
+      "horn",
+      "stone",
+      "specimen"
+    ],
+    "filename": "087-horn-coral-fossil.png"
+  },
+  {
+    "id": "fossils-088-honeycomb-coral-fossil",
+    "original": "originals/fossils-088-honeycomb-coral-fossil-c7cda333365a6eb5.png",
+    "preview": "previews/fossils-088-honeycomb-coral-fossil-c7cda333365a6eb5.webp",
+    "width": 1363,
+    "height": 1154,
+    "title": "Honeycomb coral fossil",
+    "description": "A fossil-inspired museum specimen depicting one compact rounded fossil coral colony specimen with a continuous honeycomb surface in gray limestone.",
+    "tags": [
+      "fossil",
+      "coral",
+      "honeycomb",
+      "stone",
+      "specimen"
+    ],
+    "filename": "088-honeycomb-coral-fossil.png"
+  },
+  {
+    "id": "fossils-089-chain-coral-fossil",
+    "original": "originals/fossils-089-chain-coral-fossil-d33a4e3026f0e6ca.png",
+    "preview": "previews/fossils-089-chain-coral-fossil-d33a4e3026f0e6ca.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Chain coral fossil",
+    "description": "A fossil-inspired museum specimen depicting one polished coral fossil specimen with winding chain patterns in dark gray stone.",
+    "tags": [
+      "fossil",
+      "coral",
+      "chain",
+      "stone",
+      "specimen"
+    ],
+    "filename": "089-chain-coral-fossil.png"
+  },
+  {
+    "id": "fossils-090-branching-coral-fossil",
+    "original": "originals/fossils-090-branching-coral-fossil-9f735af3c709476a.png",
+    "preview": "previews/fossils-090-branching-coral-fossil-9f735af3c709476a.webp",
+    "width": 1358,
+    "height": 1158,
+    "title": "Branching coral fossil",
+    "description": "A fossil-inspired museum specimen depicting one connected branching coral fossil with stubby branches and a porous ochre stone surface.",
+    "tags": [
+      "fossil",
+      "coral",
+      "branching",
+      "stone",
+      "specimen"
+    ],
+    "filename": "090-branching-coral-fossil.png"
+  },
+  {
+    "id": "fossils-091-sponge-fossil",
+    "original": "originals/fossils-091-sponge-fossil-6c2f800e2a2bb1dc.png",
+    "preview": "previews/fossils-091-sponge-fossil-6c2f800e2a2bb1dc.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Sponge fossil",
+    "description": "A fossil-inspired museum specimen depicting one oval sponge fossil with a porous mesh surface in cream limestone.",
+    "tags": [
+      "fossil",
+      "sponge",
+      "porous",
+      "stone",
+      "specimen"
+    ],
+    "filename": "091-sponge-fossil.png"
+  },
+  {
+    "id": "fossils-092-bryozoan-fan-fossil",
+    "original": "originals/fossils-092-bryozoan-fan-fossil-5b98a2d9c164d0dc.png",
+    "preview": "previews/fossils-092-bryozoan-fan-fossil-5b98a2d9c164d0dc.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Bryozoan fan fossil",
+    "description": "A fossil-inspired museum specimen depicting one delicate connected fan shaped bryozoan fossil with fine netlike branches in tan stone.",
+    "tags": [
+      "fossil",
+      "bryozoan",
+      "fan",
+      "stone",
+      "specimen"
+    ],
+    "filename": "092-bryozoan-fan-fossil.png"
+  },
+  {
+    "id": "fossils-093-graptolite-imprint",
+    "original": "originals/fossils-093-graptolite-imprint-325c79a78f9f8099.png",
+    "preview": "previews/fossils-093-graptolite-imprint-325c79a78f9f8099.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Graptolite imprint",
+    "description": "A fossil-inspired museum specimen depicting one dark shale slab bearing a single forked graptolite impression with tiny sawtooth branches.",
+    "tags": [
+      "fossil",
+      "graptolite",
+      "imprint",
+      "stone",
+      "specimen"
+    ],
+    "filename": "093-graptolite-imprint.png"
+  },
+  {
+    "id": "fossils-094-stromatolite-section",
+    "original": "originals/fossils-094-stromatolite-section-0f213c18c358b958.png",
+    "preview": "previews/fossils-094-stromatolite-section-0f213c18c358b958.webp",
+    "width": 1360,
+    "height": 1156,
+    "title": "Stromatolite section",
+    "description": "A fossil-inspired museum specimen depicting one rounded polished stromatolite stone with wavy alternating brown and cream mineral bands.",
+    "tags": [
+      "fossil",
+      "stromatolite",
+      "section",
+      "stone",
+      "specimen"
+    ],
+    "filename": "094-stromatolite-section.png"
+  },
+  {
+    "id": "fossils-095-jellyfish-imprint",
+    "original": "originals/fossils-095-jellyfish-imprint-896509e7bd2a60e1.png",
+    "preview": "previews/fossils-095-jellyfish-imprint-896509e7bd2a60e1.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Radial impression fossil",
+    "description": "A fossil-inspired sandstone specimen with faint circular radial folds and uneven weathered preservation.",
+    "tags": [
+      "fossil",
+      "impression",
+      "radial",
+      "stone",
+      "specimen"
+    ],
+    "filename": "095-jellyfish-imprint.png"
+  },
+  {
+    "id": "fossils-096-dinosaur-footprint",
+    "original": "originals/fossils-096-dinosaur-footprint-c3fea17ebd4d3949.png",
+    "preview": "previews/fossils-096-dinosaur-footprint-c3fea17ebd4d3949.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Dinosaur footprint",
+    "description": "A fossil-inspired museum specimen depicting one thick irregular sandstone slab bearing a single three toed dinosaur footprint impression.",
+    "tags": [
+      "fossil",
+      "dinosaur",
+      "footprint",
+      "stone",
+      "specimen"
+    ],
+    "filename": "096-dinosaur-footprint.png"
+  },
+  {
+    "id": "fossils-097-fossil-burrow",
+    "original": "originals/fossils-097-fossil-burrow-a9cbda87f758a59d.png",
+    "preview": "previews/fossils-097-fossil-burrow-a9cbda87f758a59d.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Fossil burrow",
+    "description": "A fossil-inspired museum specimen depicting one connected branching stone cast of a fossil burrow in sandy ochre tones.",
+    "tags": [
+      "fossil",
+      "burrow",
+      "trace",
+      "stone",
+      "specimen"
+    ],
+    "filename": "097-fossil-burrow.png"
+  },
+  {
+    "id": "fossils-098-fossil-ripple-slab",
+    "original": "originals/fossils-098-fossil-ripple-slab-2083f3700b87767e.png",
+    "preview": "previews/fossils-098-fossil-ripple-slab-2083f3700b87767e.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Fossil ripple slab",
+    "description": "A fossil-inspired museum specimen depicting one small irregular sandstone slab with gently parallel fossil ripple ridges.",
+    "tags": [
+      "fossil",
+      "ripples",
+      "slab",
+      "stone",
+      "specimen"
+    ],
+    "filename": "098-fossil-ripple-slab.png"
+  },
+  {
+    "id": "fossils-099-amber-insect",
+    "original": "originals/fossils-099-amber-insect-c1caf8aafb09e085.png",
+    "preview": "previews/fossils-099-amber-insect-c1caf8aafb09e085.webp",
+    "width": 1370,
+    "height": 1148,
+    "title": "Amber insect",
+    "description": "A fossil-inspired museum specimen depicting one translucent honey amber nugget containing a single tiny dark winged insect inclusion.",
+    "tags": [
+      "fossil",
+      "amber",
+      "insect",
+      "stone",
+      "specimen"
+    ],
+    "filename": "099-amber-insect.png"
+  },
+  {
+    "id": "fossils-100-amber-leaf",
+    "original": "originals/fossils-100-amber-leaf-84e603411b38541f.png",
+    "preview": "previews/fossils-100-amber-leaf-84e603411b38541f.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Amber leaf",
+    "description": "A fossil-inspired museum specimen depicting one translucent reddish amber nugget containing a single small leaf inclusion with fine veins.",
+    "tags": [
+      "fossil",
+      "amber",
+      "leaf",
+      "stone",
+      "specimen"
+    ],
+    "filename": "100-amber-leaf.png"
+  }
+]

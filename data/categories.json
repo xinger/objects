@@ -30,5 +30,13 @@
   {
     "id": "ancient-artifacts",
     "title": "Artifacts"
+  },
+  {
+    "id": "fossils",
+    "title": "Fossils"
+  },
+  {
+    "id": "mushrooms",
+    "title": "Mushrooms"
   }
 ]
