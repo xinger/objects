@@ -15,7 +15,8 @@
       "spiral",
       "banded"
     ],
-    "filename": "001-nautilus.png"
+    "filename": "001-nautilus.png",
+    "originalBytes": 1557097
   },
   {
     "id": "shells-002-queen-conch",
@@ -33,7 +34,8 @@
       "pink",
       "flared"
     ],
-    "filename": "002-queen-conch.png"
+    "filename": "002-queen-conch.png",
+    "originalBytes": 1533849
   },
   {
     "id": "shells-003-tiger-cowrie",
@@ -51,7 +53,8 @@
       "spotted",
       "glossy"
     ],
-    "filename": "003-tiger-cowrie.png"
+    "filename": "003-tiger-cowrie.png",
+    "originalBytes": 2344809
   },
   {
     "id": "shells-004-orange-scallop",
@@ -69,7 +72,8 @@
       "orange",
       "ribbed"
     ],
-    "filename": "004-orange-scallop.png"
+    "filename": "004-orange-scallop.png",
+    "originalBytes": 2328141
   },
   {
     "id": "shells-005-abalone",
@@ -87,7 +91,8 @@
       "iridescent",
       "pearl"
     ],
-    "filename": "005-abalone.png"
+    "filename": "005-abalone.png",
+    "originalBytes": 2511022
   },
   {
     "id": "shells-006-spiny-murex",
@@ -105,7 +110,8 @@
       "spiny",
       "ivory"
     ],
-    "filename": "006-spiny-murex.png"
+    "filename": "006-spiny-murex.png",
+    "originalBytes": 1898699
   },
   {
     "id": "shells-007-turret",
@@ -123,7 +129,8 @@
       "spiral",
       "elongated"
     ],
-    "filename": "007-turret.png"
+    "filename": "007-turret.png",
+    "originalBytes": 1616072
   },
   {
     "id": "shells-008-moon-snail",
@@ -141,7 +148,8 @@
       "rounded",
       "smooth"
     ],
-    "filename": "008-moon-snail.png"
+    "filename": "008-moon-snail.png",
+    "originalBytes": 1585144
   },
   {
     "id": "shells-009-olive",
@@ -159,7 +167,8 @@
       "glossy",
       "patterned"
     ],
-    "filename": "009-olive.png"
+    "filename": "009-olive.png",
+    "originalBytes": 1867865
   },
   {
     "id": "shells-010-sundial",
@@ -177,7 +186,8 @@
       "flat",
       "spiral"
     ],
-    "filename": "010-sundial.png"
+    "filename": "010-sundial.png",
+    "originalBytes": 1835960
   },
   {
     "id": "shells-011-whelk",
@@ -195,7 +205,8 @@
       "tan",
       "ribbed"
     ],
-    "filename": "011-whelk.png"
+    "filename": "011-whelk.png",
+    "originalBytes": 1775329
   },
   {
     "id": "shells-012-lightning-whelk",
@@ -213,7 +224,8 @@
       "striped",
       "elongated"
     ],
-    "filename": "012-lightning-whelk.png"
+    "filename": "012-lightning-whelk.png",
+    "originalBytes": 1862882
   },
   {
     "id": "shells-013-cockle",
@@ -231,7 +243,8 @@
       "cream",
       "ribbed"
     ],
-    "filename": "013-cockle.png"
+    "filename": "013-cockle.png",
+    "originalBytes": 1791615
   },
   {
     "id": "shells-014-blue-mussel",
@@ -249,7 +262,8 @@
       "blue",
       "valve"
     ],
-    "filename": "014-blue-mussel.png"
+    "filename": "014-blue-mussel.png",
+    "originalBytes": 2404722
   },
   {
     "id": "shells-015-oyster",
@@ -267,7 +281,8 @@
       "rough",
       "layered"
     ],
-    "filename": "015-oyster.png"
+    "filename": "015-oyster.png",
+    "originalBytes": 2584912
   },
   {
     "id": "shells-016-razor-clam",
@@ -285,7 +300,8 @@
       "elongated",
       "golden"
     ],
-    "filename": "016-razor-clam.png"
+    "filename": "016-razor-clam.png",
+    "originalBytes": 1325980
   },
   {
     "id": "shells-017-limpet",
@@ -303,7 +319,8 @@
       "conical",
       "striped"
     ],
-    "filename": "017-limpet.png"
+    "filename": "017-limpet.png",
+    "originalBytes": 1831007
   },
   {
     "id": "shells-018-keyhole-limpet",
@@ -321,7 +338,8 @@
       "keyhole",
       "ribbed"
     ],
-    "filename": "018-keyhole-limpet.png"
+    "filename": "018-keyhole-limpet.png",
+    "originalBytes": 2366415
   },
   {
     "id": "shells-019-tusk",
@@ -339,7 +357,8 @@
       "tubular",
       "ivory"
     ],
-    "filename": "019-tusk.png"
+    "filename": "019-tusk.png",
+    "originalBytes": 1229887
   },
   {
     "id": "shells-020-paper-nautilus",
@@ -357,7 +376,8 @@
       "white",
       "delicate"
     ],
-    "filename": "020-paper-nautilus.png"
+    "filename": "020-paper-nautilus.png",
+    "originalBytes": 1290819
   },
   {
     "id": "shells-021-harp",
@@ -375,7 +395,8 @@
       "ribbed",
       "caramel"
     ],
-    "filename": "021-harp.png"
+    "filename": "021-harp.png",
+    "originalBytes": 1655570
   },
   {
     "id": "shells-022-tun",
@@ -393,7 +414,8 @@
       "rounded",
       "grooved"
     ],
-    "filename": "022-tun.png"
+    "filename": "022-tun.png",
+    "originalBytes": 1714124
   },
   {
     "id": "shells-023-frog",
@@ -411,7 +433,8 @@
       "knobby",
       "pink"
     ],
-    "filename": "023-frog.png"
+    "filename": "023-frog.png",
+    "originalBytes": 1747001
   },
   {
     "id": "shells-024-pelican-foot",
@@ -429,7 +452,8 @@
       "fingered",
       "tan"
     ],
-    "filename": "024-pelican-foot.png"
+    "filename": "024-pelican-foot.png",
+    "originalBytes": 1049910
   },
   {
     "id": "shells-025-violet-scallop",
@@ -447,7 +471,8 @@
       "violet",
       "ribbed"
     ],
-    "filename": "025-violet-scallop.png"
+    "filename": "025-violet-scallop.png",
+    "originalBytes": 2586117
   },
   {
     "id": "shells-026-venus-clam",
@@ -465,7 +490,8 @@
       "chevron",
       "grooved"
     ],
-    "filename": "026-venus-clam.png"
+    "filename": "026-venus-clam.png",
+    "originalBytes": 2460918
   },
   {
     "id": "shells-027-ark-clam",
@@ -483,7 +509,8 @@
       "brown",
       "ribbed"
     ],
-    "filename": "027-ark-clam.png"
+    "filename": "027-ark-clam.png",
+    "originalBytes": 2731544
   },
   {
     "id": "shells-028-auger",
@@ -501,7 +528,8 @@
       "pointed",
       "banded"
     ],
-    "filename": "028-auger.png"
+    "filename": "028-auger.png",
+    "originalBytes": 1529250
   },
   {
     "id": "shells-029-wentletrap",
@@ -519,7 +547,8 @@
       "white",
       "ribbed"
     ],
-    "filename": "029-wentletrap.png"
+    "filename": "029-wentletrap.png",
+    "originalBytes": 1636895
   },
   {
     "id": "shells-030-green-turban",
@@ -537,7 +566,8 @@
       "green",
       "pearl"
     ],
-    "filename": "030-green-turban.png"
+    "filename": "030-green-turban.png",
+    "originalBytes": 1799729
   },
   {
     "id": "shells-031-triton-trumpet",
@@ -555,7 +585,8 @@
       "amber",
       "chevron"
     ],
-    "filename": "031-triton-trumpet.png"
+    "filename": "031-triton-trumpet.png",
+    "originalBytes": 2069092
   },
   {
     "id": "shells-032-helmet",
@@ -573,7 +604,8 @@
       "cream",
       "knobby"
     ],
-    "filename": "032-helmet.png"
+    "filename": "032-helmet.png",
+    "originalBytes": 1554511
   },
   {
     "id": "shells-033-bonnet",
@@ -591,7 +623,8 @@
       "tan",
       "checkered"
     ],
-    "filename": "033-bonnet.png"
+    "filename": "033-bonnet.png",
+    "originalBytes": 1694854
   },
   {
     "id": "shells-034-fig",
@@ -609,7 +642,8 @@
       "pear-shaped",
       "delicate"
     ],
-    "filename": "034-fig.png"
+    "filename": "034-fig.png",
+    "originalBytes": 1976994
   },
   {
     "id": "shells-035-volute",
@@ -627,7 +661,8 @@
       "coral",
       "banded"
     ],
-    "filename": "035-volute.png"
+    "filename": "035-volute.png",
+    "originalBytes": 2009031
   },
   {
     "id": "shells-036-tulip",
@@ -645,7 +680,8 @@
       "chestnut",
       "banded"
     ],
-    "filename": "036-tulip.png"
+    "filename": "036-tulip.png",
+    "originalBytes": 1958486
   },
   {
     "id": "shells-037-spindle",
@@ -663,7 +699,8 @@
       "ivory",
       "elongated"
     ],
-    "filename": "037-spindle.png"
+    "filename": "037-spindle.png",
+    "originalBytes": 1494467
   },
   {
     "id": "shells-038-mitre",
@@ -681,7 +718,8 @@
       "orange",
       "spotted"
     ],
-    "filename": "038-mitre.png"
+    "filename": "038-mitre.png",
+    "originalBytes": 1560893
   },
   {
     "id": "shells-039-marbled-cone",
@@ -699,7 +737,8 @@
       "marbled",
       "brown"
     ],
-    "filename": "039-marbled-cone.png"
+    "filename": "039-marbled-cone.png",
+    "originalBytes": 2129930
   },
   {
     "id": "shells-040-bubble",
@@ -717,7 +756,8 @@
       "white",
       "delicate"
     ],
-    "filename": "040-bubble.png"
+    "filename": "040-bubble.png",
+    "originalBytes": 1260451
   },
   {
     "id": "shells-042-margin",
@@ -735,6 +775,7 @@
       "cream",
       "glossy"
     ],
-    "filename": "042-margin.png"
+    "filename": "042-margin.png",
+    "originalBytes": 1175430
   }
 ]

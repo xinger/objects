@@ -15,7 +15,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "001-painted-rosette.png"
+    "filename": "001-painted-rosette.png",
+    "originalBytes": 2343516
   },
   {
     "id": "byzantine-ornaments-002-painted-vine-border",
@@ -33,7 +34,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "002-painted-vine-border.png"
+    "filename": "002-painted-vine-border.png",
+    "originalBytes": 1364678
   },
   {
     "id": "byzantine-ornaments-003-painted-corner",
@@ -51,7 +53,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "003-painted-corner.png"
+    "filename": "003-painted-corner.png",
+    "originalBytes": 1048003
   },
   {
     "id": "byzantine-ornaments-004-painted-frame",
@@ -68,7 +71,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "004-painted-frame.png"
+    "filename": "004-painted-frame.png",
+    "originalBytes": 1690053
   },
   {
     "id": "byzantine-ornaments-005-painted-peacocks",
@@ -85,7 +89,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "005-painted-peacocks.png"
+    "filename": "005-painted-peacocks.png",
+    "originalBytes": 2326155
   },
   {
     "id": "byzantine-ornaments-006-ink-diamond",
@@ -103,7 +108,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "006-ink-diamond.png"
+    "filename": "006-ink-diamond.png",
+    "originalBytes": 1767127
   },
   {
     "id": "byzantine-ornaments-007-watercolor-divider",
@@ -120,7 +126,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "007-watercolor-divider.png"
+    "filename": "007-watercolor-divider.png",
+    "originalBytes": 669995
   },
   {
     "id": "byzantine-ornaments-008-painted-vertical-vine",
@@ -137,7 +144,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "008-painted-vertical-vine.png"
+    "filename": "008-painted-vertical-vine.png",
+    "originalBytes": 1612493
   },
   {
     "id": "byzantine-ornaments-009-painted-grapevine-wreath",
@@ -153,7 +161,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "009-painted-grapevine-wreath.png"
+    "filename": "009-painted-grapevine-wreath.png",
+    "originalBytes": 1705256
   },
   {
     "id": "byzantine-ornaments-010-painted-interlace",
@@ -168,7 +177,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "010-painted-interlace.png"
+    "filename": "010-painted-interlace.png",
+    "originalBytes": 2086518
   },
   {
     "id": "byzantine-ornaments-011-painted-anthemion",
@@ -183,7 +193,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "011-painted-anthemion.png"
+    "filename": "011-painted-anthemion.png",
+    "originalBytes": 1248143
   },
   {
     "id": "byzantine-ornaments-012-painted-floral-star",
@@ -198,7 +209,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "012-painted-floral-star.png"
+    "filename": "012-painted-floral-star.png",
+    "originalBytes": 1873692
   },
   {
     "id": "byzantine-ornaments-013-painted-arch",
@@ -215,7 +227,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "013-painted-arch.png"
+    "filename": "013-painted-arch.png",
+    "originalBytes": 1947357
   },
   {
     "id": "byzantine-ornaments-014-painted-roundel-pattern",
@@ -232,7 +245,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "014-painted-roundel-pattern.png"
+    "filename": "014-painted-roundel-pattern.png",
+    "originalBytes": 2770881
   },
   {
     "id": "byzantine-ornaments-015-painted-tree-of-life",
@@ -247,7 +261,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "015-painted-tree-of-life.png"
+    "filename": "015-painted-tree-of-life.png",
+    "originalBytes": 2421381
   },
   {
     "id": "byzantine-ornaments-016-painted-knot-corner",
@@ -263,7 +278,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "016-painted-knot-corner.png"
+    "filename": "016-painted-knot-corner.png",
+    "originalBytes": 1148665
   },
   {
     "id": "byzantine-ornaments-017-painted-quatrefoil",
@@ -279,7 +295,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "017-painted-quatrefoil.png"
+    "filename": "017-painted-quatrefoil.png",
+    "originalBytes": 1236185
   },
   {
     "id": "byzantine-ornaments-018-painted-rosette-chain",
@@ -297,7 +314,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "018-painted-rosette-chain.png"
+    "filename": "018-painted-rosette-chain.png",
+    "originalBytes": 846125
   },
   {
     "id": "byzantine-ornaments-019-painted-double-scroll",
@@ -314,7 +332,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "019-painted-double-scroll.png"
+    "filename": "019-painted-double-scroll.png",
+    "originalBytes": 1800779
   },
   {
     "id": "byzantine-ornaments-020-painted-triangular-corner",
@@ -330,7 +349,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "020-painted-triangular-corner.png"
+    "filename": "020-painted-triangular-corner.png",
+    "originalBytes": 1216890
   },
   {
     "id": "byzantine-ornaments-021-simple-palmette",
@@ -345,7 +365,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "021-simple-palmette.png"
+    "filename": "021-simple-palmette.png",
+    "originalBytes": 1881254
   },
   {
     "id": "byzantine-ornaments-022-simple-leaf-knot",
@@ -360,7 +381,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "022-simple-leaf-knot.png"
+    "filename": "022-simple-leaf-knot.png",
+    "originalBytes": 1300992
   },
   {
     "id": "byzantine-ornaments-023-six-petal-medallion",
@@ -376,7 +398,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "023-six-petal-medallion.png"
+    "filename": "023-six-petal-medallion.png",
+    "originalBytes": 1870965
   },
   {
     "id": "byzantine-ornaments-024-painted-pomegranate",
@@ -392,7 +415,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "024-painted-pomegranate.png"
+    "filename": "024-painted-pomegranate.png",
+    "originalBytes": 1750703
   },
   {
     "id": "byzantine-ornaments-025-painted-oval-frame",
@@ -409,7 +433,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "025-painted-oval-frame.png"
+    "filename": "025-painted-oval-frame.png",
+    "originalBytes": 1946692
   },
   {
     "id": "byzantine-ornaments-026-painted-guilloche",
@@ -424,7 +449,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "026-painted-guilloche.png"
+    "filename": "026-painted-guilloche.png",
+    "originalBytes": 867855
   },
   {
     "id": "byzantine-ornaments-027-painted-teardrop",
@@ -439,7 +465,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "027-painted-teardrop.png"
+    "filename": "027-painted-teardrop.png",
+    "originalBytes": 1544484
   },
   {
     "id": "byzantine-ornaments-028-palmette-diamond",
@@ -454,7 +481,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "028-palmette-diamond.png"
+    "filename": "028-palmette-diamond.png",
+    "originalBytes": 1446958
   },
   {
     "id": "byzantine-ornaments-029-ink-acanthus-border",
@@ -470,7 +498,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "029-ink-acanthus-border.png"
+    "filename": "029-ink-acanthus-border.png",
+    "originalBytes": 1553108
   },
   {
     "id": "byzantine-ornaments-030-ink-circular-frame",
@@ -485,7 +514,8 @@
       "vine",
       "ink"
     ],
-    "filename": "030-ink-circular-frame.png"
+    "filename": "030-ink-circular-frame.png",
+    "originalBytes": 2363946
   },
   {
     "id": "byzantine-ornaments-031-three-palmettes",
@@ -501,7 +531,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "031-three-palmettes.png"
+    "filename": "031-three-palmettes.png",
+    "originalBytes": 1501922
   },
   {
     "id": "byzantine-ornaments-032-acanthus-leaf-wreath",
@@ -518,7 +549,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "032-acanthus-leaf-wreath.png"
+    "filename": "032-acanthus-leaf-wreath.png",
+    "originalBytes": 1163695
   },
   {
     "id": "byzantine-ornaments-033-vertical-flower-chain",
@@ -535,7 +567,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "033-vertical-flower-chain.png"
+    "filename": "033-vertical-flower-chain.png",
+    "originalBytes": 1256808
   },
   {
     "id": "byzantine-ornaments-034-painted-floral-cross",
@@ -550,7 +583,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "034-painted-floral-cross.png"
+    "filename": "034-painted-floral-cross.png",
+    "originalBytes": 1542576
   },
   {
     "id": "byzantine-ornaments-035-painted-grapevine-border",
@@ -566,7 +600,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "035-painted-grapevine-border.png"
+    "filename": "035-painted-grapevine-border.png",
+    "originalBytes": 960961
   },
   {
     "id": "byzantine-ornaments-036-square-floral-motif",
@@ -583,7 +618,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "036-square-floral-motif.png"
+    "filename": "036-square-floral-motif.png",
+    "originalBytes": 1954314
   },
   {
     "id": "byzantine-ornaments-037-painted-scalloped-border",
@@ -598,7 +634,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "037-painted-scalloped-border.png"
+    "filename": "037-painted-scalloped-border.png",
+    "originalBytes": 1065463
   },
   {
     "id": "byzantine-ornaments-038-linked-flower-medallions",
@@ -615,7 +652,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "038-linked-flower-medallions.png"
+    "filename": "038-linked-flower-medallions.png",
+    "originalBytes": 1996279
   },
   {
     "id": "byzantine-ornaments-039-mirrored-acanthus",
@@ -633,7 +671,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "039-mirrored-acanthus.png"
+    "filename": "039-mirrored-acanthus.png",
+    "originalBytes": 1754059
   },
   {
     "id": "byzantine-ornaments-040-painted-octagonal-frame",
@@ -647,7 +686,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "040-painted-octagonal-frame.png"
+    "filename": "040-painted-octagonal-frame.png",
+    "originalBytes": 1287803
   },
   {
     "id": "byzantine-ornaments-041-painted-lozenge-lattice",
@@ -662,7 +702,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "041-painted-lozenge-lattice.png"
+    "filename": "041-painted-lozenge-lattice.png",
+    "originalBytes": 2114285
   },
   {
     "id": "byzantine-ornaments-042-twin-roundels",
@@ -679,7 +720,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "042-twin-roundels.png"
+    "filename": "042-twin-roundels.png",
+    "originalBytes": 1638307
   },
   {
     "id": "byzantine-ornaments-043-painted-trefoil",
@@ -694,7 +736,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "043-painted-trefoil.png"
+    "filename": "043-painted-trefoil.png",
+    "originalBytes": 1857001
   },
   {
     "id": "byzantine-ornaments-044-light-wave-vine",
@@ -710,7 +753,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "044-light-wave-vine.png"
+    "filename": "044-light-wave-vine.png",
+    "originalBytes": 634804
   },
   {
     "id": "byzantine-ornaments-045-spiral-acanthus-rosette",
@@ -726,7 +770,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "045-spiral-acanthus-rosette.png"
+    "filename": "045-spiral-acanthus-rosette.png",
+    "originalBytes": 2203204
   },
   {
     "id": "byzantine-ornaments-046-delicate-floral-corner",
@@ -741,7 +786,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "046-delicate-floral-corner.png"
+    "filename": "046-delicate-floral-corner.png",
+    "originalBytes": 695520
   },
   {
     "id": "byzantine-ornaments-047-lozenge-quatrefoil-border",
@@ -755,7 +801,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "047-lozenge-quatrefoil-border.png"
+    "filename": "047-lozenge-quatrefoil-border.png",
+    "originalBytes": 675740
   },
   {
     "id": "byzantine-ornaments-048-pencil-acanthus-rosette",
@@ -770,7 +817,8 @@
       "rosette",
       "ink"
     ],
-    "filename": "048-pencil-acanthus-rosette.png"
+    "filename": "048-pencil-acanthus-rosette.png",
+    "originalBytes": 2289407
   },
   {
     "id": "byzantine-ornaments-049-pencil-vine-border",
@@ -786,7 +834,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "049-pencil-vine-border.png"
+    "filename": "049-pencil-vine-border.png",
+    "originalBytes": 1171657
   },
   {
     "id": "byzantine-ornaments-050-pencil-floral-knot",
@@ -802,7 +851,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "050-pencil-floral-knot.png"
+    "filename": "050-pencil-floral-knot.png",
+    "originalBytes": 1799725
   },
   {
     "id": "byzantine-ornaments-051-elongated-leaf-medallion",
@@ -821,7 +871,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "051-elongated-leaf-medallion.png"
+    "filename": "051-elongated-leaf-medallion.png",
+    "originalBytes": 2268465
   },
   {
     "id": "byzantine-ornaments-052-petal-leaf-rosette",
@@ -837,7 +888,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "052-petal-leaf-rosette.png"
+    "filename": "052-petal-leaf-rosette.png",
+    "originalBytes": 2142150
   },
   {
     "id": "byzantine-ornaments-053-grapevine-divider",
@@ -852,7 +904,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "053-grapevine-divider.png"
+    "filename": "053-grapevine-divider.png",
+    "originalBytes": 1033878
   },
   {
     "id": "byzantine-ornaments-054-brushwork-diamond",
@@ -867,7 +920,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "054-brushwork-diamond.png"
+    "filename": "054-brushwork-diamond.png",
+    "originalBytes": 1290533
   },
   {
     "id": "byzantine-ornaments-055-palmette-flower-border",
@@ -884,7 +938,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "055-palmette-flower-border.png"
+    "filename": "055-palmette-flower-border.png",
+    "originalBytes": 623912
   },
   {
     "id": "byzantine-ornaments-056-birds-flowering-tree",
@@ -900,7 +955,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "056-birds-flowering-tree.png"
+    "filename": "056-birds-flowering-tree.png",
+    "originalBytes": 2574087
   },
   {
     "id": "byzantine-ornaments-057-indigo-ink-frame",
@@ -916,7 +972,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "057-indigo-ink-frame.png"
+    "filename": "057-indigo-ink-frame.png",
+    "originalBytes": 1644387
   },
   {
     "id": "byzantine-ornaments-058-pomegranate-corner",
@@ -932,7 +989,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "058-pomegranate-corner.png"
+    "filename": "058-pomegranate-corner.png",
+    "originalBytes": 1109308
   },
   {
     "id": "byzantine-ornaments-059-four-interlaced-circles",
@@ -946,7 +1004,8 @@
       "palmette",
       "ink"
     ],
-    "filename": "059-four-interlaced-circles.png"
+    "filename": "059-four-interlaced-circles.png",
+    "originalBytes": 1832586
   },
   {
     "id": "byzantine-ornaments-060-pencil-flower-spray",
@@ -962,7 +1021,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "060-pencil-flower-spray.png"
+    "filename": "060-pencil-flower-spray.png",
+    "originalBytes": 1366560
   },
   {
     "id": "byzantine-ornaments-061-delicate-floral-wreath",
@@ -978,7 +1038,8 @@
       "floral",
       "ink"
     ],
-    "filename": "061-delicate-floral-wreath.png"
+    "filename": "061-delicate-floral-wreath.png",
+    "originalBytes": 888808
   },
   {
     "id": "byzantine-ornaments-062-braided-vertical-vine",
@@ -994,7 +1055,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "062-braided-vertical-vine.png"
+    "filename": "062-braided-vertical-vine.png",
+    "originalBytes": 1389293
   },
   {
     "id": "byzantine-ornaments-063-eight-point-floral-star",
@@ -1011,7 +1073,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "063-eight-point-floral-star.png"
+    "filename": "063-eight-point-floral-star.png",
+    "originalBytes": 1993689
   },
   {
     "id": "byzantine-ornaments-064-bold-brush-palmettes",
@@ -1027,7 +1090,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "064-bold-brush-palmettes.png"
+    "filename": "064-bold-brush-palmettes.png",
+    "originalBytes": 1408266
   },
   {
     "id": "byzantine-ornaments-065-pencil-scalloped-quatrefoil",
@@ -1043,7 +1107,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "065-pencil-scalloped-quatrefoil.png"
+    "filename": "065-pencil-scalloped-quatrefoil.png",
+    "originalBytes": 2191471
   },
   {
     "id": "byzantine-ornaments-066-floral-semicircular-arch",
@@ -1061,7 +1126,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "066-floral-semicircular-arch.png"
+    "filename": "066-floral-semicircular-arch.png",
+    "originalBytes": 1730083
   },
   {
     "id": "byzantine-ornaments-067-terracotta-three-lobe-knot",
@@ -1076,7 +1142,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "067-terracotta-three-lobe-knot.png"
+    "filename": "067-terracotta-three-lobe-knot.png",
+    "originalBytes": 1530332
   },
   {
     "id": "byzantine-ornaments-068-twin-leaf-spirals",
@@ -1090,7 +1157,8 @@
       "acanthus",
       "gouache"
     ],
-    "filename": "068-twin-leaf-spirals.png"
+    "filename": "068-twin-leaf-spirals.png",
+    "originalBytes": 1689681
   },
   {
     "id": "byzantine-ornaments-069-rosette-diamond-pattern",
@@ -1106,7 +1174,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "069-rosette-diamond-pattern.png"
+    "filename": "069-rosette-diamond-pattern.png",
+    "originalBytes": 1712018
   },
   {
     "id": "byzantine-ornaments-070-nine-leaf-palmette",
@@ -1123,7 +1192,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "070-nine-leaf-palmette.png"
+    "filename": "070-nine-leaf-palmette.png",
+    "originalBytes": 2166979
   },
   {
     "id": "byzantine-ornaments-071-quatrefoil-medallion-chain",
@@ -1139,7 +1209,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "071-quatrefoil-medallion-chain.png"
+    "filename": "071-quatrefoil-medallion-chain.png",
+    "originalBytes": 1046710
   },
   {
     "id": "byzantine-ornaments-072-pomegranate-rosette",
@@ -1156,7 +1227,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "072-pomegranate-rosette.png"
+    "filename": "072-pomegranate-rosette.png",
+    "originalBytes": 1409575
   },
   {
     "id": "byzantine-ornaments-073-blue-ochre-vine",
@@ -1171,7 +1243,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "073-blue-ochre-vine.png"
+    "filename": "073-blue-ochre-vine.png",
+    "originalBytes": 1094081
   },
   {
     "id": "byzantine-ornaments-074-pencil-square-palmettes",
@@ -1185,7 +1258,8 @@
       "palmette",
       "vine"
     ],
-    "filename": "074-pencil-square-palmettes.png"
+    "filename": "074-pencil-square-palmettes.png",
+    "originalBytes": 2084733
   },
   {
     "id": "byzantine-ornaments-075-birds-vine-roundel",
@@ -1202,7 +1276,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "075-birds-vine-roundel.png"
+    "filename": "075-birds-vine-roundel.png",
+    "originalBytes": 1385786
   },
   {
     "id": "byzantine-ornaments-076-braided-flower-frame",
@@ -1213,7 +1288,8 @@
     "title": "Byzantine hand-painted rectangular ornamental frame",
     "description": "Byzantine hand-painted rectangular ornamental frame, two slim terracotta and dusty blue ribbons braided loosely around a large transparent empty center. Small simple four-petal flower at each corner, occasional sage leaves emerging from braid. Portrait rectangle with thin airy border and clean open spaces.",
     "tags": [],
-    "filename": "076-braided-flower-frame.png"
+    "filename": "076-braided-flower-frame.png",
+    "originalBytes": 1849920
   },
   {
     "id": "byzantine-ornaments-077-lily-teardrop",
@@ -1230,7 +1306,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "077-lily-teardrop.png"
+    "filename": "077-lily-teardrop.png",
+    "originalBytes": 2098588
   },
   {
     "id": "byzantine-ornaments-078-four-branch-floral-ornament",
@@ -1246,7 +1323,8 @@
       "floral",
       "ink"
     ],
-    "filename": "078-four-branch-floral-ornament.png"
+    "filename": "078-four-branch-floral-ornament.png",
+    "originalBytes": 1652001
   },
   {
     "id": "byzantine-ornaments-079-watercolor-grape-corner",
@@ -1261,7 +1339,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "079-watercolor-grape-corner.png"
+    "filename": "079-watercolor-grape-corner.png",
+    "originalBytes": 796161
   },
   {
     "id": "byzantine-ornaments-080-flowering-oval-frame",
@@ -1277,7 +1356,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "080-flowering-oval-frame.png"
+    "filename": "080-flowering-oval-frame.png",
+    "originalBytes": 1806459
   },
   {
     "id": "byzantine-ornaments-081-triangular-leaf-interlace",
@@ -1292,7 +1372,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "081-triangular-leaf-interlace.png"
+    "filename": "081-triangular-leaf-interlace.png",
+    "originalBytes": 990772
   },
   {
     "id": "byzantine-ornaments-082-rosette-tendril-divider",
@@ -1309,7 +1390,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "082-rosette-tendril-divider.png"
+    "filename": "082-rosette-tendril-divider.png",
+    "originalBytes": 531868
   },
   {
     "id": "byzantine-ornaments-083-hexagonal-leaf-medallion",
@@ -1323,7 +1405,8 @@
       "acanthus",
       "hand-drawn"
     ],
-    "filename": "083-hexagonal-leaf-medallion.png"
+    "filename": "083-hexagonal-leaf-medallion.png",
+    "originalBytes": 1717204
   },
   {
     "id": "byzantine-ornaments-084-flower-arch-border",
@@ -1341,7 +1424,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "084-flower-arch-border.png"
+    "filename": "084-flower-arch-border.png",
+    "originalBytes": 674881
   },
   {
     "id": "byzantine-ornaments-085-bold-six-petal-rosette",
@@ -1358,7 +1442,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "085-bold-six-petal-rosette.png"
+    "filename": "085-bold-six-petal-rosette.png",
+    "originalBytes": 1984608
   },
   {
     "id": "byzantine-ornaments-086-vertical-diamond-chain",
@@ -1373,7 +1458,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "086-vertical-diamond-chain.png"
+    "filename": "086-vertical-diamond-chain.png",
+    "originalBytes": 1478666
   },
   {
     "id": "byzantine-ornaments-087-hatched-four-leaf-knot",
@@ -1389,7 +1475,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "087-hatched-four-leaf-knot.png"
+    "filename": "087-hatched-four-leaf-knot.png",
+    "originalBytes": 1842978
   },
   {
     "id": "byzantine-ornaments-088-buds-palmettes-border",
@@ -1404,7 +1491,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "088-buds-palmettes-border.png"
+    "filename": "088-buds-palmettes-border.png",
+    "originalBytes": 585289
   },
   {
     "id": "byzantine-ornaments-089-crossed-acanthus-stems",
@@ -1419,7 +1507,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "089-crossed-acanthus-stems.png"
+    "filename": "089-crossed-acanthus-stems.png",
+    "originalBytes": 1549638
   },
   {
     "id": "byzantine-ornaments-090-eight-loop-circular-frame",
@@ -1433,7 +1522,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "090-eight-loop-circular-frame.png"
+    "filename": "090-eight-loop-circular-frame.png",
+    "originalBytes": 993514
   },
   {
     "id": "byzantine-ornaments-091-twin-pomegranates-palmette",
@@ -1449,7 +1539,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "091-twin-pomegranates-palmette.png"
+    "filename": "091-twin-pomegranates-palmette.png",
+    "originalBytes": 2137450
   },
   {
     "id": "byzantine-ornaments-092-floral-diamond-frame",
@@ -1464,7 +1555,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "092-floral-diamond-frame.png"
+    "filename": "092-floral-diamond-frame.png",
+    "originalBytes": 767163
   },
   {
     "id": "byzantine-ornaments-093-paired-leaves-rosette-frieze",
@@ -1479,7 +1571,8 @@
       "rosette",
       "gouache"
     ],
-    "filename": "093-paired-leaves-rosette-frieze.png"
+    "filename": "093-paired-leaves-rosette-frieze.png",
+    "originalBytes": 1002978
   },
   {
     "id": "byzantine-ornaments-094-three-fan-palmettes",
@@ -1495,7 +1588,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "094-three-fan-palmettes.png"
+    "filename": "094-three-fan-palmettes.png",
+    "originalBytes": 1717118
   },
   {
     "id": "byzantine-ornaments-095-ink-single-acanthus",
@@ -1510,7 +1604,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "095-ink-single-acanthus.png"
+    "filename": "095-ink-single-acanthus.png",
+    "originalBytes": 2269008
   },
   {
     "id": "byzantine-ornaments-096-four-birds-flower-roundel",
@@ -1526,7 +1621,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "096-four-birds-flower-roundel.png"
+    "filename": "096-four-birds-flower-roundel.png",
+    "originalBytes": 1533400
   },
   {
     "id": "byzantine-ornaments-097-vermilion-lapis-floral-border",
@@ -1541,7 +1637,8 @@
       "floral",
       "ink"
     ],
-    "filename": "097-vermilion-lapis-floral-border.png"
+    "filename": "097-vermilion-lapis-floral-border.png",
+    "originalBytes": 1097024
   },
   {
     "id": "byzantine-ornaments-098-bold-blue-leaf-corner",
@@ -1558,7 +1655,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "098-bold-blue-leaf-corner.png"
+    "filename": "098-bold-blue-leaf-corner.png",
+    "originalBytes": 1354842
   },
   {
     "id": "byzantine-ornaments-099-braided-flower-medallion",
@@ -1573,7 +1671,8 @@
       "floral",
       "gouache"
     ],
-    "filename": "099-braided-flower-medallion.png"
+    "filename": "099-braided-flower-medallion.png",
+    "originalBytes": 1718486
   },
   {
     "id": "byzantine-ornaments-100-three-flower-interlace",
@@ -1587,7 +1686,8 @@
       "acanthus",
       "gouache"
     ],
-    "filename": "100-three-flower-interlace.png"
+    "filename": "100-three-flower-interlace.png",
+    "originalBytes": 1603617
   },
   {
     "id": "byzantine-ornaments-101-open-shield-floral-motif",
@@ -1604,7 +1704,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "101-open-shield-floral-motif.png"
+    "filename": "101-open-shield-floral-motif.png",
+    "originalBytes": 1669874
   },
   {
     "id": "byzantine-ornaments-102-angular-rosette-interlace",
@@ -1619,7 +1720,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "102-angular-rosette-interlace.png"
+    "filename": "102-angular-rosette-interlace.png",
+    "originalBytes": 1232295
   },
   {
     "id": "byzantine-ornaments-103-square-acanthus-pinwheel",
@@ -1635,7 +1737,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "103-square-acanthus-pinwheel.png"
+    "filename": "103-square-acanthus-pinwheel.png",
+    "originalBytes": 2461917
   },
   {
     "id": "byzantine-ornaments-104-semicircular-floral-fan",
@@ -1651,7 +1754,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "104-semicircular-floral-fan.png"
+    "filename": "104-semicircular-floral-fan.png",
+    "originalBytes": 2555343
   },
   {
     "id": "byzantine-ornaments-105-sepia-ink-vine-flourish",
@@ -1667,7 +1771,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "105-sepia-ink-vine-flourish.png"
+    "filename": "105-sepia-ink-vine-flourish.png",
+    "originalBytes": 1232121
   },
   {
     "id": "byzantine-ornaments-106-cream-flower-quatrefoil",
@@ -1682,7 +1787,8 @@
       "rosette",
       "gouache"
     ],
-    "filename": "106-cream-flower-quatrefoil.png"
+    "filename": "106-cream-flower-quatrefoil.png",
+    "originalBytes": 1278359
   },
   {
     "id": "byzantine-ornaments-107-oval-loop-ribbon-border",
@@ -1699,7 +1805,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "107-oval-loop-ribbon-border.png"
+    "filename": "107-oval-loop-ribbon-border.png",
+    "originalBytes": 861963
   },
   {
     "id": "byzantine-ornaments-108-flowering-vine-vessel",
@@ -1717,7 +1824,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "108-flowering-vine-vessel.png"
+    "filename": "108-flowering-vine-vessel.png",
+    "originalBytes": 2398255
   },
   {
     "id": "byzantine-ornaments-109-four-petal-diamond-rosette",
@@ -1734,7 +1842,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "109-four-petal-diamond-rosette.png"
+    "filename": "109-four-petal-diamond-rosette.png",
+    "originalBytes": 1185061
   },
   {
     "id": "byzantine-ornaments-110-pencil-acanthus-wave-border",
@@ -1748,7 +1857,8 @@
       "acanthus",
       "hand-drawn"
     ],
-    "filename": "110-pencil-acanthus-wave-border.png"
+    "filename": "110-pencil-acanthus-wave-border.png",
+    "originalBytes": 1384519
   },
   {
     "id": "byzantine-ornaments-111-delicate-octagonal-frame",
@@ -1764,7 +1874,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "111-delicate-octagonal-frame.png"
+    "filename": "111-delicate-octagonal-frame.png",
+    "originalBytes": 747681
   },
   {
     "id": "byzantine-ornaments-112-palmette-twin-spirals",
@@ -1781,7 +1892,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "112-palmette-twin-spirals.png"
+    "filename": "112-palmette-twin-spirals.png",
+    "originalBytes": 1791958
   },
   {
     "id": "byzantine-ornaments-113-pencil-lozenge-flower-chain",
@@ -1794,7 +1906,8 @@
     "tags": [
       "vine"
     ],
-    "filename": "113-pencil-lozenge-flower-chain.png"
+    "filename": "113-pencil-lozenge-flower-chain.png",
+    "originalBytes": 943393
   },
   {
     "id": "byzantine-ornaments-114-eight-leaf-open-wreath",
@@ -1809,7 +1922,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "114-eight-leaf-open-wreath.png"
+    "filename": "114-eight-leaf-open-wreath.png",
+    "originalBytes": 1191922
   },
   {
     "id": "byzantine-ornaments-115-trefoil-vine-corner",
@@ -1826,7 +1940,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "115-trefoil-vine-corner.png"
+    "filename": "115-trefoil-vine-corner.png",
+    "originalBytes": 695790
   },
   {
     "id": "byzantine-ornaments-116-six-leaf-loop-rosette",
@@ -1843,7 +1958,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "116-six-leaf-loop-rosette.png"
+    "filename": "116-six-leaf-loop-rosette.png",
+    "originalBytes": 1488625
   },
   {
     "id": "byzantine-ornaments-117-triangular-flower-vines",
@@ -1860,7 +1976,8 @@
       "floral",
       "gouache"
     ],
-    "filename": "117-triangular-flower-vines.png"
+    "filename": "117-triangular-flower-vines.png",
+    "originalBytes": 1466655
   },
   {
     "id": "byzantine-ornaments-118-peacocks-vine-tails",
@@ -1876,7 +1993,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "118-peacocks-vine-tails.png"
+    "filename": "118-peacocks-vine-tails.png",
+    "originalBytes": 1658670
   },
   {
     "id": "byzantine-ornaments-119-rounded-flower-cross",
@@ -1890,7 +2008,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "119-rounded-flower-cross.png"
+    "filename": "119-rounded-flower-cross.png",
+    "originalBytes": 1906133
   },
   {
     "id": "byzantine-ornaments-120-delicate-grapevine-frame",
@@ -1904,7 +2023,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "120-delicate-grapevine-frame.png"
+    "filename": "120-delicate-grapevine-frame.png",
+    "originalBytes": 1709618
   },
   {
     "id": "byzantine-ornaments-121-four-flower-vine-knot",
@@ -1921,7 +2041,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "121-four-flower-vine-knot.png"
+    "filename": "121-four-flower-vine-knot.png",
+    "originalBytes": 1102125
   },
   {
     "id": "byzantine-ornaments-122-pomegranate-scroll-border",
@@ -1936,7 +2057,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "122-pomegranate-scroll-border.png"
+    "filename": "122-pomegranate-scroll-border.png",
+    "originalBytes": 909216
   },
   {
     "id": "byzantine-ornaments-123-pencil-quatrefoil-frame",
@@ -1951,7 +2073,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "123-pencil-quatrefoil-frame.png"
+    "filename": "123-pencil-quatrefoil-frame.png",
+    "originalBytes": 849208
   },
   {
     "id": "byzantine-ornaments-124-two-flower-oval-medallion",
@@ -1967,7 +2090,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "124-two-flower-oval-medallion.png"
+    "filename": "124-two-flower-oval-medallion.png",
+    "originalBytes": 2311692
   },
   {
     "id": "byzantine-ornaments-125-three-palmette-divider",
@@ -1985,7 +2109,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "125-three-palmette-divider.png"
+    "filename": "125-three-palmette-divider.png",
+    "originalBytes": 853827
   },
   {
     "id": "byzantine-ornaments-126-flower-diamond-vine-knot",
@@ -2001,7 +2126,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "126-flower-diamond-vine-knot.png"
+    "filename": "126-flower-diamond-vine-knot.png",
+    "originalBytes": 1373247
   },
   {
     "id": "byzantine-ornaments-127-alternating-palmette-stem",
@@ -2017,7 +2143,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "127-alternating-palmette-stem.png"
+    "filename": "127-alternating-palmette-stem.png",
+    "originalBytes": 1514659
   },
   {
     "id": "byzantine-ornaments-128-sage-ochre-leaf-rosette",
@@ -2033,7 +2160,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "128-sage-ochre-leaf-rosette.png"
+    "filename": "128-sage-ochre-leaf-rosette.png",
+    "originalBytes": 1549289
   },
   {
     "id": "byzantine-ornaments-129-hanging-trefoil-border",
@@ -2048,7 +2176,8 @@
       "watercolor",
       "gouache"
     ],
-    "filename": "129-hanging-trefoil-border.png"
+    "filename": "129-hanging-trefoil-border.png",
+    "originalBytes": 706190
   },
   {
     "id": "byzantine-ornaments-130-radial-palmette-star",
@@ -2063,7 +2192,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "130-radial-palmette-star.png"
+    "filename": "130-radial-palmette-star.png",
+    "originalBytes": 1548735
   },
   {
     "id": "byzantine-ornaments-131-small-rosette-arch",
@@ -2080,7 +2210,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "131-small-rosette-arch.png"
+    "filename": "131-small-rosette-arch.png",
+    "originalBytes": 1594599
   },
   {
     "id": "byzantine-ornaments-132-twin-almond-medallions",
@@ -2096,7 +2227,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "132-twin-almond-medallions.png"
+    "filename": "132-twin-almond-medallions.png",
+    "originalBytes": 1144747
   },
   {
     "id": "byzantine-ornaments-133-four-pomegranate-square",
@@ -2112,7 +2244,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "133-four-pomegranate-square.png"
+    "filename": "133-four-pomegranate-square.png",
+    "originalBytes": 1569504
   },
   {
     "id": "byzantine-ornaments-134-slender-spiral-oval-frame",
@@ -2128,7 +2261,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "134-slender-spiral-oval-frame.png"
+    "filename": "134-slender-spiral-oval-frame.png",
+    "originalBytes": 1523013
   },
   {
     "id": "byzantine-ornaments-135-cream-blue-hatched-rosette",
@@ -2146,7 +2280,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "135-cream-blue-hatched-rosette.png"
+    "filename": "135-cream-blue-hatched-rosette.png",
+    "originalBytes": 1565679
   },
   {
     "id": "byzantine-ornaments-136-airy-watercolor-vine-divider",
@@ -2162,7 +2297,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "136-airy-watercolor-vine-divider.png"
+    "filename": "136-airy-watercolor-vine-divider.png",
+    "originalBytes": 884165
   },
   {
     "id": "byzantine-ornaments-137-three-stem-palmette-bouquet",
@@ -2177,7 +2313,8 @@
       "watercolor",
       "ink"
     ],
-    "filename": "137-three-stem-palmette-bouquet.png"
+    "filename": "137-three-stem-palmette-bouquet.png",
+    "originalBytes": 1413682
   },
   {
     "id": "byzantine-ornaments-138-airy-cream-flower-corner",
@@ -2194,7 +2331,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "138-airy-cream-flower-corner.png"
+    "filename": "138-airy-cream-flower-corner.png",
+    "originalBytes": 931127
   },
   {
     "id": "byzantine-ornaments-139-four-almond-leaf-loops",
@@ -2208,7 +2346,8 @@
       "rosette",
       "watercolor"
     ],
-    "filename": "139-four-almond-leaf-loops.png"
+    "filename": "139-four-almond-leaf-loops.png",
+    "originalBytes": 1090252
   },
   {
     "id": "byzantine-ornaments-140-small-rosettes-leaf-border",
@@ -2225,7 +2364,8 @@
       "floral",
       "gouache"
     ],
-    "filename": "140-small-rosettes-leaf-border.png"
+    "filename": "140-small-rosettes-leaf-border.png",
+    "originalBytes": 796080
   },
   {
     "id": "byzantine-ornaments-141-open-acanthus-flower-ring",
@@ -2239,7 +2379,8 @@
       "acanthus",
       "watercolor"
     ],
-    "filename": "141-open-acanthus-flower-ring.png"
+    "filename": "141-open-acanthus-flower-ring.png",
+    "originalBytes": 1575668
   },
   {
     "id": "byzantine-ornaments-142-hatched-square-ribbon-knot",
@@ -2255,7 +2396,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "142-hatched-square-ribbon-knot.png"
+    "filename": "142-hatched-square-ribbon-knot.png",
+    "originalBytes": 1902064
   },
   {
     "id": "byzantine-ornaments-143-hatched-flower-diamond-border",
@@ -2268,7 +2410,8 @@
     "tags": [
       "watercolor"
     ],
-    "filename": "143-hatched-flower-diamond-border.png"
+    "filename": "143-hatched-flower-diamond-border.png",
+    "originalBytes": 1164604
   },
   {
     "id": "byzantine-ornaments-144-interlaced-triangle-flower-star",
@@ -2282,7 +2425,8 @@
       "watercolor",
       "ink"
     ],
-    "filename": "144-interlaced-triangle-flower-star.png"
+    "filename": "144-interlaced-triangle-flower-star.png",
+    "originalBytes": 1402806
   },
   {
     "id": "byzantine-ornaments-145-gouache-pomegranate-acanthus",
@@ -2297,7 +2441,8 @@
       "palmette",
       "gouache"
     ],
-    "filename": "145-gouache-pomegranate-acanthus.png"
+    "filename": "145-gouache-pomegranate-acanthus.png",
+    "originalBytes": 1824043
   },
   {
     "id": "byzantine-ornaments-146-gouache-eight-petal-rosette",
@@ -2314,7 +2459,8 @@
       "gouache",
       "ink"
     ],
-    "filename": "146-gouache-eight-petal-rosette.png"
+    "filename": "146-gouache-eight-petal-rosette.png",
+    "originalBytes": 2433218
   },
   {
     "id": "byzantine-ornaments-147-gouache-vertical-grapevine",
@@ -2329,7 +2475,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "147-gouache-vertical-grapevine.png"
+    "filename": "147-gouache-vertical-grapevine.png",
+    "originalBytes": 1676580
   },
   {
     "id": "byzantine-ornaments-148-gouache-scalloped-floral-frame",
@@ -2343,7 +2490,8 @@
       "acanthus",
       "gouache"
     ],
-    "filename": "148-gouache-scalloped-floral-frame.png"
+    "filename": "148-gouache-scalloped-floral-frame.png",
+    "originalBytes": 1076995
   },
   {
     "id": "byzantine-ornaments-149-small-palmette-flower-sprig",
@@ -2359,7 +2507,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "149-small-palmette-flower-sprig.png"
+    "filename": "149-small-palmette-flower-sprig.png",
+    "originalBytes": 1335017
   },
   {
     "id": "byzantine-ornaments-150-simple-four-leaf-flower",
@@ -2375,7 +2524,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "150-simple-four-leaf-flower.png"
+    "filename": "150-simple-four-leaf-flower.png",
+    "originalBytes": 1224522
   },
   {
     "id": "byzantine-ornaments-151-small-birds-cream-flower",
@@ -2390,7 +2540,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "151-small-birds-cream-flower.png"
+    "filename": "151-small-birds-cream-flower.png",
+    "originalBytes": 2171355
   },
   {
     "id": "byzantine-ornaments-152-blue-petal-diamond-rosette",
@@ -2407,7 +2558,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "152-blue-petal-diamond-rosette.png"
+    "filename": "152-blue-petal-diamond-rosette.png",
+    "originalBytes": 1282854
   },
   {
     "id": "byzantine-ornaments-153-pomegranate-palmette-frieze",
@@ -2423,7 +2575,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "153-pomegranate-palmette-frieze.png"
+    "filename": "153-pomegranate-palmette-frieze.png",
+    "originalBytes": 1169759
   },
   {
     "id": "byzantine-ornaments-154-delicate-square-rosette-frame",
@@ -2440,7 +2593,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "154-delicate-square-rosette-frame.png"
+    "filename": "154-delicate-square-rosette-frame.png",
+    "originalBytes": 987886
   },
   {
     "id": "byzantine-ornaments-155-teardrop-palmette-vines",
@@ -2456,7 +2610,8 @@
       "vine",
       "watercolor"
     ],
-    "filename": "155-teardrop-palmette-vines.png"
+    "filename": "155-teardrop-palmette-vines.png",
+    "originalBytes": 2100777
   },
   {
     "id": "byzantine-ornaments-156-rosettes-acanthus-arch",
@@ -2473,7 +2628,8 @@
       "vine",
       "hand-drawn"
     ],
-    "filename": "156-rosettes-acanthus-arch.png"
+    "filename": "156-rosettes-acanthus-arch.png",
+    "originalBytes": 1724091
   },
   {
     "id": "byzantine-ornaments-157-leafy-quatrefoil-buds",
@@ -2488,7 +2644,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "157-leafy-quatrefoil-buds.png"
+    "filename": "157-leafy-quatrefoil-buds.png",
+    "originalBytes": 1580448
   },
   {
     "id": "byzantine-ornaments-158-leafy-guilloche-border",
@@ -2504,7 +2661,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "158-leafy-guilloche-border.png"
+    "filename": "158-leafy-guilloche-border.png",
+    "originalBytes": 1030693
   },
   {
     "id": "byzantine-ornaments-159-three-leaf-spiral-roundel",
@@ -2518,7 +2676,8 @@
       "acanthus",
       "vine"
     ],
-    "filename": "159-three-leaf-spiral-roundel.png"
+    "filename": "159-three-leaf-spiral-roundel.png",
+    "originalBytes": 1898002
   },
   {
     "id": "byzantine-ornaments-160-hatched-grapevine-corner",
@@ -2532,7 +2691,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "160-hatched-grapevine-corner.png"
+    "filename": "160-hatched-grapevine-corner.png",
+    "originalBytes": 883032
   },
   {
     "id": "byzantine-ornaments-161-eight-lobed-vine-frame",
@@ -2548,7 +2708,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "161-eight-lobed-vine-frame.png"
+    "filename": "161-eight-lobed-vine-frame.png",
+    "originalBytes": 880202
   },
   {
     "id": "byzantine-ornaments-162-three-flower-acanthus-divider",
@@ -2564,7 +2725,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "162-three-flower-acanthus-divider.png"
+    "filename": "162-three-flower-acanthus-divider.png",
+    "originalBytes": 1505929
   },
   {
     "id": "byzantine-ornaments-163-four-palmette-cross",
@@ -2581,7 +2743,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "163-four-palmette-cross.png"
+    "filename": "163-four-palmette-cross.png",
+    "originalBytes": 1608814
   },
   {
     "id": "byzantine-ornaments-164-oval-flowering-stem-interlace",
@@ -2595,7 +2758,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "164-oval-flowering-stem-interlace.png"
+    "filename": "164-oval-flowering-stem-interlace.png",
+    "originalBytes": 2197352
   },
   {
     "id": "byzantine-ornaments-165-four-roundel-floral-lattice",
@@ -2611,7 +2775,8 @@
       "floral",
       "watercolor"
     ],
-    "filename": "165-four-roundel-floral-lattice.png"
+    "filename": "165-four-roundel-floral-lattice.png",
+    "originalBytes": 1673406
   },
   {
     "id": "byzantine-ornaments-166-braided-rosette-vertical-chain",
@@ -2628,7 +2793,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "166-braided-rosette-vertical-chain.png"
+    "filename": "166-braided-rosette-vertical-chain.png",
+    "originalBytes": 1367613
   },
   {
     "id": "byzantine-ornaments-167-fan-palmette-side-flowers",
@@ -2644,7 +2810,8 @@
       "watercolor",
       "gouache"
     ],
-    "filename": "167-fan-palmette-side-flowers.png"
+    "filename": "167-fan-palmette-side-flowers.png",
+    "originalBytes": 1921072
   },
   {
     "id": "byzantine-ornaments-168-sepia-acanthus-blue-rosette",
@@ -2660,7 +2827,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "168-sepia-acanthus-blue-rosette.png"
+    "filename": "168-sepia-acanthus-blue-rosette.png",
+    "originalBytes": 1485731
   },
   {
     "id": "byzantine-ornaments-169-sepia-eight-leaf-medallion",
@@ -2677,7 +2845,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "169-sepia-eight-leaf-medallion.png"
+    "filename": "169-sepia-eight-leaf-medallion.png",
+    "originalBytes": 1533120
   },
   {
     "id": "byzantine-ornaments-170-sepia-vine-blue-flower-border",
@@ -2692,7 +2861,8 @@
       "vine",
       "watercolor"
     ],
-    "filename": "170-sepia-vine-blue-flower-border.png"
+    "filename": "170-sepia-vine-blue-flower-border.png",
+    "originalBytes": 622056
   },
   {
     "id": "byzantine-ornaments-171-sepia-acanthus-corner",
@@ -2707,7 +2877,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "171-sepia-acanthus-corner.png"
+    "filename": "171-sepia-acanthus-corner.png",
+    "originalBytes": 753522
   },
   {
     "id": "byzantine-ornaments-172-sepia-blue-rosette-wreath",
@@ -2722,7 +2893,8 @@
       "rosette",
       "watercolor"
     ],
-    "filename": "172-sepia-blue-rosette-wreath.png"
+    "filename": "172-sepia-blue-rosette-wreath.png",
+    "originalBytes": 1132454
   },
   {
     "id": "byzantine-ornaments-173-sepia-diamond-floral-knot",
@@ -2737,7 +2909,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "173-sepia-diamond-floral-knot.png"
+    "filename": "173-sepia-diamond-floral-knot.png",
+    "originalBytes": 1330149
   },
   {
     "id": "byzantine-ornaments-174-sepia-fine-hatched-palmette",
@@ -2753,7 +2926,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "174-sepia-fine-hatched-palmette.png"
+    "filename": "174-sepia-fine-hatched-palmette.png",
+    "originalBytes": 2121891
   },
   {
     "id": "byzantine-ornaments-175-bold-blue-terracotta-rosette",
@@ -2769,7 +2943,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "175-bold-blue-terracotta-rosette.png"
+    "filename": "175-bold-blue-terracotta-rosette.png",
+    "originalBytes": 2208792
   },
   {
     "id": "byzantine-ornaments-176-bold-pencil-acanthus-border",
@@ -2784,7 +2959,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "176-bold-pencil-acanthus-border.png"
+    "filename": "176-bold-pencil-acanthus-border.png",
+    "originalBytes": 1193019
   },
   {
     "id": "byzantine-ornaments-177-bold-pencil-four-leaf-knot",
@@ -2799,7 +2975,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "177-bold-pencil-four-leaf-knot.png"
+    "filename": "177-bold-pencil-four-leaf-knot.png",
+    "originalBytes": 1820299
   },
   {
     "id": "byzantine-ornaments-178-pencil-three-flower-bouquet",
@@ -2816,7 +2993,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "178-pencil-three-flower-bouquet.png"
+    "filename": "178-pencil-three-flower-bouquet.png",
+    "originalBytes": 1927273
   },
   {
     "id": "byzantine-ornaments-179-three-vine-medallion-strip",
@@ -2833,7 +3011,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "179-three-vine-medallion-strip.png"
+    "filename": "179-three-vine-medallion-strip.png",
+    "originalBytes": 1636212
   },
   {
     "id": "byzantine-ornaments-180-four-pomegranate-blossom-roundel",
@@ -2848,7 +3027,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "180-four-pomegranate-blossom-roundel.png"
+    "filename": "180-four-pomegranate-blossom-roundel.png",
+    "originalBytes": 1548885
   },
   {
     "id": "byzantine-ornaments-181-delicate-vine-diamond",
@@ -2866,7 +3046,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "181-delicate-vine-diamond.png"
+    "filename": "181-delicate-vine-diamond.png",
+    "originalBytes": 977962
   },
   {
     "id": "byzantine-ornaments-182-cream-flowers-wave-vine",
@@ -2882,7 +3063,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "182-cream-flowers-wave-vine.png"
+    "filename": "182-cream-flowers-wave-vine.png",
+    "originalBytes": 1345164
   },
   {
     "id": "byzantine-ornaments-183-triangular-acanthus-ribbon-knot",
@@ -2899,7 +3081,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "183-triangular-acanthus-ribbon-knot.png"
+    "filename": "183-triangular-acanthus-ribbon-knot.png",
+    "originalBytes": 1318073
   },
   {
     "id": "byzantine-ornaments-184-twin-blue-acanthus-rosette",
@@ -2915,7 +3098,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "184-twin-blue-acanthus-rosette.png"
+    "filename": "184-twin-blue-acanthus-rosette.png",
+    "originalBytes": 1937483
   },
   {
     "id": "byzantine-ornaments-185-cream-leaf-blue-palmette-star",
@@ -2933,7 +3117,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "185-cream-leaf-blue-palmette-star.png"
+    "filename": "185-cream-leaf-blue-palmette-star.png",
+    "originalBytes": 1585861
   },
   {
     "id": "byzantine-ornaments-186-peacock-acanthus-tail",
@@ -2949,7 +3134,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "186-peacock-acanthus-tail.png"
+    "filename": "186-peacock-acanthus-tail.png",
+    "originalBytes": 2570964
   },
   {
     "id": "byzantine-ornaments-187-crossed-vines-pomegranate-flower",
@@ -2964,7 +3150,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "187-crossed-vines-pomegranate-flower.png"
+    "filename": "187-crossed-vines-pomegranate-flower.png",
+    "originalBytes": 2411094
   },
   {
     "id": "byzantine-ornaments-188-rosette-lozenge-vine-border",
@@ -2983,7 +3170,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "188-rosette-lozenge-vine-border.png"
+    "filename": "188-rosette-lozenge-vine-border.png",
+    "originalBytes": 844438
   },
   {
     "id": "byzantine-ornaments-189-six-loop-bud-rosette",
@@ -2999,7 +3187,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "189-six-loop-bud-rosette.png"
+    "filename": "189-six-loop-bud-rosette.png",
+    "originalBytes": 1636875
   },
   {
     "id": "byzantine-ornaments-190-delicate-oval-grapevine-frame",
@@ -3013,7 +3202,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "190-delicate-oval-grapevine-frame.png"
+    "filename": "190-delicate-oval-grapevine-frame.png",
+    "originalBytes": 869411
   },
   {
     "id": "byzantine-ornaments-191-four-loop-flower-ribbon-knot",
@@ -3028,7 +3218,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "191-four-loop-flower-ribbon-knot.png"
+    "filename": "191-four-loop-flower-ribbon-knot.png",
+    "originalBytes": 1866817
   },
   {
     "id": "byzantine-ornaments-192-slender-bud-leaf-garland",
@@ -3045,7 +3236,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "192-slender-bud-leaf-garland.png"
+    "filename": "192-slender-bud-leaf-garland.png",
+    "originalBytes": 510134
   },
   {
     "id": "byzantine-ornaments-193-pomegranate-bud-blue-leaves",
@@ -3061,7 +3253,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "193-pomegranate-bud-blue-leaves.png"
+    "filename": "193-pomegranate-bud-blue-leaves.png",
+    "originalBytes": 1641668
   },
   {
     "id": "byzantine-ornaments-194-interlaced-ribbon-square-frame",
@@ -3077,7 +3270,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "194-interlaced-ribbon-square-frame.png"
+    "filename": "194-interlaced-ribbon-square-frame.png",
+    "originalBytes": 1133021
   },
   {
     "id": "byzantine-ornaments-195-cream-rosette-blue-leaf-pairs",
@@ -3093,7 +3287,8 @@
       "floral",
       "watercolor"
     ],
-    "filename": "195-cream-rosette-blue-leaf-pairs.png"
+    "filename": "195-cream-rosette-blue-leaf-pairs.png",
+    "originalBytes": 1868202
   },
   {
     "id": "byzantine-ornaments-196-paired-fan-palmette-divider",
@@ -3111,7 +3306,8 @@
       "gouache",
       "hand-drawn"
     ],
-    "filename": "196-paired-fan-palmette-divider.png"
+    "filename": "196-paired-fan-palmette-divider.png",
+    "originalBytes": 1537537
   },
   {
     "id": "byzantine-ornaments-197-four-rosette-square-vines",
@@ -3128,7 +3324,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "197-four-rosette-square-vines.png"
+    "filename": "197-four-rosette-square-vines.png",
+    "originalBytes": 2095061
   },
   {
     "id": "byzantine-ornaments-198-interlaced-ribbon-leaf-arch",
@@ -3145,7 +3342,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "198-interlaced-ribbon-leaf-arch.png"
+    "filename": "198-interlaced-ribbon-leaf-arch.png",
+    "originalBytes": 1603696
   },
   {
     "id": "byzantine-ornaments-199-terracotta-bud-floral-diamond",
@@ -3162,7 +3360,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "199-terracotta-bud-floral-diamond.png"
+    "filename": "199-terracotta-bud-floral-diamond.png",
+    "originalBytes": 1382856
   },
   {
     "id": "byzantine-ornaments-200-four-birds-acanthus-roundel",
@@ -3178,7 +3377,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "200-four-birds-acanthus-roundel.png"
+    "filename": "200-four-birds-acanthus-roundel.png",
+    "originalBytes": 1892119
   },
   {
     "id": "byzantine-ornaments-201-pale-watercolor-petal-rosette",
@@ -3195,7 +3395,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "201-pale-watercolor-petal-rosette.png"
+    "filename": "201-pale-watercolor-petal-rosette.png",
+    "originalBytes": 1627878
   },
   {
     "id": "byzantine-ornaments-202-pale-blue-flower-vine-border",
@@ -3213,7 +3414,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "202-pale-blue-flower-vine-border.png"
+    "filename": "202-pale-blue-flower-vine-border.png",
+    "originalBytes": 650830
   },
   {
     "id": "byzantine-ornaments-203-pale-watercolor-floral-corner",
@@ -3230,7 +3432,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "203-pale-watercolor-floral-corner.png"
+    "filename": "203-pale-watercolor-floral-corner.png",
+    "originalBytes": 757261
   },
   {
     "id": "byzantine-ornaments-204-pale-leaf-loop-medallion",
@@ -3245,7 +3448,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "204-pale-leaf-loop-medallion.png"
+    "filename": "204-pale-leaf-loop-medallion.png",
+    "originalBytes": 991369
   },
   {
     "id": "byzantine-ornaments-205-pale-three-flower-vertical-vine",
@@ -3262,7 +3466,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "205-pale-three-flower-vertical-vine.png"
+    "filename": "205-pale-three-flower-vertical-vine.png",
+    "originalBytes": 1308015
   },
   {
     "id": "byzantine-ornaments-206-pale-blue-cream-palmette",
@@ -3279,7 +3484,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "206-pale-blue-cream-palmette.png"
+    "filename": "206-pale-blue-cream-palmette.png",
+    "originalBytes": 2094573
   },
   {
     "id": "byzantine-ornaments-207-pale-six-flower-wreath-frame",
@@ -3295,7 +3501,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "207-pale-six-flower-wreath-frame.png"
+    "filename": "207-pale-six-flower-wreath-frame.png",
+    "originalBytes": 813426
   },
   {
     "id": "byzantine-ornaments-208-pale-mirrored-leaf-flourish",
@@ -3311,7 +3518,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "208-pale-mirrored-leaf-flourish.png"
+    "filename": "208-pale-mirrored-leaf-flourish.png",
+    "originalBytes": 2223700
   },
   {
     "id": "byzantine-ornaments-209-pale-eight-petal-tendril-rosette",
@@ -3328,7 +3536,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "209-pale-eight-petal-tendril-rosette.png"
+    "filename": "209-pale-eight-petal-tendril-rosette.png",
+    "originalBytes": 1640845
   },
   {
     "id": "byzantine-ornaments-210-pale-three-palmette-divider",
@@ -3344,7 +3553,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "210-pale-three-palmette-divider.png"
+    "filename": "210-pale-three-palmette-divider.png",
+    "originalBytes": 1000186
   },
   {
     "id": "byzantine-ornaments-211-pale-quatrefoil-vine-frame",
@@ -3360,7 +3570,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "211-pale-quatrefoil-vine-frame.png"
+    "filename": "211-pale-quatrefoil-vine-frame.png",
+    "originalBytes": 856151
   },
   {
     "id": "byzantine-ornaments-212-pale-three-leaf-spirals",
@@ -3376,7 +3587,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "212-pale-three-leaf-spirals.png"
+    "filename": "212-pale-three-leaf-spirals.png",
+    "originalBytes": 1487651
   },
   {
     "id": "byzantine-ornaments-213-pale-flower-arch-border",
@@ -3392,7 +3604,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "213-pale-flower-arch-border.png"
+    "filename": "213-pale-flower-arch-border.png",
+    "originalBytes": 1447463
   },
   {
     "id": "byzantine-ornaments-214-pale-birds-palmette-flower",
@@ -3408,7 +3621,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "214-pale-birds-palmette-flower.png"
+    "filename": "214-pale-birds-palmette-flower.png",
+    "originalBytes": 856143
   },
   {
     "id": "byzantine-ornaments-215-pale-diamond-flower-frame",
@@ -3424,7 +3638,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "215-pale-diamond-flower-frame.png"
+    "filename": "215-pale-diamond-flower-frame.png",
+    "originalBytes": 701234
   },
   {
     "id": "byzantine-ornaments-216-pale-twin-palmette-medallion",
@@ -3440,7 +3655,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "216-pale-twin-palmette-medallion.png"
+    "filename": "216-pale-twin-palmette-medallion.png",
+    "originalBytes": 1974821
   },
   {
     "id": "byzantine-ornaments-217-pale-cream-acanthus-rosette",
@@ -3456,7 +3672,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "217-pale-cream-acanthus-rosette.png"
+    "filename": "217-pale-cream-acanthus-rosette.png",
+    "originalBytes": 1706689
   },
   {
     "id": "byzantine-ornaments-218-pale-braided-flower-vines",
@@ -3472,7 +3689,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "218-pale-braided-flower-vines.png"
+    "filename": "218-pale-braided-flower-vines.png",
+    "originalBytes": 1284991
   },
   {
     "id": "byzantine-ornaments-219-pale-almond-lily-palmette",
@@ -3489,7 +3707,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "219-pale-almond-lily-palmette.png"
+    "filename": "219-pale-almond-lily-palmette.png",
+    "originalBytes": 2181012
   },
   {
     "id": "byzantine-ornaments-220-pale-acanthus-flower-corner",
@@ -3504,7 +3723,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "220-pale-acanthus-flower-corner.png"
+    "filename": "220-pale-acanthus-flower-corner.png",
+    "originalBytes": 1124295
   },
   {
     "id": "byzantine-ornaments-221-pale-square-ribbon-flower-knot",
@@ -3518,7 +3738,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "221-pale-square-ribbon-flower-knot.png"
+    "filename": "221-pale-square-ribbon-flower-knot.png",
+    "originalBytes": 1640509
   },
   {
     "id": "byzantine-ornaments-222-pale-grapevine-circular-frame",
@@ -3534,7 +3755,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "222-pale-grapevine-circular-frame.png"
+    "filename": "222-pale-grapevine-circular-frame.png",
+    "originalBytes": 1209453
   },
   {
     "id": "byzantine-ornaments-223-pale-triangular-palmettes",
@@ -3551,7 +3773,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "223-pale-triangular-palmettes.png"
+    "filename": "223-pale-triangular-palmettes.png",
+    "originalBytes": 1101784
   },
   {
     "id": "byzantine-ornaments-224-pale-rosette-almond-border",
@@ -3567,7 +3790,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "224-pale-rosette-almond-border.png"
+    "filename": "224-pale-rosette-almond-border.png",
+    "originalBytes": 733993
   },
   {
     "id": "byzantine-ornaments-225-pale-four-palmette-roundel",
@@ -3583,7 +3807,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "225-pale-four-palmette-roundel.png"
+    "filename": "225-pale-four-palmette-roundel.png",
+    "originalBytes": 1342396
   },
   {
     "id": "byzantine-ornaments-226-sepia-blue-acanthus-sprig",
@@ -3601,7 +3826,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "226-sepia-blue-acanthus-sprig.png"
+    "filename": "226-sepia-blue-acanthus-sprig.png",
+    "originalBytes": 2076719
   },
   {
     "id": "byzantine-ornaments-227-sepia-blue-six-leaf-ring",
@@ -3617,7 +3843,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "227-sepia-blue-six-leaf-ring.png"
+    "filename": "227-sepia-blue-six-leaf-ring.png",
+    "originalBytes": 1732445
   },
   {
     "id": "byzantine-ornaments-228-sepia-blue-acanthus-lozenge",
@@ -3633,7 +3860,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "228-sepia-blue-acanthus-lozenge.png"
+    "filename": "228-sepia-blue-acanthus-lozenge.png",
+    "originalBytes": 1060286
   },
   {
     "id": "byzantine-ornaments-229-sepia-blue-scroll-divider",
@@ -3650,7 +3878,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "229-sepia-blue-scroll-divider.png"
+    "filename": "229-sepia-blue-scroll-divider.png",
+    "originalBytes": 1221174
   },
   {
     "id": "byzantine-ornaments-230-sepia-blue-acanthus-arch",
@@ -3667,7 +3896,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "230-sepia-blue-acanthus-arch.png"
+    "filename": "230-sepia-blue-acanthus-arch.png",
+    "originalBytes": 1966829
   },
   {
     "id": "byzantine-ornaments-231-sepia-blue-pointed-rosette",
@@ -3684,7 +3914,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "231-sepia-blue-pointed-rosette.png"
+    "filename": "231-sepia-blue-pointed-rosette.png",
+    "originalBytes": 1541801
   },
   {
     "id": "byzantine-ornaments-232-sepia-blue-birds-vine-flourish",
@@ -3701,7 +3932,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "232-sepia-blue-birds-vine-flourish.png"
+    "filename": "232-sepia-blue-birds-vine-flourish.png",
+    "originalBytes": 1391759
   },
   {
     "id": "byzantine-ornaments-233-sepia-blue-quatrefoil-frame",
@@ -3718,7 +3950,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "233-sepia-blue-quatrefoil-frame.png"
+    "filename": "233-sepia-blue-quatrefoil-frame.png",
+    "originalBytes": 1117136
   },
   {
     "id": "byzantine-ornaments-234-terracotta-sage-brush-rosette",
@@ -3732,7 +3965,8 @@
       "acanthus",
       "gouache"
     ],
-    "filename": "234-terracotta-sage-brush-rosette.png"
+    "filename": "234-terracotta-sage-brush-rosette.png",
+    "originalBytes": 2090083
   },
   {
     "id": "byzantine-ornaments-235-terracotta-sage-pomegranate-border",
@@ -3747,7 +3981,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "235-terracotta-sage-pomegranate-border.png"
+    "filename": "235-terracotta-sage-pomegranate-border.png",
+    "originalBytes": 1065877
   },
   {
     "id": "byzantine-ornaments-236-terracotta-sage-brush-corner",
@@ -3762,7 +3997,8 @@
       "palmette",
       "gouache"
     ],
-    "filename": "236-terracotta-sage-brush-corner.png"
+    "filename": "236-terracotta-sage-brush-corner.png",
+    "originalBytes": 1396251
   },
   {
     "id": "byzantine-ornaments-237-terracotta-sage-oval-flowers",
@@ -3776,7 +4012,8 @@
       "acanthus",
       "gouache"
     ],
-    "filename": "237-terracotta-sage-oval-flowers.png"
+    "filename": "237-terracotta-sage-oval-flowers.png",
+    "originalBytes": 2568925
   },
   {
     "id": "byzantine-ornaments-238-terracotta-cream-brush-knot",
@@ -3790,7 +4027,8 @@
       "acanthus",
       "gouache"
     ],
-    "filename": "238-terracotta-cream-brush-knot.png"
+    "filename": "238-terracotta-cream-brush-knot.png",
+    "originalBytes": 1939246
   },
   {
     "id": "byzantine-ornaments-239-terracotta-cream-fan-palmette",
@@ -3805,7 +4043,8 @@
       "palmette",
       "gouache"
     ],
-    "filename": "239-terracotta-cream-fan-palmette.png"
+    "filename": "239-terracotta-cream-fan-palmette.png",
+    "originalBytes": 2176517
   },
   {
     "id": "byzantine-ornaments-240-terracotta-sage-square-frame",
@@ -3821,7 +4060,8 @@
       "floral",
       "gouache"
     ],
-    "filename": "240-terracotta-sage-square-frame.png"
+    "filename": "240-terracotta-sage-square-frame.png",
+    "originalBytes": 1294469
   },
   {
     "id": "byzantine-ornaments-241-terracotta-sage-vertical-palmettes",
@@ -3835,7 +4075,8 @@
       "palmette",
       "gouache"
     ],
-    "filename": "241-terracotta-sage-vertical-palmettes.png"
+    "filename": "241-terracotta-sage-vertical-palmettes.png",
+    "originalBytes": 1663468
   },
   {
     "id": "byzantine-ornaments-242-terracotta-sage-leaf-pinwheel",
@@ -3850,7 +4091,8 @@
       "rosette",
       "gouache"
     ],
-    "filename": "242-terracotta-sage-leaf-pinwheel.png"
+    "filename": "242-terracotta-sage-leaf-pinwheel.png",
+    "originalBytes": 1898706
   },
   {
     "id": "byzantine-ornaments-243-cream-terracotta-brush-garland",
@@ -3865,7 +4107,8 @@
       "floral",
       "gouache"
     ],
-    "filename": "243-cream-terracotta-brush-garland.png"
+    "filename": "243-cream-terracotta-brush-garland.png",
+    "originalBytes": 733131
   },
   {
     "id": "byzantine-ornaments-244-cream-terracotta-floral-diamond",
@@ -3880,7 +4123,8 @@
       "floral",
       "gouache"
     ],
-    "filename": "244-cream-terracotta-floral-diamond.png"
+    "filename": "244-cream-terracotta-floral-diamond.png",
+    "originalBytes": 1411862
   },
   {
     "id": "byzantine-ornaments-245-terracotta-sage-bud-wreath",
@@ -3895,7 +4139,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "245-terracotta-sage-bud-wreath.png"
+    "filename": "245-terracotta-sage-bud-wreath.png",
+    "originalBytes": 1189988
   },
   {
     "id": "byzantine-ornaments-246-terracotta-twin-pomegranates",
@@ -3910,7 +4155,8 @@
       "palmette",
       "gouache"
     ],
-    "filename": "246-terracotta-twin-pomegranates.png"
+    "filename": "246-terracotta-twin-pomegranates.png",
+    "originalBytes": 1428794
   },
   {
     "id": "byzantine-ornaments-247-sage-terracotta-triangular-vines",
@@ -3925,7 +4171,8 @@
       "palmette",
       "gouache"
     ],
-    "filename": "247-sage-terracotta-triangular-vines.png"
+    "filename": "247-sage-terracotta-triangular-vines.png",
+    "originalBytes": 1830556
   },
   {
     "id": "byzantine-ornaments-248-cream-palmette-terracotta-divider",
@@ -3941,7 +4188,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "248-cream-palmette-terracotta-divider.png"
+    "filename": "248-cream-palmette-terracotta-divider.png",
+    "originalBytes": 1118151
   },
   {
     "id": "byzantine-ornaments-249-terracotta-sage-bird-roundel",
@@ -3957,7 +4205,8 @@
       "vine",
       "gouache"
     ],
-    "filename": "249-terracotta-sage-bird-roundel.png"
+    "filename": "249-terracotta-sage-bird-roundel.png",
+    "originalBytes": 1771995
   },
   {
     "id": "byzantine-ornaments-250-terracotta-cream-eight-petal-rosette",
@@ -3971,7 +4220,8 @@
       "rosette",
       "gouache"
     ],
-    "filename": "250-terracotta-cream-eight-petal-rosette.png"
+    "filename": "250-terracotta-cream-eight-petal-rosette.png",
+    "originalBytes": 1842093
   },
   {
     "id": "byzantine-ornaments-251-blue-ochre-hatched-acanthus",
@@ -3987,7 +4237,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "251-blue-ochre-hatched-acanthus.png"
+    "filename": "251-blue-ochre-hatched-acanthus.png",
+    "originalBytes": 1311560
   },
   {
     "id": "byzantine-ornaments-252-blue-ochre-braided-border",
@@ -4004,7 +4255,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "252-blue-ochre-braided-border.png"
+    "filename": "252-blue-ochre-braided-border.png",
+    "originalBytes": 1056585
   },
   {
     "id": "byzantine-ornaments-253-blue-ochre-almond-loop-knot",
@@ -4020,7 +4272,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "253-blue-ochre-almond-loop-knot.png"
+    "filename": "253-blue-ochre-almond-loop-knot.png",
+    "originalBytes": 1049053
   },
   {
     "id": "byzantine-ornaments-254-blue-ochre-floral-corner",
@@ -4038,7 +4291,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "254-blue-ochre-floral-corner.png"
+    "filename": "254-blue-ochre-floral-corner.png",
+    "originalBytes": 888808
   },
   {
     "id": "byzantine-ornaments-255-blue-ochre-oval-frame",
@@ -4055,7 +4309,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "255-blue-ochre-oval-frame.png"
+    "filename": "255-blue-ochre-oval-frame.png",
+    "originalBytes": 1777230
   },
   {
     "id": "byzantine-ornaments-256-blue-ochre-palmette-bouquet",
@@ -4071,7 +4326,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "256-blue-ochre-palmette-bouquet.png"
+    "filename": "256-blue-ochre-palmette-bouquet.png",
+    "originalBytes": 2101613
   },
   {
     "id": "byzantine-ornaments-257-blue-ochre-ribbon-star",
@@ -4086,7 +4342,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "257-blue-ochre-ribbon-star.png"
+    "filename": "257-blue-ochre-ribbon-star.png",
+    "originalBytes": 1226718
   },
   {
     "id": "byzantine-ornaments-258-blue-ochre-vertical-floral-chain",
@@ -4103,7 +4360,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "258-blue-ochre-vertical-floral-chain.png"
+    "filename": "258-blue-ochre-vertical-floral-chain.png",
+    "originalBytes": 1383625
   },
   {
     "id": "byzantine-ornaments-259-blue-ochre-three-palmette-fan",
@@ -4119,7 +4377,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "259-blue-ochre-three-palmette-fan.png"
+    "filename": "259-blue-ochre-three-palmette-fan.png",
+    "originalBytes": 2150309
   },
   {
     "id": "byzantine-ornaments-260-blue-ochre-leaf-roundel",
@@ -4133,7 +4392,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "260-blue-ochre-leaf-roundel.png"
+    "filename": "260-blue-ochre-leaf-roundel.png",
+    "originalBytes": 2112158
   },
   {
     "id": "byzantine-ornaments-261-blue-ochre-scroll-divider",
@@ -4150,7 +4410,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "261-blue-ochre-scroll-divider.png"
+    "filename": "261-blue-ochre-scroll-divider.png",
+    "originalBytes": 1030162
   },
   {
     "id": "byzantine-ornaments-262-blue-ochre-diamond-frame",
@@ -4165,7 +4426,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "262-blue-ochre-diamond-frame.png"
+    "filename": "262-blue-ochre-diamond-frame.png",
+    "originalBytes": 1101910
   },
   {
     "id": "byzantine-ornaments-263-blue-ochre-peacock-vine-tail",
@@ -4182,7 +4444,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "263-blue-ochre-peacock-vine-tail.png"
+    "filename": "263-blue-ochre-peacock-vine-tail.png",
+    "originalBytes": 1503316
   },
   {
     "id": "byzantine-ornaments-264-blue-ochre-teardrop-palmette",
@@ -4200,7 +4463,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "264-blue-ochre-teardrop-palmette.png"
+    "filename": "264-blue-ochre-teardrop-palmette.png",
+    "originalBytes": 2122760
   },
   {
     "id": "byzantine-ornaments-265-blue-ochre-four-floral-roundels",
@@ -4217,7 +4481,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "265-blue-ochre-four-floral-roundels.png"
+    "filename": "265-blue-ochre-four-floral-roundels.png",
+    "originalBytes": 1815511
   },
   {
     "id": "byzantine-ornaments-266-blue-ochre-palmette-arch",
@@ -4233,7 +4498,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "266-blue-ochre-palmette-arch.png"
+    "filename": "266-blue-ochre-palmette-arch.png",
+    "originalBytes": 1629791
   },
   {
     "id": "byzantine-ornaments-267-minimal-blue-ochre-flower",
@@ -4251,7 +4517,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "267-minimal-blue-ochre-flower.png"
+    "filename": "267-minimal-blue-ochre-flower.png",
+    "originalBytes": 649754
   },
   {
     "id": "byzantine-ornaments-268-minimal-three-flower-flourish",
@@ -4268,7 +4535,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "268-minimal-three-flower-flourish.png"
+    "filename": "268-minimal-three-flower-flourish.png",
+    "originalBytes": 592318
   },
   {
     "id": "byzantine-ornaments-269-minimal-braided-flower-frame",
@@ -4284,7 +4552,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "269-minimal-braided-flower-frame.png"
+    "filename": "269-minimal-braided-flower-frame.png",
+    "originalBytes": 838911
   },
   {
     "id": "byzantine-ornaments-270-minimal-blue-palmette-buds",
@@ -4301,7 +4570,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "270-minimal-blue-palmette-buds.png"
+    "filename": "270-minimal-blue-palmette-buds.png",
+    "originalBytes": 1380852
   },
   {
     "id": "byzantine-ornaments-271-minimal-leaf-bud-knot",
@@ -4315,7 +4585,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "271-minimal-leaf-bud-knot.png"
+    "filename": "271-minimal-leaf-bud-knot.png",
+    "originalBytes": 747838
   },
   {
     "id": "byzantine-ornaments-272-minimal-flower-bud-corner",
@@ -4330,7 +4601,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "272-minimal-flower-bud-corner.png"
+    "filename": "272-minimal-flower-bud-corner.png",
+    "originalBytes": 410959
   },
   {
     "id": "byzantine-ornaments-273-minimal-two-flower-sprig",
@@ -4346,7 +4618,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "273-minimal-two-flower-sprig.png"
+    "filename": "273-minimal-two-flower-sprig.png",
+    "originalBytes": 1516292
   },
   {
     "id": "byzantine-ornaments-274-minimal-three-leaf-medallion",
@@ -4362,7 +4635,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "274-minimal-three-leaf-medallion.png"
+    "filename": "274-minimal-three-leaf-medallion.png",
+    "originalBytes": 1395419
   },
   {
     "id": "byzantine-ornaments-275-minimal-leaf-bud-border",
@@ -4377,7 +4651,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "275-minimal-leaf-bud-border.png"
+    "filename": "275-minimal-leaf-bud-border.png",
+    "originalBytes": 514883
   },
   {
     "id": "byzantine-ornaments-276-minimal-acanthus-flower-diamond",
@@ -4392,7 +4667,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "276-minimal-acanthus-flower-diamond.png"
+    "filename": "276-minimal-acanthus-flower-diamond.png",
+    "originalBytes": 736343
   },
   {
     "id": "byzantine-ornaments-277-minimal-twin-blue-palmettes",
@@ -4409,7 +4685,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "277-minimal-twin-blue-palmettes.png"
+    "filename": "277-minimal-twin-blue-palmettes.png",
+    "originalBytes": 1129238
   },
   {
     "id": "byzantine-ornaments-278-minimal-six-petal-star",
@@ -4425,7 +4702,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "278-minimal-six-petal-star.png"
+    "filename": "278-minimal-six-petal-star.png",
+    "originalBytes": 911802
   },
   {
     "id": "byzantine-ornaments-279-minimal-oval-flower-wreath",
@@ -4442,7 +4720,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "279-minimal-oval-flower-wreath.png"
+    "filename": "279-minimal-oval-flower-wreath.png",
+    "originalBytes": 1487556
   },
   {
     "id": "byzantine-ornaments-280-minimal-birds-palmette",
@@ -4458,7 +4737,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "280-minimal-birds-palmette.png"
+    "filename": "280-minimal-birds-palmette.png",
+    "originalBytes": 734697
   },
   {
     "id": "byzantine-ornaments-281-minimal-square-flower-frame",
@@ -4473,7 +4753,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "281-minimal-square-flower-frame.png"
+    "filename": "281-minimal-square-flower-frame.png",
+    "originalBytes": 759687
   },
   {
     "id": "byzantine-ornaments-282-minimal-pomegranate-sprigs",
@@ -4489,7 +4770,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "282-minimal-pomegranate-sprigs.png"
+    "filename": "282-minimal-pomegranate-sprigs.png",
+    "originalBytes": 2030179
   },
   {
     "id": "byzantine-ornaments-283-minimal-blue-petal-quatrefoil",
@@ -4504,7 +4786,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "283-minimal-blue-petal-quatrefoil.png"
+    "filename": "283-minimal-blue-petal-quatrefoil.png",
+    "originalBytes": 931515
   },
   {
     "id": "byzantine-ornaments-284-minimal-three-flower-arch",
@@ -4521,7 +4804,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "284-minimal-three-flower-arch.png"
+    "filename": "284-minimal-three-flower-arch.png",
+    "originalBytes": 761522
   },
   {
     "id": "byzantine-ornaments-285-minimal-four-leaf-rosette",
@@ -4537,7 +4821,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "285-minimal-four-leaf-rosette.png"
+    "filename": "285-minimal-four-leaf-rosette.png",
+    "originalBytes": 823087
   },
   {
     "id": "byzantine-ornaments-286-loose-green-palmette-flower",
@@ -4552,7 +4837,8 @@
       "palmette",
       "watercolor"
     ],
-    "filename": "286-loose-green-palmette-flower.png"
+    "filename": "286-loose-green-palmette-flower.png",
+    "originalBytes": 1904415
   },
   {
     "id": "byzantine-ornaments-287-loose-green-terracotta-vine",
@@ -4567,7 +4853,8 @@
       "vine",
       "watercolor"
     ],
-    "filename": "287-loose-green-terracotta-vine.png"
+    "filename": "287-loose-green-terracotta-vine.png",
+    "originalBytes": 1245348
   },
   {
     "id": "byzantine-ornaments-288-loose-green-six-leaf-roundel",
@@ -4582,7 +4869,8 @@
       "rosette",
       "watercolor"
     ],
-    "filename": "288-loose-green-six-leaf-roundel.png"
+    "filename": "288-loose-green-six-leaf-roundel.png",
+    "originalBytes": 1692813
   },
   {
     "id": "byzantine-ornaments-289-loose-green-acanthus-corner",
@@ -4596,7 +4884,8 @@
       "acanthus",
       "watercolor"
     ],
-    "filename": "289-loose-green-acanthus-corner.png"
+    "filename": "289-loose-green-acanthus-corner.png",
+    "originalBytes": 1359614
   },
   {
     "id": "byzantine-ornaments-290-loose-green-oval-floral-frame",
@@ -4611,7 +4900,8 @@
       "vine",
       "watercolor"
     ],
-    "filename": "290-loose-green-oval-floral-frame.png"
+    "filename": "290-loose-green-oval-floral-frame.png",
+    "originalBytes": 2076055
   },
   {
     "id": "byzantine-ornaments-291-loose-green-interlaced-diamond",
@@ -4625,7 +4915,8 @@
       "acanthus",
       "watercolor"
     ],
-    "filename": "291-loose-green-interlaced-diamond.png"
+    "filename": "291-loose-green-interlaced-diamond.png",
+    "originalBytes": 1396302
   },
   {
     "id": "byzantine-ornaments-292-loose-green-scroll-divider",
@@ -4640,7 +4931,8 @@
       "rosette",
       "watercolor"
     ],
-    "filename": "292-loose-green-scroll-divider.png"
+    "filename": "292-loose-green-scroll-divider.png",
+    "originalBytes": 1403871
   },
   {
     "id": "byzantine-ornaments-293-loose-green-three-flower-vine",
@@ -4655,7 +4947,8 @@
       "vine",
       "watercolor"
     ],
-    "filename": "293-loose-green-three-flower-vine.png"
+    "filename": "293-loose-green-three-flower-vine.png",
+    "originalBytes": 1649655
   },
   {
     "id": "byzantine-ornaments-294-loose-green-quatrefoil-rosette",
@@ -4670,7 +4963,8 @@
       "rosette",
       "watercolor"
     ],
-    "filename": "294-loose-green-quatrefoil-rosette.png"
+    "filename": "294-loose-green-quatrefoil-rosette.png",
+    "originalBytes": 1531115
   },
   {
     "id": "byzantine-ornaments-295-loose-green-palmette-border",
@@ -4685,7 +4979,8 @@
       "vine",
       "watercolor"
     ],
-    "filename": "295-loose-green-palmette-border.png"
+    "filename": "295-loose-green-palmette-border.png",
+    "originalBytes": 1192452
   },
   {
     "id": "byzantine-ornaments-296-loose-green-triple-palmettes",
@@ -4699,7 +4994,8 @@
       "palmette",
       "watercolor"
     ],
-    "filename": "296-loose-green-triple-palmettes.png"
+    "filename": "296-loose-green-triple-palmettes.png",
+    "originalBytes": 1661651
   },
   {
     "id": "byzantine-ornaments-297-loose-green-square-floral-frame",
@@ -4714,7 +5010,8 @@
       "vine",
       "watercolor"
     ],
-    "filename": "297-loose-green-square-floral-frame.png"
+    "filename": "297-loose-green-square-floral-frame.png",
+    "originalBytes": 1567891
   },
   {
     "id": "byzantine-ornaments-298-loose-green-cream-floral-star",
@@ -4728,7 +5025,8 @@
       "floral",
       "watercolor"
     ],
-    "filename": "298-loose-green-cream-floral-star.png"
+    "filename": "298-loose-green-cream-floral-star.png",
+    "originalBytes": 2133217
   },
   {
     "id": "byzantine-ornaments-299-loose-green-bird-roundel",
@@ -4743,7 +5041,8 @@
       "vine",
       "watercolor"
     ],
-    "filename": "299-loose-green-bird-roundel.png"
+    "filename": "299-loose-green-bird-roundel.png",
+    "originalBytes": 1788727
   },
   {
     "id": "byzantine-ornaments-300-loose-green-four-palmettes",
@@ -4757,7 +5056,8 @@
       "palmette",
       "watercolor"
     ],
-    "filename": "300-loose-green-four-palmettes.png"
+    "filename": "300-loose-green-four-palmettes.png",
+    "originalBytes": 1640770
   },
   {
     "id": "byzantine-ornaments-301-blue-terracotta-ink-rosette",
@@ -4774,7 +5074,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "301-blue-terracotta-ink-rosette.png"
+    "filename": "301-blue-terracotta-ink-rosette.png",
+    "originalBytes": 2251757
   },
   {
     "id": "byzantine-ornaments-302-blue-terracotta-pomegranate-divider",
@@ -4790,7 +5091,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "302-blue-terracotta-pomegranate-divider.png"
+    "filename": "302-blue-terracotta-pomegranate-divider.png",
+    "originalBytes": 1043055
   },
   {
     "id": "byzantine-ornaments-303-blue-terracotta-ink-corner",
@@ -4805,7 +5107,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "303-blue-terracotta-ink-corner.png"
+    "filename": "303-blue-terracotta-ink-corner.png",
+    "originalBytes": 1042377
   },
   {
     "id": "byzantine-ornaments-304-blue-terracotta-almond-knot",
@@ -4820,7 +5123,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "304-blue-terracotta-almond-knot.png"
+    "filename": "304-blue-terracotta-almond-knot.png",
+    "originalBytes": 1032614
   },
   {
     "id": "byzantine-ornaments-305-blue-terracotta-flower-ring",
@@ -4835,7 +5139,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "305-blue-terracotta-flower-ring.png"
+    "filename": "305-blue-terracotta-flower-ring.png",
+    "originalBytes": 1133842
   },
   {
     "id": "byzantine-ornaments-306-blue-cream-fan-palmette",
@@ -4850,7 +5155,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "306-blue-cream-fan-palmette.png"
+    "filename": "306-blue-cream-fan-palmette.png",
+    "originalBytes": 1128350
   },
   {
     "id": "byzantine-ornaments-307-blue-birds-terracotta-flower",
@@ -4865,7 +5171,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "307-blue-birds-terracotta-flower.png"
+    "filename": "307-blue-birds-terracotta-flower.png",
+    "originalBytes": 1608448
   },
   {
     "id": "byzantine-ornaments-308-blue-terracotta-ribbon-diamond",
@@ -4880,7 +5187,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "308-blue-terracotta-ribbon-diamond.png"
+    "filename": "308-blue-terracotta-ribbon-diamond.png",
+    "originalBytes": 1304630
   },
   {
     "id": "byzantine-ornaments-309-blue-cream-vertical-palmettes",
@@ -4896,7 +5204,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "309-blue-cream-vertical-palmettes.png"
+    "filename": "309-blue-cream-vertical-palmettes.png",
+    "originalBytes": 1509536
   },
   {
     "id": "byzantine-ornaments-310-blue-terracotta-leaf-arch",
@@ -4913,7 +5222,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "310-blue-terracotta-leaf-arch.png"
+    "filename": "310-blue-terracotta-leaf-arch.png",
+    "originalBytes": 1110204
   },
   {
     "id": "byzantine-ornaments-311-cream-blue-leaf-quatrefoil",
@@ -4927,7 +5237,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "311-cream-blue-leaf-quatrefoil.png"
+    "filename": "311-cream-blue-leaf-quatrefoil.png",
+    "originalBytes": 1563136
   },
   {
     "id": "byzantine-ornaments-312-blue-terracotta-rosette-border",
@@ -4942,7 +5253,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "312-blue-terracotta-rosette-border.png"
+    "filename": "312-blue-terracotta-rosette-border.png",
+    "originalBytes": 814560
   },
   {
     "id": "byzantine-ornaments-313-blue-acanthus-triangular-knot",
@@ -4957,7 +5269,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "313-blue-acanthus-triangular-knot.png"
+    "filename": "313-blue-acanthus-triangular-knot.png",
+    "originalBytes": 1401938
   },
   {
     "id": "byzantine-ornaments-314-blue-terracotta-grapevine-oval",
@@ -4972,7 +5285,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "314-blue-terracotta-grapevine-oval.png"
+    "filename": "314-blue-terracotta-grapevine-oval.png",
+    "originalBytes": 1412697
   },
   {
     "id": "byzantine-ornaments-315-blue-terracotta-palmette-star",
@@ -4988,7 +5302,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "315-blue-terracotta-palmette-star.png"
+    "filename": "315-blue-terracotta-palmette-star.png",
+    "originalBytes": 1850914
   },
   {
     "id": "byzantine-ornaments-316-pale-ochre-blue-acanthus",
@@ -5003,7 +5318,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "316-pale-ochre-blue-acanthus.png"
+    "filename": "316-pale-ochre-blue-acanthus.png",
+    "originalBytes": 1733675
   },
   {
     "id": "byzantine-ornaments-317-pale-ochre-blue-garland",
@@ -5018,7 +5334,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "317-pale-ochre-blue-garland.png"
+    "filename": "317-pale-ochre-blue-garland.png",
+    "originalBytes": 731577
   },
   {
     "id": "byzantine-ornaments-318-pale-ochre-blue-square-frame",
@@ -5034,7 +5351,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "318-pale-ochre-blue-square-frame.png"
+    "filename": "318-pale-ochre-blue-square-frame.png",
+    "originalBytes": 1069979
   },
   {
     "id": "byzantine-ornaments-319-pale-blue-fan-bud-palmette",
@@ -5051,7 +5369,8 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "319-pale-blue-fan-bud-palmette.png"
+    "filename": "319-pale-blue-fan-bud-palmette.png",
+    "originalBytes": 1116864
   },
   {
     "id": "byzantine-ornaments-320-pale-blue-leafy-loop-rosette",
@@ -5066,7 +5385,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "320-pale-blue-leafy-loop-rosette.png"
+    "filename": "320-pale-blue-leafy-loop-rosette.png",
+    "originalBytes": 1168375
   },
   {
     "id": "byzantine-ornaments-321-pale-blue-pomegranate-corner",
@@ -5081,7 +5401,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "321-pale-blue-pomegranate-corner.png"
+    "filename": "321-pale-blue-pomegranate-corner.png",
+    "originalBytes": 766543
   },
   {
     "id": "byzantine-ornaments-322-pale-blue-three-branch-roundel",
@@ -5095,7 +5416,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "322-pale-blue-three-branch-roundel.png"
+    "filename": "322-pale-blue-three-branch-roundel.png",
+    "originalBytes": 1737536
   },
   {
     "id": "byzantine-ornaments-323-pale-bud-palmette-border",
@@ -5111,7 +5433,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "323-pale-bud-palmette-border.png"
+    "filename": "323-pale-bud-palmette-border.png",
+    "originalBytes": 708445
   },
   {
     "id": "byzantine-ornaments-324-pale-blue-lily-teardrop",
@@ -5126,7 +5449,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "324-pale-blue-lily-teardrop.png"
+    "filename": "324-pale-blue-lily-teardrop.png",
+    "originalBytes": 991152
   },
   {
     "id": "byzantine-ornaments-325-pale-ochre-blue-petal-rosette",
@@ -5141,7 +5465,8 @@
       "watercolor",
       "hand-drawn"
     ],
-    "filename": "325-pale-ochre-blue-petal-rosette.png"
+    "filename": "325-pale-ochre-blue-petal-rosette.png",
+    "originalBytes": 1846923
   },
   {
     "id": "byzantine-ornaments-326-pale-twin-palmette-flourish",
@@ -5157,6 +5482,7 @@
       "ink",
       "hand-drawn"
     ],
-    "filename": "326-pale-twin-palmette-flourish.png"
+    "filename": "326-pale-twin-palmette-flourish.png",
+    "originalBytes": 1487110
   }
 ]

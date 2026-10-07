@@ -38,7 +38,7 @@ test('theme follows the system and an explicit choice persists across navigation
 test('mobile users can download original bytes from the object page and recover from a failed download', async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto('/object/test_1/');
-  const link = page.getByRole('link', { name: /^Download$/i, exact: true });
+  const link = page.locator('a[data-download]');
   await page.route('**/media/tests/original.svg', (route) => route.abort());
   await link.click();
   await expect(page.getByText('Download failed', { exact: true })).toBeVisible();
@@ -73,7 +73,7 @@ test('category and download links work without JavaScript', async ({ browser }) 
   await page.mouse.click(box.x + box.width / 2, box.y + box.height / 2);
   await page.waitForURL('**/object/test_1/');
   const downloadPromise = page.waitForEvent('download');
-  const originalLink = page.getByRole('link', { name: /^Download$/i, exact: true });
+  const originalLink = page.locator('a[data-download]');
   await expect(originalLink).toBeVisible();
   await originalLink.click({ force: true });
   const download = await downloadPromise;
@@ -96,7 +96,7 @@ test('a failed category page can be retried without losing or duplicating images
   await page.getByRole('link', { name: /^Object 61$/i, exact: true }).click();
   await expect(page.getByRole('heading', { name: /^Object 61$/i })).toBeVisible();
   const downloadPromise = page.waitForEvent('download');
-  await page.getByRole('link', { name: /^Download$/i, exact: true }).click();
+  await page.locator('a[data-download]').click();
   const download = await downloadPromise;
   expect(readFileSync(await download.path())).toEqual(readFileSync('media/preview-public/media/tests/original.svg'));
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
@@ -279,3 +279,18 @@ test('a preview loading across scroll boundaries stays active nearby and can res
     release();
   }
 });
+
+for (const width of [1280, 390, 320]) {
+  test(`download shows original dimensions and MB without overflow at ${width}px`, async ({ page }) => {
+    await page.setViewportSize({ width, height: 844 });
+    await page.goto('/object/test_1/');
+    const link = page.locator('a[data-download]');
+    await expect(link).toContainText('640 × 800 · 1.83 MB');
+    await expect(link).toHaveAttribute('href', '/media/tests/original.svg');
+    expect(readFileSync('media/preview-public/media/tests/original.svg').length).toBe(1828665);
+    expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
+    const box = await link.boundingBox();
+    expect(box.x).toBeGreaterThanOrEqual(0);
+    expect(box.x + box.width).toBeLessThanOrEqual(width);
+  });
+}

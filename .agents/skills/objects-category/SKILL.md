@@ -69,6 +69,8 @@ Import validates completeness/transparency, preserves original bytes and explici
 
 After importing a new category, verify that its `{ id, title }` entry was appended to `data/categories.json` and its objects are in `data/categories/<id>.json`. The header builds the category filters automatically from that registry using `category.title`; no separate filter field or manual header edit is needed. Preserve existing entries and confirm the new filter uses the chosen short English title.
 
+The importer records `width` and `height` in pixels and `originalBytes` as the exact byte length of the original PNG for every new object. After both initial import and `--append`, verify these fields in `data/categories/<id>.json` against the saved originals. Let the importer measure them; do not guess values or add them to the generation manifest. The Download button uses these original dimensions and converts `originalBytes / 1000000` to MB for display; preview dimensions and WebP weight do not describe the download.
+
 When publication is requested, upload the **entire library** first:
 
 ```bash

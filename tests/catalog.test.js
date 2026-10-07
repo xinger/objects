@@ -116,3 +116,12 @@ test('new objects join the mixed feed without changing the relative order of exi
   assert.equal(after.feed.filter((object) => object.id === 'new_light').length, 1);
   assert.deepEqual(createCatalog([], {}).feed, []);
 });
+
+test('original download byte size is preserved and invalid sizes are rejected', () => {
+  const catalog = createCatalog([categories[0]], { chairs: [{ ...chair, originalBytes: 1828665 }] });
+  assert.equal(catalog.objects[0].originalBytes, 1828665);
+  for (const originalBytes of [0, -1, 1.5, '1828665']) {
+    assert.throws(() => createCatalog([categories[0]], { chairs: [{ ...chair, originalBytes }] }));
+  }
+  assert.equal(createCatalog([categories[0]], { chairs: [chair] }).objects[0].originalBytes, undefined);
+});

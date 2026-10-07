@@ -213,3 +213,18 @@ test('one or two workers still receive at most ten assignments each', async (t) 
     assert.equal(new Set(assignments.flatMap((job) => job.objects.map((object) => object.filename))).size, workers * 10);
   }
 });
+
+test('batch import records original PNG dimensions and byte size', async (t) => {
+  const { root, batch, source } = await fixture(t, 1);
+  await mkdir(path.join(root, 'data/categories'), { recursive: true });
+  await writeFile(path.join(root, 'data/categories.json'), '[]');
+  await saveImage(batch, '001-shell.png', source);
+  await importBatch(batch, root);
+  const [record] = JSON.parse(await readFile(path.join(root, 'data/categories/shells.json'), 'utf8'));
+  const original = await readFile(path.join(root, 'media/library', record.original));
+  const metadata = await sharp(original).metadata();
+  assert.equal(record.width, metadata.width);
+  assert.equal(record.height, metadata.height);
+  assert.equal(record.originalBytes, original.length);
+  assert.equal((await importBatch(batch, root)).unchanged, true);
+});

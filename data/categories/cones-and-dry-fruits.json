@@ -1,0 +1,1607 @@
+[
+  {
+    "id": "cones-and-dry-fruits-001-scots-pine-cone",
+    "original": "originals/cones-and-dry-fruits-001-scots-pine-cone-e24dc1fcb7aec53a.png",
+    "preview": "previews/cones-and-dry-fruits-001-scots-pine-cone-e24dc1fcb7aec53a.webp",
+    "width": 1223,
+    "height": 1286,
+    "title": "Scots pine cone",
+    "description": "A warm brown elongated oval cone with broad woody scales and a gently pointed tip.",
+    "tags": [
+      "cone",
+      "pine",
+      "brown"
+    ],
+    "filename": "001-scots-pine-cone.png",
+    "originalBytes": 1751920
+  },
+  {
+    "id": "cones-and-dry-fruits-002-black-pine-cone",
+    "original": "originals/cones-and-dry-fruits-002-black-pine-cone-8b5bf51768256b7c.png",
+    "preview": "previews/cones-and-dry-fruits-002-black-pine-cone-8b5bf51768256b7c.webp",
+    "width": 1239,
+    "height": 1269,
+    "title": "Black pine cone",
+    "description": "A stout dark brown cone with glossy raised scale centers and a rounded base.",
+    "tags": [
+      "cone",
+      "pine",
+      "dark"
+    ],
+    "filename": "002-black-pine-cone.png",
+    "originalBytes": 1971658
+  },
+  {
+    "id": "cones-and-dry-fruits-003-stone-pine-cone",
+    "original": "originals/cones-and-dry-fruits-003-stone-pine-cone-a62180a1f930cbe8.png",
+    "preview": "previews/cones-and-dry-fruits-003-stone-pine-cone-a62180a1f930cbe8.webp",
+    "width": 1122,
+    "height": 1402,
+    "title": "Stone pine cone",
+    "description": "A large egg-shaped cone with thick chestnut-colored scales and a blunt crown.",
+    "tags": [
+      "cone",
+      "pine",
+      "woody"
+    ],
+    "filename": "003-stone-pine-cone.png",
+    "originalBytes": 2540633
+  },
+  {
+    "id": "cones-and-dry-fruits-004-maritime-pine-cone",
+    "original": "originals/cones-and-dry-fruits-004-maritime-pine-cone-fa27a748bb916e74.png",
+    "preview": "previews/cones-and-dry-fruits-004-maritime-pine-cone-fa27a748bb916e74.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Maritime pine cone",
+    "description": "An elongated reddish brown cone with sharply raised angular scale tips.",
+    "tags": [
+      "cone",
+      "pine",
+      "red"
+    ],
+    "filename": "004-maritime-pine-cone.png",
+    "originalBytes": 1637456
+  },
+  {
+    "id": "cones-and-dry-fruits-005-aleppo-pine-cone",
+    "original": "originals/cones-and-dry-fruits-005-aleppo-pine-cone-5bb87e43cdc4ae7f.png",
+    "preview": "previews/cones-and-dry-fruits-005-aleppo-pine-cone-5bb87e43cdc4ae7f.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Aleppo pine cone",
+    "description": "A slender tawny cone with smooth overlapping scales and a curved short stalk.",
+    "tags": [
+      "cone",
+      "pine",
+      "tawny"
+    ],
+    "filename": "005-aleppo-pine-cone.png",
+    "originalBytes": 1542215
+  },
+  {
+    "id": "cones-and-dry-fruits-006-ponderosa-pine-cone",
+    "original": "originals/cones-and-dry-fruits-006-ponderosa-pine-cone-c0eab2b0bc5c7094.png",
+    "preview": "previews/cones-and-dry-fruits-006-ponderosa-pine-cone-c0eab2b0bc5c7094.webp",
+    "width": 1219,
+    "height": 1290,
+    "title": "Ponderosa pine cone",
+    "description": "A broad open cone with honey-brown scales ending in small pointed prickles.",
+    "tags": [
+      "cone",
+      "pine",
+      "prickly"
+    ],
+    "filename": "006-ponderosa-pine-cone.png",
+    "originalBytes": 2156710
+  },
+  {
+    "id": "cones-and-dry-fruits-007-sugar-pine-cone",
+    "original": "originals/cones-and-dry-fruits-007-sugar-pine-cone-d8ba7a958a1e6ebf.png",
+    "preview": "previews/cones-and-dry-fruits-007-sugar-pine-cone-d8ba7a958a1e6ebf.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Sugar pine cone",
+    "description": "A very long cylindrical cone with loose layered scales and a tapering tip.",
+    "tags": [
+      "cone",
+      "pine",
+      "elongated"
+    ],
+    "filename": "007-sugar-pine-cone.png",
+    "originalBytes": 2094115
+  },
+  {
+    "id": "cones-and-dry-fruits-008-white-pine-cone",
+    "original": "originals/cones-and-dry-fruits-008-white-pine-cone-5173882c01258bdd.png",
+    "preview": "previews/cones-and-dry-fruits-008-white-pine-cone-5173882c01258bdd.webp",
+    "width": 1205,
+    "height": 1305,
+    "title": "White pine cone",
+    "description": "A narrow curved cone with thin pale brown scales and a delicate tapered end.",
+    "tags": [
+      "cone",
+      "pine",
+      "curved"
+    ],
+    "filename": "008-white-pine-cone.png",
+    "originalBytes": 1242877
+  },
+  {
+    "id": "cones-and-dry-fruits-009-lodgepole-pine-cone",
+    "original": "originals/cones-and-dry-fruits-009-lodgepole-pine-cone-3cd3e4d875f33a66.png",
+    "preview": "previews/cones-and-dry-fruits-009-lodgepole-pine-cone-3cd3e4d875f33a66.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Lodgepole pine cone",
+    "description": "A small asymmetrical cinnamon-brown cone with tightly closed pointed scales.",
+    "tags": [
+      "cone",
+      "pine",
+      "closed"
+    ],
+    "filename": "009-lodgepole-pine-cone.png",
+    "originalBytes": 1582601
+  },
+  {
+    "id": "cones-and-dry-fruits-010-bristlecone-pine-cone",
+    "original": "originals/cones-and-dry-fruits-010-bristlecone-pine-cone-0597c38d5ed20769.png",
+    "preview": "previews/cones-and-dry-fruits-010-bristlecone-pine-cone-0597c38d5ed20769.webp",
+    "width": 1213,
+    "height": 1296,
+    "title": "Bristlecone pine cone",
+    "description": "A small oval cone with dark scale centers and fine curled bristle tips.",
+    "tags": [
+      "cone",
+      "pine",
+      "bristles"
+    ],
+    "filename": "010-bristlecone-pine-cone.png",
+    "originalBytes": 1746306
+  },
+  {
+    "id": "cones-and-dry-fruits-011-norway-spruce-cone",
+    "original": "originals/cones-and-dry-fruits-011-norway-spruce-cone-168944d1562fcf0e.png",
+    "preview": "previews/cones-and-dry-fruits-011-norway-spruce-cone-168944d1562fcf0e.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Norway spruce cone",
+    "description": "A long warm brown cylinder with thin overlapping papery scales and a rounded tip.",
+    "tags": [
+      "cone",
+      "spruce",
+      "papery"
+    ],
+    "filename": "011-norway-spruce-cone.png",
+    "originalBytes": 2360572
+  },
+  {
+    "id": "cones-and-dry-fruits-012-blue-spruce-cone",
+    "original": "originals/cones-and-dry-fruits-012-blue-spruce-cone-e2b8e6c7833e49e4.png",
+    "preview": "previews/cones-and-dry-fruits-012-blue-spruce-cone-e2b8e6c7833e49e4.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Blue spruce cone",
+    "description": "A slender pale tan cone with wavy diamond-shaped scales and fine weathered edges.",
+    "tags": [
+      "cone",
+      "spruce",
+      "tan"
+    ],
+    "filename": "012-blue-spruce-cone.png",
+    "originalBytes": 2135273
+  },
+  {
+    "id": "cones-and-dry-fruits-013-sitka-spruce-cone",
+    "original": "originals/cones-and-dry-fruits-013-sitka-spruce-cone-a75b05e07fcfb9be.png",
+    "preview": "previews/cones-and-dry-fruits-013-sitka-spruce-cone-a75b05e07fcfb9be.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Sitka spruce cone",
+    "description": "A light buff cone with loosely layered thin scales and softly ruffled edges.",
+    "tags": [
+      "cone",
+      "spruce",
+      "buff"
+    ],
+    "filename": "013-sitka-spruce-cone.png",
+    "originalBytes": 2197827
+  },
+  {
+    "id": "cones-and-dry-fruits-014-black-spruce-cone",
+    "original": "originals/cones-and-dry-fruits-014-black-spruce-cone-56a93128adb211a4.png",
+    "preview": "previews/cones-and-dry-fruits-014-black-spruce-cone-56a93128adb211a4.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Black spruce cone",
+    "description": "A small dark purple-brown cone with rounded compact scales and an egg-shaped outline.",
+    "tags": [
+      "cone",
+      "spruce",
+      "dark"
+    ],
+    "filename": "014-black-spruce-cone.png",
+    "originalBytes": 2510354
+  },
+  {
+    "id": "cones-and-dry-fruits-015-douglas-fir-cone",
+    "original": "originals/cones-and-dry-fruits-015-douglas-fir-cone-417994b9293bc78c.png",
+    "preview": "previews/cones-and-dry-fruits-015-douglas-fir-cone-417994b9293bc78c.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Douglas fir cone",
+    "description": "A medium brown cone with distinctive three-pronged bracts projecting between rounded scales.",
+    "tags": [
+      "cone",
+      "fir",
+      "bracts"
+    ],
+    "filename": "015-douglas-fir-cone.png",
+    "originalBytes": 2385899
+  },
+  {
+    "id": "cones-and-dry-fruits-016-western-hemlock-cone",
+    "original": "originals/cones-and-dry-fruits-016-western-hemlock-cone-9044ebd3a4f9d930.png",
+    "preview": "previews/cones-and-dry-fruits-016-western-hemlock-cone-9044ebd3a4f9d930.webp",
+    "width": 1212,
+    "height": 1298,
+    "title": "Western hemlock cone",
+    "description": "A tiny oval cone with thin amber-brown scales opening into a delicate layered form.",
+    "tags": [
+      "cone",
+      "hemlock",
+      "small"
+    ],
+    "filename": "016-western-hemlock-cone.png",
+    "originalBytes": 1316238
+  },
+  {
+    "id": "cones-and-dry-fruits-017-larch-cone",
+    "original": "originals/cones-and-dry-fruits-017-larch-cone-8c41ae01145fa334.png",
+    "preview": "previews/cones-and-dry-fruits-017-larch-cone-8c41ae01145fa334.webp",
+    "width": 1302,
+    "height": 1208,
+    "title": "Larch cone",
+    "description": "A small upright rosette-like cone with open russet scales and a neatly rounded base.",
+    "tags": [
+      "cone",
+      "larch",
+      "rosette"
+    ],
+    "filename": "017-larch-cone.png",
+    "originalBytes": 2006616
+  },
+  {
+    "id": "cones-and-dry-fruits-018-deodar-cedar-cone",
+    "original": "originals/cones-and-dry-fruits-018-deodar-cedar-cone-166fbb308b0a6f17.png",
+    "preview": "previews/cones-and-dry-fruits-018-deodar-cedar-cone-166fbb308b0a6f17.webp",
+    "width": 1159,
+    "height": 1357,
+    "title": "Deodar cedar cone",
+    "description": "A barrel-shaped woody cone with tightly stacked gray-brown scales and a flat rounded crown.",
+    "tags": [
+      "cone",
+      "cedar",
+      "barrel"
+    ],
+    "filename": "018-deodar-cedar-cone.png",
+    "originalBytes": 2158963
+  },
+  {
+    "id": "cones-and-dry-fruits-019-cypress-cone",
+    "original": "originals/cones-and-dry-fruits-019-cypress-cone-ddd5790bc2577ddb.png",
+    "preview": "previews/cones-and-dry-fruits-019-cypress-cone-ddd5790bc2577ddb.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Cypress cone",
+    "description": "A round woody ball with large polygonal gray-brown plates separated by dark seams.",
+    "tags": [
+      "cone",
+      "cypress",
+      "round"
+    ],
+    "filename": "019-cypress-cone.png",
+    "originalBytes": 2269466
+  },
+  {
+    "id": "cones-and-dry-fruits-020-giant-sequoia-cone",
+    "original": "originals/cones-and-dry-fruits-020-giant-sequoia-cone-7fabfdbbf8fed86a.png",
+    "preview": "previews/cones-and-dry-fruits-020-giant-sequoia-cone-7fabfdbbf8fed86a.webp",
+    "width": 1156,
+    "height": 1361,
+    "title": "Giant sequoia cone",
+    "description": "A small egg-shaped cone with thick russet shield-like scales and short projecting centers.",
+    "tags": [
+      "cone",
+      "sequoia",
+      "woody"
+    ],
+    "filename": "020-giant-sequoia-cone.png",
+    "originalBytes": 2169268
+  },
+  {
+    "id": "cones-and-dry-fruits-021-coast-redwood-cone",
+    "original": "originals/cones-and-dry-fruits-021-coast-redwood-cone-7b4c21ded09c5b96.png",
+    "preview": "previews/cones-and-dry-fruits-021-coast-redwood-cone-7b4c21ded09c5b96.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Coast redwood cone",
+    "description": "A tiny rounded reddish-brown cone with thick wrinkled scales and deep narrow seams.",
+    "tags": [
+      "cone",
+      "redwood",
+      "small"
+    ],
+    "filename": "021-coast-redwood-cone.png",
+    "originalBytes": 1782036
+  },
+  {
+    "id": "cones-and-dry-fruits-022-bald-cypress-cone",
+    "original": "originals/cones-and-dry-fruits-022-bald-cypress-cone-775ee501a40026c5.png",
+    "preview": "previews/cones-and-dry-fruits-022-bald-cypress-cone-775ee501a40026c5.webp",
+    "width": 1272,
+    "height": 1236,
+    "title": "Bald cypress cone",
+    "description": "A rough spherical woody cone with irregular muted brown plates and a short attached stalk.",
+    "tags": [
+      "cone",
+      "cypress",
+      "round"
+    ],
+    "filename": "022-bald-cypress-cone.png",
+    "originalBytes": 1825155
+  },
+  {
+    "id": "cones-and-dry-fruits-023-alder-cone",
+    "original": "originals/cones-and-dry-fruits-023-alder-cone-42cb571c868bada8.png",
+    "preview": "previews/cones-and-dry-fruits-023-alder-cone-42cb571c868bada8.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Layered brown cone",
+    "description": "A dark brown oval woody cone with loosely overlapping blunt scales and a short attached stalk.",
+    "tags": [
+      "cone",
+      "woody",
+      "brown",
+      "layered"
+    ],
+    "filename": "023-alder-cone.png",
+    "originalBytes": 1138968
+  },
+  {
+    "id": "cones-and-dry-fruits-024-banksia-seed-cone",
+    "original": "originals/cones-and-dry-fruits-024-banksia-seed-cone-2977319583e30456.png",
+    "preview": "previews/cones-and-dry-fruits-024-banksia-seed-cone-2977319583e30456.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Banksia seed cone",
+    "description": "An elongated gray-brown woody cylinder dotted with thick oval seed follicles.",
+    "tags": [
+      "cone",
+      "banksia",
+      "follicle"
+    ],
+    "filename": "024-banksia-seed-cone.png",
+    "originalBytes": 2456785
+  },
+  {
+    "id": "cones-and-dry-fruits-025-sheoak-cone",
+    "original": "originals/cones-and-dry-fruits-025-sheoak-cone-abce845117a508a7.png",
+    "preview": "previews/cones-and-dry-fruits-025-sheoak-cone-abce845117a508a7.webp",
+    "width": 1222,
+    "height": 1287,
+    "title": "Sheoak cone",
+    "description": "A small dark woody oval with rows of sharply pointed scale pairs and narrow open slits.",
+    "tags": [
+      "cone",
+      "sheoak",
+      "pointed"
+    ],
+    "filename": "025-sheoak-cone.png",
+    "originalBytes": 1755500
+  },
+  {
+    "id": "cones-and-dry-fruits-026-magnolia-seed-cone",
+    "original": "originals/cones-and-dry-fruits-026-magnolia-seed-cone-2cf46e0ba83cf4c7.png",
+    "preview": "previews/cones-and-dry-fruits-026-magnolia-seed-cone-2cf46e0ba83cf4c7.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Magnolia seed cone",
+    "description": "A rusty brown tapered woody seed structure with knobby spiraling follicles and empty open pockets.",
+    "tags": [
+      "cone",
+      "magnolia",
+      "follicle"
+    ],
+    "filename": "026-magnolia-seed-cone.png",
+    "originalBytes": 2302395
+  },
+  {
+    "id": "cones-and-dry-fruits-027-hop-cone",
+    "original": "originals/cones-and-dry-fruits-027-hop-cone-3dbad66e729fc160.png",
+    "preview": "previews/cones-and-dry-fruits-027-hop-cone-3dbad66e729fc160.webp",
+    "width": 1206,
+    "height": 1305,
+    "title": "Papery hop cone",
+    "description": "A pale yellow-green papery cone with overlapping delicate bracts and a tapered tip.",
+    "tags": [
+      "cone",
+      "hop",
+      "papery"
+    ],
+    "filename": "027-hop-cone.png",
+    "originalBytes": 1401673
+  },
+  {
+    "id": "cones-and-dry-fruits-028-teasel-seedhead",
+    "original": "originals/cones-and-dry-fruits-028-teasel-seedhead-aae0eaaf364b7f65.png",
+    "preview": "previews/cones-and-dry-fruits-028-teasel-seedhead-aae0eaaf364b7f65.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Dry teasel head",
+    "description": "An elongated tan seedhead with dense prickly compartments and a few long attached curved basal bracts.",
+    "tags": [
+      "seedhead",
+      "teasel",
+      "prickly"
+    ],
+    "filename": "028-teasel-seedhead.png",
+    "originalBytes": 2313700
+  },
+  {
+    "id": "cones-and-dry-fruits-029-sweetgum-seed-ball",
+    "original": "originals/cones-and-dry-fruits-029-sweetgum-seed-ball-0ebf9660f0bd2a19.png",
+    "preview": "previews/cones-and-dry-fruits-029-sweetgum-seed-ball-0ebf9660f0bd2a19.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Sweetgum seed ball",
+    "description": "A dark brown spherical woody seed ball with sharply pointed projections and many tiny open cavities.",
+    "tags": [
+      "seedhead",
+      "sweetgum",
+      "spiky"
+    ],
+    "filename": "029-sweetgum-seed-ball.png",
+    "originalBytes": 1937380
+  },
+  {
+    "id": "cones-and-dry-fruits-030-plane-tree-seed-ball",
+    "original": "originals/cones-and-dry-fruits-030-plane-tree-seed-ball-3bc7e2b49c6a9bc8.png",
+    "preview": "previews/cones-and-dry-fruits-030-plane-tree-seed-ball-3bc7e2b49c6a9bc8.webp",
+    "width": 1214,
+    "height": 1295,
+    "title": "Plane tree seed ball",
+    "description": "A round tawny seed ball with a dense finely bristled surface and a short attached stalk.",
+    "tags": [
+      "seedhead",
+      "plane-tree",
+      "bristled"
+    ],
+    "filename": "030-plane-tree-seed-ball.png",
+    "originalBytes": 1490928
+  },
+  {
+    "id": "cones-and-dry-fruits-031-oak-acorn",
+    "original": "originals/cones-and-dry-fruits-031-oak-acorn-f57a230e20317c94.png",
+    "preview": "previews/cones-and-dry-fruits-031-oak-acorn-f57a230e20317c94.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Oak acorn",
+    "description": "A smooth golden-brown oval acorn attached to its shallow textured cup and tiny stalk.",
+    "tags": [
+      "nut",
+      "acorn",
+      "oak"
+    ],
+    "filename": "031-oak-acorn.png",
+    "originalBytes": 1296228
+  },
+  {
+    "id": "cones-and-dry-fruits-032-long-acorn",
+    "original": "originals/cones-and-dry-fruits-032-long-acorn-d090bbbeb525f632.png",
+    "preview": "previews/cones-and-dry-fruits-032-long-acorn-d090bbbeb525f632.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Long acorn",
+    "description": "A slender dark chestnut acorn with a tapered tip and a small neatly attached scale-patterned cup.",
+    "tags": [
+      "nut",
+      "acorn",
+      "elongated"
+    ],
+    "filename": "032-long-acorn.png",
+    "originalBytes": 1727104
+  },
+  {
+    "id": "cones-and-dry-fruits-033-bur-oak-acorn",
+    "original": "originals/cones-and-dry-fruits-033-bur-oak-acorn-a516d86c6537d3a1.png",
+    "preview": "previews/cones-and-dry-fruits-033-bur-oak-acorn-a516d86c6537d3a1.webp",
+    "width": 1230,
+    "height": 1278,
+    "title": "Bur oak acorn",
+    "description": "A round brown acorn held in a deep heavily fringed woody cup.",
+    "tags": [
+      "nut",
+      "acorn",
+      "fringed"
+    ],
+    "filename": "033-bur-oak-acorn.png",
+    "originalBytes": 2034727
+  },
+  {
+    "id": "cones-and-dry-fruits-034-cork-oak-acorn",
+    "original": "originals/cones-and-dry-fruits-034-cork-oak-acorn-8536778b4f36b1e6.png",
+    "preview": "previews/cones-and-dry-fruits-034-cork-oak-acorn-8536778b4f36b1e6.webp",
+    "width": 1402,
+    "height": 1122,
+    "title": "Cork oak acorn",
+    "description": "An elongated honey-brown acorn with a rounded tip and a gray-brown pebbled cup.",
+    "tags": [
+      "nut",
+      "acorn",
+      "cork-oak"
+    ],
+    "filename": "034-cork-oak-acorn.png",
+    "originalBytes": 1226356
+  },
+  {
+    "id": "cones-and-dry-fruits-035-valonia-acorn",
+    "original": "originals/cones-and-dry-fruits-035-valonia-acorn-cf4610813eecc787.png",
+    "preview": "previews/cones-and-dry-fruits-035-valonia-acorn-cf4610813eecc787.webp",
+    "width": 1245,
+    "height": 1263,
+    "title": "Valonia acorn",
+    "description": "A broad brown acorn in an oversized cup with long angular recurved woody scales.",
+    "tags": [
+      "nut",
+      "acorn",
+      "scaly"
+    ],
+    "filename": "035-valonia-acorn.png",
+    "originalBytes": 2379425
+  },
+  {
+    "id": "cones-and-dry-fruits-036-walnut-in-shell",
+    "original": "originals/cones-and-dry-fruits-036-walnut-in-shell-072cb6bfc1e7d4c1.png",
+    "preview": "previews/cones-and-dry-fruits-036-walnut-in-shell-072cb6bfc1e7d4c1.webp",
+    "width": 1359,
+    "height": 1157,
+    "title": "Walnut in shell",
+    "description": "A single oval beige walnut with deeply corrugated woody shell and a clear central seam.",
+    "tags": [
+      "dry-fruit",
+      "walnut",
+      "shell"
+    ],
+    "filename": "036-walnut-in-shell.png",
+    "originalBytes": 1994854
+  },
+  {
+    "id": "cones-and-dry-fruits-037-black-walnut-in-shell",
+    "original": "originals/cones-and-dry-fruits-037-black-walnut-in-shell-3e61b89081631f25.png",
+    "preview": "previews/cones-and-dry-fruits-037-black-walnut-in-shell-3e61b89081631f25.webp",
+    "width": 1330,
+    "height": 1182,
+    "title": "Black walnut in shell",
+    "description": "A rounded dark brown walnut shell with rugged deep pits and irregular ridges.",
+    "tags": [
+      "dry-fruit",
+      "walnut",
+      "dark"
+    ],
+    "filename": "037-black-walnut-in-shell.png",
+    "originalBytes": 2133880
+  },
+  {
+    "id": "cones-and-dry-fruits-038-pecan-in-shell",
+    "original": "originals/cones-and-dry-fruits-038-pecan-in-shell-21a1b77ef020bc62.png",
+    "preview": "previews/cones-and-dry-fruits-038-pecan-in-shell-21a1b77ef020bc62.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Pecan in shell",
+    "description": "An elongated smooth reddish-brown nut with dark lengthwise streaks and softly pointed ends.",
+    "tags": [
+      "dry-fruit",
+      "pecan",
+      "shell"
+    ],
+    "filename": "038-pecan-in-shell.png",
+    "originalBytes": 2229415
+  },
+  {
+    "id": "cones-and-dry-fruits-039-hazelnut-in-shell",
+    "original": "originals/cones-and-dry-fruits-039-hazelnut-in-shell-fad20ebe81e56ceb.png",
+    "preview": "previews/cones-and-dry-fruits-039-hazelnut-in-shell-fad20ebe81e56ceb.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Hazelnut in shell",
+    "description": "A round warm chestnut-brown nut with a pale textured basal scar and a gently pointed crown.",
+    "tags": [
+      "nut",
+      "hazelnut",
+      "shell"
+    ],
+    "filename": "039-hazelnut-in-shell.png",
+    "originalBytes": 1590589
+  },
+  {
+    "id": "cones-and-dry-fruits-040-chestnut",
+    "original": "originals/cones-and-dry-fruits-040-chestnut-fcde558b47b176bd.png",
+    "preview": "previews/cones-and-dry-fruits-040-chestnut-fcde558b47b176bd.webp",
+    "width": 1321,
+    "height": 1191,
+    "title": "Chestnut",
+    "description": "A glossy reddish-brown chestnut with a broad pale basal patch and a small tufted pointed tip.",
+    "tags": [
+      "nut",
+      "chestnut",
+      "glossy"
+    ],
+    "filename": "040-chestnut.png",
+    "originalBytes": 1531788
+  },
+  {
+    "id": "cones-and-dry-fruits-041-almond-in-shell",
+    "original": "originals/cones-and-dry-fruits-041-almond-in-shell-5db0647e5c93bf2a.png",
+    "preview": "previews/cones-and-dry-fruits-041-almond-in-shell-5db0647e5c93bf2a.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Almond in shell",
+    "description": "A flattened oval tan almond shell with a pointed end and many tiny natural pores.",
+    "tags": [
+      "dry-fruit",
+      "almond",
+      "shell"
+    ],
+    "filename": "041-almond-in-shell.png",
+    "originalBytes": 2338547
+  },
+  {
+    "id": "cones-and-dry-fruits-042-pistachio-in-shell",
+    "original": "originals/cones-and-dry-fruits-042-pistachio-in-shell-08a96a39d4397baf.png",
+    "preview": "previews/cones-and-dry-fruits-042-pistachio-in-shell-08a96a39d4397baf.webp",
+    "width": 1336,
+    "height": 1177,
+    "title": "Pistachio in shell",
+    "description": "A small ivory oval pistachio shell with a narrow natural seam and subtle pink-beige markings.",
+    "tags": [
+      "dry-fruit",
+      "pistachio",
+      "shell"
+    ],
+    "filename": "042-pistachio-in-shell.png",
+    "originalBytes": 939030
+  },
+  {
+    "id": "cones-and-dry-fruits-043-brazil-nut-in-shell",
+    "original": "originals/cones-and-dry-fruits-043-brazil-nut-in-shell-7370c91db1df1f8b.png",
+    "preview": "previews/cones-and-dry-fruits-043-brazil-nut-in-shell-7370c91db1df1f8b.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Brazil nut in shell",
+    "description": "A dark brown angular wedge-shaped nut shell with rough fibrous ridges and rounded edges.",
+    "tags": [
+      "dry-fruit",
+      "brazil-nut",
+      "angular"
+    ],
+    "filename": "043-brazil-nut-in-shell.png",
+    "originalBytes": 2531736
+  },
+  {
+    "id": "cones-and-dry-fruits-044-macadamia-in-shell",
+    "original": "originals/cones-and-dry-fruits-044-macadamia-in-shell-ce4c560a794299ff.png",
+    "preview": "previews/cones-and-dry-fruits-044-macadamia-in-shell-ce4c560a794299ff.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Macadamia in shell",
+    "description": "A nearly spherical smooth caramel-brown nut shell with a fine curved seam and pale basal scar.",
+    "tags": [
+      "dry-fruit",
+      "macadamia",
+      "round"
+    ],
+    "filename": "044-macadamia-in-shell.png",
+    "originalBytes": 1939660
+  },
+  {
+    "id": "cones-and-dry-fruits-045-beech-nut",
+    "original": "originals/cones-and-dry-fruits-045-beech-nut-dea00b5786d9e7a0.png",
+    "preview": "previews/cones-and-dry-fruits-045-beech-nut-dea00b5786d9e7a0.webp",
+    "width": 1300,
+    "height": 1209,
+    "title": "Beech nut",
+    "description": "A small sharply three-sided glossy reddish-brown nut with a pale pointed tip.",
+    "tags": [
+      "nut",
+      "beech",
+      "triangular"
+    ],
+    "filename": "045-beech-nut.png",
+    "originalBytes": 1209756
+  },
+  {
+    "id": "cones-and-dry-fruits-046-hickory-nut",
+    "original": "originals/cones-and-dry-fruits-046-hickory-nut-29b749e7178ffb76.png",
+    "preview": "previews/cones-and-dry-fruits-046-hickory-nut-29b749e7178ffb76.webp",
+    "width": 1225,
+    "height": 1284,
+    "title": "Hickory nut",
+    "description": "A pale gray-beige oval nut shell with four pronounced lengthwise ridges and a blunt pointed crown.",
+    "tags": [
+      "dry-fruit",
+      "hickory",
+      "ridged"
+    ],
+    "filename": "046-hickory-nut.png",
+    "originalBytes": 1933888
+  },
+  {
+    "id": "cones-and-dry-fruits-047-chestnut-burr",
+    "original": "originals/cones-and-dry-fruits-047-chestnut-burr-78b863b42b31b588.png",
+    "preview": "previews/cones-and-dry-fruits-047-chestnut-burr-78b863b42b31b588.webp",
+    "width": 1278,
+    "height": 1230,
+    "title": "Dry chestnut burr",
+    "description": "A single empty golden-brown spherical husk split along one seam, densely covered with long fine spines.",
+    "tags": [
+      "husk",
+      "chestnut",
+      "spiny"
+    ],
+    "filename": "047-chestnut-burr.png",
+    "originalBytes": 2699554
+  },
+  {
+    "id": "cones-and-dry-fruits-048-beech-cupule",
+    "original": "originals/cones-and-dry-fruits-048-beech-cupule-6d45aea72ddca77e.png",
+    "preview": "previews/cones-and-dry-fruits-048-beech-cupule-6d45aea72ddca77e.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Dry beech cupule",
+    "description": "A single dry tan cupule opened into four connected woody lobes with fine short prickles.",
+    "tags": [
+      "cupule",
+      "beech",
+      "prickly"
+    ],
+    "filename": "048-beech-cupule.png",
+    "originalBytes": 1804263
+  },
+  {
+    "id": "cones-and-dry-fruits-049-hazelnut-with-husk",
+    "original": "originals/cones-and-dry-fruits-049-hazelnut-with-husk-3f5147d0ea6cd135.png",
+    "preview": "previews/cones-and-dry-fruits-049-hazelnut-with-husk-3f5147d0ea6cd135.webp",
+    "width": 1278,
+    "height": 1230,
+    "title": "Hazelnut in dry husk",
+    "description": "A single brown hazelnut held inside an attached dry pale tan fringed leafy husk.",
+    "tags": [
+      "nut",
+      "hazelnut",
+      "husk"
+    ],
+    "filename": "049-hazelnut-with-husk.png",
+    "originalBytes": 1613009
+  },
+  {
+    "id": "cones-and-dry-fruits-050-peanut-pod",
+    "original": "originals/cones-and-dry-fruits-050-peanut-pod-f996cb1a7a8b56a1.png",
+    "preview": "previews/cones-and-dry-fruits-050-peanut-pod-f996cb1a7a8b56a1.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Peanut pod",
+    "description": "A single curved pale tan peanut pod with a narrow waist and deeply netted shell texture.",
+    "tags": [
+      "pod",
+      "peanut",
+      "netted"
+    ],
+    "filename": "050-peanut-pod.png",
+    "originalBytes": 2390991
+  },
+  {
+    "id": "cones-and-dry-fruits-051-horse-chestnut-capsule",
+    "original": "originals/cones-and-dry-fruits-051-horse-chestnut-capsule-7c9accb82b7aacd7.png",
+    "preview": "previews/cones-and-dry-fruits-051-horse-chestnut-capsule-7c9accb82b7aacd7.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Dry horse chestnut capsule",
+    "description": "A single leathery brown rounded fruit capsule with sparse short spikes and one narrow natural split.",
+    "tags": [
+      "capsule",
+      "horse-chestnut",
+      "spiky"
+    ],
+    "filename": "051-horse-chestnut-capsule.png",
+    "originalBytes": 1581977
+  },
+  {
+    "id": "cones-and-dry-fruits-052-lotus-seedpod",
+    "original": "originals/cones-and-dry-fruits-052-lotus-seedpod-26630ec584263a81.png",
+    "preview": "previews/cones-and-dry-fruits-052-lotus-seedpod-26630ec584263a81.webp",
+    "width": 1356,
+    "height": 1159,
+    "title": "Dry lotus seedpod",
+    "description": "A brown inverted-cone-shaped seedpod with a flat round face punctuated by deep circular seed cavities.",
+    "tags": [
+      "seedpod",
+      "lotus",
+      "cavities"
+    ],
+    "filename": "052-lotus-seedpod.png",
+    "originalBytes": 1558616
+  },
+  {
+    "id": "cones-and-dry-fruits-053-poppy-capsule",
+    "original": "originals/cones-and-dry-fruits-053-poppy-capsule-b5a9ba96f570b3cd.png",
+    "preview": "previews/cones-and-dry-fruits-053-poppy-capsule-b5a9ba96f570b3cd.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Dry poppy capsule",
+    "description": "A pale gray-brown rounded capsule with fine vertical ribs and a flat scalloped crown.",
+    "tags": [
+      "capsule",
+      "poppy",
+      "crown"
+    ],
+    "filename": "053-poppy-capsule.png",
+    "originalBytes": 1702338
+  },
+  {
+    "id": "cones-and-dry-fruits-054-eucalyptus-capsule",
+    "original": "originals/cones-and-dry-fruits-054-eucalyptus-capsule-396f9c35ea51ccbc.png",
+    "preview": "previews/cones-and-dry-fruits-054-eucalyptus-capsule-396f9c35ea51ccbc.webp",
+    "width": 1311,
+    "height": 1200,
+    "title": "Eucalyptus capsule",
+    "description": "A small cup-shaped gray-brown woody capsule with a thick rim and star-shaped opening.",
+    "tags": [
+      "capsule",
+      "eucalyptus",
+      "woody"
+    ],
+    "filename": "054-eucalyptus-capsule.png",
+    "originalBytes": 1517953
+  },
+  {
+    "id": "cones-and-dry-fruits-055-bell-shaped-gumnut",
+    "original": "originals/cones-and-dry-fruits-055-bell-shaped-gumnut-10ea678d3b578f58.png",
+    "preview": "previews/cones-and-dry-fruits-055-bell-shaped-gumnut-10ea678d3b578f58.webp",
+    "width": 1246,
+    "height": 1262,
+    "title": "Bell-shaped gumnut",
+    "description": "A tapered russet woody capsule with a broad flared mouth and deeply recessed valves.",
+    "tags": [
+      "capsule",
+      "gumnut",
+      "bell"
+    ],
+    "filename": "055-bell-shaped-gumnut.png",
+    "originalBytes": 1615685
+  },
+  {
+    "id": "cones-and-dry-fruits-056-urn-shaped-gumnut",
+    "original": "originals/cones-and-dry-fruits-056-urn-shaped-gumnut-bd47e7a45a2fe55e.png",
+    "preview": "previews/cones-and-dry-fruits-056-urn-shaped-gumnut-bd47e7a45a2fe55e.webp",
+    "width": 1205,
+    "height": 1305,
+    "title": "Urn-shaped gumnut",
+    "description": "A small pale brown urn-shaped woody capsule with a narrow opening and a smoothly rounded base.",
+    "tags": [
+      "capsule",
+      "gumnut",
+      "urn"
+    ],
+    "filename": "056-urn-shaped-gumnut.png",
+    "originalBytes": 1689778
+  },
+  {
+    "id": "cones-and-dry-fruits-057-bottlebrush-capsule",
+    "original": "originals/cones-and-dry-fruits-057-bottlebrush-capsule-f1079e3889851f92.png",
+    "preview": "previews/cones-and-dry-fruits-057-bottlebrush-capsule-f1079e3889851f92.webp",
+    "width": 1329,
+    "height": 1183,
+    "title": "Bottlebrush capsule",
+    "description": "A small rounded woody seed capsule with a dark central opening and rough concentric ridges.",
+    "tags": [
+      "capsule",
+      "bottlebrush",
+      "woody"
+    ],
+    "filename": "057-bottlebrush-capsule.png",
+    "originalBytes": 1607614
+  },
+  {
+    "id": "cones-and-dry-fruits-058-hakea-seedpod",
+    "original": "originals/cones-and-dry-fruits-058-hakea-seedpod-2134ab541b57ee44.png",
+    "preview": "previews/cones-and-dry-fruits-058-hakea-seedpod-2134ab541b57ee44.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Hakea seedpod",
+    "description": "A heavy dark brown oval woody seedpod with a pointed beak and a rough pebbled surface.",
+    "tags": [
+      "seedpod",
+      "hakea",
+      "beaked"
+    ],
+    "filename": "058-hakea-seedpod.png",
+    "originalBytes": 2361849
+  },
+  {
+    "id": "cones-and-dry-fruits-059-jacaranda-seedpod",
+    "original": "originals/cones-and-dry-fruits-059-jacaranda-seedpod-e6e5ac42b1fd1e16.png",
+    "preview": "previews/cones-and-dry-fruits-059-jacaranda-seedpod-e6e5ac42b1fd1e16.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Jacaranda seedpod",
+    "description": "A flat circular chestnut-brown woody pod with a curved rim and subtle radial grain.",
+    "tags": [
+      "seedpod",
+      "jacaranda",
+      "disc"
+    ],
+    "filename": "059-jacaranda-seedpod.png",
+    "originalBytes": 1803079
+  },
+  {
+    "id": "cones-and-dry-fruits-060-cotton-capsule",
+    "original": "originals/cones-and-dry-fruits-060-cotton-capsule-88e0730f63e060d3.png",
+    "preview": "previews/cones-and-dry-fruits-060-cotton-capsule-88e0730f63e060d3.webp",
+    "width": 1315,
+    "height": 1196,
+    "title": "Dry cotton capsule",
+    "description": "A single empty dry cotton capsule opened into five connected pointed brown woody valves without cotton fibers.",
+    "tags": [
+      "capsule",
+      "cotton",
+      "open"
+    ],
+    "filename": "060-cotton-capsule.png",
+    "originalBytes": 1782825
+  },
+  {
+    "id": "cones-and-dry-fruits-061-milkweed-pod",
+    "original": "originals/cones-and-dry-fruits-061-milkweed-pod-cf81e4f99880bd98.png",
+    "preview": "previews/cones-and-dry-fruits-061-milkweed-pod-cf81e4f99880bd98.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Dry milkweed pod",
+    "description": "A single closed spindle-shaped tawny pod with a rough pebbled surface and a long tapered tip.",
+    "tags": [
+      "pod",
+      "milkweed",
+      "tapered"
+    ],
+    "filename": "061-milkweed-pod.png",
+    "originalBytes": 1077906
+  },
+  {
+    "id": "cones-and-dry-fruits-062-wisteria-pod",
+    "original": "originals/cones-and-dry-fruits-062-wisteria-pod-16908b3188a23093.png",
+    "preview": "previews/cones-and-dry-fruits-062-wisteria-pod-16908b3188a23093.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Dry wisteria pod",
+    "description": "A long flattened brown bean-like pod covered with dense short velvety hairs.",
+    "tags": [
+      "pod",
+      "wisteria",
+      "velvety"
+    ],
+    "filename": "062-wisteria-pod.png",
+    "originalBytes": 1702096
+  },
+  {
+    "id": "cones-and-dry-fruits-063-honey-locust-pod",
+    "original": "originals/cones-and-dry-fruits-063-honey-locust-pod-08f33440aba9a31d.png",
+    "preview": "previews/cones-and-dry-fruits-063-honey-locust-pod-08f33440aba9a31d.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Twisted open pod",
+    "description": "A glossy dark chestnut-brown pod opened into a twisted ribbon, with rounded seeds held inside.",
+    "tags": [
+      "pod",
+      "twisted",
+      "open",
+      "brown"
+    ],
+    "filename": "063-honey-locust-pod.png",
+    "originalBytes": 1512215
+  },
+  {
+    "id": "cones-and-dry-fruits-064-carob-pod",
+    "original": "originals/cones-and-dry-fruits-064-carob-pod-5a9743c60f61ec48.png",
+    "preview": "previews/cones-and-dry-fruits-064-carob-pod-5a9743c60f61ec48.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Carob pod",
+    "description": "A thick leathery dark brown flattened pod with a broad curved outline and subtly ridged edges.",
+    "tags": [
+      "pod",
+      "carob",
+      "leathery"
+    ],
+    "filename": "064-carob-pod.png",
+    "originalBytes": 2069202
+  },
+  {
+    "id": "cones-and-dry-fruits-065-tamarind-pod",
+    "original": "originals/cones-and-dry-fruits-065-tamarind-pod-c562fef1cbd9ff51.png",
+    "preview": "previews/cones-and-dry-fruits-065-tamarind-pod-c562fef1cbd9ff51.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Tamarind pod",
+    "description": "A curved sandy-brown pod with a brittle matte shell and distinct rounded segment bulges.",
+    "tags": [
+      "pod",
+      "tamarind",
+      "segmented"
+    ],
+    "filename": "065-tamarind-pod.png",
+    "originalBytes": 2250896
+  },
+  {
+    "id": "cones-and-dry-fruits-066-acacia-pod",
+    "original": "originals/cones-and-dry-fruits-066-acacia-pod-77fef7dd7acaa5d3.png",
+    "preview": "previews/cones-and-dry-fruits-066-acacia-pod-77fef7dd7acaa5d3.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Dry acacia pod",
+    "description": "A single thin rust-brown pod curled into a loose connected spiral with shallow seed bulges.",
+    "tags": [
+      "pod",
+      "acacia",
+      "curled"
+    ],
+    "filename": "066-acacia-pod.png",
+    "originalBytes": 1191943
+  },
+  {
+    "id": "cones-and-dry-fruits-067-royal-poinciana-pod",
+    "original": "originals/cones-and-dry-fruits-067-royal-poinciana-pod-13d1a32eefbd688a.png",
+    "preview": "previews/cones-and-dry-fruits-067-royal-poinciana-pod-13d1a32eefbd688a.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Royal poinciana pod",
+    "description": "A long nearly black woody sword-shaped pod with a straight flattened body and rounded narrow tip.",
+    "tags": [
+      "pod",
+      "poinciana",
+      "woody"
+    ],
+    "filename": "067-royal-poinciana-pod.png",
+    "originalBytes": 1636427
+  },
+  {
+    "id": "cones-and-dry-fruits-068-laburnum-pod",
+    "original": "originals/cones-and-dry-fruits-068-laburnum-pod-01d09c7ebca5b19e.png",
+    "preview": "previews/cones-and-dry-fruits-068-laburnum-pod-01d09c7ebca5b19e.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Dry laburnum pod",
+    "description": "A slender dark brown pea-like pod with subtle seed bulges and pointed ends.",
+    "tags": [
+      "pod",
+      "laburnum",
+      "slender"
+    ],
+    "filename": "068-laburnum-pod.png",
+    "originalBytes": 1582558
+  },
+  {
+    "id": "cones-and-dry-fruits-069-lupin-pod",
+    "original": "originals/cones-and-dry-fruits-069-lupin-pod-dccffbefa4604c4e.png",
+    "preview": "previews/cones-and-dry-fruits-069-lupin-pod-dccffbefa4604c4e.webp",
+    "width": 1359,
+    "height": 1157,
+    "title": "Open hairy pod",
+    "description": "A pale golden-brown fuzzy pod split open, with its seeds still held inside the connected shell.",
+    "tags": [
+      "pod",
+      "fuzzy",
+      "open",
+      "golden"
+    ],
+    "filename": "069-lupin-pod.png",
+    "originalBytes": 1403268
+  },
+  {
+    "id": "cones-and-dry-fruits-070-broom-pod",
+    "original": "originals/cones-and-dry-fruits-070-broom-pod-b2611ded42efa0f7.png",
+    "preview": "previews/cones-and-dry-fruits-070-broom-pod-b2611ded42efa0f7.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Dry broom pod",
+    "description": "A flattened almost black narrow pod with slightly curved edges and a fine pale hairy seam.",
+    "tags": [
+      "pod",
+      "broom",
+      "dark"
+    ],
+    "filename": "070-broom-pod.png",
+    "originalBytes": 1849348
+  },
+  {
+    "id": "cones-and-dry-fruits-071-redbud-pod",
+    "original": "originals/cones-and-dry-fruits-071-redbud-pod-b6e398f19490837d.png",
+    "preview": "previews/cones-and-dry-fruits-071-redbud-pod-b6e398f19490837d.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Dry redbud pod",
+    "description": "A thin reddish-tan flattened oblong pod with softly rounded seed bulges and a small tapered tip.",
+    "tags": [
+      "pod",
+      "redbud",
+      "flat"
+    ],
+    "filename": "071-redbud-pod.png",
+    "originalBytes": 1531368
+  },
+  {
+    "id": "cones-and-dry-fruits-072-soybean-pod",
+    "original": "originals/cones-and-dry-fruits-072-soybean-pod-3890183b79c08bd3.png",
+    "preview": "previews/cones-and-dry-fruits-072-soybean-pod-3890183b79c08bd3.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Dry soybean pod",
+    "description": "A small tan curved pod with three connected rounded bulges and dense fine fuzzy hairs.",
+    "tags": [
+      "pod",
+      "soybean",
+      "fuzzy"
+    ],
+    "filename": "072-soybean-pod.png",
+    "originalBytes": 1640558
+  },
+  {
+    "id": "cones-and-dry-fruits-073-chickpea-pod",
+    "original": "originals/cones-and-dry-fruits-073-chickpea-pod-885113a7bc845e0c.png",
+    "preview": "previews/cones-and-dry-fruits-073-chickpea-pod-885113a7bc845e0c.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Inflated papery pod",
+    "description": "A broad inflated straw-colored pod with translucent papery veins and a pointed beak.",
+    "tags": [
+      "pod",
+      "inflated",
+      "papery",
+      "veined"
+    ],
+    "filename": "073-chickpea-pod.png",
+    "originalBytes": 1289147
+  },
+  {
+    "id": "cones-and-dry-fruits-074-lentil-pod",
+    "original": "originals/cones-and-dry-fruits-074-lentil-pod-ec7c8f2e9fce3149.png",
+    "preview": "previews/cones-and-dry-fruits-074-lentil-pod-ec7c8f2e9fce3149.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Dry lentil pod",
+    "description": "A tiny pale tan flattened oval pod with a smooth papery surface and a short pointed tip.",
+    "tags": [
+      "pod",
+      "lentil",
+      "papery"
+    ],
+    "filename": "074-lentil-pod.png",
+    "originalBytes": 977305
+  },
+  {
+    "id": "cones-and-dry-fruits-075-bean-pod",
+    "original": "originals/cones-and-dry-fruits-075-bean-pod-d6d6a73ab0c612fc.png",
+    "preview": "previews/cones-and-dry-fruits-075-bean-pod-d6d6a73ab0c612fc.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Dry bean pod",
+    "description": "A slender beige curved bean pod with dry longitudinal ridges and gentle seed bulges.",
+    "tags": [
+      "pod",
+      "bean",
+      "curved"
+    ],
+    "filename": "075-bean-pod.png",
+    "originalBytes": 1441552
+  },
+  {
+    "id": "cones-and-dry-fruits-076-pea-pod",
+    "original": "originals/cones-and-dry-fruits-076-pea-pod-0cfd962de67d9c2f.png",
+    "preview": "previews/cones-and-dry-fruits-076-pea-pod-0cfd962de67d9c2f.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Dry pea pod",
+    "description": "A pale straw-colored arched papery pod with rounded connected seed chambers and fine lengthwise veins.",
+    "tags": [
+      "pod",
+      "pea",
+      "papery"
+    ],
+    "filename": "076-pea-pod.png",
+    "originalBytes": 1762993
+  },
+  {
+    "id": "cones-and-dry-fruits-077-catalpa-pod",
+    "original": "originals/cones-and-dry-fruits-077-catalpa-pod-6fa97577571a13f9.png",
+    "preview": "previews/cones-and-dry-fruits-077-catalpa-pod-6fa97577571a13f9.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Narrow woody pod",
+    "description": "A long thin flattened brown pod with a dark longitudinal seam and smoothly tapered ends.",
+    "tags": [
+      "pod",
+      "woody",
+      "elongated",
+      "flat"
+    ],
+    "filename": "077-catalpa-pod.png",
+    "originalBytes": 1273823
+  },
+  {
+    "id": "cones-and-dry-fruits-078-paulownia-capsule",
+    "original": "originals/cones-and-dry-fruits-078-paulownia-capsule-315049c2f57d81be.png",
+    "preview": "previews/cones-and-dry-fruits-078-paulownia-capsule-315049c2f57d81be.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Paulownia capsule",
+    "description": "An egg-shaped cinnamon-brown woody capsule partly opened along its seams into pointed connected valves.",
+    "tags": [
+      "capsule",
+      "paulownia",
+      "woody"
+    ],
+    "filename": "078-paulownia-capsule.png",
+    "originalBytes": 1667025
+  },
+  {
+    "id": "cones-and-dry-fruits-079-iris-capsule",
+    "original": "originals/cones-and-dry-fruits-079-iris-capsule-cea466788b5ce9a3.png",
+    "preview": "previews/cones-and-dry-fruits-079-iris-capsule-cea466788b5ce9a3.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Dry iris capsule",
+    "description": "A single elongated tan capsule opened slightly into three connected papery valves with fine vertical ribs.",
+    "tags": [
+      "capsule",
+      "iris",
+      "ribbed"
+    ],
+    "filename": "079-iris-capsule.png",
+    "originalBytes": 1504461
+  },
+  {
+    "id": "cones-and-dry-fruits-080-lily-capsule",
+    "original": "originals/cones-and-dry-fruits-080-lily-capsule-3cbe219b290440d6.png",
+    "preview": "previews/cones-and-dry-fruits-080-lily-capsule-3cbe219b290440d6.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Open lily capsule",
+    "description": "A tawny upright oblong capsule partly opened into three connected ribbed valves with pointed tips.",
+    "tags": [
+      "capsule",
+      "lily",
+      "chambers"
+    ],
+    "filename": "080-lily-capsule.png",
+    "originalBytes": 2222846
+  },
+  {
+    "id": "cones-and-dry-fruits-081-okra-capsule",
+    "original": "originals/cones-and-dry-fruits-081-okra-capsule-5bea00479d12213d.png",
+    "preview": "previews/cones-and-dry-fruits-081-okra-capsule-5bea00479d12213d.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Dry okra capsule",
+    "description": "A long tapered ochre-brown capsule with five pronounced longitudinal ribs and a narrow pointed tip.",
+    "tags": [
+      "capsule",
+      "okra",
+      "ribbed"
+    ],
+    "filename": "081-okra-capsule.png",
+    "originalBytes": 1802162
+  },
+  {
+    "id": "cones-and-dry-fruits-082-nigella-capsule",
+    "original": "originals/cones-and-dry-fruits-082-nigella-capsule-cb7458839c90a6d9.png",
+    "preview": "previews/cones-and-dry-fruits-082-nigella-capsule-cb7458839c90a6d9.webp",
+    "width": 1283,
+    "height": 1226,
+    "title": "Dry nigella capsule",
+    "description": "A delicate pale tan inflated capsule with several connected papery chambers and long thin horn-like tips.",
+    "tags": [
+      "capsule",
+      "nigella",
+      "papery"
+    ],
+    "filename": "082-nigella-capsule.png",
+    "originalBytes": 1341032
+  },
+  {
+    "id": "cones-and-dry-fruits-083-foxglove-capsule",
+    "original": "originals/cones-and-dry-fruits-083-foxglove-capsule-db2852a3add003cc.png",
+    "preview": "previews/cones-and-dry-fruits-083-foxglove-capsule-db2852a3add003cc.webp",
+    "width": 1226,
+    "height": 1283,
+    "title": "Dry foxglove capsule",
+    "description": "A small pointed brown oval capsule enclosed by an attached star of five dry narrow calyx lobes.",
+    "tags": [
+      "capsule",
+      "foxglove",
+      "pointed"
+    ],
+    "filename": "083-foxglove-capsule.png",
+    "originalBytes": 1115245
+  },
+  {
+    "id": "cones-and-dry-fruits-084-snapdragon-capsule",
+    "original": "originals/cones-and-dry-fruits-084-snapdragon-capsule-5638dec594ea8289.png",
+    "preview": "previews/cones-and-dry-fruits-084-snapdragon-capsule-5638dec594ea8289.webp",
+    "width": 1213,
+    "height": 1296,
+    "title": "Dry snapdragon capsule",
+    "description": "A small weathered beige capsule with rounded openings and a distinctive skull-like silhouette.",
+    "tags": [
+      "capsule",
+      "snapdragon",
+      "weathered"
+    ],
+    "filename": "084-snapdragon-capsule.png",
+    "originalBytes": 1020400
+  },
+  {
+    "id": "cones-and-dry-fruits-085-hibiscus-capsule",
+    "original": "originals/cones-and-dry-fruits-085-hibiscus-capsule-8f2661829be3e240.png",
+    "preview": "previews/cones-and-dry-fruits-085-hibiscus-capsule-8f2661829be3e240.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Dry hibiscus capsule",
+    "description": "A tawny seed capsule opened into connected broad pointed valves forming a woody star.",
+    "tags": [
+      "capsule",
+      "hibiscus",
+      "star"
+    ],
+    "filename": "085-hibiscus-capsule.png",
+    "originalBytes": 1378821
+  },
+  {
+    "id": "cones-and-dry-fruits-086-datura-capsule",
+    "original": "originals/cones-and-dry-fruits-086-datura-capsule-b74ce8b5a0276c25.png",
+    "preview": "previews/cones-and-dry-fruits-086-datura-capsule-b74ce8b5a0276c25.webp",
+    "width": 1312,
+    "height": 1199,
+    "title": "Dry datura capsule",
+    "description": "A rounded pale brown capsule densely covered in sharp conical spines, with a natural opening at the crown.",
+    "tags": [
+      "capsule",
+      "datura",
+      "spiny"
+    ],
+    "filename": "086-datura-capsule.png",
+    "originalBytes": 1721345
+  },
+  {
+    "id": "cones-and-dry-fruits-087-castor-capsule",
+    "original": "originals/cones-and-dry-fruits-087-castor-capsule-75c8d20372f21df5.png",
+    "preview": "previews/cones-and-dry-fruits-087-castor-capsule-75c8d20372f21df5.webp",
+    "width": 1299,
+    "height": 1211,
+    "title": "Dry castor capsule",
+    "description": "A single reddish-brown three-lobed rounded capsule covered with many fine stiff short spikes.",
+    "tags": [
+      "capsule",
+      "castor",
+      "spiky"
+    ],
+    "filename": "087-castor-capsule.png",
+    "originalBytes": 2160474
+  },
+  {
+    "id": "cones-and-dry-fruits-088-honesty-seedpod",
+    "original": "originals/cones-and-dry-fruits-088-honesty-seedpod-6049186c9e36f3be.png",
+    "preview": "previews/cones-and-dry-fruits-088-honesty-seedpod-6049186c9e36f3be.webp",
+    "width": 1145,
+    "height": 1374,
+    "title": "Honesty seedpod",
+    "description": "A single thin oval silvery-beige papery seedpod with a delicate translucent central membrane and fine rim.",
+    "tags": [
+      "seedpod",
+      "honesty",
+      "papery"
+    ],
+    "filename": "088-honesty-seedpod.png",
+    "originalBytes": 1427368
+  },
+  {
+    "id": "cones-and-dry-fruits-089-shepherds-purse-pod",
+    "original": "originals/cones-and-dry-fruits-089-shepherds-purse-pod-7a2ed5b0bc737f98.png",
+    "preview": "previews/cones-and-dry-fruits-089-shepherds-purse-pod-7a2ed5b0bc737f98.webp",
+    "width": 1215,
+    "height": 1295,
+    "title": "Shepherds purse pod",
+    "description": "A single tiny heart-shaped tan flattened pod with a shallow top notch and fine papery veins.",
+    "tags": [
+      "pod",
+      "shepherds-purse",
+      "heart"
+    ],
+    "filename": "089-shepherds-purse-pod.png",
+    "originalBytes": 1265716
+  },
+  {
+    "id": "cones-and-dry-fruits-090-radish-seedpod",
+    "original": "originals/cones-and-dry-fruits-090-radish-seedpod-db98da76a3971485.png",
+    "preview": "previews/cones-and-dry-fruits-090-radish-seedpod-db98da76a3971485.webp",
+    "width": 1199,
+    "height": 1312,
+    "title": "Dry radish seedpod",
+    "description": "A single beige cylindrical pod with uneven connected rounded chambers and a long tapered beak.",
+    "tags": [
+      "pod",
+      "radish",
+      "segmented"
+    ],
+    "filename": "090-radish-seedpod.png",
+    "originalBytes": 645790
+  },
+  {
+    "id": "cones-and-dry-fruits-091-maple-samara",
+    "original": "originals/cones-and-dry-fruits-091-maple-samara-62deaadd4410bd7e.png",
+    "preview": "previews/cones-and-dry-fruits-091-maple-samara-62deaadd4410bd7e.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Maple samara",
+    "description": "A single golden-brown winged dry fruit with one rounded seed body and one broad veined papery wing.",
+    "tags": [
+      "samara",
+      "maple",
+      "winged"
+    ],
+    "filename": "091-maple-samara.png",
+    "originalBytes": 2035965
+  },
+  {
+    "id": "cones-and-dry-fruits-092-ash-samara",
+    "original": "originals/cones-and-dry-fruits-092-ash-samara-70501f78a41fddf6.png",
+    "preview": "previews/cones-and-dry-fruits-092-ash-samara-70501f78a41fddf6.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Ash samara",
+    "description": "A single slender tan dry fruit with one elongated central seed and a narrow lance-shaped papery wing.",
+    "tags": [
+      "samara",
+      "ash",
+      "winged"
+    ],
+    "filename": "092-ash-samara.png",
+    "originalBytes": 1602603
+  },
+  {
+    "id": "cones-and-dry-fruits-093-elm-samara",
+    "original": "originals/cones-and-dry-fruits-093-elm-samara-b35a21c4ab67ca39.png",
+    "preview": "previews/cones-and-dry-fruits-093-elm-samara-b35a21c4ab67ca39.webp",
+    "width": 1254,
+    "height": 1254,
+    "title": "Elm samara",
+    "description": "A single pale beige circular papery winged fruit with one small darker central seed and a shallow edge notch.",
+    "tags": [
+      "samara",
+      "elm",
+      "disc"
+    ],
+    "filename": "093-elm-samara.png",
+    "originalBytes": 1809075
+  },
+  {
+    "id": "cones-and-dry-fruits-094-hornbeam-fruit",
+    "original": "originals/cones-and-dry-fruits-094-hornbeam-fruit-7c19db91decb105f.png",
+    "preview": "previews/cones-and-dry-fruits-094-hornbeam-fruit-7c19db91decb105f.webp",
+    "width": 1295,
+    "height": 1214,
+    "title": "Hornbeam fruit",
+    "description": "A single small ribbed brown nut attached to one dry three-lobed pale tan papery bract.",
+    "tags": [
+      "nut",
+      "hornbeam",
+      "bract"
+    ],
+    "filename": "094-hornbeam-fruit.png",
+    "originalBytes": 1154982
+  },
+  {
+    "id": "cones-and-dry-fruits-095-linden-fruit",
+    "original": "originals/cones-and-dry-fruits-095-linden-fruit-4462e567728a4240.png",
+    "preview": "previews/cones-and-dry-fruits-095-linden-fruit-4462e567728a4240.webp",
+    "width": 1199,
+    "height": 1312,
+    "title": "Linden fruit",
+    "description": "A single round gray-brown nutlet on a short attached stalk joined to one long narrow pale straw-colored bract.",
+    "tags": [
+      "nutlet",
+      "linden",
+      "bract"
+    ],
+    "filename": "095-linden-fruit.png",
+    "originalBytes": 737808
+  },
+  {
+    "id": "cones-and-dry-fruits-096-tree-of-heaven-samara",
+    "original": "originals/cones-and-dry-fruits-096-tree-of-heaven-samara-bc897d02e2cc53f7.png",
+    "preview": "previews/cones-and-dry-fruits-096-tree-of-heaven-samara-bc897d02e2cc53f7.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Tree of heaven samara",
+    "description": "A single reddish-tan narrow papery winged fruit with a gently twisted ribbon outline and one central seed bulge.",
+    "tags": [
+      "samara",
+      "tree-of-heaven",
+      "twisted"
+    ],
+    "filename": "096-tree-of-heaven-samara.png",
+    "originalBytes": 1605946
+  },
+  {
+    "id": "cones-and-dry-fruits-097-cocklebur-fruit",
+    "original": "originals/cones-and-dry-fruits-097-cocklebur-fruit-479e224e06350086.png",
+    "preview": "previews/cones-and-dry-fruits-097-cocklebur-fruit-479e224e06350086.webp",
+    "width": 1536,
+    "height": 1024,
+    "title": "Cocklebur fruit",
+    "description": "A single oval dark tan burr covered with hooked short spines and two pointed beaks at one end.",
+    "tags": [
+      "burr",
+      "cocklebur",
+      "hooked"
+    ],
+    "filename": "097-cocklebur-fruit.png",
+    "originalBytes": 2086970
+  },
+  {
+    "id": "cones-and-dry-fruits-098-water-caltrop-fruit",
+    "original": "originals/cones-and-dry-fruits-098-water-caltrop-fruit-1eabef66997e8c72.png",
+    "preview": "previews/cones-and-dry-fruits-098-water-caltrop-fruit-1eabef66997e8c72.webp",
+    "width": 1326,
+    "height": 1187,
+    "title": "Water caltrop fruit",
+    "description": "A single very dark brown woody fruit with a rounded center and four thick curved pointed horns.",
+    "tags": [
+      "dry-fruit",
+      "water-caltrop",
+      "horned"
+    ],
+    "filename": "098-water-caltrop-fruit.png",
+    "originalBytes": 1407755
+  },
+  {
+    "id": "cones-and-dry-fruits-099-devils-claw-pod",
+    "original": "originals/cones-and-dry-fruits-099-devils-claw-pod-26ff8b3f4b712194.png",
+    "preview": "previews/cones-and-dry-fruits-099-devils-claw-pod-26ff8b3f4b712194.webp",
+    "width": 1374,
+    "height": 1145,
+    "title": "Devils claw pod",
+    "description": "A single dark brown woody seedpod with an oval ridged body and two long connected curved hooked claws.",
+    "tags": [
+      "seedpod",
+      "devils-claw",
+      "hooked"
+    ],
+    "filename": "099-devils-claw-pod.png",
+    "originalBytes": 1323833
+  },
+  {
+    "id": "cones-and-dry-fruits-100-sesame-capsule",
+    "original": "originals/cones-and-dry-fruits-100-sesame-capsule-d31e35dfda2792ee.png",
+    "preview": "previews/cones-and-dry-fruits-100-sesame-capsule-d31e35dfda2792ee.webp",
+    "width": 1024,
+    "height": 1536,
+    "title": "Dry sesame capsule",
+    "description": "A single slender upright tan capsule with deeply ridged sides and a narrow natural split at the pointed crown.",
+    "tags": [
+      "capsule",
+      "sesame",
+      "ridged"
+    ],
+    "filename": "100-sesame-capsule.png",
+    "originalBytes": 1620983
+  }
+]

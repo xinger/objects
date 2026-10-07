@@ -14,6 +14,7 @@ const objectSchema = z.object({
   description: z.string().trim().optional().default(''),
   tags: z.array(z.string().trim().min(1)).optional().default([]),
   filename: z.string().min(1).optional(),
+  originalBytes: z.number().int().positive().optional(),
 });
 
 /** @param {{id: string, title: string}[]} categories

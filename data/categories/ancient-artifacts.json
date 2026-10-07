@@ -14,7 +14,8 @@
       "amulet",
       "museum style"
     ],
-    "filename": "001-egyptian-scarab.png"
+    "filename": "001-egyptian-scarab.png",
+    "originalBytes": 1828665
   },
   {
     "id": "ancient-artifacts-002-greek-amphora",
@@ -31,7 +32,8 @@
       "vessel",
       "museum style"
     ],
-    "filename": "002-greek-amphora.png"
+    "filename": "002-greek-amphora.png",
+    "originalBytes": 1909455
   },
   {
     "id": "ancient-artifacts-003-roman-oil-lamp",
@@ -48,7 +50,8 @@
       "relief",
       "museum style"
     ],
-    "filename": "003-roman-oil-lamp.png"
+    "filename": "003-roman-oil-lamp.png",
+    "originalBytes": 1526275
   },
   {
     "id": "ancient-artifacts-004-bronze-corinthian-helmet",
@@ -65,7 +68,8 @@
       "patina",
       "museum style"
     ],
-    "filename": "004-bronze-corinthian-helmet.png"
+    "filename": "004-bronze-corinthian-helmet.png",
+    "originalBytes": 1810098
   },
   {
     "id": "ancient-artifacts-005-clay-impression-tablet",
@@ -82,7 +86,8 @@
       "impressions",
       "museum style"
     ],
-    "filename": "005-clay-impression-tablet.png"
+    "filename": "005-clay-impression-tablet.png",
+    "originalBytes": 1940426
   },
   {
     "id": "ancient-artifacts-006-jade-bi-disc",
@@ -99,7 +104,8 @@
       "stone",
       "museum style"
     ],
-    "filename": "006-jade-bi-disc.png"
+    "filename": "006-jade-bi-disc.png",
+    "originalBytes": 2216901
   },
   {
     "id": "ancient-artifacts-007-bronze-celtic-torc",
@@ -116,7 +122,8 @@
       "jewelry",
       "museum style"
     ],
-    "filename": "007-bronze-celtic-torc.png"
+    "filename": "007-bronze-celtic-torc.png",
+    "originalBytes": 1785457
   },
   {
     "id": "ancient-artifacts-008-obsidian-arrowhead",
@@ -133,7 +140,8 @@
       "stone",
       "museum style"
     ],
-    "filename": "008-obsidian-arrowhead.png"
+    "filename": "008-obsidian-arrowhead.png",
+    "originalBytes": 1314328
   },
   {
     "id": "ancient-artifacts-009-egyptian-canopic-jar",
@@ -150,7 +158,8 @@
       "vessel",
       "museum style"
     ],
-    "filename": "009-egyptian-canopic-jar.png"
+    "filename": "009-egyptian-canopic-jar.png",
+    "originalBytes": 2443228
   },
   {
     "id": "ancient-artifacts-010-roman-glass-flask",
@@ -167,7 +176,8 @@
       "iridescent",
       "museum style"
     ],
-    "filename": "010-roman-glass-flask.png"
+    "filename": "010-roman-glass-flask.png",
+    "originalBytes": 2154592
   },
   {
     "id": "ancient-artifacts-011-bronze-fibula",
@@ -184,7 +194,8 @@
       "bronze",
       "museum style"
     ],
-    "filename": "011-bronze-fibula.png"
+    "filename": "011-bronze-fibula.png",
+    "originalBytes": 1801524
   },
   {
     "id": "ancient-artifacts-012-greek-silver-coin",
@@ -201,7 +212,8 @@
       "owl",
       "museum style"
     ],
-    "filename": "012-greek-silver-coin.png"
+    "filename": "012-greek-silver-coin.png",
+    "originalBytes": 2260066
   },
   {
     "id": "ancient-artifacts-013-egyptian-ushabti",
@@ -218,7 +230,8 @@
       "figurine",
       "museum style"
     ],
-    "filename": "013-egyptian-ushabti.png"
+    "filename": "013-egyptian-ushabti.png",
+    "originalBytes": 1902877
   },
   {
     "id": "ancient-artifacts-014-bronze-hand-mirror",
@@ -235,7 +248,8 @@
       "handle",
       "museum style"
     ],
-    "filename": "014-bronze-hand-mirror.png"
+    "filename": "014-bronze-hand-mirror.png",
+    "originalBytes": 2026071
   },
   {
     "id": "ancient-artifacts-015-minoan-rhyton",
@@ -252,7 +266,8 @@
       "steatite",
       "museum style"
     ],
-    "filename": "015-minoan-rhyton.png"
+    "filename": "015-minoan-rhyton.png",
+    "originalBytes": 1334172
   },
   {
     "id": "ancient-artifacts-016-bronze-dagger",
@@ -269,7 +284,8 @@
       "blade",
       "museum style"
     ],
-    "filename": "016-bronze-dagger.png"
+    "filename": "016-bronze-dagger.png",
+    "originalBytes": 1532435
   },
   {
     "id": "ancient-artifacts-017-terracotta-ritual-figurine",
@@ -286,7 +302,8 @@
       "sculpture",
       "museum style"
     ],
-    "filename": "017-terracotta-ritual-figurine.png"
+    "filename": "017-terracotta-ritual-figurine.png",
+    "originalBytes": 2185439
   },
   {
     "id": "ancient-artifacts-018-lapis-cylinder-seal",
@@ -303,7 +320,8 @@
       "cylinder",
       "museum style"
     ],
-    "filename": "018-lapis-cylinder-seal.png"
+    "filename": "018-lapis-cylinder-seal.png",
+    "originalBytes": 1646177
   },
   {
     "id": "ancient-artifacts-019-bronze-spearhead",
@@ -320,7 +338,8 @@
       "socket",
       "museum style"
     ],
-    "filename": "019-bronze-spearhead.png"
+    "filename": "019-bronze-spearhead.png",
+    "originalBytes": 1877683
   },
   {
     "id": "ancient-artifacts-020-stone-mace-head",
@@ -337,7 +356,8 @@
       "stone",
       "museum style"
     ],
-    "filename": "020-stone-mace-head.png"
+    "filename": "020-stone-mace-head.png",
+    "originalBytes": 1637899
   },
   {
     "id": "ancient-artifacts-021-gold-rosette-pendant",
@@ -354,7 +374,8 @@
       "rosette",
       "museum style"
     ],
-    "filename": "021-gold-rosette-pendant.png"
+    "filename": "021-gold-rosette-pendant.png",
+    "originalBytes": 2069742
   },
   {
     "id": "ancient-artifacts-022-ancient-stone-game-board",
@@ -371,7 +392,8 @@
       "carved stone",
       "museum style"
     ],
-    "filename": "022-ancient-stone-game-board.png"
+    "filename": "022-ancient-stone-game-board.png",
+    "originalBytes": 2253669
   },
   {
     "id": "ancient-artifacts-023-roman-bronze-key",
@@ -388,7 +410,8 @@
       "ring",
       "museum style"
     ],
-    "filename": "023-roman-bronze-key.png"
+    "filename": "023-roman-bronze-key.png",
+    "originalBytes": 1821518
   },
   {
     "id": "ancient-artifacts-024-egyptian-stone-palette",
@@ -405,7 +428,8 @@
       "fish",
       "museum style"
     ],
-    "filename": "024-egyptian-stone-palette.png"
+    "filename": "024-egyptian-stone-palette.png",
+    "originalBytes": 2251077
   },
   {
     "id": "ancient-artifacts-025-stone-bust",
@@ -422,7 +446,8 @@
       "sculpture",
       "museum style"
     ],
-    "filename": "025-stone-bust.png"
+    "filename": "025-stone-bust.png",
+    "originalBytes": 1558714
   },
   {
     "id": "ancient-artifacts-026-bronze-bell",
@@ -439,7 +464,8 @@
       "patina",
       "museum style"
     ],
-    "filename": "026-bronze-bell.png"
+    "filename": "026-bronze-bell.png",
+    "originalBytes": 1796388
   },
   {
     "id": "ancient-artifacts-027-gold-funerary-mask",
@@ -456,7 +482,8 @@
       "embossed",
       "museum style"
     ],
-    "filename": "027-gold-funerary-mask.png"
+    "filename": "027-gold-funerary-mask.png",
+    "originalBytes": 2289850
   },
   {
     "id": "ancient-artifacts-028-bronze-dragon-vessel",
@@ -473,7 +500,8 @@
       "tripod vessel",
       "museum style"
     ],
-    "filename": "028-bronze-dragon-vessel.png"
+    "filename": "028-bronze-dragon-vessel.png",
+    "originalBytes": 2027821
   },
   {
     "id": "ancient-artifacts-029-stone-spindle-whorl",
@@ -490,7 +518,8 @@
       "disc",
       "museum style"
     ],
-    "filename": "029-stone-spindle-whorl.png"
+    "filename": "029-stone-spindle-whorl.png",
+    "originalBytes": 2339479
   },
   {
     "id": "ancient-artifacts-030-etruscan-bucchero-cup",
@@ -507,7 +536,8 @@
       "ceramic",
       "museum style"
     ],
-    "filename": "030-etruscan-bucchero-cup.png"
+    "filename": "030-etruscan-bucchero-cup.png",
+    "originalBytes": 2119843
   },
   {
     "id": "ancient-artifacts-031-alabaster-alabastron",
@@ -524,7 +554,8 @@
       "perfume vessel",
       "museum style"
     ],
-    "filename": "031-alabaster-alabastron.png"
+    "filename": "031-alabaster-alabastron.png",
+    "originalBytes": 1738938
   },
   {
     "id": "ancient-artifacts-032-terracotta-lekythos",
@@ -541,7 +572,8 @@
       "oil vessel",
       "museum style"
     ],
-    "filename": "032-terracotta-lekythos.png"
+    "filename": "032-terracotta-lekythos.png",
+    "originalBytes": 2184164
   },
   {
     "id": "ancient-artifacts-033-red-figure-kylix",
@@ -558,7 +590,8 @@
       "drinking cup",
       "museum style"
     ],
-    "filename": "033-red-figure-kylix.png"
+    "filename": "033-red-figure-kylix.png",
+    "originalBytes": 1842025
   },
   {
     "id": "ancient-artifacts-034-corinthian-aryballos",
@@ -575,7 +608,8 @@
       "perfume flask",
       "museum style"
     ],
-    "filename": "034-corinthian-aryballos.png"
+    "filename": "034-corinthian-aryballos.png",
+    "originalBytes": 1535213
   },
   {
     "id": "ancient-artifacts-035-terracotta-askos",
@@ -592,7 +626,8 @@
       "vessel",
       "museum style"
     ],
-    "filename": "035-terracotta-askos.png"
+    "filename": "035-terracotta-askos.png",
+    "originalBytes": 2484556
   },
   {
     "id": "ancient-artifacts-036-silver-drinking-horn",
@@ -609,7 +644,8 @@
       "ibex",
       "museum style"
     ],
-    "filename": "036-silver-drinking-horn.png"
+    "filename": "036-silver-drinking-horn.png",
+    "originalBytes": 1702918
   },
   {
     "id": "ancient-artifacts-037-faience-lotus-chalice",
@@ -626,7 +662,8 @@
       "lotus",
       "museum style"
     ],
-    "filename": "037-faience-lotus-chalice.png"
+    "filename": "037-faience-lotus-chalice.png",
+    "originalBytes": 1768915
   },
   {
     "id": "ancient-artifacts-038-basalt-bowl",
@@ -643,7 +680,8 @@
       "stone",
       "museum style"
     ],
-    "filename": "038-basalt-bowl.png"
+    "filename": "038-basalt-bowl.png",
+    "originalBytes": 2520697
   },
   {
     "id": "ancient-artifacts-039-limestone-mortar",
@@ -660,7 +698,8 @@
       "stone",
       "museum style"
     ],
-    "filename": "039-limestone-mortar.png"
+    "filename": "039-limestone-mortar.png",
+    "originalBytes": 2859718
   },
   {
     "id": "ancient-artifacts-040-granite-handstone",
@@ -677,7 +716,8 @@
       "grinding tool",
       "museum style"
     ],
-    "filename": "040-granite-handstone.png"
+    "filename": "040-granite-handstone.png",
+    "originalBytes": 2828584
   },
   {
     "id": "ancient-artifacts-041-calcite-cosmetic-spoon",
@@ -694,7 +734,8 @@
       "duck",
       "museum style"
     ],
-    "filename": "041-calcite-cosmetic-spoon.png"
+    "filename": "041-calcite-cosmetic-spoon.png",
+    "originalBytes": 1581769
   },
   {
     "id": "ancient-artifacts-042-bronze-ladle",
@@ -711,7 +752,8 @@
       "utensil",
       "museum style"
     ],
-    "filename": "042-bronze-ladle.png"
+    "filename": "042-bronze-ladle.png",
+    "originalBytes": 1432636
   },
   {
     "id": "ancient-artifacts-043-bronze-strainer",
@@ -728,7 +770,8 @@
       "utensil",
       "museum style"
     ],
-    "filename": "043-bronze-strainer.png"
+    "filename": "043-bronze-strainer.png",
+    "originalBytes": 2041890
   },
   {
     "id": "ancient-artifacts-044-bronze-pan",
@@ -745,7 +788,8 @@
       "cooking vessel",
       "museum style"
     ],
-    "filename": "044-bronze-pan.png"
+    "filename": "044-bronze-pan.png",
+    "originalBytes": 2416821
   },
   {
     "id": "ancient-artifacts-045-bronze-cauldron",
@@ -762,7 +806,8 @@
       "vessel",
       "museum style"
     ],
-    "filename": "045-bronze-cauldron.png"
+    "filename": "045-bronze-cauldron.png",
+    "originalBytes": 2750305
   },
   {
     "id": "ancient-artifacts-046-bronze-oinochoe",
@@ -779,7 +824,8 @@
       "jug",
       "museum style"
     ],
-    "filename": "046-bronze-oinochoe.png"
+    "filename": "046-bronze-oinochoe.png",
+    "originalBytes": 1695774
   },
   {
     "id": "ancient-artifacts-047-fluted-silver-bowl",
@@ -796,7 +842,8 @@
       "fluted",
       "museum style"
     ],
-    "filename": "047-fluted-silver-bowl.png"
+    "filename": "047-fluted-silver-bowl.png",
+    "originalBytes": 2479775
   },
   {
     "id": "ancient-artifacts-048-alabaster-kohl-pot",
@@ -813,7 +860,8 @@
       "cosmetics",
       "museum style"
     ],
-    "filename": "048-alabaster-kohl-pot.png"
+    "filename": "048-alabaster-kohl-pot.png",
+    "originalBytes": 1518908
   },
   {
     "id": "ancient-artifacts-049-bone-kohl-applicator",
@@ -830,7 +878,8 @@
       "cosmetics",
       "museum style"
     ],
-    "filename": "049-bone-kohl-applicator.png"
+    "filename": "049-bone-kohl-applicator.png",
+    "originalBytes": 1141282
   },
   {
     "id": "ancient-artifacts-050-faience-hippopotamus",
@@ -847,7 +896,8 @@
       "figurine",
       "museum style"
     ],
-    "filename": "050-faience-hippopotamus.png"
+    "filename": "050-faience-hippopotamus.png",
+    "originalBytes": 2393207
   },
   {
     "id": "ancient-artifacts-051-faience-eye-amulet",
@@ -864,7 +914,8 @@
       "jewelry",
       "museum style"
     ],
-    "filename": "051-faience-eye-amulet.png"
+    "filename": "051-faience-eye-amulet.png",
+    "originalBytes": 2122554
   },
   {
     "id": "ancient-artifacts-052-carnelian-djed-amulet",
@@ -881,7 +932,8 @@
       "amulet",
       "museum style"
     ],
-    "filename": "052-carnelian-djed-amulet.png"
+    "filename": "052-carnelian-djed-amulet.png",
+    "originalBytes": 2054088
   },
   {
     "id": "ancient-artifacts-053-jasper-papyrus-amulet",
@@ -898,7 +950,8 @@
       "amulet",
       "museum style"
     ],
-    "filename": "053-jasper-papyrus-amulet.png"
+    "filename": "053-jasper-papyrus-amulet.png",
+    "originalBytes": 1803276
   },
   {
     "id": "ancient-artifacts-054-gold-lotus-earring",
@@ -915,7 +968,8 @@
       "lotus",
       "museum style"
     ],
-    "filename": "054-gold-lotus-earring.png"
+    "filename": "054-gold-lotus-earring.png",
+    "originalBytes": 1146079
   },
   {
     "id": "ancient-artifacts-055-gold-snake-armband",
@@ -932,7 +986,8 @@
       "snake",
       "museum style"
     ],
-    "filename": "055-gold-snake-armband.png"
+    "filename": "055-gold-snake-armband.png",
+    "originalBytes": 1323258
   },
   {
     "id": "ancient-artifacts-056-gold-spiral-ring",
@@ -949,7 +1004,8 @@
       "spiral",
       "museum style"
     ],
-    "filename": "056-gold-spiral-ring.png"
+    "filename": "056-gold-spiral-ring.png",
+    "originalBytes": 1438348
   },
   {
     "id": "ancient-artifacts-057-garnet-intaglio-ring",
@@ -966,7 +1022,8 @@
       "intaglio",
       "museum style"
     ],
-    "filename": "057-garnet-intaglio-ring.png"
+    "filename": "057-garnet-intaglio-ring.png",
+    "originalBytes": 1672769
   },
   {
     "id": "ancient-artifacts-058-gold-leaf-diadem",
@@ -983,7 +1040,8 @@
       "laurel",
       "museum style"
     ],
-    "filename": "058-gold-leaf-diadem.png"
+    "filename": "058-gold-leaf-diadem.png",
+    "originalBytes": 2113910
   },
   {
     "id": "ancient-artifacts-059-bronze-belt-buckle",
@@ -1000,7 +1058,8 @@
       "belt",
       "museum style"
     ],
-    "filename": "059-bronze-belt-buckle.png"
+    "filename": "059-bronze-belt-buckle.png",
+    "originalBytes": 2232619
   },
   {
     "id": "ancient-artifacts-060-bronze-cloak-pin",
@@ -1017,7 +1076,8 @@
       "fastener",
       "museum style"
     ],
-    "filename": "060-bronze-cloak-pin.png"
+    "filename": "060-bronze-cloak-pin.png",
+    "originalBytes": 1208419
   },
   {
     "id": "ancient-artifacts-061-jade-cong",
@@ -1034,7 +1094,8 @@
       "tube",
       "museum style"
     ],
-    "filename": "061-jade-cong.png"
+    "filename": "061-jade-cong.png",
+    "originalBytes": 1918336
   },
   {
     "id": "ancient-artifacts-062-jade-dragon-pendant",
@@ -1051,7 +1112,8 @@
       "dragon",
       "museum style"
     ],
-    "filename": "062-jade-dragon-pendant.png"
+    "filename": "062-jade-dragon-pendant.png",
+    "originalBytes": 1608640
   },
   {
     "id": "ancient-artifacts-063-jade-ceremonial-axe",
@@ -1068,7 +1130,8 @@
       "ceremonial object",
       "museum style"
     ],
-    "filename": "063-jade-ceremonial-axe.png"
+    "filename": "063-jade-ceremonial-axe.png",
+    "originalBytes": 2027370
   },
   {
     "id": "ancient-artifacts-064-jade-comb",
@@ -1085,7 +1148,8 @@
       "grooming",
       "museum style"
     ],
-    "filename": "064-jade-comb.png"
+    "filename": "064-jade-comb.png",
+    "originalBytes": 2311211
   },
   {
     "id": "ancient-artifacts-065-bone-comb",
@@ -1102,7 +1166,8 @@
       "grooming",
       "museum style"
     ],
-    "filename": "065-bone-comb.png"
+    "filename": "065-bone-comb.png",
+    "originalBytes": 2244031
   },
   {
     "id": "ancient-artifacts-066-carved-ivory-hairpin",
@@ -1119,7 +1184,8 @@
       "ram",
       "museum style"
     ],
-    "filename": "066-carved-ivory-hairpin.png"
+    "filename": "066-carved-ivory-hairpin.png",
+    "originalBytes": 1180380
   },
   {
     "id": "ancient-artifacts-067-bronze-razor",
@@ -1136,7 +1202,8 @@
       "grooming",
       "museum style"
     ],
-    "filename": "067-bronze-razor.png"
+    "filename": "067-bronze-razor.png",
+    "originalBytes": 2255551
   },
   {
     "id": "ancient-artifacts-068-bronze-tweezers",
@@ -1153,7 +1220,8 @@
       "tool",
       "museum style"
     ],
-    "filename": "068-bronze-tweezers.png"
+    "filename": "068-bronze-tweezers.png",
+    "originalBytes": 1378117
   },
   {
     "id": "ancient-artifacts-069-bronze-medical-probe",
@@ -1170,7 +1238,8 @@
       "instrument",
       "museum style"
     ],
-    "filename": "069-bronze-medical-probe.png"
+    "filename": "069-bronze-medical-probe.png",
+    "originalBytes": 1026434
   },
   {
     "id": "ancient-artifacts-070-iron-forceps",
@@ -1187,7 +1256,8 @@
       "instrument",
       "museum style"
     ],
-    "filename": "070-iron-forceps.png"
+    "filename": "070-iron-forceps.png",
+    "originalBytes": 1615796
   },
   {
     "id": "ancient-artifacts-071-duck-stone-weight",
@@ -1204,7 +1274,8 @@
       "duck",
       "museum style"
     ],
-    "filename": "071-duck-stone-weight.png"
+    "filename": "071-duck-stone-weight.png",
+    "originalBytes": 2448575
   },
   {
     "id": "ancient-artifacts-072-bronze-scale-pan",
@@ -1221,7 +1292,8 @@
       "measurement",
       "museum style"
     ],
-    "filename": "072-bronze-scale-pan.png"
+    "filename": "072-bronze-scale-pan.png",
+    "originalBytes": 2617544
   },
   {
     "id": "ancient-artifacts-073-stone-hemispherical-sundial",
@@ -1238,7 +1310,8 @@
       "measurement",
       "museum style"
     ],
-    "filename": "073-stone-hemispherical-sundial.png"
+    "filename": "073-stone-hemispherical-sundial.png",
+    "originalBytes": 2784221
   },
   {
     "id": "ancient-artifacts-074-bronze-dividers",
@@ -1255,7 +1328,8 @@
       "measurement",
       "museum style"
     ],
-    "filename": "074-bronze-dividers.png"
+    "filename": "074-bronze-dividers.png",
+    "originalBytes": 1470834
   },
   {
     "id": "ancient-artifacts-075-bronze-caliper",
@@ -1272,7 +1346,8 @@
       "measurement",
       "museum style"
     ],
-    "filename": "075-bronze-caliper.png"
+    "filename": "075-bronze-caliper.png",
+    "originalBytes": 1508686
   },
   {
     "id": "ancient-artifacts-076-bone-game-die",
@@ -1289,7 +1364,8 @@
       "game",
       "museum style"
     ],
-    "filename": "076-bone-game-die.png"
+    "filename": "076-bone-game-die.png",
+    "originalBytes": 1627296
   },
   {
     "id": "ancient-artifacts-077-knucklebone-game-piece",
@@ -1306,7 +1382,8 @@
       "game",
       "museum style"
     ],
-    "filename": "077-knucklebone-game-piece.png"
+    "filename": "077-knucklebone-game-piece.png",
+    "originalBytes": 2330700
   },
   {
     "id": "ancient-artifacts-078-bone-flute",
@@ -1323,7 +1400,8 @@
       "musical instrument",
       "museum style"
     ],
-    "filename": "078-bone-flute.png"
+    "filename": "078-bone-flute.png",
+    "originalBytes": 1407296
   },
   {
     "id": "ancient-artifacts-079-terracotta-ocarina",
@@ -1340,7 +1418,8 @@
       "musical instrument",
       "museum style"
     ],
-    "filename": "079-terracotta-ocarina.png"
+    "filename": "079-terracotta-ocarina.png",
+    "originalBytes": 2508121
   },
   {
     "id": "ancient-artifacts-080-clay-bird-whistle",
@@ -1357,7 +1436,8 @@
       "bird",
       "museum style"
     ],
-    "filename": "080-clay-bird-whistle.png"
+    "filename": "080-clay-bird-whistle.png",
+    "originalBytes": 1473111
   },
   {
     "id": "ancient-artifacts-081-bronze-cymbal",
@@ -1374,7 +1454,8 @@
       "musical instrument",
       "museum style"
     ],
-    "filename": "081-bronze-cymbal.png"
+    "filename": "081-bronze-cymbal.png",
+    "originalBytes": 2217759
   },
   {
     "id": "ancient-artifacts-082-bronze-sistrum",
@@ -1391,7 +1472,8 @@
       "musical instrument",
       "museum style"
     ],
-    "filename": "082-bronze-sistrum.png"
+    "filename": "082-bronze-sistrum.png",
+    "originalBytes": 1708161
   },
   {
     "id": "ancient-artifacts-083-bronze-ritual-drum",
@@ -1408,7 +1490,8 @@
       "musical instrument",
       "museum style"
     ],
-    "filename": "083-bronze-ritual-drum.png"
+    "filename": "083-bronze-ritual-drum.png",
+    "originalBytes": 2835729
   },
   {
     "id": "ancient-artifacts-084-bronze-socketed-axe",
@@ -1425,7 +1508,8 @@
       "socket",
       "museum style"
     ],
-    "filename": "084-bronze-socketed-axe.png"
+    "filename": "084-bronze-socketed-axe.png",
+    "originalBytes": 1774562
   },
   {
     "id": "ancient-artifacts-085-flint-sickle-blade",
@@ -1442,7 +1526,8 @@
       "tool",
       "museum style"
     ],
-    "filename": "085-flint-sickle-blade.png"
+    "filename": "085-flint-sickle-blade.png",
+    "originalBytes": 1813388
   },
   {
     "id": "ancient-artifacts-086-bronze-shield-boss",
@@ -1459,7 +1544,8 @@
       "armor",
       "museum style"
     ],
-    "filename": "086-bronze-shield-boss.png"
+    "filename": "086-bronze-shield-boss.png",
+    "originalBytes": 2432073
   },
   {
     "id": "ancient-artifacts-087-bronze-greave",
@@ -1476,7 +1562,8 @@
       "armor",
       "museum style"
     ],
-    "filename": "087-bronze-greave.png"
+    "filename": "087-bronze-greave.png",
+    "originalBytes": 2141287
   },
   {
     "id": "ancient-artifacts-088-bronze-sword",
@@ -1493,7 +1580,8 @@
       "blade",
       "museum style"
     ],
-    "filename": "088-bronze-sword.png"
+    "filename": "088-bronze-sword.png",
+    "originalBytes": 1357971
   },
   {
     "id": "ancient-artifacts-089-terracotta-palmette",
@@ -1510,7 +1598,8 @@
       "architectural ornament",
       "museum style"
     ],
-    "filename": "089-terracotta-palmette.png"
+    "filename": "089-terracotta-palmette.png",
+    "originalBytes": 1847705
   },
   {
     "id": "ancient-artifacts-090-painted-antefix",
@@ -1527,7 +1616,8 @@
       "architectural ornament",
       "museum style"
     ],
-    "filename": "090-painted-antefix.png"
+    "filename": "090-painted-antefix.png",
+    "originalBytes": 1984604
   },
   {
     "id": "ancient-artifacts-091-griffin-relief-plaque",
@@ -1544,7 +1634,8 @@
       "relief",
       "museum style"
     ],
-    "filename": "091-griffin-relief-plaque.png"
+    "filename": "091-griffin-relief-plaque.png",
+    "originalBytes": 2857935
   },
   {
     "id": "ancient-artifacts-092-bronze-lion-statuette",
@@ -1561,7 +1652,8 @@
       "statuette",
       "museum style"
     ],
-    "filename": "092-bronze-lion-statuette.png"
+    "filename": "092-bronze-lion-statuette.png",
+    "originalBytes": 1669004
   },
   {
     "id": "ancient-artifacts-093-bronze-horse-figurine",
@@ -1578,7 +1670,8 @@
       "figurine",
       "museum style"
     ],
-    "filename": "093-bronze-horse-figurine.png"
+    "filename": "093-bronze-horse-figurine.png",
+    "originalBytes": 1154456
   },
   {
     "id": "ancient-artifacts-094-bronze-ibex-statuette",
@@ -1595,7 +1688,8 @@
       "statuette",
       "museum style"
     ],
-    "filename": "094-bronze-ibex-statuette.png"
+    "filename": "094-bronze-ibex-statuette.png",
+    "originalBytes": 1399888
   },
   {
     "id": "ancient-artifacts-095-bronze-votive-hand",
@@ -1612,7 +1706,8 @@
       "votive object",
       "museum style"
     ],
-    "filename": "095-bronze-votive-hand.png"
+    "filename": "095-bronze-votive-hand.png",
+    "originalBytes": 2419837
   },
   {
     "id": "ancient-artifacts-096-clay-foundation-cone",
@@ -1629,7 +1724,8 @@
       "foundation object",
       "museum style"
     ],
-    "filename": "096-clay-foundation-cone.png"
+    "filename": "096-clay-foundation-cone.png",
+    "originalBytes": 1383557
   },
   {
     "id": "ancient-artifacts-097-stone-stamp-seal",
@@ -1646,7 +1742,8 @@
       "carved stone",
       "museum style"
     ],
-    "filename": "097-stone-stamp-seal.png"
+    "filename": "097-stone-stamp-seal.png",
+    "originalBytes": 1627099
   },
   {
     "id": "ancient-artifacts-098-banded-calcite-bead",
@@ -1663,7 +1760,8 @@
       "jewelry",
       "museum style"
     ],
-    "filename": "098-banded-calcite-bead.png"
+    "filename": "098-banded-calcite-bead.png",
+    "originalBytes": 2099852
   },
   {
     "id": "ancient-artifacts-099-mosaic-rosette-fragment",
@@ -1680,7 +1778,8 @@
       "rosette",
       "museum style"
     ],
-    "filename": "099-mosaic-rosette-fragment.png"
+    "filename": "099-mosaic-rosette-fragment.png",
+    "originalBytes": 2913901
   },
   {
     "id": "ancient-artifacts-100-bronze-incense-burner",
@@ -1697,7 +1796,8 @@
       "ritual vessel",
       "museum style"
     ],
-    "filename": "100-bronze-incense-burner.png"
+    "filename": "100-bronze-incense-burner.png",
+    "originalBytes": 1578129
   },
   {
     "id": "ancient-artifacts-101-stone-incense-altar",
@@ -1714,7 +1814,8 @@
       "ritual object",
       "museum style"
     ],
-    "filename": "101-stone-incense-altar.png"
+    "filename": "101-stone-incense-altar.png",
+    "originalBytes": 2867021
   },
   {
     "id": "ancient-artifacts-102-alabaster-headrest",
@@ -1731,7 +1832,8 @@
       "furniture",
       "museum style"
     ],
-    "filename": "102-alabaster-headrest.png"
+    "filename": "102-alabaster-headrest.png",
+    "originalBytes": 1085680
   },
   {
     "id": "ancient-artifacts-103-carved-cosmetic-box",
@@ -1748,7 +1850,8 @@
       "cosmetics",
       "museum style"
     ],
-    "filename": "103-carved-cosmetic-box.png"
+    "filename": "103-carved-cosmetic-box.png",
+    "originalBytes": 1595553
   },
   {
     "id": "ancient-artifacts-104-stone-offering-table",
@@ -1765,7 +1868,8 @@
       "ritual object",
       "museum style"
     ],
-    "filename": "104-stone-offering-table.png"
+    "filename": "104-stone-offering-table.png",
+    "originalBytes": 2386998
   },
   {
     "id": "ancient-artifacts-105-alabaster-fish-dish",
@@ -1782,7 +1886,8 @@
       "fish",
       "museum style"
     ],
-    "filename": "105-alabaster-fish-dish.png"
+    "filename": "105-alabaster-fish-dish.png",
+    "originalBytes": 1935012
   },
   {
     "id": "ancient-artifacts-106-faience-lotus-tile",
@@ -1799,7 +1904,8 @@
       "lotus",
       "museum style"
     ],
-    "filename": "106-faience-lotus-tile.png"
+    "filename": "106-faience-lotus-tile.png",
+    "originalBytes": 2434068
   },
   {
     "id": "ancient-artifacts-107-faience-lion-amulet",
@@ -1816,7 +1922,8 @@
       "lion",
       "museum style"
     ],
-    "filename": "107-faience-lion-amulet.png"
+    "filename": "107-faience-lion-amulet.png",
+    "originalBytes": 2557096
   },
   {
     "id": "ancient-artifacts-108-faience-baboon",
@@ -1833,7 +1940,8 @@
       "figurine",
       "museum style"
     ],
-    "filename": "108-faience-baboon.png"
+    "filename": "108-faience-baboon.png",
+    "originalBytes": 1622544
   },
   {
     "id": "ancient-artifacts-109-bronze-cat-figurine",
@@ -1850,7 +1958,8 @@
       "figurine",
       "museum style"
     ],
-    "filename": "109-bronze-cat-figurine.png"
+    "filename": "109-bronze-cat-figurine.png",
+    "originalBytes": 2155793
   },
   {
     "id": "ancient-artifacts-110-carnelian-heart-amulet",
@@ -1867,7 +1976,8 @@
       "heart",
       "museum style"
     ],
-    "filename": "110-carnelian-heart-amulet.png"
+    "filename": "110-carnelian-heart-amulet.png",
+    "originalBytes": 1632624
   },
   {
     "id": "ancient-artifacts-111-green-stone-frog",
@@ -1884,7 +1994,8 @@
       "frog",
       "museum style"
     ],
-    "filename": "111-green-stone-frog.png"
+    "filename": "111-green-stone-frog.png",
+    "originalBytes": 1831022
   },
   {
     "id": "ancient-artifacts-112-gold-falcon-pendant",
@@ -1901,7 +2012,8 @@
       "falcon",
       "museum style"
     ],
-    "filename": "112-gold-falcon-pendant.png"
+    "filename": "112-gold-falcon-pendant.png",
+    "originalBytes": 2519024
   },
   {
     "id": "ancient-artifacts-113-gold-fly-amulet",
@@ -1918,7 +2030,8 @@
       "fly",
       "museum style"
     ],
-    "filename": "113-gold-fly-amulet.png"
+    "filename": "113-gold-fly-amulet.png",
+    "originalBytes": 1216892
   },
   {
     "id": "ancient-artifacts-114-bronze-cobra-figure",
@@ -1935,7 +2048,8 @@
       "figure",
       "museum style"
     ],
-    "filename": "114-bronze-cobra-figure.png"
+    "filename": "114-bronze-cobra-figure.png",
+    "originalBytes": 1702897
   },
   {
     "id": "ancient-artifacts-115-painted-wooden-bird",
@@ -1952,7 +2066,8 @@
       "painted sculpture",
       "museum style"
     ],
-    "filename": "115-painted-wooden-bird.png"
+    "filename": "115-painted-wooden-bird.png",
+    "originalBytes": 1923920
   },
   {
     "id": "ancient-artifacts-116-stone-falcon-statuette",
@@ -1969,7 +2084,8 @@
       "statuette",
       "museum style"
     ],
-    "filename": "116-stone-falcon-statuette.png"
+    "filename": "116-stone-falcon-statuette.png",
+    "originalBytes": 1499233
   },
   {
     "id": "ancient-artifacts-117-basalt-crocodile",
@@ -1986,7 +2102,8 @@
       "statuette",
       "museum style"
     ],
-    "filename": "117-basalt-crocodile.png"
+    "filename": "117-basalt-crocodile.png",
+    "originalBytes": 1793766
   },
   {
     "id": "ancient-artifacts-118-limestone-sphinx",
@@ -2003,7 +2120,8 @@
       "sculpture",
       "museum style"
     ],
-    "filename": "118-limestone-sphinx.png"
+    "filename": "118-limestone-sphinx.png",
+    "originalBytes": 2349302
   },
   {
     "id": "ancient-artifacts-119-stone-seated-scribe",
@@ -2020,7 +2138,8 @@
       "sculpture",
       "museum style"
     ],
-    "filename": "119-stone-seated-scribe.png"
+    "filename": "119-stone-seated-scribe.png",
+    "originalBytes": 1915677
   },
   {
     "id": "ancient-artifacts-120-stone-ankh-amulet",
@@ -2037,7 +2156,8 @@
       "amulet",
       "museum style"
     ],
-    "filename": "120-stone-ankh-amulet.png"
+    "filename": "120-stone-ankh-amulet.png",
+    "originalBytes": 1977915
   },
   {
     "id": "ancient-artifacts-121-bronze-scepter",
@@ -2054,7 +2174,8 @@
       "ceremonial object",
       "museum style"
     ],
-    "filename": "121-bronze-scepter.png"
+    "filename": "121-bronze-scepter.png",
+    "originalBytes": 1116017
   },
   {
     "id": "ancient-artifacts-122-bone-clapper",
@@ -2071,7 +2192,8 @@
       "musical instrument",
       "museum style"
     ],
-    "filename": "122-bone-clapper.png"
+    "filename": "122-bone-clapper.png",
+    "originalBytes": 1652998
   },
   {
     "id": "ancient-artifacts-123-woven-sandal",
@@ -2088,7 +2210,8 @@
       "clothing",
       "museum style"
     ],
-    "filename": "123-woven-sandal.png"
+    "filename": "123-woven-sandal.png",
+    "originalBytes": 2458437
   },
   {
     "id": "ancient-artifacts-124-linen-textile-fragment",
@@ -2105,7 +2228,8 @@
       "woven fabric",
       "museum style"
     ],
-    "filename": "124-linen-textile-fragment.png"
+    "filename": "124-linen-textile-fragment.png",
+    "originalBytes": 3046789
   },
   {
     "id": "ancient-artifacts-125-painted-coffin-lid",
@@ -2122,7 +2246,8 @@
       "painted carving",
       "museum style"
     ],
-    "filename": "125-painted-coffin-lid.png"
+    "filename": "125-painted-coffin-lid.png",
+    "originalBytes": 2245380
   },
   {
     "id": "ancient-artifacts-126-terracotta-hydria",
@@ -2139,7 +2264,8 @@
       "water jar",
       "museum style"
     ],
-    "filename": "126-terracotta-hydria.png"
+    "filename": "126-terracotta-hydria.png",
+    "originalBytes": 2367526
   },
   {
     "id": "ancient-artifacts-127-terracotta-krater",
@@ -2156,7 +2282,8 @@
       "mixing vessel",
       "museum style"
     ],
-    "filename": "127-terracotta-krater.png"
+    "filename": "127-terracotta-krater.png",
+    "originalBytes": 2476798
   },
   {
     "id": "ancient-artifacts-128-terracotta-pelike",
@@ -2173,7 +2300,8 @@
       "vessel",
       "museum style"
     ],
-    "filename": "128-terracotta-pelike.png"
+    "filename": "128-terracotta-pelike.png",
+    "originalBytes": 2310926
   },
   {
     "id": "ancient-artifacts-129-terracotta-skyphos",
@@ -2190,7 +2318,8 @@
       "drinking cup",
       "museum style"
     ],
-    "filename": "129-terracotta-skyphos.png"
+    "filename": "129-terracotta-skyphos.png",
+    "originalBytes": 2409518
   },
   {
     "id": "ancient-artifacts-130-terracotta-kantharos",
@@ -2207,7 +2336,8 @@
       "drinking cup",
       "museum style"
     ],
-    "filename": "130-terracotta-kantharos.png"
+    "filename": "130-terracotta-kantharos.png",
+    "originalBytes": 1406870
   },
   {
     "id": "ancient-artifacts-131-painted-fish-plate",
@@ -2224,7 +2354,8 @@
       "fish motif",
       "museum style"
     ],
-    "filename": "131-painted-fish-plate.png"
+    "filename": "131-painted-fish-plate.png",
+    "originalBytes": 2598378
   },
   {
     "id": "ancient-artifacts-132-terracotta-pilgrim-flask",
@@ -2241,7 +2372,8 @@
       "rosette",
       "museum style"
     ],
-    "filename": "132-terracotta-pilgrim-flask.png"
+    "filename": "132-terracotta-pilgrim-flask.png",
+    "originalBytes": 2164082
   },
   {
     "id": "ancient-artifacts-133-pomegranate-jar",
@@ -2258,7 +2390,8 @@
       "pomegranate",
       "museum style"
     ],
-    "filename": "133-pomegranate-jar.png"
+    "filename": "133-pomegranate-jar.png",
+    "originalBytes": 2110386
   },
   {
     "id": "ancient-artifacts-134-ram-shaped-vessel",
@@ -2275,7 +2408,8 @@
       "ram",
       "museum style"
     ],
-    "filename": "134-ram-shaped-vessel.png"
+    "filename": "134-ram-shaped-vessel.png",
+    "originalBytes": 1665998
   },
   {
     "id": "ancient-artifacts-135-duck-shaped-vessel",
@@ -2292,7 +2426,8 @@
       "duck",
       "museum style"
     ],
-    "filename": "135-duck-shaped-vessel.png"
+    "filename": "135-duck-shaped-vessel.png",
+    "originalBytes": 2386548
   },
   {
     "id": "ancient-artifacts-136-boot-shaped-cup",
@@ -2309,7 +2444,8 @@
       "boot",
       "museum style"
     ],
-    "filename": "136-boot-shaped-cup.png"
+    "filename": "136-boot-shaped-cup.png",
+    "originalBytes": 1855003
   },
   {
     "id": "ancient-artifacts-137-double-spout-jug",
@@ -2326,7 +2462,8 @@
       "double spout",
       "museum style"
     ],
-    "filename": "137-double-spout-jug.png"
+    "filename": "137-double-spout-jug.png",
+    "originalBytes": 1845006
   },
   {
     "id": "ancient-artifacts-138-stone-tripod-bowl",
@@ -2343,7 +2480,8 @@
       "tripod",
       "museum style"
     ],
-    "filename": "138-stone-tripod-bowl.png"
+    "filename": "138-stone-tripod-bowl.png",
+    "originalBytes": 2337493
   },
   {
     "id": "ancient-artifacts-139-rock-crystal-cup",
@@ -2360,7 +2498,8 @@
       "carved stone",
       "museum style"
     ],
-    "filename": "139-rock-crystal-cup.png"
+    "filename": "139-rock-crystal-cup.png",
+    "originalBytes": 1779147
   },
   {
     "id": "ancient-artifacts-140-serpentine-vase",
@@ -2377,7 +2516,8 @@
       "stone",
       "museum style"
     ],
-    "filename": "140-serpentine-vase.png"
+    "filename": "140-serpentine-vase.png",
+    "originalBytes": 2167938
   },
   {
     "id": "ancient-artifacts-141-ribbed-glass-bowl",
@@ -2394,7 +2534,8 @@
       "ribbed",
       "museum style"
     ],
-    "filename": "141-ribbed-glass-bowl.png"
+    "filename": "141-ribbed-glass-bowl.png",
+    "originalBytes": 2443358
   },
   {
     "id": "ancient-artifacts-142-cobalt-glass-amphoriskos",
@@ -2411,7 +2552,8 @@
       "cobalt blue",
       "museum style"
     ],
-    "filename": "142-cobalt-glass-amphoriskos.png"
+    "filename": "142-cobalt-glass-amphoriskos.png",
+    "originalBytes": 1550027
   },
   {
     "id": "ancient-artifacts-143-mosaic-glass-jar",
@@ -2428,7 +2570,8 @@
       "perfume",
       "museum style"
     ],
-    "filename": "143-mosaic-glass-jar.png"
+    "filename": "143-mosaic-glass-jar.png",
+    "originalBytes": 1935695
   },
   {
     "id": "ancient-artifacts-144-core-formed-glass-vessel",
@@ -2445,7 +2588,8 @@
       "zigzag",
       "museum style"
     ],
-    "filename": "144-core-formed-glass-vessel.png"
+    "filename": "144-core-formed-glass-vessel.png",
+    "originalBytes": 1960505
   },
   {
     "id": "ancient-artifacts-145-glass-unguentarium",
@@ -2462,7 +2606,8 @@
       "vessel",
       "museum style"
     ],
-    "filename": "145-glass-unguentarium.png"
+    "filename": "145-glass-unguentarium.png",
+    "originalBytes": 1660251
   },
   {
     "id": "ancient-artifacts-146-faience-hedgehog-vessel",
@@ -2479,7 +2624,8 @@
       "hedgehog",
       "museum style"
     ],
-    "filename": "146-faience-hedgehog-vessel.png"
+    "filename": "146-faience-hedgehog-vessel.png",
+    "originalBytes": 2435362
   },
   {
     "id": "ancient-artifacts-147-bronze-situla",
@@ -2496,7 +2642,8 @@
       "bucket",
       "museum style"
     ],
-    "filename": "147-bronze-situla.png"
+    "filename": "147-bronze-situla.png",
+    "originalBytes": 1613105
   },
   {
     "id": "ancient-artifacts-148-bronze-beaker",
@@ -2513,7 +2660,8 @@
       "drinking vessel",
       "museum style"
     ],
-    "filename": "148-bronze-beaker.png"
+    "filename": "148-bronze-beaker.png",
+    "originalBytes": 2364244
   },
   {
     "id": "ancient-artifacts-149-silver-phiale",
@@ -2530,7 +2678,8 @@
       "offering bowl",
       "museum style"
     ],
-    "filename": "149-silver-phiale.png"
+    "filename": "149-silver-phiale.png",
+    "originalBytes": 2511303
   },
   {
     "id": "ancient-artifacts-150-gold-drinking-cup",
@@ -2547,7 +2696,8 @@
       "drinking vessel",
       "museum style"
     ],
-    "filename": "150-gold-drinking-cup.png"
+    "filename": "150-gold-drinking-cup.png",
+    "originalBytes": 1759821
   },
   {
     "id": "ancient-artifacts-151-bronze-sewing-needle",
@@ -2564,7 +2714,8 @@
       "sewing",
       "museum style"
     ],
-    "filename": "151-bronze-sewing-needle.png"
+    "filename": "151-bronze-sewing-needle.png",
+    "originalBytes": 1098458
   },
   {
     "id": "ancient-artifacts-152-bone-awl",
@@ -2581,7 +2732,8 @@
       "tool",
       "museum style"
     ],
-    "filename": "152-bone-awl.png"
+    "filename": "152-bone-awl.png",
+    "originalBytes": 1339111
   },
   {
     "id": "ancient-artifacts-153-bronze-chisel",
@@ -2598,7 +2750,8 @@
       "tool",
       "museum style"
     ],
-    "filename": "153-bronze-chisel.png"
+    "filename": "153-bronze-chisel.png",
+    "originalBytes": 1663776
   },
   {
     "id": "ancient-artifacts-154-bronze-adze-head",
@@ -2615,7 +2768,8 @@
       "tool",
       "museum style"
     ],
-    "filename": "154-bronze-adze-head.png"
+    "filename": "154-bronze-adze-head.png",
+    "originalBytes": 2175953
   },
   {
     "id": "ancient-artifacts-155-copper-saw-blade",
@@ -2632,7 +2786,8 @@
       "tool",
       "museum style"
     ],
-    "filename": "155-copper-saw-blade.png"
+    "filename": "155-copper-saw-blade.png",
+    "originalBytes": 1394935
   },
   {
     "id": "ancient-artifacts-156-bronze-sickle",
@@ -2649,7 +2804,8 @@
       "tool",
       "museum style"
     ],
-    "filename": "156-bronze-sickle.png"
+    "filename": "156-bronze-sickle.png",
+    "originalBytes": 1489240
   },
   {
     "id": "ancient-artifacts-157-bronze-fishhook",
@@ -2666,7 +2822,8 @@
       "fishing",
       "museum style"
     ],
-    "filename": "157-bronze-fishhook.png"
+    "filename": "157-bronze-fishhook.png",
+    "originalBytes": 1152800
   },
   {
     "id": "ancient-artifacts-158-lead-net-weight",
@@ -2683,7 +2840,8 @@
       "fishing",
       "museum style"
     ],
-    "filename": "158-lead-net-weight.png"
+    "filename": "158-lead-net-weight.png",
+    "originalBytes": 1629254
   },
   {
     "id": "ancient-artifacts-159-ceramic-loom-weight",
@@ -2700,7 +2858,8 @@
       "weaving",
       "museum style"
     ],
-    "filename": "159-ceramic-loom-weight.png"
+    "filename": "159-ceramic-loom-weight.png",
+    "originalBytes": 2568971
   },
   {
     "id": "ancient-artifacts-160-clay-bobbin",
@@ -2717,7 +2876,8 @@
       "weaving",
       "museum style"
     ],
-    "filename": "160-clay-bobbin.png"
+    "filename": "160-clay-bobbin.png",
+    "originalBytes": 2096150
   },
   {
     "id": "ancient-artifacts-161-wooden-spindle",
@@ -2734,7 +2894,8 @@
       "spinning",
       "museum style"
     ],
-    "filename": "161-wooden-spindle.png"
+    "filename": "161-wooden-spindle.png",
+    "originalBytes": 1234622
   },
   {
     "id": "ancient-artifacts-162-wooden-loom-shuttle",
@@ -2751,7 +2912,8 @@
       "weaving",
       "museum style"
     ],
-    "filename": "162-wooden-loom-shuttle.png"
+    "filename": "162-wooden-loom-shuttle.png",
+    "originalBytes": 1705288
   },
   {
     "id": "ancient-artifacts-163-bone-weaving-comb",
@@ -2768,7 +2930,8 @@
       "tool",
       "museum style"
     ],
-    "filename": "163-bone-weaving-comb.png"
+    "filename": "163-bone-weaving-comb.png",
+    "originalBytes": 2300223
   },
   {
     "id": "ancient-artifacts-164-bronze-woodworking-plane",
@@ -2785,7 +2948,8 @@
       "woodworking",
       "museum style"
     ],
-    "filename": "164-bronze-woodworking-plane.png"
+    "filename": "164-bronze-woodworking-plane.png",
+    "originalBytes": 2222633
   },
   {
     "id": "ancient-artifacts-165-flint-handaxe",
@@ -2802,7 +2966,8 @@
       "tool",
       "museum style"
     ],
-    "filename": "165-flint-handaxe.png"
+    "filename": "165-flint-handaxe.png",
+    "originalBytes": 2528214
   },
   {
     "id": "ancient-artifacts-166-obsidian-scraper",
@@ -2819,7 +2984,8 @@
       "tool",
       "museum style"
     ],
-    "filename": "166-obsidian-scraper.png"
+    "filename": "166-obsidian-scraper.png",
+    "originalBytes": 1721767
   },
   {
     "id": "ancient-artifacts-167-stone-drill-bit",
@@ -2836,7 +3002,8 @@
       "tool",
       "museum style"
     ],
-    "filename": "167-stone-drill-bit.png"
+    "filename": "167-stone-drill-bit.png",
+    "originalBytes": 1671362
   },
   {
     "id": "ancient-artifacts-168-bronze-drill-bit",
@@ -2853,7 +3020,8 @@
       "tool",
       "museum style"
     ],
-    "filename": "168-bronze-drill-bit.png"
+    "filename": "168-bronze-drill-bit.png",
+    "originalBytes": 1305804
   },
   {
     "id": "ancient-artifacts-169-bone-harpoon-head",
@@ -2870,7 +3038,8 @@
       "fishing",
       "museum style"
     ],
-    "filename": "169-bone-harpoon-head.png"
+    "filename": "169-bone-harpoon-head.png",
+    "originalBytes": 1469301
   },
   {
     "id": "ancient-artifacts-170-bronze-spear-butt",
@@ -2887,7 +3056,8 @@
       "socket",
       "museum style"
     ],
-    "filename": "170-bronze-spear-butt.png"
+    "filename": "170-bronze-spear-butt.png",
+    "originalBytes": 1636579
   },
   {
     "id": "ancient-artifacts-171-bronze-sling-bullet",
@@ -2904,7 +3074,8 @@
       "sling",
       "museum style"
     ],
-    "filename": "171-bronze-sling-bullet.png"
+    "filename": "171-bronze-sling-bullet.png",
+    "originalBytes": 1933549
   },
   {
     "id": "ancient-artifacts-172-iron-nail",
@@ -2921,7 +3092,8 @@
       "hardware",
       "museum style"
     ],
-    "filename": "172-iron-nail.png"
+    "filename": "172-iron-nail.png",
+    "originalBytes": 791108
   },
   {
     "id": "ancient-artifacts-173-bronze-hinge",
@@ -2938,7 +3110,8 @@
       "hardware",
       "museum style"
     ],
-    "filename": "173-bronze-hinge.png"
+    "filename": "173-bronze-hinge.png",
+    "originalBytes": 2413390
   },
   {
     "id": "ancient-artifacts-174-bronze-door-knocker",
@@ -2955,7 +3128,8 @@
       "lion",
       "museum style"
     ],
-    "filename": "174-bronze-door-knocker.png"
+    "filename": "174-bronze-door-knocker.png",
+    "originalBytes": 1239337
   },
   {
     "id": "ancient-artifacts-175-bronze-lock-body",
@@ -2972,7 +3146,8 @@
       "hardware",
       "museum style"
     ],
-    "filename": "175-bronze-lock-body.png"
+    "filename": "175-bronze-lock-body.png",
+    "originalBytes": 2745891
   },
   {
     "id": "ancient-artifacts-176-bronze-dolphin",
@@ -2989,7 +3164,8 @@
       "figurine",
       "museum style"
     ],
-    "filename": "176-bronze-dolphin.png"
+    "filename": "176-bronze-dolphin.png",
+    "originalBytes": 2042891
   },
   {
     "id": "ancient-artifacts-177-bronze-tortoise",
@@ -3006,7 +3182,8 @@
       "figurine",
       "museum style"
     ],
-    "filename": "177-bronze-tortoise.png"
+    "filename": "177-bronze-tortoise.png",
+    "originalBytes": 2419809
   },
   {
     "id": "ancient-artifacts-178-bronze-boar",
@@ -3023,7 +3200,8 @@
       "statuette",
       "museum style"
     ],
-    "filename": "178-bronze-boar.png"
+    "filename": "178-bronze-boar.png",
+    "originalBytes": 1897028
   },
   {
     "id": "ancient-artifacts-179-bronze-rooster",
@@ -3040,7 +3218,8 @@
       "figurine",
       "museum style"
     ],
-    "filename": "179-bronze-rooster.png"
+    "filename": "179-bronze-rooster.png",
+    "originalBytes": 1563071
   },
   {
     "id": "ancient-artifacts-180-bronze-eagle",
@@ -3057,7 +3236,8 @@
       "statuette",
       "museum style"
     ],
-    "filename": "180-bronze-eagle.png"
+    "filename": "180-bronze-eagle.png",
+    "originalBytes": 1353957
   },
   {
     "id": "ancient-artifacts-181-terracotta-dancer",
@@ -3074,7 +3254,8 @@
       "figurine",
       "museum style"
     ],
-    "filename": "181-terracotta-dancer.png"
+    "filename": "181-terracotta-dancer.png",
+    "originalBytes": 2057569
   },
   {
     "id": "ancient-artifacts-182-terracotta-musician",
@@ -3091,7 +3272,8 @@
       "figurine",
       "museum style"
     ],
-    "filename": "182-terracotta-musician.png"
+    "filename": "182-terracotta-musician.png",
+    "originalBytes": 2077610
   },
   {
     "id": "ancient-artifacts-183-marble-female-statuette",
@@ -3108,7 +3290,8 @@
       "statuette",
       "museum style"
     ],
-    "filename": "183-marble-female-statuette.png"
+    "filename": "183-marble-female-statuette.png",
+    "originalBytes": 1753293
   },
   {
     "id": "ancient-artifacts-184-sandstone-standing-figure",
@@ -3125,7 +3308,8 @@
       "sculpture",
       "museum style"
     ],
-    "filename": "184-sandstone-standing-figure.png"
+    "filename": "184-sandstone-standing-figure.png",
+    "originalBytes": 1969194
   },
   {
     "id": "ancient-artifacts-185-alabaster-winged-bull",
@@ -3142,7 +3326,8 @@
       "sculpture",
       "museum style"
     ],
-    "filename": "185-alabaster-winged-bull.png"
+    "filename": "185-alabaster-winged-bull.png",
+    "originalBytes": 1352193
   },
   {
     "id": "ancient-artifacts-186-silver-votive-eye",
@@ -3159,7 +3344,8 @@
       "votive object",
       "museum style"
     ],
-    "filename": "186-silver-votive-eye.png"
+    "filename": "186-silver-votive-eye.png",
+    "originalBytes": 2413879
   },
   {
     "id": "ancient-artifacts-187-bone-floral-plaque",
@@ -3176,7 +3362,8 @@
       "floral relief",
       "museum style"
     ],
-    "filename": "187-bone-floral-plaque.png"
+    "filename": "187-bone-floral-plaque.png",
+    "originalBytes": 2471656
   },
   {
     "id": "ancient-artifacts-188-bronze-lion-foot",
@@ -3193,7 +3380,8 @@
       "lion paw",
       "museum style"
     ],
-    "filename": "188-bronze-lion-foot.png"
+    "filename": "188-bronze-lion-foot.png",
+    "originalBytes": 1748019
   },
   {
     "id": "ancient-artifacts-189-bronze-swan-terminal",
@@ -3210,7 +3398,8 @@
       "swan",
       "museum style"
     ],
-    "filename": "189-bronze-swan-terminal.png"
+    "filename": "189-bronze-swan-terminal.png",
+    "originalBytes": 1104217
   },
   {
     "id": "ancient-artifacts-190-stone-column-capital",
@@ -3227,7 +3416,8 @@
       "architecture",
       "museum style"
     ],
-    "filename": "190-stone-column-capital.png"
+    "filename": "190-stone-column-capital.png",
+    "originalBytes": 2522843
   },
   {
     "id": "ancient-artifacts-191-painted-roof-tile",
@@ -3244,7 +3434,8 @@
       "architecture",
       "museum style"
     ],
-    "filename": "191-painted-roof-tile.png"
+    "filename": "191-painted-roof-tile.png",
+    "originalBytes": 2241846
   },
   {
     "id": "ancient-artifacts-192-limestone-marker",
@@ -3261,7 +3452,8 @@
       "carved stone",
       "museum style"
     ],
-    "filename": "192-limestone-marker.png"
+    "filename": "192-limestone-marker.png",
+    "originalBytes": 2963230
   },
   {
     "id": "ancient-artifacts-193-wooden-stamp",
@@ -3278,7 +3470,8 @@
       "carved ornament",
       "museum style"
     ],
-    "filename": "193-wooden-stamp.png"
+    "filename": "193-wooden-stamp.png",
+    "originalBytes": 1911152
   },
   {
     "id": "ancient-artifacts-194-amber-fish-pendant",
@@ -3295,7 +3488,8 @@
       "fish",
       "museum style"
     ],
-    "filename": "194-amber-fish-pendant.png"
+    "filename": "194-amber-fish-pendant.png",
+    "originalBytes": 2313076
   },
   {
     "id": "ancient-artifacts-195-agate-beetle-ring",
@@ -3312,7 +3506,8 @@
       "beetle",
       "museum style"
     ],
-    "filename": "195-agate-beetle-ring.png"
+    "filename": "195-agate-beetle-ring.png",
+    "originalBytes": 1271678
   },
   {
     "id": "ancient-artifacts-196-silver-lunula",
@@ -3329,7 +3524,8 @@
       "crescent",
       "museum style"
     ],
-    "filename": "196-silver-lunula.png"
+    "filename": "196-silver-lunula.png",
+    "originalBytes": 831620
   },
   {
     "id": "ancient-artifacts-197-gold-crescent-nose-ring",
@@ -3346,7 +3542,8 @@
       "crescent",
       "museum style"
     ],
-    "filename": "197-gold-crescent-nose-ring.png"
+    "filename": "197-gold-crescent-nose-ring.png",
+    "originalBytes": 1266208
   },
   {
     "id": "ancient-artifacts-198-gold-conical-earring",
@@ -3363,7 +3560,8 @@
       "granulation",
       "museum style"
     ],
-    "filename": "198-gold-conical-earring.png"
+    "filename": "198-gold-conical-earring.png",
+    "originalBytes": 1732251
   },
   {
     "id": "ancient-artifacts-199-bronze-openwork-pin",
@@ -3380,7 +3578,8 @@
       "openwork",
       "museum style"
     ],
-    "filename": "199-bronze-openwork-pin.png"
+    "filename": "199-bronze-openwork-pin.png",
+    "originalBytes": 1638612
   },
   {
     "id": "ancient-artifacts-200-stone-feathered-serpent",
@@ -3397,6 +3596,7 @@
       "serpent",
       "museum style"
     ],
-    "filename": "200-stone-feathered-serpent.png"
+    "filename": "200-stone-feathered-serpent.png",
+    "originalBytes": 2009248
   }
 ]

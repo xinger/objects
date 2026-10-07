@@ -14,7 +14,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "001-ribbed-ammonite.png"
+    "filename": "001-ribbed-ammonite.png",
+    "originalBytes": 2933565
   },
   {
     "id": "fossils-002-polished-ammonite-section",
@@ -31,7 +32,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "002-polished-ammonite-section.png"
+    "filename": "002-polished-ammonite-section.png",
+    "originalBytes": 2963234
   },
   {
     "id": "fossils-003-pyritized-ammonite",
@@ -48,7 +50,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "003-pyritized-ammonite.png"
+    "filename": "003-pyritized-ammonite.png",
+    "originalBytes": 2050223
   },
   {
     "id": "fossils-004-spiny-ammonite",
@@ -65,7 +68,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "004-spiny-ammonite.png"
+    "filename": "004-spiny-ammonite.png",
+    "originalBytes": 3425184
   },
   {
     "id": "fossils-005-flattened-ammonite",
@@ -82,7 +86,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "005-flattened-ammonite.png"
+    "filename": "005-flattened-ammonite.png",
+    "originalBytes": 2668030
   },
   {
     "id": "fossils-006-opalized-ammonite",
@@ -99,7 +104,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "006-opalized-ammonite.png"
+    "filename": "006-opalized-ammonite.png",
+    "originalBytes": 2474471
   },
   {
     "id": "fossils-007-open-coil-ammonite",
@@ -116,7 +122,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "007-open-coil-ammonite.png"
+    "filename": "007-open-coil-ammonite.png",
+    "originalBytes": 2411760
   },
   {
     "id": "fossils-008-tower-ammonite",
@@ -133,7 +140,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "008-tower-ammonite.png"
+    "filename": "008-tower-ammonite.png",
+    "originalBytes": 2650677
   },
   {
     "id": "fossils-009-straight-nautiloid",
@@ -150,7 +158,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "009-straight-nautiloid.png"
+    "filename": "009-straight-nautiloid.png",
+    "originalBytes": 2668215
   },
   {
     "id": "fossils-010-curved-nautiloid",
@@ -167,7 +176,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "010-curved-nautiloid.png"
+    "filename": "010-curved-nautiloid.png",
+    "originalBytes": 2767179
   },
   {
     "id": "fossils-011-coiled-nautiloid",
@@ -184,7 +194,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "011-coiled-nautiloid.png"
+    "filename": "011-coiled-nautiloid.png",
+    "originalBytes": 2693249
   },
   {
     "id": "fossils-012-belemnite-guard",
@@ -201,7 +212,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "012-belemnite-guard.png"
+    "filename": "012-belemnite-guard.png",
+    "originalBytes": 2743000
   },
   {
     "id": "fossils-013-belemnite-section",
@@ -218,7 +230,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "013-belemnite-section.png"
+    "filename": "013-belemnite-section.png",
+    "originalBytes": 2637955
   },
   {
     "id": "fossils-014-turret-gastropod",
@@ -235,7 +248,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "014-turret-gastropod.png"
+    "filename": "014-turret-gastropod.png",
+    "originalBytes": 2576380
   },
   {
     "id": "fossils-015-wide-gastropod",
@@ -252,7 +266,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "015-wide-gastropod.png"
+    "filename": "015-wide-gastropod.png",
+    "originalBytes": 2418240
   },
   {
     "id": "fossils-016-spiny-gastropod",
@@ -269,7 +284,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "016-spiny-gastropod.png"
+    "filename": "016-spiny-gastropod.png",
+    "originalBytes": 2614592
   },
   {
     "id": "fossils-017-ribbed-bivalve",
@@ -286,7 +302,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "017-ribbed-bivalve.png"
+    "filename": "017-ribbed-bivalve.png",
+    "originalBytes": 2758972
   },
   {
     "id": "fossils-018-oyster-fossil",
@@ -303,7 +320,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "018-oyster-fossil.png"
+    "filename": "018-oyster-fossil.png",
+    "originalBytes": 2914218
   },
   {
     "id": "fossils-019-scallop-fossil",
@@ -320,7 +338,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "019-scallop-fossil.png"
+    "filename": "019-scallop-fossil.png",
+    "originalBytes": 3218213
   },
   {
     "id": "fossils-020-brachiopod-fossil",
@@ -337,7 +356,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "020-brachiopod-fossil.png"
+    "filename": "020-brachiopod-fossil.png",
+    "originalBytes": 2708345
   },
   {
     "id": "fossils-021-oval-trilobite",
@@ -354,7 +374,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "021-oval-trilobite.png"
+    "filename": "021-oval-trilobite.png",
+    "originalBytes": 3013880
   },
   {
     "id": "fossils-022-spiny-trilobite",
@@ -371,7 +392,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "022-spiny-trilobite.png"
+    "filename": "022-spiny-trilobite.png",
+    "originalBytes": 3126288
   },
   {
     "id": "fossils-023-enrolled-trilobite",
@@ -388,7 +410,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "023-enrolled-trilobite.png"
+    "filename": "023-enrolled-trilobite.png",
+    "originalBytes": 2461535
   },
   {
     "id": "fossils-024-wide-head-trilobite",
@@ -405,7 +428,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "024-wide-head-trilobite.png"
+    "filename": "024-wide-head-trilobite.png",
+    "originalBytes": 2781320
   },
   {
     "id": "fossils-025-forked-horn-trilobite",
@@ -422,7 +446,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "025-forked-horn-trilobite.png"
+    "filename": "025-forked-horn-trilobite.png",
+    "originalBytes": 2190092
   },
   {
     "id": "fossils-026-long-tail-trilobite",
@@ -439,7 +464,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "026-long-tail-trilobite.png"
+    "filename": "026-long-tail-trilobite.png",
+    "originalBytes": 3016993
   },
   {
     "id": "fossils-027-bristled-trilobite",
@@ -456,7 +482,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "027-bristled-trilobite.png"
+    "filename": "027-bristled-trilobite.png",
+    "originalBytes": 2702012
   },
   {
     "id": "fossils-028-smooth-trilobite",
@@ -473,7 +500,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "028-smooth-trilobite.png"
+    "filename": "028-smooth-trilobite.png",
+    "originalBytes": 2554945
   },
   {
     "id": "fossils-029-trilobite-head-shield",
@@ -490,7 +518,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "029-trilobite-head-shield.png"
+    "filename": "029-trilobite-head-shield.png",
+    "originalBytes": 3000524
   },
   {
     "id": "fossils-030-trilobite-tail-shield",
@@ -507,7 +536,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "030-trilobite-tail-shield.png"
+    "filename": "030-trilobite-tail-shield.png",
+    "originalBytes": 3090485
   },
   {
     "id": "fossils-031-sea-scorpion-imprint",
@@ -524,7 +554,8 @@
       "mineralized",
       "specimen"
     ],
-    "filename": "031-sea-scorpion-imprint.png"
+    "filename": "031-sea-scorpion-imprint.png",
+    "originalBytes": 3024030
   },
   {
     "id": "fossils-032-horseshoe-crab-fossil",
@@ -541,7 +572,8 @@
       "mineralized",
       "specimen"
     ],
-    "filename": "032-horseshoe-crab-fossil.png"
+    "filename": "032-horseshoe-crab-fossil.png",
+    "originalBytes": 2803015
   },
   {
     "id": "fossils-033-fossil-shrimp",
@@ -558,7 +590,8 @@
       "mineralized",
       "specimen"
     ],
-    "filename": "033-fossil-shrimp.png"
+    "filename": "033-fossil-shrimp.png",
+    "originalBytes": 2719705
   },
   {
     "id": "fossils-034-fossil-crab",
@@ -575,7 +608,8 @@
       "mineralized",
       "specimen"
     ],
-    "filename": "034-fossil-crab.png"
+    "filename": "034-fossil-crab.png",
+    "originalBytes": 2962836
   },
   {
     "id": "fossils-035-fossil-lobster",
@@ -592,7 +626,8 @@
       "mineralized",
       "specimen"
     ],
-    "filename": "035-fossil-lobster.png"
+    "filename": "035-fossil-lobster.png",
+    "originalBytes": 2734926
   },
   {
     "id": "fossils-036-dragonfly-imprint",
@@ -609,7 +644,8 @@
       "mineralized",
       "specimen"
     ],
-    "filename": "036-dragonfly-imprint.png"
+    "filename": "036-dragonfly-imprint.png",
+    "originalBytes": 3199765
   },
   {
     "id": "fossils-037-beetle-imprint",
@@ -626,7 +662,8 @@
       "mineralized",
       "specimen"
     ],
-    "filename": "037-beetle-imprint.png"
+    "filename": "037-beetle-imprint.png",
+    "originalBytes": 2805232
   },
   {
     "id": "fossils-038-cockroach-imprint",
@@ -643,7 +680,8 @@
       "mineralized",
       "specimen"
     ],
-    "filename": "038-cockroach-imprint.png"
+    "filename": "038-cockroach-imprint.png",
+    "originalBytes": 3038639
   },
   {
     "id": "fossils-039-centipede-imprint",
@@ -660,7 +698,8 @@
       "mineralized",
       "specimen"
     ],
-    "filename": "039-centipede-imprint.png"
+    "filename": "039-centipede-imprint.png",
+    "originalBytes": 3180322
   },
   {
     "id": "fossils-040-spider-imprint",
@@ -677,7 +716,8 @@
       "mineralized",
       "specimen"
     ],
-    "filename": "040-spider-imprint.png"
+    "filename": "040-spider-imprint.png",
+    "originalBytes": 2733348
   },
   {
     "id": "fossils-041-triangular-shark-tooth",
@@ -694,7 +734,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "041-triangular-shark-tooth.png"
+    "filename": "041-triangular-shark-tooth.png",
+    "originalBytes": 2096588
   },
   {
     "id": "fossils-042-narrow-shark-tooth",
@@ -711,7 +752,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "042-narrow-shark-tooth.png"
+    "filename": "042-narrow-shark-tooth.png",
+    "originalBytes": 2828278
   },
   {
     "id": "fossils-043-hooked-shark-tooth",
@@ -728,7 +770,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "043-hooked-shark-tooth.png"
+    "filename": "043-hooked-shark-tooth.png",
+    "originalBytes": 2938142
   },
   {
     "id": "fossils-044-flat-ray-tooth",
@@ -745,7 +788,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "044-flat-ray-tooth.png"
+    "filename": "044-flat-ray-tooth.png",
+    "originalBytes": 2986263
   },
   {
     "id": "fossils-045-conical-reptile-tooth",
@@ -762,7 +806,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "045-conical-reptile-tooth.png"
+    "filename": "045-conical-reptile-tooth.png",
+    "originalBytes": 2407945
   },
   {
     "id": "fossils-046-serrated-dinosaur-tooth",
@@ -779,7 +824,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "046-serrated-dinosaur-tooth.png"
+    "filename": "046-serrated-dinosaur-tooth.png",
+    "originalBytes": 1863640
   },
   {
     "id": "fossils-047-leaf-shaped-dinosaur-tooth",
@@ -796,7 +842,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "047-leaf-shaped-dinosaur-tooth.png"
+    "filename": "047-leaf-shaped-dinosaur-tooth.png",
+    "originalBytes": 3075025
   },
   {
     "id": "fossils-048-rounded-crushing-tooth",
@@ -813,7 +860,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "048-rounded-crushing-tooth.png"
+    "filename": "048-rounded-crushing-tooth.png",
+    "originalBytes": 2225420
   },
   {
     "id": "fossils-049-fossil-tusk-segment",
@@ -830,7 +878,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "049-fossil-tusk-segment.png"
+    "filename": "049-fossil-tusk-segment.png",
+    "originalBytes": 2304611
   },
   {
     "id": "fossils-050-fossil-molar",
@@ -847,7 +896,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "050-fossil-molar.png"
+    "filename": "050-fossil-molar.png",
+    "originalBytes": 2563814
   },
   {
     "id": "fossils-051-fossil-vertebra",
@@ -864,7 +914,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "051-fossil-vertebra.png"
+    "filename": "051-fossil-vertebra.png",
+    "originalBytes": 2594349
   },
   {
     "id": "fossils-052-fish-vertebra",
@@ -881,7 +932,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "052-fish-vertebra.png"
+    "filename": "052-fish-vertebra.png",
+    "originalBytes": 2515318
   },
   {
     "id": "fossils-053-dinosaur-claw",
@@ -898,7 +950,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "053-dinosaur-claw.png"
+    "filename": "053-dinosaur-claw.png",
+    "originalBytes": 2912336
   },
   {
     "id": "fossils-054-fossil-rib",
@@ -915,7 +968,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "054-fossil-rib.png"
+    "filename": "054-fossil-rib.png",
+    "originalBytes": 2678008
   },
   {
     "id": "fossils-055-fossil-finger-bone",
@@ -932,7 +986,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "055-fossil-finger-bone.png"
+    "filename": "055-fossil-finger-bone.png",
+    "originalBytes": 2943095
   },
   {
     "id": "fossils-056-fossil-limb-bone",
@@ -949,7 +1004,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "056-fossil-limb-bone.png"
+    "filename": "056-fossil-limb-bone.png",
+    "originalBytes": 2302482
   },
   {
     "id": "fossils-057-fossil-jaw-fragment",
@@ -966,7 +1022,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "057-fossil-jaw-fragment.png"
+    "filename": "057-fossil-jaw-fragment.png",
+    "originalBytes": 2934334
   },
   {
     "id": "fossils-058-fossil-skull",
@@ -983,7 +1040,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "058-fossil-skull.png"
+    "filename": "058-fossil-skull.png",
+    "originalBytes": 2705068
   },
   {
     "id": "fossils-059-fish-skeleton-slab",
@@ -1000,7 +1058,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "059-fish-skeleton-slab.png"
+    "filename": "059-fish-skeleton-slab.png",
+    "originalBytes": 3261272
   },
   {
     "id": "fossils-060-coiled-coprolite",
@@ -1017,7 +1076,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "060-coiled-coprolite.png"
+    "filename": "060-coiled-coprolite.png",
+    "originalBytes": 3045155
   },
   {
     "id": "fossils-061-fern-frond-imprint",
@@ -1034,7 +1094,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "061-fern-frond-imprint.png"
+    "filename": "061-fern-frond-imprint.png",
+    "originalBytes": 2880235
   },
   {
     "id": "fossils-062-ginkgo-leaf-imprint",
@@ -1051,7 +1112,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "062-ginkgo-leaf-imprint.png"
+    "filename": "062-ginkgo-leaf-imprint.png",
+    "originalBytes": 2923922
   },
   {
     "id": "fossils-063-palm-leaf-imprint",
@@ -1068,7 +1130,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "063-palm-leaf-imprint.png"
+    "filename": "063-palm-leaf-imprint.png",
+    "originalBytes": 2883856
   },
   {
     "id": "fossils-064-maple-leaf-imprint",
@@ -1085,7 +1148,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "064-maple-leaf-imprint.png"
+    "filename": "064-maple-leaf-imprint.png",
+    "originalBytes": 2969515
   },
   {
     "id": "fossils-065-oak-leaf-imprint",
@@ -1102,7 +1166,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "065-oak-leaf-imprint.png"
+    "filename": "065-oak-leaf-imprint.png",
+    "originalBytes": 2881193
   },
   {
     "id": "fossils-066-willow-leaf-imprint",
@@ -1119,7 +1184,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "066-willow-leaf-imprint.png"
+    "filename": "066-willow-leaf-imprint.png",
+    "originalBytes": 2551606
   },
   {
     "id": "fossils-067-poplar-leaf-imprint",
@@ -1136,7 +1202,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "067-poplar-leaf-imprint.png"
+    "filename": "067-poplar-leaf-imprint.png",
+    "originalBytes": 2786998
   },
   {
     "id": "fossils-068-magnolia-leaf-imprint",
@@ -1153,7 +1220,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "068-magnolia-leaf-imprint.png"
+    "filename": "068-magnolia-leaf-imprint.png",
+    "originalBytes": 3146838
   },
   {
     "id": "fossils-069-cycad-frond-imprint",
@@ -1170,7 +1238,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "069-cycad-frond-imprint.png"
+    "filename": "069-cycad-frond-imprint.png",
+    "originalBytes": 2692644
   },
   {
     "id": "fossils-070-horsetail-stem-imprint",
@@ -1187,7 +1256,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "070-horsetail-stem-imprint.png"
+    "filename": "070-horsetail-stem-imprint.png",
+    "originalBytes": 2782205
   },
   {
     "id": "fossils-071-bark-scale-imprint",
@@ -1204,7 +1274,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "071-bark-scale-imprint.png"
+    "filename": "071-bark-scale-imprint.png",
+    "originalBytes": 2839792
   },
   {
     "id": "fossils-072-fossil-seed",
@@ -1221,7 +1292,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "072-fossil-seed.png"
+    "filename": "072-fossil-seed.png",
+    "originalBytes": 2136538
   },
   {
     "id": "fossils-073-fossil-seed-cone",
@@ -1238,7 +1310,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "073-fossil-seed-cone.png"
+    "filename": "073-fossil-seed-cone.png",
+    "originalBytes": 3186340
   },
   {
     "id": "fossils-074-fossil-flower-imprint",
@@ -1255,7 +1328,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "074-fossil-flower-imprint.png"
+    "filename": "074-fossil-flower-imprint.png",
+    "originalBytes": 2598276
   },
   {
     "id": "fossils-075-fossil-fruit",
@@ -1272,7 +1346,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "075-fossil-fruit.png"
+    "filename": "075-fossil-fruit.png",
+    "originalBytes": 3411930
   },
   {
     "id": "fossils-076-petrified-wood-branch",
@@ -1289,7 +1364,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "076-petrified-wood-branch.png"
+    "filename": "076-petrified-wood-branch.png",
+    "originalBytes": 2769372
   },
   {
     "id": "fossils-077-petrified-wood-slice",
@@ -1306,7 +1382,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "077-petrified-wood-slice.png"
+    "filename": "077-petrified-wood-slice.png",
+    "originalBytes": 3394207
   },
   {
     "id": "fossils-078-petrified-root",
@@ -1323,7 +1400,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "078-petrified-root.png"
+    "filename": "078-petrified-root.png",
+    "originalBytes": 3003147
   },
   {
     "id": "fossils-079-fossil-algae-imprint",
@@ -1340,7 +1418,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "079-fossil-algae-imprint.png"
+    "filename": "079-fossil-algae-imprint.png",
+    "originalBytes": 2981114
   },
   {
     "id": "fossils-080-fossil-pine-needle-imprint",
@@ -1357,7 +1436,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "080-fossil-pine-needle-imprint.png"
+    "filename": "080-fossil-pine-needle-imprint.png",
+    "originalBytes": 2262321
   },
   {
     "id": "fossils-081-crinoid-crown-fossil",
@@ -1374,7 +1454,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "081-crinoid-crown-fossil.png"
+    "filename": "081-crinoid-crown-fossil.png",
+    "originalBytes": 2653081
   },
   {
     "id": "fossils-082-crinoid-stem-fossil",
@@ -1391,7 +1472,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "082-crinoid-stem-fossil.png"
+    "filename": "082-crinoid-stem-fossil.png",
+    "originalBytes": 2905857
   },
   {
     "id": "fossils-083-sea-urchin-fossil",
@@ -1408,7 +1490,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "083-sea-urchin-fossil.png"
+    "filename": "083-sea-urchin-fossil.png",
+    "originalBytes": 2824776
   },
   {
     "id": "fossils-084-sand-dollar-fossil",
@@ -1425,7 +1508,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "084-sand-dollar-fossil.png"
+    "filename": "084-sand-dollar-fossil.png",
+    "originalBytes": 3088402
   },
   {
     "id": "fossils-085-starfish-fossil",
@@ -1442,7 +1526,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "085-starfish-fossil.png"
+    "filename": "085-starfish-fossil.png",
+    "originalBytes": 2980211
   },
   {
     "id": "fossils-086-brittle-star-fossil",
@@ -1459,7 +1544,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "086-brittle-star-fossil.png"
+    "filename": "086-brittle-star-fossil.png",
+    "originalBytes": 2680567
   },
   {
     "id": "fossils-087-horn-coral-fossil",
@@ -1476,7 +1562,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "087-horn-coral-fossil.png"
+    "filename": "087-horn-coral-fossil.png",
+    "originalBytes": 2665530
   },
   {
     "id": "fossils-088-honeycomb-coral-fossil",
@@ -1493,7 +1580,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "088-honeycomb-coral-fossil.png"
+    "filename": "088-honeycomb-coral-fossil.png",
+    "originalBytes": 3066335
   },
   {
     "id": "fossils-089-chain-coral-fossil",
@@ -1510,7 +1598,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "089-chain-coral-fossil.png"
+    "filename": "089-chain-coral-fossil.png",
+    "originalBytes": 3438065
   },
   {
     "id": "fossils-090-branching-coral-fossil",
@@ -1527,7 +1616,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "090-branching-coral-fossil.png"
+    "filename": "090-branching-coral-fossil.png",
+    "originalBytes": 2365633
   },
   {
     "id": "fossils-091-sponge-fossil",
@@ -1544,7 +1634,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "091-sponge-fossil.png"
+    "filename": "091-sponge-fossil.png",
+    "originalBytes": 2658588
   },
   {
     "id": "fossils-092-bryozoan-fan-fossil",
@@ -1561,7 +1652,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "092-bryozoan-fan-fossil.png"
+    "filename": "092-bryozoan-fan-fossil.png",
+    "originalBytes": 3166428
   },
   {
     "id": "fossils-093-graptolite-imprint",
@@ -1578,7 +1670,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "093-graptolite-imprint.png"
+    "filename": "093-graptolite-imprint.png",
+    "originalBytes": 2960923
   },
   {
     "id": "fossils-094-stromatolite-section",
@@ -1595,7 +1688,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "094-stromatolite-section.png"
+    "filename": "094-stromatolite-section.png",
+    "originalBytes": 2883344
   },
   {
     "id": "fossils-095-jellyfish-imprint",
@@ -1612,7 +1706,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "095-jellyfish-imprint.png"
+    "filename": "095-jellyfish-imprint.png",
+    "originalBytes": 2614096
   },
   {
     "id": "fossils-096-dinosaur-footprint",
@@ -1629,7 +1724,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "096-dinosaur-footprint.png"
+    "filename": "096-dinosaur-footprint.png",
+    "originalBytes": 3243012
   },
   {
     "id": "fossils-097-fossil-burrow",
@@ -1646,7 +1742,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "097-fossil-burrow.png"
+    "filename": "097-fossil-burrow.png",
+    "originalBytes": 3122984
   },
   {
     "id": "fossils-098-fossil-ripple-slab",
@@ -1663,7 +1760,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "098-fossil-ripple-slab.png"
+    "filename": "098-fossil-ripple-slab.png",
+    "originalBytes": 3286908
   },
   {
     "id": "fossils-099-amber-insect",
@@ -1680,7 +1778,8 @@
       "stone",
       "specimen"
     ],
-    "filename": "099-amber-insect.png"
+    "filename": "099-amber-insect.png",
+    "originalBytes": 2469779
   },
   {
     "id": "fossils-100-amber-leaf",
@@ -1697,6 +1796,7 @@
       "stone",
       "specimen"
     ],
-    "filename": "100-amber-leaf.png"
+    "filename": "100-amber-leaf.png",
+    "originalBytes": 2097262
   }
 ]

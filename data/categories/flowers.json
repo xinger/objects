@@ -8,7 +8,8 @@
     "title": "Coral rose",
     "description": "",
     "tags": [],
-    "filename": "001-coral-rose.png"
+    "filename": "001-coral-rose.png",
+    "originalBytes": 1409611
   },
   {
     "id": "flowers-002-white-daisy",
@@ -19,7 +20,8 @@
     "title": "White daisy",
     "description": "",
     "tags": [],
-    "filename": "002-white-daisy.png"
+    "filename": "002-white-daisy.png",
+    "originalBytes": 854204
   },
   {
     "id": "flowers-003-purple-iris",
@@ -30,7 +32,8 @@
     "title": "Purple iris",
     "description": "",
     "tags": [],
-    "filename": "003-purple-iris.png"
+    "filename": "003-purple-iris.png",
+    "originalBytes": 1891618
   },
   {
     "id": "flowers-004-yellow-tulip",
@@ -41,7 +44,8 @@
     "title": "Yellow tulip",
     "description": "",
     "tags": [],
-    "filename": "004-yellow-tulip.png"
+    "filename": "004-yellow-tulip.png",
+    "originalBytes": 1455678
   },
   {
     "id": "flowers-005-red-poppy",
@@ -52,7 +56,8 @@
     "title": "Red poppy",
     "description": "",
     "tags": [],
-    "filename": "005-red-poppy.png"
+    "filename": "005-red-poppy.png",
+    "originalBytes": 2208008
   },
   {
     "id": "flowers-006-pink-peony",
@@ -63,7 +68,8 @@
     "title": "Pink peony",
     "description": "",
     "tags": [],
-    "filename": "006-pink-peony.png"
+    "filename": "006-pink-peony.png",
+    "originalBytes": 1400441
   },
   {
     "id": "flowers-007-sunflower",
@@ -74,7 +80,8 @@
     "title": "Sunflower",
     "description": "",
     "tags": [],
-    "filename": "007-sunflower.png"
+    "filename": "007-sunflower.png",
+    "originalBytes": 1784130
   },
   {
     "id": "flowers-008-orange-gerbera",
@@ -85,7 +92,8 @@
     "title": "Orange gerbera",
     "description": "",
     "tags": [],
-    "filename": "008-orange-gerbera.png"
+    "filename": "008-orange-gerbera.png",
+    "originalBytes": 1598611
   },
   {
     "id": "flowers-009-white-lily",
@@ -96,7 +104,8 @@
     "title": "White lily",
     "description": "",
     "tags": [],
-    "filename": "009-white-lily.png"
+    "filename": "009-white-lily.png",
+    "originalBytes": 1088771
   },
   {
     "id": "flowers-01-red-rose",
@@ -107,7 +116,8 @@
     "title": "Red rose",
     "description": "",
     "tags": [],
-    "filename": "01-red-rose.png"
+    "filename": "01-red-rose.png",
+    "originalBytes": 647091
   },
   {
     "id": "flowers-010-blue-cornflower",
@@ -118,7 +128,8 @@
     "title": "Blue cornflower",
     "description": "",
     "tags": [],
-    "filename": "010-blue-cornflower.png"
+    "filename": "010-blue-cornflower.png",
+    "originalBytes": 1878429
   },
   {
     "id": "flowers-011-magenta-dahlia",
@@ -129,7 +140,8 @@
     "title": "Magenta dahlia",
     "description": "",
     "tags": [],
-    "filename": "011-magenta-dahlia.png"
+    "filename": "011-magenta-dahlia.png",
+    "originalBytes": 1823315
   },
   {
     "id": "flowers-012-red-carnation",
@@ -140,7 +152,8 @@
     "title": "Red carnation",
     "description": "",
     "tags": [],
-    "filename": "012-red-carnation.png"
+    "filename": "012-red-carnation.png",
+    "originalBytes": 1769764
   },
   {
     "id": "flowers-013-yellow-daffodil",
@@ -151,7 +164,8 @@
     "title": "Yellow daffodil",
     "description": "",
     "tags": [],
-    "filename": "013-yellow-daffodil.png"
+    "filename": "013-yellow-daffodil.png",
+    "originalBytes": 1695962
   },
   {
     "id": "flowers-014-violet-anemone",
@@ -162,7 +176,8 @@
     "title": "Violet anemone",
     "description": "",
     "tags": [],
-    "filename": "014-violet-anemone.png"
+    "filename": "014-violet-anemone.png",
+    "originalBytes": 1400588
   },
   {
     "id": "flowers-015-red-hibiscus",
@@ -173,7 +188,8 @@
     "title": "Red hibiscus",
     "description": "",
     "tags": [],
-    "filename": "015-red-hibiscus.png"
+    "filename": "015-red-hibiscus.png",
+    "originalBytes": 1756028
   },
   {
     "id": "flowers-016-peach-ranunculus",
@@ -184,7 +200,8 @@
     "title": "Peach ranunculus",
     "description": "",
     "tags": [],
-    "filename": "016-peach-ranunculus.png"
+    "filename": "016-peach-ranunculus.png",
+    "originalBytes": 1510212
   },
   {
     "id": "flowers-017-pink-zinnia",
@@ -195,7 +212,8 @@
     "title": "Pink zinnia",
     "description": "",
     "tags": [],
-    "filename": "017-pink-zinnia.png"
+    "filename": "017-pink-zinnia.png",
+    "originalBytes": 1870492
   },
   {
     "id": "flowers-018-pink-cosmos",
@@ -206,7 +224,8 @@
     "title": "Pink cosmos",
     "description": "",
     "tags": [],
-    "filename": "018-pink-cosmos.png"
+    "filename": "018-pink-cosmos.png",
+    "originalBytes": 1789884
   },
   {
     "id": "flowers-019-white-calla",
@@ -217,7 +236,8 @@
     "title": "White calla",
     "description": "",
     "tags": [],
-    "filename": "019-white-calla.png"
+    "filename": "019-white-calla.png",
+    "originalBytes": 1643583
   },
   {
     "id": "flowers-02-white-tulip",
@@ -228,7 +248,8 @@
     "title": "White tulip",
     "description": "",
     "tags": [],
-    "filename": "02-white-tulip.png"
+    "filename": "02-white-tulip.png",
+    "originalBytes": 556685
   },
   {
     "id": "flowers-020-pink-orchid",
@@ -239,7 +260,8 @@
     "title": "Pink orchid",
     "description": "",
     "tags": [],
-    "filename": "020-pink-orchid.png"
+    "filename": "020-pink-orchid.png",
+    "originalBytes": 1873651
   },
   {
     "id": "flowers-021-orange-marigold",
@@ -250,7 +272,8 @@
     "title": "Orange marigold",
     "description": "",
     "tags": [],
-    "filename": "021-orange-marigold.png"
+    "filename": "021-orange-marigold.png",
+    "originalBytes": 1362652
   },
   {
     "id": "flowers-022-purple-crocus",
@@ -261,7 +284,8 @@
     "title": "Purple crocus",
     "description": "",
     "tags": [],
-    "filename": "022-purple-crocus.png"
+    "filename": "022-purple-crocus.png",
+    "originalBytes": 2004857
   },
   {
     "id": "flowers-023-white-camellia",
@@ -272,7 +296,8 @@
     "title": "White camellia",
     "description": "",
     "tags": [],
-    "filename": "023-white-camellia.png"
+    "filename": "023-white-camellia.png",
+    "originalBytes": 1490783
   },
   {
     "id": "flowers-024-violet-yellow-pansy",
@@ -283,7 +308,8 @@
     "title": "Violet yellow pansy",
     "description": "",
     "tags": [],
-    "filename": "024-violet-yellow-pansy.png"
+    "filename": "024-violet-yellow-pansy.png",
+    "originalBytes": 1983737
   },
   {
     "id": "flowers-025-orange-nasturtium",
@@ -294,7 +320,8 @@
     "title": "Orange nasturtium",
     "description": "",
     "tags": [],
-    "filename": "025-orange-nasturtium.png"
+    "filename": "025-orange-nasturtium.png",
+    "originalBytes": 1469889
   },
   {
     "id": "flowers-026-pink-lotus",
@@ -305,7 +332,8 @@
     "title": "Pink lotus",
     "description": "",
     "tags": [],
-    "filename": "026-pink-lotus.png"
+    "filename": "026-pink-lotus.png",
+    "originalBytes": 1358768
   },
   {
     "id": "flowers-027-white-gardenia",
@@ -316,7 +344,8 @@
     "title": "White gardenia",
     "description": "",
     "tags": [],
-    "filename": "027-white-gardenia.png"
+    "filename": "027-white-gardenia.png",
+    "originalBytes": 1425460
   },
   {
     "id": "flowers-028-pink-lisianthus",
@@ -327,7 +356,8 @@
     "title": "Pink lisianthus",
     "description": "",
     "tags": [],
-    "filename": "028-pink-lisianthus.png"
+    "filename": "028-pink-lisianthus.png",
+    "originalBytes": 1833099
   },
   {
     "id": "flowers-029-blue-bellflower",
@@ -338,7 +368,8 @@
     "title": "Blue bellflower",
     "description": "",
     "tags": [],
-    "filename": "029-blue-bellflower.png"
+    "filename": "029-blue-bellflower.png",
+    "originalBytes": 1524647
   },
   {
     "id": "flowers-03-yellow-sunflower",
@@ -349,7 +380,8 @@
     "title": "Yellow sunflower",
     "description": "",
     "tags": [],
-    "filename": "03-yellow-sunflower.png"
+    "filename": "03-yellow-sunflower.png",
+    "originalBytes": 886239
   },
   {
     "id": "flowers-030-pink-alstroemeria",
@@ -360,7 +392,8 @@
     "title": "Pink alstroemeria",
     "description": "",
     "tags": [],
-    "filename": "030-pink-alstroemeria.png"
+    "filename": "030-pink-alstroemeria.png",
+    "originalBytes": 2123094
   },
   {
     "id": "flowers-031-blue-morning-glory",
@@ -371,7 +404,8 @@
     "title": "Blue morning glory",
     "description": "",
     "tags": [],
-    "filename": "031-blue-morning-glory.png"
+    "filename": "031-blue-morning-glory.png",
+    "originalBytes": 1474703
   },
   {
     "id": "flowers-032-yellow-rudbeckia",
@@ -382,7 +416,8 @@
     "title": "Yellow rudbeckia",
     "description": "",
     "tags": [],
-    "filename": "032-yellow-rudbeckia.png"
+    "filename": "032-yellow-rudbeckia.png",
+    "originalBytes": 1767845
   },
   {
     "id": "flowers-033-pink-echinacea",
@@ -393,7 +428,8 @@
     "title": "Pink echinacea",
     "description": "",
     "tags": [],
-    "filename": "033-pink-echinacea.png"
+    "filename": "033-pink-echinacea.png",
+    "originalBytes": 1398954
   },
   {
     "id": "flowers-034-pink-magnolia",
@@ -404,7 +440,8 @@
     "title": "Pink magnolia",
     "description": "",
     "tags": [],
-    "filename": "034-pink-magnolia.png"
+    "filename": "034-pink-magnolia.png",
+    "originalBytes": 1003167
   },
   {
     "id": "flowers-035-purple-petunia",
@@ -415,7 +452,8 @@
     "title": "Purple petunia",
     "description": "",
     "tags": [],
-    "filename": "035-purple-petunia.png"
+    "filename": "035-purple-petunia.png",
+    "originalBytes": 2072553
   },
   {
     "id": "flowers-036-white-plumeria",
@@ -426,7 +464,8 @@
     "title": "White plumeria",
     "description": "",
     "tags": [],
-    "filename": "036-white-plumeria.png"
+    "filename": "036-white-plumeria.png",
+    "originalBytes": 1159516
   },
   {
     "id": "flowers-037-pink-columbine",
@@ -437,7 +476,8 @@
     "title": "Pink columbine",
     "description": "",
     "tags": [],
-    "filename": "037-pink-columbine.png"
+    "filename": "037-pink-columbine.png",
+    "originalBytes": 1125810
   },
   {
     "id": "flowers-038-orange-calendula",
@@ -448,7 +488,8 @@
     "title": "Orange calendula",
     "description": "",
     "tags": [],
-    "filename": "038-orange-calendula.png"
+    "filename": "038-orange-calendula.png",
+    "originalBytes": 2060517
   },
   {
     "id": "flowers-039-blue-nigella",
@@ -459,7 +500,8 @@
     "title": "Blue nigella",
     "description": "",
     "tags": [],
-    "filename": "039-blue-nigella.png"
+    "filename": "039-blue-nigella.png",
+    "originalBytes": 1471300
   },
   {
     "id": "flowers-04-white-daisy",
@@ -470,7 +512,8 @@
     "title": "White daisy",
     "description": "",
     "tags": [],
-    "filename": "04-white-daisy.png"
+    "filename": "04-white-daisy.png",
+    "originalBytes": 447441
   },
   {
     "id": "flowers-040-white-hellebore",
@@ -481,7 +524,8 @@
     "title": "White hellebore",
     "description": "",
     "tags": [],
-    "filename": "040-white-hellebore.png"
+    "filename": "040-white-hellebore.png",
+    "originalBytes": 1267679
   },
   {
     "id": "flowers-041-salmon-zinnia",
@@ -492,7 +536,8 @@
     "title": "Salmon zinnia",
     "description": "",
     "tags": [],
-    "filename": "041-salmon-zinnia.png"
+    "filename": "041-salmon-zinnia.png",
+    "originalBytes": 1709759
   },
   {
     "id": "flowers-042-white-chrysanthemum",
@@ -503,7 +548,8 @@
     "title": "White chrysanthemum",
     "description": "",
     "tags": [],
-    "filename": "042-white-chrysanthemum.png"
+    "filename": "042-white-chrysanthemum.png",
+    "originalBytes": 1384902
   },
   {
     "id": "flowers-043-red-tulip",
@@ -514,7 +560,8 @@
     "title": "Red tulip",
     "description": "",
     "tags": [],
-    "filename": "043-red-tulip.png"
+    "filename": "043-red-tulip.png",
+    "originalBytes": 1881199
   },
   {
     "id": "flowers-044-yellow-rose",
@@ -525,7 +572,8 @@
     "title": "Yellow rose",
     "description": "",
     "tags": [],
-    "filename": "044-yellow-rose.png"
+    "filename": "044-yellow-rose.png",
+    "originalBytes": 1497676
   },
   {
     "id": "flowers-045-white-poppy",
@@ -536,7 +584,8 @@
     "title": "White poppy",
     "description": "",
     "tags": [],
-    "filename": "045-white-poppy.png"
+    "filename": "045-white-poppy.png",
+    "originalBytes": 2154068
   },
   {
     "id": "flowers-046-orange-lily",
@@ -547,7 +596,8 @@
     "title": "Orange lily",
     "description": "",
     "tags": [],
-    "filename": "046-orange-lily.png"
+    "filename": "046-orange-lily.png",
+    "originalBytes": 1329572
   },
   {
     "id": "flowers-047-lavender-scabiosa",
@@ -558,7 +608,8 @@
     "title": "Lavender scabiosa",
     "description": "",
     "tags": [],
-    "filename": "047-lavender-scabiosa.png"
+    "filename": "047-lavender-scabiosa.png",
+    "originalBytes": 1434510
   },
   {
     "id": "flowers-048-pink-cyclamen",
@@ -569,7 +620,8 @@
     "title": "Pink cyclamen",
     "description": "",
     "tags": [],
-    "filename": "048-pink-cyclamen.png"
+    "filename": "048-pink-cyclamen.png",
+    "originalBytes": 1262095
   },
   {
     "id": "flowers-049-yellow-gazania",
@@ -580,7 +632,8 @@
     "title": "Yellow gazania",
     "description": "",
     "tags": [],
-    "filename": "049-yellow-gazania.png"
+    "filename": "049-yellow-gazania.png",
+    "originalBytes": 1986430
   },
   {
     "id": "flowers-05-purple-iris",
@@ -591,7 +644,8 @@
     "title": "Purple iris",
     "description": "",
     "tags": [],
-    "filename": "05-purple-iris.png"
+    "filename": "05-purple-iris.png",
+    "originalBytes": 853735
   },
   {
     "id": "flowers-050-raspberry-peony",
@@ -602,7 +656,8 @@
     "title": "Raspberry peony",
     "description": "",
     "tags": [],
-    "filename": "050-raspberry-peony.png"
+    "filename": "050-raspberry-peony.png",
+    "originalBytes": 1875522
   },
   {
     "id": "flowers-051-blue-himalayan-poppy",
@@ -613,7 +668,8 @@
     "title": "Blue himalayan poppy",
     "description": "",
     "tags": [],
-    "filename": "051-blue-himalayan-poppy.png"
+    "filename": "051-blue-himalayan-poppy.png",
+    "originalBytes": 2282020
   },
   {
     "id": "flowers-052-white-anemone",
@@ -624,7 +680,8 @@
     "title": "White anemone",
     "description": "",
     "tags": [],
-    "filename": "052-white-anemone.png"
+    "filename": "052-white-anemone.png",
+    "originalBytes": 1523513
   },
   {
     "id": "flowers-053-yellow-gerbera",
@@ -635,7 +692,8 @@
     "title": "Yellow gerbera",
     "description": "",
     "tags": [],
-    "filename": "053-yellow-gerbera.png"
+    "filename": "053-yellow-gerbera.png",
+    "originalBytes": 1644975
   },
   {
     "id": "flowers-054-burgundy-dahlia",
@@ -646,7 +704,8 @@
     "title": "Burgundy dahlia",
     "description": "",
     "tags": [],
-    "filename": "054-burgundy-dahlia.png"
+    "filename": "054-burgundy-dahlia.png",
+    "originalBytes": 1771514
   },
   {
     "id": "flowers-055-white-rose",
@@ -657,7 +716,8 @@
     "title": "White rose",
     "description": "",
     "tags": [],
-    "filename": "055-white-rose.png"
+    "filename": "055-white-rose.png",
+    "originalBytes": 1130358
   },
   {
     "id": "flowers-056-pink-gerbera",
@@ -668,7 +728,8 @@
     "title": "Pink gerbera",
     "description": "",
     "tags": [],
-    "filename": "056-pink-gerbera.png"
+    "filename": "056-pink-gerbera.png",
+    "originalBytes": 1883376
   },
   {
     "id": "flowers-057-purple-tulip",
@@ -679,7 +740,8 @@
     "title": "Purple tulip",
     "description": "",
     "tags": [],
-    "filename": "057-purple-tulip.png"
+    "filename": "057-purple-tulip.png",
+    "originalBytes": 2038915
   },
   {
     "id": "flowers-058-white-lavender-osteospermum",
@@ -690,7 +752,8 @@
     "title": "White lavender osteospermum",
     "description": "",
     "tags": [],
-    "filename": "058-white-lavender-osteospermum.png"
+    "filename": "058-white-lavender-osteospermum.png",
+    "originalBytes": 1986206
   },
   {
     "id": "flowers-059-orange-california-poppy",
@@ -701,7 +764,8 @@
     "title": "Orange california poppy",
     "description": "",
     "tags": [],
-    "filename": "059-orange-california-poppy.png"
+    "filename": "059-orange-california-poppy.png",
+    "originalBytes": 1115453
   },
   {
     "id": "flowers-06-orange-lily",
@@ -712,7 +776,8 @@
     "title": "Orange lily",
     "description": "",
     "tags": [],
-    "filename": "06-orange-lily.png"
+    "filename": "06-orange-lily.png",
+    "originalBytes": 634147
   },
   {
     "id": "flowers-060-blue-delphinium",
@@ -723,7 +788,8 @@
     "title": "Blue delphinium",
     "description": "",
     "tags": [],
-    "filename": "060-blue-delphinium.png"
+    "filename": "060-blue-delphinium.png",
+    "originalBytes": 1369150
   },
   {
     "id": "flowers-061-lavender-rose",
@@ -734,7 +800,8 @@
     "title": "Lavender rose",
     "description": "",
     "tags": [],
-    "filename": "061-lavender-rose.png"
+    "filename": "061-lavender-rose.png",
+    "originalBytes": 1402941
   },
   {
     "id": "flowers-062-pink-ranunculus",
@@ -745,7 +812,8 @@
     "title": "Pink ranunculus",
     "description": "",
     "tags": [],
-    "filename": "062-pink-ranunculus.png"
+    "filename": "062-pink-ranunculus.png",
+    "originalBytes": 1592388
   },
   {
     "id": "flowers-063-red-anemone",
@@ -756,7 +824,8 @@
     "title": "Red anemone",
     "description": "",
     "tags": [],
-    "filename": "063-red-anemone.png"
+    "filename": "063-red-anemone.png",
+    "originalBytes": 2249717
   },
   {
     "id": "flowers-064-orange-tulip",
@@ -767,7 +836,8 @@
     "title": "Orange tulip",
     "description": "",
     "tags": [],
-    "filename": "064-orange-tulip.png"
+    "filename": "064-orange-tulip.png",
+    "originalBytes": 1829966
   },
   {
     "id": "flowers-065-white-orchid",
@@ -778,7 +848,8 @@
     "title": "White orchid",
     "description": "",
     "tags": [],
-    "filename": "065-white-orchid.png"
+    "filename": "065-white-orchid.png",
+    "originalBytes": 1440767
   },
   {
     "id": "flowers-066-peach-carnation",
@@ -789,7 +860,8 @@
     "title": "Peach carnation",
     "description": "",
     "tags": [],
-    "filename": "066-peach-carnation.png"
+    "filename": "066-peach-carnation.png",
+    "originalBytes": 1785840
   },
   {
     "id": "flowers-067-yellow-iris",
@@ -800,7 +872,8 @@
     "title": "Yellow iris",
     "description": "",
     "tags": [],
-    "filename": "067-yellow-iris.png"
+    "filename": "067-yellow-iris.png",
+    "originalBytes": 1948210
   },
   {
     "id": "flowers-068-white-cosmos",
@@ -811,7 +884,8 @@
     "title": "White cosmos",
     "description": "",
     "tags": [],
-    "filename": "068-white-cosmos.png"
+    "filename": "068-white-cosmos.png",
+    "originalBytes": 942684
   },
   {
     "id": "flowers-069-pink-camellia",
@@ -822,7 +896,8 @@
     "title": "Pink camellia",
     "description": "",
     "tags": [],
-    "filename": "069-pink-camellia.png"
+    "filename": "069-pink-camellia.png",
+    "originalBytes": 1536164
   },
   {
     "id": "flowers-07-pink-peony",
@@ -833,7 +908,8 @@
     "title": "Pink peony",
     "description": "",
     "tags": [],
-    "filename": "07-pink-peony.png"
+    "filename": "07-pink-peony.png",
+    "originalBytes": 667858
   },
   {
     "id": "flowers-070-white-tulip",
@@ -844,7 +920,8 @@
     "title": "White tulip",
     "description": "",
     "tags": [],
-    "filename": "070-white-tulip.png"
+    "filename": "070-white-tulip.png",
+    "originalBytes": 1639246
   },
   {
     "id": "flowers-071-crimson-rose",
@@ -855,7 +932,8 @@
     "title": "Crimson rose",
     "description": "",
     "tags": [],
-    "filename": "071-crimson-rose.png"
+    "filename": "071-crimson-rose.png",
+    "originalBytes": 1477397
   },
   {
     "id": "flowers-072-yellow-calla",
@@ -866,7 +944,8 @@
     "title": "Yellow calla",
     "description": "",
     "tags": [],
-    "filename": "072-yellow-calla.png"
+    "filename": "072-yellow-calla.png",
+    "originalBytes": 1835856
   },
   {
     "id": "flowers-073-pink-hibiscus",
@@ -877,7 +956,8 @@
     "title": "Pink hibiscus",
     "description": "",
     "tags": [],
-    "filename": "073-pink-hibiscus.png"
+    "filename": "073-pink-hibiscus.png",
+    "originalBytes": 2050284
   },
   {
     "id": "flowers-074-orange-ranunculus",
@@ -888,7 +968,8 @@
     "title": "Orange ranunculus",
     "description": "",
     "tags": [],
-    "filename": "074-orange-ranunculus.png"
+    "filename": "074-orange-ranunculus.png",
+    "originalBytes": 2203777
   },
   {
     "id": "flowers-075-white-dahlia",
@@ -899,7 +980,8 @@
     "title": "White dahlia",
     "description": "",
     "tags": [],
-    "filename": "075-white-dahlia.png"
+    "filename": "075-white-dahlia.png",
+    "originalBytes": 1961469
   },
   {
     "id": "flowers-076-yellow-hibiscus",
@@ -910,7 +992,8 @@
     "title": "Yellow hibiscus",
     "description": "",
     "tags": [],
-    "filename": "076-yellow-hibiscus.png"
+    "filename": "076-yellow-hibiscus.png",
+    "originalBytes": 1942080
   },
   {
     "id": "flowers-077-pink-stargazer-lily",
@@ -921,7 +1004,8 @@
     "title": "Pink stargazer lily",
     "description": "",
     "tags": [],
-    "filename": "077-pink-stargazer-lily.png"
+    "filename": "077-pink-stargazer-lily.png",
+    "originalBytes": 1587307
   },
   {
     "id": "flowers-078-white-carnation",
@@ -932,7 +1016,8 @@
     "title": "White carnation",
     "description": "",
     "tags": [],
-    "filename": "078-white-carnation.png"
+    "filename": "078-white-carnation.png",
+    "originalBytes": 1597005
   },
   {
     "id": "flowers-079-purple-lisianthus",
@@ -943,7 +1028,8 @@
     "title": "Purple lisianthus",
     "description": "",
     "tags": [],
-    "filename": "079-purple-lisianthus.png"
+    "filename": "079-purple-lisianthus.png",
+    "originalBytes": 1461207
   },
   {
     "id": "flowers-08-purple-orchid",
@@ -954,7 +1040,8 @@
     "title": "Purple orchid",
     "description": "",
     "tags": [],
-    "filename": "08-purple-orchid.png"
+    "filename": "08-purple-orchid.png",
+    "originalBytes": 882263
   },
   {
     "id": "flowers-080-white-peony",
@@ -965,7 +1052,8 @@
     "title": "White peony",
     "description": "",
     "tags": [],
-    "filename": "080-white-peony.png"
+    "filename": "080-white-peony.png",
+    "originalBytes": 1388601
   },
   {
     "id": "flowers-081-peach-rose",
@@ -976,7 +1064,8 @@
     "title": "Peach rose",
     "description": "",
     "tags": [],
-    "filename": "081-peach-rose.png"
+    "filename": "081-peach-rose.png",
+    "originalBytes": 1567165
   },
   {
     "id": "flowers-082-pink-tulip",
@@ -987,7 +1076,8 @@
     "title": "Pink tulip",
     "description": "",
     "tags": [],
-    "filename": "082-pink-tulip.png"
+    "filename": "082-pink-tulip.png",
+    "originalBytes": 1824978
   },
   {
     "id": "flowers-083-red-gerbera",
@@ -998,7 +1088,8 @@
     "title": "Red gerbera",
     "description": "",
     "tags": [],
-    "filename": "083-red-gerbera.png"
+    "filename": "083-red-gerbera.png",
+    "originalBytes": 1745232
   },
   {
     "id": "flowers-084-yellow-ranunculus",
@@ -1009,7 +1100,8 @@
     "title": "Yellow ranunculus",
     "description": "",
     "tags": [],
-    "filename": "084-yellow-ranunculus.png"
+    "filename": "084-yellow-ranunculus.png",
+    "originalBytes": 2072412
   },
   {
     "id": "flowers-085-orange-rose",
@@ -1020,7 +1112,8 @@
     "title": "Orange rose",
     "description": "",
     "tags": [],
-    "filename": "085-orange-rose.png"
+    "filename": "085-orange-rose.png",
+    "originalBytes": 1446800
   },
   {
     "id": "flowers-086-white-gerbera",
@@ -1031,7 +1124,8 @@
     "title": "White gerbera",
     "description": "",
     "tags": [],
-    "filename": "086-white-gerbera.png"
+    "filename": "086-white-gerbera.png",
+    "originalBytes": 1887405
   },
   {
     "id": "flowers-087-purple-calla",
@@ -1042,7 +1136,8 @@
     "title": "Purple calla",
     "description": "",
     "tags": [],
-    "filename": "087-purple-calla.png"
+    "filename": "087-purple-calla.png",
+    "originalBytes": 1872543
   },
   {
     "id": "flowers-088-white-lisianthus",
@@ -1053,7 +1148,8 @@
     "title": "White lisianthus",
     "description": "",
     "tags": [],
-    "filename": "088-white-lisianthus.png"
+    "filename": "088-white-lisianthus.png",
+    "originalBytes": 1634589
   },
   {
     "id": "flowers-089-yellow-peony",
@@ -1064,7 +1160,8 @@
     "title": "Yellow peony",
     "description": "",
     "tags": [],
-    "filename": "089-yellow-peony.png"
+    "filename": "089-yellow-peony.png",
+    "originalBytes": 1584340
   },
   {
     "id": "flowers-09-red-poppy",
@@ -1075,7 +1172,8 @@
     "title": "Red poppy",
     "description": "",
     "tags": [],
-    "filename": "09-red-poppy.png"
+    "filename": "09-red-poppy.png",
+    "originalBytes": 636522
   },
   {
     "id": "flowers-090-pink-anemone",
@@ -1086,7 +1184,8 @@
     "title": "Pink anemone",
     "description": "",
     "tags": [],
-    "filename": "090-pink-anemone.png"
+    "filename": "090-pink-anemone.png",
+    "originalBytes": 1762214
   },
   {
     "id": "flowers-091-red-dahlia",
@@ -1097,7 +1196,8 @@
     "title": "Red dahlia",
     "description": "",
     "tags": [],
-    "filename": "091-red-dahlia.png"
+    "filename": "091-red-dahlia.png",
+    "originalBytes": 1473204
   },
   {
     "id": "flowers-092-purple-orchid",
@@ -1108,7 +1208,8 @@
     "title": "Purple orchid",
     "description": "",
     "tags": [],
-    "filename": "092-purple-orchid.png"
+    "filename": "092-purple-orchid.png",
+    "originalBytes": 1909975
   },
   {
     "id": "flowers-093-white-iris",
@@ -1119,7 +1220,8 @@
     "title": "White iris",
     "description": "",
     "tags": [],
-    "filename": "093-white-iris.png"
+    "filename": "093-white-iris.png",
+    "originalBytes": 1840225
   },
   {
     "id": "flowers-094-burgundy-hellebore",
@@ -1130,7 +1232,8 @@
     "title": "Burgundy hellebore",
     "description": "",
     "tags": [],
-    "filename": "094-burgundy-hellebore.png"
+    "filename": "094-burgundy-hellebore.png",
+    "originalBytes": 1705040
   },
   {
     "id": "flowers-095-blue-primrose",
@@ -1141,7 +1244,8 @@
     "title": "Blue primrose",
     "description": "",
     "tags": [],
-    "filename": "095-blue-primrose.png"
+    "filename": "095-blue-primrose.png",
+    "originalBytes": 1444643
   },
   {
     "id": "flowers-096-yellow-primrose",
@@ -1152,7 +1256,8 @@
     "title": "Yellow primrose",
     "description": "",
     "tags": [],
-    "filename": "096-yellow-primrose.png"
+    "filename": "096-yellow-primrose.png",
+    "originalBytes": 1921741
   },
   {
     "id": "flowers-097-red-zinnia",
@@ -1163,7 +1268,8 @@
     "title": "Red zinnia",
     "description": "",
     "tags": [],
-    "filename": "097-red-zinnia.png"
+    "filename": "097-red-zinnia.png",
+    "originalBytes": 2207058
   },
   {
     "id": "flowers-098-coral-camellia",
@@ -1174,7 +1280,8 @@
     "title": "Coral camellia",
     "description": "",
     "tags": [],
-    "filename": "098-coral-camellia.png"
+    "filename": "098-coral-camellia.png",
+    "originalBytes": 1620363
   },
   {
     "id": "flowers-099-pink-cupped-daffodil",
@@ -1185,7 +1292,8 @@
     "title": "Pink cupped daffodil",
     "description": "",
     "tags": [],
-    "filename": "099-pink-cupped-daffodil.png"
+    "filename": "099-pink-cupped-daffodil.png",
+    "originalBytes": 1756528
   },
   {
     "id": "flowers-10-pink-carnation",
@@ -1196,7 +1304,8 @@
     "title": "Pink carnation",
     "description": "",
     "tags": [],
-    "filename": "10-pink-carnation.png"
+    "filename": "10-pink-carnation.png",
+    "originalBytes": 666706
   },
   {
     "id": "flowers-100-cream-tulip",
@@ -1207,7 +1316,8 @@
     "title": "Cream tulip",
     "description": "",
     "tags": [],
-    "filename": "100-cream-tulip.png"
+    "filename": "100-cream-tulip.png",
+    "originalBytes": 1589703
   },
   {
     "id": "flowers-101-orange-calla",
@@ -1218,7 +1328,8 @@
     "title": "Orange calla",
     "description": "",
     "tags": [],
-    "filename": "101-orange-calla.png"
+    "filename": "101-orange-calla.png",
+    "originalBytes": 1793764
   },
   {
     "id": "flowers-102-white-pansy",
@@ -1229,7 +1340,8 @@
     "title": "White pansy",
     "description": "",
     "tags": [],
-    "filename": "102-white-pansy.png"
+    "filename": "102-white-pansy.png",
+    "originalBytes": 1339962
   },
   {
     "id": "flowers-103-yellow-orchid",
@@ -1240,7 +1352,8 @@
     "title": "Yellow orchid",
     "description": "",
     "tags": [],
-    "filename": "103-yellow-orchid.png"
+    "filename": "103-yellow-orchid.png",
+    "originalBytes": 1668209
   },
   {
     "id": "flowers-104-pink-poppy",
@@ -1251,7 +1364,8 @@
     "title": "Pink poppy",
     "description": "",
     "tags": [],
-    "filename": "104-pink-poppy.png"
+    "filename": "104-pink-poppy.png",
+    "originalBytes": 2081512
   },
   {
     "id": "flowers-105-blue-iris",
@@ -1262,7 +1376,8 @@
     "title": "Blue iris",
     "description": "",
     "tags": [],
-    "filename": "105-blue-iris.png"
+    "filename": "105-blue-iris.png",
+    "originalBytes": 2145216
   },
   {
     "id": "flowers-106-peach-gerbera",
@@ -1273,7 +1388,8 @@
     "title": "Peach gerbera",
     "description": "",
     "tags": [],
-    "filename": "106-peach-gerbera.png"
+    "filename": "106-peach-gerbera.png",
+    "originalBytes": 1474744
   },
   {
     "id": "flowers-107-white-petunia",
@@ -1284,7 +1400,8 @@
     "title": "White petunia",
     "description": "",
     "tags": [],
-    "filename": "107-white-petunia.png"
+    "filename": "107-white-petunia.png",
+    "originalBytes": 1521629
   },
   {
     "id": "flowers-108-lavender-ranunculus",
@@ -1295,7 +1412,8 @@
     "title": "Lavender ranunculus",
     "description": "",
     "tags": [],
-    "filename": "108-lavender-ranunculus.png"
+    "filename": "108-lavender-ranunculus.png",
+    "originalBytes": 1504126
   },
   {
     "id": "flowers-109-pink-carnation",
@@ -1306,7 +1424,8 @@
     "title": "Pink carnation",
     "description": "",
     "tags": [],
-    "filename": "109-pink-carnation.png"
+    "filename": "109-pink-carnation.png",
+    "originalBytes": 1879743
   },
   {
     "id": "flowers-11-burgundy-dahlia",
@@ -1317,7 +1436,8 @@
     "title": "Burgundy dahlia",
     "description": "",
     "tags": [],
-    "filename": "11-burgundy-dahlia.png"
+    "filename": "11-burgundy-dahlia.png",
+    "originalBytes": 811111
   },
   {
     "id": "flowers-110-white-ranunculus",
@@ -1328,7 +1448,8 @@
     "title": "White ranunculus",
     "description": "",
     "tags": [],
-    "filename": "110-white-ranunculus.png"
+    "filename": "110-white-ranunculus.png",
+    "originalBytes": 1834554
   },
   {
     "id": "flowers-111-yellow-dahlia",
@@ -1339,7 +1460,8 @@
     "title": "Yellow dahlia",
     "description": "",
     "tags": [],
-    "filename": "111-yellow-dahlia.png"
+    "filename": "111-yellow-dahlia.png",
+    "originalBytes": 1511462
   },
   {
     "id": "flowers-112-pink-calla",
@@ -1350,7 +1472,8 @@
     "title": "Pink calla",
     "description": "",
     "tags": [],
-    "filename": "112-pink-calla.png"
+    "filename": "112-pink-calla.png",
+    "originalBytes": 1733482
   },
   {
     "id": "flowers-113-orange-zinnia",
@@ -1361,7 +1484,8 @@
     "title": "Orange zinnia",
     "description": "",
     "tags": [],
-    "filename": "113-orange-zinnia.png"
+    "filename": "113-orange-zinnia.png",
+    "originalBytes": 1379059
   },
   {
     "id": "flowers-114-peach-peony",
@@ -1372,7 +1496,8 @@
     "title": "Peach peony",
     "description": "",
     "tags": [],
-    "filename": "114-peach-peony.png"
+    "filename": "114-peach-peony.png",
+    "originalBytes": 1563366
   },
   {
     "id": "flowers-115-red-camellia",
@@ -1383,7 +1508,8 @@
     "title": "Red camellia",
     "description": "",
     "tags": [],
-    "filename": "115-red-camellia.png"
+    "filename": "115-red-camellia.png",
+    "originalBytes": 1571467
   },
   {
     "id": "flowers-116-yellow-lily",
@@ -1394,7 +1520,8 @@
     "title": "Yellow lily",
     "description": "",
     "tags": [],
-    "filename": "116-yellow-lily.png"
+    "filename": "116-yellow-lily.png",
+    "originalBytes": 1436969
   },
   {
     "id": "flowers-117-white-hibiscus",
@@ -1405,7 +1532,8 @@
     "title": "White hibiscus",
     "description": "",
     "tags": [],
-    "filename": "117-white-hibiscus.png"
+    "filename": "117-white-hibiscus.png",
+    "originalBytes": 1797400
   },
   {
     "id": "flowers-118-raspberry-petunia",
@@ -1416,7 +1544,8 @@
     "title": "Raspberry petunia",
     "description": "",
     "tags": [],
-    "filename": "118-raspberry-petunia.png"
+    "filename": "118-raspberry-petunia.png",
+    "originalBytes": 1761183
   },
   {
     "id": "flowers-119-cream-rose",
@@ -1427,7 +1556,8 @@
     "title": "Cream rose",
     "description": "",
     "tags": [],
-    "filename": "119-cream-rose.png"
+    "filename": "119-cream-rose.png",
+    "originalBytes": 1378206
   },
   {
     "id": "flowers-12-orange-gerbera",
@@ -1438,7 +1568,8 @@
     "title": "Orange gerbera",
     "description": "",
     "tags": [],
-    "filename": "12-orange-gerbera.png"
+    "filename": "12-orange-gerbera.png",
+    "originalBytes": 695118
   },
   {
     "id": "flowers-120-pink-chrysanthemum",
@@ -1449,7 +1580,8 @@
     "title": "Pink chrysanthemum",
     "description": "",
     "tags": [],
-    "filename": "120-pink-chrysanthemum.png"
+    "filename": "120-pink-chrysanthemum.png",
+    "originalBytes": 1376526
   },
   {
     "id": "flowers-121-yellow-carnation",
@@ -1460,7 +1592,8 @@
     "title": "Yellow carnation",
     "description": "",
     "tags": [],
-    "filename": "121-yellow-carnation.png"
+    "filename": "121-yellow-carnation.png",
+    "originalBytes": 1806515
   },
   {
     "id": "flowers-122-lavender-chrysanthemum",
@@ -1471,7 +1604,8 @@
     "title": "Lavender chrysanthemum",
     "description": "",
     "tags": [],
-    "filename": "122-lavender-chrysanthemum.png"
+    "filename": "122-lavender-chrysanthemum.png",
+    "originalBytes": 1528326
   },
   {
     "id": "flowers-123-orange-hibiscus",
@@ -1482,7 +1616,8 @@
     "title": "Orange hibiscus",
     "description": "",
     "tags": [],
-    "filename": "123-orange-hibiscus.png"
+    "filename": "123-orange-hibiscus.png",
+    "originalBytes": 1846214
   },
   {
     "id": "flowers-124-white-crocus",
@@ -1493,7 +1628,8 @@
     "title": "White crocus",
     "description": "",
     "tags": [],
-    "filename": "124-white-crocus.png"
+    "filename": "124-white-crocus.png",
+    "originalBytes": 1543856
   },
   {
     "id": "flowers-125-yellow-chrysanthemum",
@@ -1504,7 +1640,8 @@
     "title": "Yellow chrysanthemum",
     "description": "",
     "tags": [],
-    "filename": "125-yellow-chrysanthemum.png"
+    "filename": "125-yellow-chrysanthemum.png",
+    "originalBytes": 1472412
   },
   {
     "id": "flowers-126-pink-crocus",
@@ -1515,7 +1652,8 @@
     "title": "Pink crocus",
     "description": "",
     "tags": [],
-    "filename": "126-pink-crocus.png"
+    "filename": "126-pink-crocus.png",
+    "originalBytes": 904048
   },
   {
     "id": "flowers-127-yellow-zinnia",
@@ -1526,7 +1664,8 @@
     "title": "Yellow zinnia",
     "description": "",
     "tags": [],
-    "filename": "127-yellow-zinnia.png"
+    "filename": "127-yellow-zinnia.png",
+    "originalBytes": 1989365
   },
   {
     "id": "flowers-128-burgundy-tulip",
@@ -1537,7 +1676,8 @@
     "title": "Burgundy tulip",
     "description": "",
     "tags": [],
-    "filename": "128-burgundy-tulip.png"
+    "filename": "128-burgundy-tulip.png",
+    "originalBytes": 1855052
   },
   {
     "id": "flowers-129-yellow-crocus",
@@ -1548,7 +1688,8 @@
     "title": "Yellow crocus",
     "description": "",
     "tags": [],
-    "filename": "129-yellow-crocus.png"
+    "filename": "129-yellow-crocus.png",
+    "originalBytes": 1608860
   },
   {
     "id": "flowers-13-white-calla-lily",
@@ -1559,7 +1700,8 @@
     "title": "White calla lily",
     "description": "",
     "tags": [],
-    "filename": "13-white-calla-lily.png"
+    "filename": "13-white-calla-lily.png",
+    "originalBytes": 516289
   },
   {
     "id": "flowers-130-white-zinnia",
@@ -1570,7 +1712,8 @@
     "title": "White zinnia",
     "description": "",
     "tags": [],
-    "filename": "130-white-zinnia.png"
+    "filename": "130-white-zinnia.png",
+    "originalBytes": 1350974
   },
   {
     "id": "flowers-131-red-ranunculus",
@@ -1581,7 +1724,8 @@
     "title": "Red ranunculus",
     "description": "",
     "tags": [],
-    "filename": "131-red-ranunculus.png"
+    "filename": "131-red-ranunculus.png",
+    "originalBytes": 1522176
   },
   {
     "id": "flowers-132-blue-forget-me-not",
@@ -1592,7 +1736,8 @@
     "title": "Blue forget me not",
     "description": "",
     "tags": [],
-    "filename": "132-blue-forget-me-not.png"
+    "filename": "132-blue-forget-me-not.png",
+    "originalBytes": 1214723
   },
   {
     "id": "flowers-133-snowdrop",
@@ -1603,7 +1748,8 @@
     "title": "Snowdrop",
     "description": "",
     "tags": [],
-    "filename": "133-snowdrop.png"
+    "filename": "133-snowdrop.png",
+    "originalBytes": 745929
   },
   {
     "id": "flowers-134-apple-blossom",
@@ -1614,7 +1760,8 @@
     "title": "Apple blossom",
     "description": "",
     "tags": [],
-    "filename": "134-apple-blossom.png"
+    "filename": "134-apple-blossom.png",
+    "originalBytes": 1450484
   },
   {
     "id": "flowers-135-cherry-blossom",
@@ -1625,7 +1772,8 @@
     "title": "Cherry blossom",
     "description": "",
     "tags": [],
-    "filename": "135-cherry-blossom.png"
+    "filename": "135-cherry-blossom.png",
+    "originalBytes": 1152281
   },
   {
     "id": "flowers-136-sakura-blossom",
@@ -1636,7 +1784,8 @@
     "title": "Sakura blossom",
     "description": "",
     "tags": [],
-    "filename": "136-sakura-blossom.png"
+    "filename": "136-sakura-blossom.png",
+    "originalBytes": 1413023
   },
   {
     "id": "flowers-137-buttercup",
@@ -1647,7 +1796,8 @@
     "title": "Buttercup",
     "description": "",
     "tags": [],
-    "filename": "137-buttercup.png"
+    "filename": "137-buttercup.png",
+    "originalBytes": 1814844
   },
   {
     "id": "flowers-138-blue-violet",
@@ -1658,7 +1808,8 @@
     "title": "Blue violet",
     "description": "",
     "tags": [],
-    "filename": "138-blue-violet.png"
+    "filename": "138-blue-violet.png",
+    "originalBytes": 1302884
   },
   {
     "id": "flowers-139-strawberry-blossom",
@@ -1669,7 +1820,8 @@
     "title": "Strawberry blossom",
     "description": "",
     "tags": [],
-    "filename": "139-strawberry-blossom.png"
+    "filename": "139-strawberry-blossom.png",
+    "originalBytes": 1933368
   },
   {
     "id": "flowers-14-yellow-ranunculus",
@@ -1680,7 +1832,8 @@
     "title": "Yellow ranunculus",
     "description": "",
     "tags": [],
-    "filename": "14-yellow-ranunculus.png"
+    "filename": "14-yellow-ranunculus.png",
+    "originalBytes": 527731
   },
   {
     "id": "flowers-140-pink-wild-rose",
@@ -1691,7 +1844,8 @@
     "title": "Pink wild rose",
     "description": "",
     "tags": [],
-    "filename": "140-pink-wild-rose.png"
+    "filename": "140-pink-wild-rose.png",
+    "originalBytes": 1721805
   },
   {
     "id": "flowers-141-blue-flax",
@@ -1702,7 +1856,8 @@
     "title": "Blue flax",
     "description": "",
     "tags": [],
-    "filename": "141-blue-flax.png"
+    "filename": "141-blue-flax.png",
+    "originalBytes": 1222074
   },
   {
     "id": "flowers-142-white-violet",
@@ -1713,7 +1868,8 @@
     "title": "White violet",
     "description": "",
     "tags": [],
-    "filename": "142-white-violet.png"
+    "filename": "142-white-violet.png",
+    "originalBytes": 1147785
   },
   {
     "id": "flowers-143-peach-blossom",
@@ -1724,7 +1880,8 @@
     "title": "Peach blossom",
     "description": "",
     "tags": [],
-    "filename": "143-peach-blossom.png"
+    "filename": "143-peach-blossom.png",
+    "originalBytes": 1766943
   },
   {
     "id": "flowers-144-white-wild-rose",
@@ -1735,7 +1892,8 @@
     "title": "White wild rose",
     "description": "",
     "tags": [],
-    "filename": "144-white-wild-rose.png"
+    "filename": "144-white-wild-rose.png",
+    "originalBytes": 1514399
   },
   {
     "id": "flowers-145-orange-dahlia",
@@ -1746,7 +1904,8 @@
     "title": "Orange dahlia",
     "description": "",
     "tags": [],
-    "filename": "145-orange-dahlia.png"
+    "filename": "145-orange-dahlia.png",
+    "originalBytes": 1532762
   },
   {
     "id": "flowers-146-pink-violet",
@@ -1757,7 +1916,8 @@
     "title": "Pink violet",
     "description": "",
     "tags": [],
-    "filename": "146-pink-violet.png"
+    "filename": "146-pink-violet.png",
+    "originalBytes": 1394426
   },
   {
     "id": "flowers-147-white-bellflower",
@@ -1768,7 +1928,8 @@
     "title": "White bellflower",
     "description": "",
     "tags": [],
-    "filename": "147-white-bellflower.png"
+    "filename": "147-white-bellflower.png",
+    "originalBytes": 1449810
   },
   {
     "id": "flowers-148-pink-dahlia",
@@ -1779,7 +1940,8 @@
     "title": "Pink dahlia",
     "description": "",
     "tags": [],
-    "filename": "148-pink-dahlia.png"
+    "filename": "148-pink-dahlia.png",
+    "originalBytes": 1297408
   },
   {
     "id": "flowers-149-yellow-poppy",
@@ -1790,7 +1952,8 @@
     "title": "Yellow poppy",
     "description": "",
     "tags": [],
-    "filename": "149-yellow-poppy.png"
+    "filename": "149-yellow-poppy.png",
+    "originalBytes": 2105014
   },
   {
     "id": "flowers-15-purple-anemone",
@@ -1801,7 +1964,8 @@
     "title": "Purple anemone",
     "description": "",
     "tags": [],
-    "filename": "15-purple-anemone.png"
+    "filename": "15-purple-anemone.png",
+    "originalBytes": 822962
   },
   {
     "id": "flowers-150-white-magnolia",
@@ -1812,7 +1976,8 @@
     "title": "White magnolia",
     "description": "",
     "tags": [],
-    "filename": "150-white-magnolia.png"
+    "filename": "150-white-magnolia.png",
+    "originalBytes": 1251785
   },
   {
     "id": "flowers-151-pink-bellflower",
@@ -1823,7 +1988,8 @@
     "title": "Pink bellflower",
     "description": "",
     "tags": [],
-    "filename": "151-pink-bellflower.png"
+    "filename": "151-pink-bellflower.png",
+    "originalBytes": 1578178
   },
   {
     "id": "flowers-152-white-jasmine",
@@ -1834,7 +2000,8 @@
     "title": "White jasmine",
     "description": "",
     "tags": [],
-    "filename": "152-white-jasmine.png"
+    "filename": "152-white-jasmine.png",
+    "originalBytes": 914765
   },
   {
     "id": "flowers-153-pink-clematis",
@@ -1845,7 +2012,8 @@
     "title": "Pink clematis",
     "description": "",
     "tags": [],
-    "filename": "153-pink-clematis.png"
+    "filename": "153-pink-clematis.png",
+    "originalBytes": 1544726
   },
   {
     "id": "flowers-154-purple-clematis",
@@ -1856,7 +2024,8 @@
     "title": "Purple clematis",
     "description": "",
     "tags": [],
-    "filename": "154-purple-clematis.png"
+    "filename": "154-purple-clematis.png",
+    "originalBytes": 1699698
   },
   {
     "id": "flowers-155-white-lotus",
@@ -1867,7 +2036,8 @@
     "title": "White lotus",
     "description": "",
     "tags": [],
-    "filename": "155-white-lotus.png"
+    "filename": "155-white-lotus.png",
+    "originalBytes": 1322367
   },
   {
     "id": "flowers-156-white-clematis",
@@ -1878,7 +2048,8 @@
     "title": "White clematis",
     "description": "",
     "tags": [],
-    "filename": "156-white-clematis.png"
+    "filename": "156-white-clematis.png",
+    "originalBytes": 1400359
   },
   {
     "id": "flowers-157-pink-plumeria",
@@ -1889,7 +2060,8 @@
     "title": "Pink plumeria",
     "description": "",
     "tags": [],
-    "filename": "157-pink-plumeria.png"
+    "filename": "157-pink-plumeria.png",
+    "originalBytes": 1314055
   },
   {
     "id": "flowers-158-white-begonia",
@@ -1900,7 +2072,8 @@
     "title": "White begonia",
     "description": "",
     "tags": [],
-    "filename": "158-white-begonia.png"
+    "filename": "158-white-begonia.png",
+    "originalBytes": 1358864
   },
   {
     "id": "flowers-159-orange-begonia",
@@ -1911,7 +2084,8 @@
     "title": "Orange begonia",
     "description": "",
     "tags": [],
-    "filename": "159-orange-begonia.png"
+    "filename": "159-orange-begonia.png",
+    "originalBytes": 1608234
   },
   {
     "id": "flowers-16-white-chrysanthemum",
@@ -1922,7 +2096,8 @@
     "title": "White chrysanthemum",
     "description": "",
     "tags": [],
-    "filename": "16-white-chrysanthemum.png"
+    "filename": "16-white-chrysanthemum.png",
+    "originalBytes": 708381
   },
   {
     "id": "flowers-160-pink-begonia",
@@ -1933,7 +2108,8 @@
     "title": "Pink begonia",
     "description": "",
     "tags": [],
-    "filename": "160-pink-begonia.png"
+    "filename": "160-pink-begonia.png",
+    "originalBytes": 1437585
   },
   {
     "id": "flowers-161-blue-passionflower",
@@ -1944,7 +2120,8 @@
     "title": "Blue passionflower",
     "description": "",
     "tags": [],
-    "filename": "161-blue-passionflower.png"
+    "filename": "161-blue-passionflower.png",
+    "originalBytes": 1775852
   },
   {
     "id": "flowers-162-red-anthurium",
@@ -1955,7 +2132,8 @@
     "title": "Red anthurium",
     "description": "",
     "tags": [],
-    "filename": "162-red-anthurium.png"
+    "filename": "162-red-anthurium.png",
+    "originalBytes": 1374653
   },
   {
     "id": "flowers-163-white-anthurium",
@@ -1966,7 +2144,8 @@
     "title": "White anthurium",
     "description": "",
     "tags": [],
-    "filename": "163-white-anthurium.png"
+    "filename": "163-white-anthurium.png",
+    "originalBytes": 1795872
   },
   {
     "id": "flowers-164-pink-anthurium",
@@ -1977,7 +2156,8 @@
     "title": "Pink anthurium",
     "description": "",
     "tags": [],
-    "filename": "164-pink-anthurium.png"
+    "filename": "164-pink-anthurium.png",
+    "originalBytes": 1970481
   },
   {
     "id": "flowers-165-red-begonia",
@@ -1988,7 +2168,8 @@
     "title": "Red begonia",
     "description": "",
     "tags": [],
-    "filename": "165-red-begonia.png"
+    "filename": "165-red-begonia.png",
+    "originalBytes": 1472419
   },
   {
     "id": "flowers-166-yellow-plumeria",
@@ -1999,7 +2180,8 @@
     "title": "Yellow plumeria",
     "description": "",
     "tags": [],
-    "filename": "166-yellow-plumeria.png"
+    "filename": "166-yellow-plumeria.png",
+    "originalBytes": 1293058
   },
   {
     "id": "flowers-167-blue-gentian",
@@ -2010,7 +2192,8 @@
     "title": "Blue gentian",
     "description": "",
     "tags": [],
-    "filename": "167-blue-gentian.png"
+    "filename": "167-blue-gentian.png",
+    "originalBytes": 1340999
   },
   {
     "id": "flowers-168-pink-mallow",
@@ -2021,7 +2204,8 @@
     "title": "Pink mallow",
     "description": "",
     "tags": [],
-    "filename": "168-pink-mallow.png"
+    "filename": "168-pink-mallow.png",
+    "originalBytes": 1821135
   },
   {
     "id": "flowers-169-pink-edged-cosmos",
@@ -2032,7 +2216,8 @@
     "title": "Pink edged cosmos",
     "description": "",
     "tags": [],
-    "filename": "169-pink-edged-cosmos.png"
+    "filename": "169-pink-edged-cosmos.png",
+    "originalBytes": 1495165
   },
   {
     "id": "flowers-17-red-hibiscus",
@@ -2043,7 +2228,8 @@
     "title": "Red hibiscus",
     "description": "",
     "tags": [],
-    "filename": "17-red-hibiscus.png"
+    "filename": "17-red-hibiscus.png",
+    "originalBytes": 661838
   },
   {
     "id": "flowers-170-yellow-begonia",
@@ -2054,7 +2240,8 @@
     "title": "Yellow begonia",
     "description": "",
     "tags": [],
-    "filename": "170-yellow-begonia.png"
+    "filename": "170-yellow-begonia.png",
+    "originalBytes": 1294605
   },
   {
     "id": "flowers-171-pink-azalea",
@@ -2065,7 +2252,8 @@
     "title": "Pink azalea",
     "description": "",
     "tags": [],
-    "filename": "171-pink-azalea.png"
+    "filename": "171-pink-azalea.png",
+    "originalBytes": 1629118
   },
   {
     "id": "flowers-172-white-azalea",
@@ -2076,7 +2264,8 @@
     "title": "White azalea",
     "description": "",
     "tags": [],
-    "filename": "172-white-azalea.png"
+    "filename": "172-white-azalea.png",
+    "originalBytes": 1344338
   },
   {
     "id": "flowers-173-fuchsia",
@@ -2087,7 +2276,8 @@
     "title": "Fuchsia",
     "description": "",
     "tags": [],
-    "filename": "173-fuchsia.png"
+    "filename": "173-fuchsia.png",
+    "originalBytes": 1684650
   },
   {
     "id": "flowers-174-yellow-columbine",
@@ -2098,7 +2288,8 @@
     "title": "Yellow columbine",
     "description": "",
     "tags": [],
-    "filename": "174-yellow-columbine.png"
+    "filename": "174-yellow-columbine.png",
+    "originalBytes": 927795
   },
   {
     "id": "flowers-175-white-scabiosa",
@@ -2109,7 +2300,8 @@
     "title": "White scabiosa",
     "description": "",
     "tags": [],
-    "filename": "175-white-scabiosa.png"
+    "filename": "175-white-scabiosa.png",
+    "originalBytes": 1753653
   },
   {
     "id": "flowers-176-pink-cornflower",
@@ -2120,7 +2312,8 @@
     "title": "Pink cornflower",
     "description": "",
     "tags": [],
-    "filename": "176-pink-cornflower.png"
+    "filename": "176-pink-cornflower.png",
+    "originalBytes": 1873655
   },
   {
     "id": "flowers-177-red-nasturtium",
@@ -2131,7 +2324,8 @@
     "title": "Red nasturtium",
     "description": "",
     "tags": [],
-    "filename": "177-red-nasturtium.png"
+    "filename": "177-red-nasturtium.png",
+    "originalBytes": 1524631
   },
   {
     "id": "flowers-178-white-echinacea",
@@ -2142,7 +2336,8 @@
     "title": "White echinacea",
     "description": "",
     "tags": [],
-    "filename": "178-white-echinacea.png"
+    "filename": "178-white-echinacea.png",
+    "originalBytes": 1206347
   },
   {
     "id": "flowers-179-purple-cyclamen",
@@ -2153,7 +2348,8 @@
     "title": "Purple cyclamen",
     "description": "",
     "tags": [],
-    "filename": "179-purple-cyclamen.png"
+    "filename": "179-purple-cyclamen.png",
+    "originalBytes": 1065069
   },
   {
     "id": "flowers-18-orange-marigold",
@@ -2164,7 +2360,8 @@
     "title": "Orange marigold",
     "description": "",
     "tags": [],
-    "filename": "18-orange-marigold.png"
+    "filename": "18-orange-marigold.png",
+    "originalBytes": 813768
   },
   {
     "id": "flowers-180-white-nigella",
@@ -2175,7 +2372,8 @@
     "title": "White nigella",
     "description": "",
     "tags": [],
-    "filename": "180-white-nigella.png"
+    "filename": "180-white-nigella.png",
+    "originalBytes": 1286012
   },
   {
     "id": "flowers-181-yellow-nasturtium",
@@ -2186,7 +2384,8 @@
     "title": "Yellow nasturtium",
     "description": "",
     "tags": [],
-    "filename": "181-yellow-nasturtium.png"
+    "filename": "181-yellow-nasturtium.png",
+    "originalBytes": 1307164
   },
   {
     "id": "flowers-182-pink-scabiosa",
@@ -2197,7 +2396,8 @@
     "title": "Pink scabiosa",
     "description": "",
     "tags": [],
-    "filename": "182-pink-scabiosa.png"
+    "filename": "182-pink-scabiosa.png",
+    "originalBytes": 1211304
   },
   {
     "id": "flowers-183-white-cyclamen",
@@ -2208,7 +2408,8 @@
     "title": "White cyclamen",
     "description": "",
     "tags": [],
-    "filename": "183-white-cyclamen.png"
+    "filename": "183-white-cyclamen.png",
+    "originalBytes": 1763617
   },
   {
     "id": "flowers-184-pink-delphinium",
@@ -2219,7 +2420,8 @@
     "title": "Pink delphinium",
     "description": "",
     "tags": [],
-    "filename": "184-pink-delphinium.png"
+    "filename": "184-pink-delphinium.png",
+    "originalBytes": 1874490
   },
   {
     "id": "flowers-185-red-azalea",
@@ -2230,7 +2432,8 @@
     "title": "Red azalea",
     "description": "",
     "tags": [],
-    "filename": "185-red-azalea.png"
+    "filename": "185-red-azalea.png",
+    "originalBytes": 1728121
   },
   {
     "id": "flowers-186-white-columbine",
@@ -2241,7 +2444,8 @@
     "title": "White columbine",
     "description": "",
     "tags": [],
-    "filename": "186-white-columbine.png"
+    "filename": "186-white-columbine.png",
+    "originalBytes": 1020067
   },
   {
     "id": "flowers-187-pink-nigella",
@@ -2252,7 +2456,8 @@
     "title": "Pink nigella",
     "description": "",
     "tags": [],
-    "filename": "187-pink-nigella.png"
+    "filename": "187-pink-nigella.png",
+    "originalBytes": 1475795
   },
   {
     "id": "flowers-188-white-delphinium",
@@ -2263,7 +2468,8 @@
     "title": "White delphinium",
     "description": "",
     "tags": [],
-    "filename": "188-white-delphinium.png"
+    "filename": "188-white-delphinium.png",
+    "originalBytes": 1750425
   },
   {
     "id": "flowers-189-orange-echinacea",
@@ -2274,7 +2480,8 @@
     "title": "Orange echinacea",
     "description": "",
     "tags": [],
-    "filename": "189-orange-echinacea.png"
+    "filename": "189-orange-echinacea.png",
+    "originalBytes": 1226394
   },
   {
     "id": "flowers-19-magenta-zinnia",
@@ -2285,7 +2492,8 @@
     "title": "Magenta zinnia",
     "description": "",
     "tags": [],
-    "filename": "19-magenta-zinnia.png"
+    "filename": "19-magenta-zinnia.png",
+    "originalBytes": 866882
   },
   {
     "id": "flowers-190-white-cornflower",
@@ -2296,7 +2504,8 @@
     "title": "White cornflower",
     "description": "",
     "tags": [],
-    "filename": "190-white-cornflower.png"
+    "filename": "190-white-cornflower.png",
+    "originalBytes": 1048153
   },
   {
     "id": "flowers-191-pink-periwinkle",
@@ -2307,7 +2516,8 @@
     "title": "Pink periwinkle",
     "description": "",
     "tags": [],
-    "filename": "191-pink-periwinkle.png"
+    "filename": "191-pink-periwinkle.png",
+    "originalBytes": 1372720
   },
   {
     "id": "flowers-192-white-impatiens",
@@ -2318,7 +2528,8 @@
     "title": "White impatiens",
     "description": "",
     "tags": [],
-    "filename": "192-white-impatiens.png"
+    "filename": "192-white-impatiens.png",
+    "originalBytes": 1073157
   },
   {
     "id": "flowers-193-blue-vinca",
@@ -2329,7 +2540,8 @@
     "title": "Blue vinca",
     "description": "",
     "tags": [],
-    "filename": "193-blue-vinca.png"
+    "filename": "193-blue-vinca.png",
+    "originalBytes": 1208044
   },
   {
     "id": "flowers-194-red-impatiens",
@@ -2340,7 +2552,8 @@
     "title": "Red impatiens",
     "description": "",
     "tags": [],
-    "filename": "194-red-impatiens.png"
+    "filename": "194-red-impatiens.png",
+    "originalBytes": 1175839
   },
   {
     "id": "flowers-195-white-periwinkle",
@@ -2351,7 +2564,8 @@
     "title": "White periwinkle",
     "description": "",
     "tags": [],
-    "filename": "195-white-periwinkle.png"
+    "filename": "195-white-periwinkle.png",
+    "originalBytes": 1308870
   },
   {
     "id": "flowers-196-yellow-alstroemeria",
@@ -2362,7 +2576,8 @@
     "title": "Yellow alstroemeria",
     "description": "",
     "tags": [],
-    "filename": "196-yellow-alstroemeria.png"
+    "filename": "196-yellow-alstroemeria.png",
+    "originalBytes": 1282297
   },
   {
     "id": "flowers-197-pink-impatiens",
@@ -2373,7 +2588,8 @@
     "title": "Pink impatiens",
     "description": "",
     "tags": [],
-    "filename": "197-pink-impatiens.png"
+    "filename": "197-pink-impatiens.png",
+    "originalBytes": 1503683
   },
   {
     "id": "flowers-198-white-alstroemeria",
@@ -2384,7 +2600,8 @@
     "title": "White alstroemeria",
     "description": "",
     "tags": [],
-    "filename": "198-white-alstroemeria.png"
+    "filename": "198-white-alstroemeria.png",
+    "originalBytes": 899067
   },
   {
     "id": "flowers-199-orange-impatiens",
@@ -2395,7 +2612,8 @@
     "title": "Orange impatiens",
     "description": "",
     "tags": [],
-    "filename": "199-orange-impatiens.png"
+    "filename": "199-orange-impatiens.png",
+    "originalBytes": 1092233
   },
   {
     "id": "flowers-20-blue-cornflower",
@@ -2406,7 +2624,8 @@
     "title": "Blue cornflower",
     "description": "",
     "tags": [],
-    "filename": "20-blue-cornflower.png"
+    "filename": "20-blue-cornflower.png",
+    "originalBytes": 525944
   },
   {
     "id": "flowers-200-red-alstroemeria",
@@ -2417,7 +2636,8 @@
     "title": "Red alstroemeria",
     "description": "",
     "tags": [],
-    "filename": "200-red-alstroemeria.png"
+    "filename": "200-red-alstroemeria.png",
+    "originalBytes": 1081484
   },
   {
     "id": "flowers-201-pink-phlox",
@@ -2428,7 +2648,8 @@
     "title": "Pink phlox",
     "description": "",
     "tags": [],
-    "filename": "201-pink-phlox.png"
+    "filename": "201-pink-phlox.png",
+    "originalBytes": 770403
   },
   {
     "id": "flowers-202-purple-gloxinia",
@@ -2439,7 +2660,8 @@
     "title": "Purple gloxinia",
     "description": "",
     "tags": [],
-    "filename": "202-purple-gloxinia.png"
+    "filename": "202-purple-gloxinia.png",
+    "originalBytes": 1442044
   },
   {
     "id": "flowers-203-white-phlox",
@@ -2450,7 +2672,8 @@
     "title": "White phlox",
     "description": "",
     "tags": [],
-    "filename": "203-white-phlox.png"
+    "filename": "203-white-phlox.png",
+    "originalBytes": 711230
   },
   {
     "id": "flowers-204-pink-gloxinia",
@@ -2461,7 +2684,8 @@
     "title": "Pink gloxinia",
     "description": "",
     "tags": [],
-    "filename": "204-pink-gloxinia.png"
+    "filename": "204-pink-gloxinia.png",
+    "originalBytes": 1313597
   },
   {
     "id": "flowers-205-blue-platycodon",
@@ -2472,7 +2696,8 @@
     "title": "Blue platycodon",
     "description": "",
     "tags": [],
-    "filename": "205-blue-platycodon.png"
+    "filename": "205-blue-platycodon.png",
+    "originalBytes": 1089962
   },
   {
     "id": "flowers-206-red-gloxinia",
@@ -2483,7 +2708,8 @@
     "title": "Red gloxinia",
     "description": "",
     "tags": [],
-    "filename": "206-red-gloxinia.png"
+    "filename": "206-red-gloxinia.png",
+    "originalBytes": 1391596
   },
   {
     "id": "flowers-207-white-platycodon",
@@ -2494,7 +2720,8 @@
     "title": "White platycodon",
     "description": "",
     "tags": [],
-    "filename": "207-white-platycodon.png"
+    "filename": "207-white-platycodon.png",
+    "originalBytes": 941845
   },
   {
     "id": "flowers-208-purple-phlox",
@@ -2505,7 +2732,8 @@
     "title": "Purple phlox",
     "description": "",
     "tags": [],
-    "filename": "208-purple-phlox.png"
+    "filename": "208-purple-phlox.png",
+    "originalBytes": 963346
   },
   {
     "id": "flowers-209-pink-platycodon",
@@ -2516,7 +2744,8 @@
     "title": "Pink platycodon",
     "description": "",
     "tags": [],
-    "filename": "209-pink-platycodon.png"
+    "filename": "209-pink-platycodon.png",
+    "originalBytes": 1003999
   },
   {
     "id": "flowers-210-white-gloxinia",
@@ -2527,7 +2756,8 @@
     "title": "White gloxinia",
     "description": "",
     "tags": [],
-    "filename": "210-white-gloxinia.png"
+    "filename": "210-white-gloxinia.png",
+    "originalBytes": 949626
   },
   {
     "id": "flowers-211-yellow-evening-primrose",
@@ -2538,7 +2768,8 @@
     "title": "Yellow evening primrose",
     "description": "",
     "tags": [],
-    "filename": "211-yellow-evening-primrose.png"
+    "filename": "211-yellow-evening-primrose.png",
+    "originalBytes": 1221125
   },
   {
     "id": "flowers-212-pink-sweet-pea",
@@ -2549,7 +2780,8 @@
     "title": "Pink sweet pea",
     "description": "",
     "tags": [],
-    "filename": "212-pink-sweet-pea.png"
+    "filename": "212-pink-sweet-pea.png",
+    "originalBytes": 1015038
   },
   {
     "id": "flowers-213-white-evening-primrose",
@@ -2560,7 +2792,8 @@
     "title": "White evening primrose",
     "description": "",
     "tags": [],
-    "filename": "213-white-evening-primrose.png"
+    "filename": "213-white-evening-primrose.png",
+    "originalBytes": 1080602
   },
   {
     "id": "flowers-214-purple-sweet-pea",
@@ -2571,7 +2804,8 @@
     "title": "Purple sweet pea",
     "description": "",
     "tags": [],
-    "filename": "214-purple-sweet-pea.png"
+    "filename": "214-purple-sweet-pea.png",
+    "originalBytes": 920349
   },
   {
     "id": "flowers-215-pink-evening-primrose",
@@ -2582,7 +2816,8 @@
     "title": "Pink evening primrose",
     "description": "",
     "tags": [],
-    "filename": "215-pink-evening-primrose.png"
+    "filename": "215-pink-evening-primrose.png",
+    "originalBytes": 1358186
   },
   {
     "id": "flowers-216-white-sweet-pea",
@@ -2593,7 +2828,8 @@
     "title": "White sweet pea",
     "description": "",
     "tags": [],
-    "filename": "216-white-sweet-pea.png"
+    "filename": "216-white-sweet-pea.png",
+    "originalBytes": 786920
   },
   {
     "id": "flowers-217-orange-daylily",
@@ -2604,7 +2840,8 @@
     "title": "Orange daylily",
     "description": "",
     "tags": [],
-    "filename": "217-orange-daylily.png"
+    "filename": "217-orange-daylily.png",
+    "originalBytes": 1168243
   },
   {
     "id": "flowers-218-pink-godetia",
@@ -2615,7 +2852,8 @@
     "title": "Pink godetia",
     "description": "",
     "tags": [],
-    "filename": "218-pink-godetia.png"
+    "filename": "218-pink-godetia.png",
+    "originalBytes": 1409751
   },
   {
     "id": "flowers-219-yellow-daylily",
@@ -2626,7 +2864,8 @@
     "title": "Yellow daylily",
     "description": "",
     "tags": [],
-    "filename": "219-yellow-daylily.png"
+    "filename": "219-yellow-daylily.png",
+    "originalBytes": 1085977
   },
   {
     "id": "flowers-220-white-godetia",
@@ -2637,7 +2876,8 @@
     "title": "White godetia",
     "description": "",
     "tags": [],
-    "filename": "220-white-godetia.png"
+    "filename": "220-white-godetia.png",
+    "originalBytes": 1179493
   },
   {
     "id": "flowers-221-red-daylily",
@@ -2648,7 +2888,8 @@
     "title": "Red daylily",
     "description": "",
     "tags": [],
-    "filename": "221-red-daylily.png"
+    "filename": "221-red-daylily.png",
+    "originalBytes": 1286109
   },
   {
     "id": "flowers-222-orange-tigridia",
@@ -2659,7 +2900,8 @@
     "title": "Orange tigridia",
     "description": "",
     "tags": [],
-    "filename": "222-orange-tigridia.png"
+    "filename": "222-orange-tigridia.png",
+    "originalBytes": 1173687
   },
   {
     "id": "flowers-223-burgundy-sweet-pea",
@@ -2670,7 +2912,8 @@
     "title": "Burgundy sweet pea",
     "description": "",
     "tags": [],
-    "filename": "223-burgundy-sweet-pea.png"
+    "filename": "223-burgundy-sweet-pea.png",
+    "originalBytes": 1950986
   },
   {
     "id": "flowers-224-yellow-tigridia",
@@ -2681,7 +2924,8 @@
     "title": "Yellow tigridia",
     "description": "",
     "tags": [],
-    "filename": "224-yellow-tigridia.png"
+    "filename": "224-yellow-tigridia.png",
+    "originalBytes": 1079529
   },
   {
     "id": "flowers-225-pink-daylily",
@@ -2692,7 +2936,8 @@
     "title": "Pink daylily",
     "description": "",
     "tags": [],
-    "filename": "225-pink-daylily.png"
+    "filename": "225-pink-daylily.png",
+    "originalBytes": 1160119
   },
   {
     "id": "flowers-226-white-tigridia",
@@ -2703,7 +2948,8 @@
     "title": "White tigridia",
     "description": "",
     "tags": [],
-    "filename": "226-white-tigridia.png"
+    "filename": "226-white-tigridia.png",
+    "originalBytes": 1149244
   },
   {
     "id": "flowers-227-pink-snapdragon",
@@ -2714,7 +2960,8 @@
     "title": "Pink snapdragon",
     "description": "",
     "tags": [],
-    "filename": "227-pink-snapdragon.png"
+    "filename": "227-pink-snapdragon.png",
+    "originalBytes": 888215
   },
   {
     "id": "flowers-228-lavender-daylily",
@@ -2725,7 +2972,8 @@
     "title": "Lavender daylily",
     "description": "",
     "tags": [],
-    "filename": "228-lavender-daylily.png"
+    "filename": "228-lavender-daylily.png",
+    "originalBytes": 1212627
   },
   {
     "id": "flowers-229-yellow-snapdragon",
@@ -2736,7 +2984,8 @@
     "title": "Yellow snapdragon",
     "description": "",
     "tags": [],
-    "filename": "229-yellow-snapdragon.png"
+    "filename": "229-yellow-snapdragon.png",
+    "originalBytes": 700932
   },
   {
     "id": "flowers-230-red-tigridia",
@@ -2747,7 +2996,8 @@
     "title": "Red tigridia",
     "description": "",
     "tags": [],
-    "filename": "230-red-tigridia.png"
+    "filename": "230-red-tigridia.png",
+    "originalBytes": 1015123
   },
   {
     "id": "flowers-231-white-snapdragon",
@@ -2758,7 +3008,8 @@
     "title": "White snapdragon",
     "description": "",
     "tags": [],
-    "filename": "231-white-snapdragon.png"
+    "filename": "231-white-snapdragon.png",
+    "originalBytes": 697400
   },
   {
     "id": "flowers-232-pink-oleander",
@@ -2769,7 +3020,8 @@
     "title": "Pink oleander",
     "description": "",
     "tags": [],
-    "filename": "232-pink-oleander.png"
+    "filename": "232-pink-oleander.png",
+    "originalBytes": 1114026
   },
   {
     "id": "flowers-233-orange-snapdragon",
@@ -2780,7 +3032,8 @@
     "title": "Orange snapdragon",
     "description": "",
     "tags": [],
-    "filename": "233-orange-snapdragon.png"
+    "filename": "233-orange-snapdragon.png",
+    "originalBytes": 785763
   },
   {
     "id": "flowers-234-white-oleander",
@@ -2791,7 +3044,8 @@
     "title": "White oleander",
     "description": "",
     "tags": [],
-    "filename": "234-white-oleander.png"
+    "filename": "234-white-oleander.png",
+    "originalBytes": 816570
   },
   {
     "id": "flowers-235-red-snapdragon",
@@ -2802,7 +3056,8 @@
     "title": "Red snapdragon",
     "description": "",
     "tags": [],
-    "filename": "235-red-snapdragon.png"
+    "filename": "235-red-snapdragon.png",
+    "originalBytes": 790908
   },
   {
     "id": "flowers-236-blue-nemophila",
@@ -2813,7 +3068,8 @@
     "title": "Blue nemophila",
     "description": "",
     "tags": [],
-    "filename": "236-blue-nemophila.png"
+    "filename": "236-blue-nemophila.png",
+    "originalBytes": 935903
   },
   {
     "id": "flowers-237-red-oleander",
@@ -2824,7 +3080,8 @@
     "title": "Red oleander",
     "description": "",
     "tags": [],
-    "filename": "237-red-oleander.png"
+    "filename": "237-red-oleander.png",
+    "originalBytes": 1123422
   },
   {
     "id": "flowers-238-five-spot-nemophila",
@@ -2835,7 +3092,8 @@
     "title": "Five spot nemophila",
     "description": "",
     "tags": [],
-    "filename": "238-five-spot-nemophila.png"
+    "filename": "238-five-spot-nemophila.png",
+    "originalBytes": 1095721
   },
   {
     "id": "flowers-239-lavender-snapdragon",
@@ -2846,7 +3104,8 @@
     "title": "Lavender snapdragon",
     "description": "",
     "tags": [],
-    "filename": "239-lavender-snapdragon.png"
+    "filename": "239-lavender-snapdragon.png",
+    "originalBytes": 717661
   },
   {
     "id": "flowers-240-pink-geranium",
@@ -2857,7 +3116,8 @@
     "title": "Pink geranium",
     "description": "",
     "tags": [],
-    "filename": "240-pink-geranium.png"
+    "filename": "240-pink-geranium.png",
+    "originalBytes": 1016671
   },
   {
     "id": "flowers-241-yellow-adonis",
@@ -2868,7 +3128,8 @@
     "title": "Yellow adonis",
     "description": "",
     "tags": [],
-    "filename": "241-yellow-adonis.png"
+    "filename": "241-yellow-adonis.png",
+    "originalBytes": 1289689
   },
   {
     "id": "flowers-242-blue-geranium",
@@ -2879,7 +3140,8 @@
     "title": "Blue geranium",
     "description": "",
     "tags": [],
-    "filename": "242-blue-geranium.png"
+    "filename": "242-blue-geranium.png",
+    "originalBytes": 1142215
   },
   {
     "id": "flowers-243-red-adonis",
@@ -2890,7 +3152,8 @@
     "title": "Red adonis",
     "description": "",
     "tags": [],
-    "filename": "243-red-adonis.png"
+    "filename": "243-red-adonis.png",
+    "originalBytes": 1159528
   },
   {
     "id": "flowers-244-white-geranium",
@@ -2901,7 +3164,8 @@
     "title": "White geranium",
     "description": "",
     "tags": [],
-    "filename": "244-white-geranium.png"
+    "filename": "244-white-geranium.png",
+    "originalBytes": 1010712
   },
   {
     "id": "flowers-245-purple-pasque-flower",
@@ -2912,7 +3176,8 @@
     "title": "Purple pasque flower",
     "description": "",
     "tags": [],
-    "filename": "245-purple-pasque-flower.png"
+    "filename": "245-purple-pasque-flower.png",
+    "originalBytes": 1394236
   },
   {
     "id": "flowers-246-yellow-globeflower",
@@ -2923,7 +3188,8 @@
     "title": "Yellow globeflower",
     "description": "",
     "tags": [],
-    "filename": "246-yellow-globeflower.png"
+    "filename": "246-yellow-globeflower.png",
+    "originalBytes": 810044
   },
   {
     "id": "flowers-247-white-pasque-flower",
@@ -2934,7 +3200,8 @@
     "title": "White pasque flower",
     "description": "",
     "tags": [],
-    "filename": "247-white-pasque-flower.png"
+    "filename": "247-white-pasque-flower.png",
+    "originalBytes": 1889725
   },
   {
     "id": "flowers-248-orange-globeflower",
@@ -2945,7 +3212,8 @@
     "title": "Orange globeflower",
     "description": "",
     "tags": [],
-    "filename": "248-orange-globeflower.png"
+    "filename": "248-orange-globeflower.png",
+    "originalBytes": 829418
   },
   {
     "id": "flowers-249-red-pasque-flower",
@@ -2956,7 +3224,8 @@
     "title": "Red pasque flower",
     "description": "",
     "tags": [],
-    "filename": "249-red-pasque-flower.png"
+    "filename": "249-red-pasque-flower.png",
+    "originalBytes": 1242187
   },
   {
     "id": "flowers-250-pink-lavatera",
@@ -2967,7 +3236,8 @@
     "title": "Pink lavatera",
     "description": "",
     "tags": [],
-    "filename": "250-pink-lavatera.png"
+    "filename": "250-pink-lavatera.png",
+    "originalBytes": 1342693
   },
   {
     "id": "flowers-251-white-lavatera",
@@ -2978,7 +3248,8 @@
     "title": "White lavatera",
     "description": "",
     "tags": [],
-    "filename": "251-white-lavatera.png"
+    "filename": "251-white-lavatera.png",
+    "originalBytes": 1245259
   },
   {
     "id": "flowers-252-yellow-freesia",
@@ -2989,7 +3260,8 @@
     "title": "Yellow freesia",
     "description": "",
     "tags": [],
-    "filename": "252-yellow-freesia.png"
+    "filename": "252-yellow-freesia.png",
+    "originalBytes": 860520
   },
   {
     "id": "flowers-253-pink-pasque-flower",
@@ -3000,7 +3272,8 @@
     "title": "Pink pasque flower",
     "description": "",
     "tags": [],
-    "filename": "253-pink-pasque-flower.png"
+    "filename": "253-pink-pasque-flower.png",
+    "originalBytes": 1154128
   },
   {
     "id": "flowers-254-white-freesia",
@@ -3011,7 +3284,8 @@
     "title": "White freesia",
     "description": "",
     "tags": [],
-    "filename": "254-white-freesia.png"
+    "filename": "254-white-freesia.png",
+    "originalBytes": 1325674
   },
   {
     "id": "flowers-255-pink-rain-lily",
@@ -3022,7 +3296,8 @@
     "title": "Pink rain lily",
     "description": "",
     "tags": [],
-    "filename": "255-pink-rain-lily.png"
+    "filename": "255-pink-rain-lily.png",
+    "originalBytes": 890582
   },
   {
     "id": "flowers-256-purple-freesia",
@@ -3033,7 +3308,8 @@
     "title": "Purple freesia",
     "description": "",
     "tags": [],
-    "filename": "256-purple-freesia.png"
+    "filename": "256-purple-freesia.png",
+    "originalBytes": 1630866
   },
   {
     "id": "flowers-257-white-rain-lily",
@@ -3044,7 +3320,8 @@
     "title": "White rain lily",
     "description": "",
     "tags": [],
-    "filename": "257-white-rain-lily.png"
+    "filename": "257-white-rain-lily.png",
+    "originalBytes": 837618
   },
   {
     "id": "flowers-258-pink-freesia",
@@ -3055,7 +3332,8 @@
     "title": "Pink freesia",
     "description": "",
     "tags": [],
-    "filename": "258-pink-freesia.png"
+    "filename": "258-pink-freesia.png",
+    "originalBytes": 776270
   },
   {
     "id": "flowers-259-yellow-rain-lily",
@@ -3066,7 +3344,8 @@
     "title": "Yellow rain lily",
     "description": "",
     "tags": [],
-    "filename": "259-yellow-rain-lily.png"
+    "filename": "259-yellow-rain-lily.png",
+    "originalBytes": 716075
   },
   {
     "id": "flowers-260-white-gladiolus",
@@ -3077,7 +3356,8 @@
     "title": "White gladiolus",
     "description": "",
     "tags": [],
-    "filename": "260-white-gladiolus.png"
+    "filename": "260-white-gladiolus.png",
+    "originalBytes": 902122
   },
   {
     "id": "flowers-261-orange-freesia",
@@ -3088,7 +3368,8 @@
     "title": "Orange freesia",
     "description": "",
     "tags": [],
-    "filename": "261-orange-freesia.png"
+    "filename": "261-orange-freesia.png",
+    "originalBytes": 734085
   },
   {
     "id": "flowers-262-pink-gladiolus",
@@ -3099,7 +3380,8 @@
     "title": "Pink gladiolus",
     "description": "",
     "tags": [],
-    "filename": "262-pink-gladiolus.png"
+    "filename": "262-pink-gladiolus.png",
+    "originalBytes": 1332245
   },
   {
     "id": "flowers-263-red-freesia",
@@ -3110,7 +3392,8 @@
     "title": "Red freesia",
     "description": "",
     "tags": [],
-    "filename": "263-red-freesia.png"
+    "filename": "263-red-freesia.png",
+    "originalBytes": 663090
   },
   {
     "id": "flowers-264-yellow-gladiolus",
@@ -3121,7 +3404,8 @@
     "title": "Yellow gladiolus",
     "description": "",
     "tags": [],
-    "filename": "264-yellow-gladiolus.png"
+    "filename": "264-yellow-gladiolus.png",
+    "originalBytes": 991669
   },
   {
     "id": "flowers-265-white-hollyhock",
@@ -3132,7 +3416,8 @@
     "title": "White hollyhock",
     "description": "",
     "tags": [],
-    "filename": "265-white-hollyhock.png"
+    "filename": "265-white-hollyhock.png",
+    "originalBytes": 911184
   },
   {
     "id": "flowers-266-red-gladiolus",
@@ -3143,7 +3428,8 @@
     "title": "Red gladiolus",
     "description": "",
     "tags": [],
-    "filename": "266-red-gladiolus.png"
+    "filename": "266-red-gladiolus.png",
+    "originalBytes": 993259
   },
   {
     "id": "flowers-267-pink-hollyhock",
@@ -3154,7 +3440,8 @@
     "title": "Pink hollyhock",
     "description": "",
     "tags": [],
-    "filename": "267-pink-hollyhock.png"
+    "filename": "267-pink-hollyhock.png",
+    "originalBytes": 1216601
   },
   {
     "id": "flowers-268-magenta-maiden-pink",
@@ -3165,7 +3452,8 @@
     "title": "Magenta maiden pink",
     "description": "",
     "tags": [],
-    "filename": "268-magenta-maiden-pink.png"
+    "filename": "268-magenta-maiden-pink.png",
+    "originalBytes": 798159
   },
   {
     "id": "flowers-269-yellow-hollyhock",
@@ -3176,7 +3464,8 @@
     "title": "Yellow hollyhock",
     "description": "",
     "tags": [],
-    "filename": "269-yellow-hollyhock.png"
+    "filename": "269-yellow-hollyhock.png",
+    "originalBytes": 1383973
   },
   {
     "id": "flowers-270-white-maiden-pink",
@@ -3187,7 +3476,8 @@
     "title": "White maiden pink",
     "description": "",
     "tags": [],
-    "filename": "270-white-maiden-pink.png"
+    "filename": "270-white-maiden-pink.png",
+    "originalBytes": 599935
   },
   {
     "id": "flowers-271-red-hollyhock",
@@ -3198,7 +3488,8 @@
     "title": "Red hollyhock",
     "description": "",
     "tags": [],
-    "filename": "271-red-hollyhock.png"
+    "filename": "271-red-hollyhock.png",
+    "originalBytes": 1374014
   },
   {
     "id": "flowers-272-pink-maiden-pink",
@@ -3209,7 +3500,8 @@
     "title": "Pink maiden pink",
     "description": "",
     "tags": [],
-    "filename": "272-pink-maiden-pink.png"
+    "filename": "272-pink-maiden-pink.png",
+    "originalBytes": 733507
   },
   {
     "id": "flowers-273-purple-gladiolus",
@@ -3220,7 +3512,8 @@
     "title": "Purple gladiolus",
     "description": "",
     "tags": [],
-    "filename": "273-purple-gladiolus.png"
+    "filename": "273-purple-gladiolus.png",
+    "originalBytes": 1185369
   },
   {
     "id": "flowers-274-pink-foxglove",
@@ -3231,7 +3524,8 @@
     "title": "Pink foxglove",
     "description": "",
     "tags": [],
-    "filename": "274-pink-foxglove.png"
+    "filename": "274-pink-foxglove.png",
+    "originalBytes": 1781078
   },
   {
     "id": "flowers-275-burgundy-hollyhock",
@@ -3242,7 +3536,8 @@
     "title": "Burgundy hollyhock",
     "description": "",
     "tags": [],
-    "filename": "275-burgundy-hollyhock.png"
+    "filename": "275-burgundy-hollyhock.png",
+    "originalBytes": 1334476
   },
   {
     "id": "flowers-276-white-foxglove",
@@ -3253,7 +3548,8 @@
     "title": "White foxglove",
     "description": "",
     "tags": [],
-    "filename": "276-white-foxglove.png"
+    "filename": "276-white-foxglove.png",
+    "originalBytes": 1384601
   },
   {
     "id": "flowers-277-orange-gladiolus",
@@ -3264,7 +3560,8 @@
     "title": "Orange gladiolus",
     "description": "",
     "tags": [],
-    "filename": "277-orange-gladiolus.png"
+    "filename": "277-orange-gladiolus.png",
+    "originalBytes": 1031711
   },
   {
     "id": "flowers-278-yellow-foxglove",
@@ -3275,7 +3572,8 @@
     "title": "Yellow foxglove",
     "description": "",
     "tags": [],
-    "filename": "278-yellow-foxglove.png"
+    "filename": "278-yellow-foxglove.png",
+    "originalBytes": 712431
   },
   {
     "id": "flowers-279-pink-iris",
@@ -3286,7 +3584,8 @@
     "title": "Pink iris",
     "description": "",
     "tags": [],
-    "filename": "279-pink-iris.png"
+    "filename": "279-pink-iris.png",
+    "originalBytes": 1097110
   },
   {
     "id": "flowers-280-purple-foxglove",
@@ -3297,7 +3596,8 @@
     "title": "Purple foxglove",
     "description": "",
     "tags": [],
-    "filename": "280-purple-foxglove.png"
+    "filename": "280-purple-foxglove.png",
+    "originalBytes": 965002
   },
   {
     "id": "flowers-281-burgundy-iris",
@@ -3308,7 +3608,8 @@
     "title": "Burgundy iris",
     "description": "",
     "tags": [],
-    "filename": "281-burgundy-iris.png"
+    "filename": "281-burgundy-iris.png",
+    "originalBytes": 969306
   },
   {
     "id": "flowers-282-white-torenia",
@@ -3319,7 +3620,8 @@
     "title": "White torenia",
     "description": "",
     "tags": [],
-    "filename": "282-white-torenia.png"
+    "filename": "282-white-torenia.png",
+    "originalBytes": 555844
   },
   {
     "id": "flowers-283-orange-iris",
@@ -3330,7 +3632,8 @@
     "title": "Orange iris",
     "description": "",
     "tags": [],
-    "filename": "283-orange-iris.png"
+    "filename": "283-orange-iris.png",
+    "originalBytes": 1887395
   },
   {
     "id": "flowers-284-blue-torenia",
@@ -3341,7 +3644,8 @@
     "title": "Blue torenia",
     "description": "",
     "tags": [],
-    "filename": "284-blue-torenia.png"
+    "filename": "284-blue-torenia.png",
+    "originalBytes": 775857
   },
   {
     "id": "flowers-285-white-nicotiana",
@@ -3352,7 +3656,8 @@
     "title": "White nicotiana",
     "description": "",
     "tags": [],
-    "filename": "285-white-nicotiana.png"
+    "filename": "285-white-nicotiana.png",
+    "originalBytes": 1375647
   },
   {
     "id": "flowers-286-pink-torenia",
@@ -3363,7 +3668,8 @@
     "title": "Pink torenia",
     "description": "",
     "tags": [],
-    "filename": "286-pink-torenia.png"
+    "filename": "286-pink-torenia.png",
+    "originalBytes": 719772
   },
   {
     "id": "flowers-287-red-nicotiana",
@@ -3374,7 +3680,8 @@
     "title": "Red nicotiana",
     "description": "",
     "tags": [],
-    "filename": "287-red-nicotiana.png"
+    "filename": "287-red-nicotiana.png",
+    "originalBytes": 652174
   },
   {
     "id": "flowers-288-yellow-torenia",
@@ -3385,7 +3692,8 @@
     "title": "Yellow torenia",
     "description": "",
     "tags": [],
-    "filename": "288-yellow-torenia.png"
+    "filename": "288-yellow-torenia.png",
+    "originalBytes": 591897
   },
   {
     "id": "flowers-289-pink-nicotiana",
@@ -3396,7 +3704,8 @@
     "title": "Pink nicotiana",
     "description": "",
     "tags": [],
-    "filename": "289-pink-nicotiana.png"
+    "filename": "289-pink-nicotiana.png",
+    "originalBytes": 603248
   },
   {
     "id": "flowers-290-blue-lobelia",
@@ -3407,7 +3716,8 @@
     "title": "Blue lobelia",
     "description": "",
     "tags": [],
-    "filename": "290-blue-lobelia.png"
+    "filename": "290-blue-lobelia.png",
+    "originalBytes": 627664
   },
   {
     "id": "flowers-291-green-nicotiana",
@@ -3418,7 +3728,8 @@
     "title": "Green nicotiana",
     "description": "",
     "tags": [],
-    "filename": "291-green-nicotiana.png"
+    "filename": "291-green-nicotiana.png",
+    "originalBytes": 509528
   },
   {
     "id": "flowers-292-white-lobelia",
@@ -3429,7 +3740,8 @@
     "title": "White lobelia",
     "description": "",
     "tags": [],
-    "filename": "292-white-lobelia.png"
+    "filename": "292-white-lobelia.png",
+    "originalBytes": 508934
   },
   {
     "id": "flowers-293-purple-nicotiana",
@@ -3440,7 +3752,8 @@
     "title": "Purple nicotiana",
     "description": "",
     "tags": [],
-    "filename": "293-purple-nicotiana.png"
+    "filename": "293-purple-nicotiana.png",
+    "originalBytes": 532840
   },
   {
     "id": "flowers-294-pink-lobelia",
@@ -3451,7 +3764,8 @@
     "title": "Pink lobelia",
     "description": "",
     "tags": [],
-    "filename": "294-pink-lobelia.png"
+    "filename": "294-pink-lobelia.png",
+    "originalBytes": 671885
   },
   {
     "id": "flowers-295-white-calibrachoa",
@@ -3462,7 +3776,8 @@
     "title": "White calibrachoa",
     "description": "",
     "tags": [],
-    "filename": "295-white-calibrachoa.png"
+    "filename": "295-white-calibrachoa.png",
+    "originalBytes": 865730
   },
   {
     "id": "flowers-296-purple-lobelia",
@@ -3473,7 +3788,8 @@
     "title": "Purple lobelia",
     "description": "",
     "tags": [],
-    "filename": "296-purple-lobelia.png"
+    "filename": "296-purple-lobelia.png",
+    "originalBytes": 521308
   },
   {
     "id": "flowers-297-yellow-calibrachoa",
@@ -3484,7 +3800,8 @@
     "title": "Yellow calibrachoa",
     "description": "",
     "tags": [],
-    "filename": "297-yellow-calibrachoa.png"
+    "filename": "297-yellow-calibrachoa.png",
+    "originalBytes": 881277
   },
   {
     "id": "flowers-298-blue-browallia",
@@ -3495,7 +3812,8 @@
     "title": "Blue browallia",
     "description": "",
     "tags": [],
-    "filename": "298-blue-browallia.png"
+    "filename": "298-blue-browallia.png",
+    "originalBytes": 861176
   },
   {
     "id": "flowers-299-pink-calibrachoa",
@@ -3506,7 +3824,8 @@
     "title": "Pink calibrachoa",
     "description": "",
     "tags": [],
-    "filename": "299-pink-calibrachoa.png"
+    "filename": "299-pink-calibrachoa.png",
+    "originalBytes": 1004397
   },
   {
     "id": "flowers-300-white-browallia",
@@ -3517,7 +3836,8 @@
     "title": "White browallia",
     "description": "",
     "tags": [],
-    "filename": "300-white-browallia.png"
+    "filename": "300-white-browallia.png",
+    "originalBytes": 804888
   },
   {
     "id": "flowers-301-red-calibrachoa",
@@ -3528,7 +3848,8 @@
     "title": "Red calibrachoa",
     "description": "",
     "tags": [],
-    "filename": "301-red-calibrachoa.png"
+    "filename": "301-red-calibrachoa.png",
+    "originalBytes": 826202
   },
   {
     "id": "flowers-302-purple-browallia",
@@ -3539,7 +3860,8 @@
     "title": "Purple browallia",
     "description": "",
     "tags": [],
-    "filename": "302-purple-browallia.png"
+    "filename": "302-purple-browallia.png",
+    "originalBytes": 963429
   },
   {
     "id": "flowers-303-orange-calibrachoa",
@@ -3550,7 +3872,8 @@
     "title": "Orange calibrachoa",
     "description": "",
     "tags": [],
-    "filename": "303-orange-calibrachoa.png"
+    "filename": "303-orange-calibrachoa.png",
+    "originalBytes": 1036652
   },
   {
     "id": "flowers-304-white-bacopa",
@@ -3561,7 +3884,8 @@
     "title": "White bacopa",
     "description": "",
     "tags": [],
-    "filename": "304-white-bacopa.png"
+    "filename": "304-white-bacopa.png",
+    "originalBytes": 645131
   },
   {
     "id": "flowers-305-purple-calibrachoa",
@@ -3572,7 +3896,8 @@
     "title": "Purple calibrachoa",
     "description": "",
     "tags": [],
-    "filename": "305-purple-calibrachoa.png"
+    "filename": "305-purple-calibrachoa.png",
+    "originalBytes": 1023900
   },
   {
     "id": "flowers-306-pink-bacopa",
@@ -3583,7 +3908,8 @@
     "title": "Pink bacopa",
     "description": "",
     "tags": [],
-    "filename": "306-pink-bacopa.png"
+    "filename": "306-pink-bacopa.png",
+    "originalBytes": 654011
   },
   {
     "id": "flowers-307-pale-blue-forget-me-not",
@@ -3594,7 +3920,8 @@
     "title": "Pale blue forget me not",
     "description": "",
     "tags": [],
-    "filename": "307-pale-blue-forget-me-not.png"
+    "filename": "307-pale-blue-forget-me-not.png",
+    "originalBytes": 566681
   },
   {
     "id": "flowers-308-lavender-bacopa",
@@ -3605,7 +3932,8 @@
     "title": "Lavender bacopa",
     "description": "",
     "tags": [],
-    "filename": "308-lavender-bacopa.png"
+    "filename": "308-lavender-bacopa.png",
+    "originalBytes": 612612
   },
   {
     "id": "flowers-309-white-forget-me-not",
@@ -3616,7 +3944,8 @@
     "title": "White forget me not",
     "description": "",
     "tags": [],
-    "filename": "309-white-forget-me-not.png"
+    "filename": "309-white-forget-me-not.png",
+    "originalBytes": 649883
   },
   {
     "id": "flowers-310-pink-diascia",
@@ -3627,7 +3956,8 @@
     "title": "Pink diascia",
     "description": "",
     "tags": [],
-    "filename": "310-pink-diascia.png"
+    "filename": "310-pink-diascia.png",
+    "originalBytes": 765840
   },
   {
     "id": "flowers-311-pink-forget-me-not",
@@ -3638,7 +3968,8 @@
     "title": "Pink forget me not",
     "description": "",
     "tags": [],
-    "filename": "311-pink-forget-me-not.png"
+    "filename": "311-pink-forget-me-not.png",
+    "originalBytes": 623751
   },
   {
     "id": "flowers-312-orange-diascia",
@@ -3649,7 +3980,8 @@
     "title": "Orange diascia",
     "description": "",
     "tags": [],
-    "filename": "312-orange-diascia.png"
+    "filename": "312-orange-diascia.png",
+    "originalBytes": 802703
   },
   {
     "id": "flowers-313-white-nemesia",
@@ -3660,7 +3992,8 @@
     "title": "White nemesia",
     "description": "",
     "tags": [],
-    "filename": "313-white-nemesia.png"
+    "filename": "313-white-nemesia.png",
+    "originalBytes": 580842
   },
   {
     "id": "flowers-314-white-diascia",
@@ -3671,7 +4004,8 @@
     "title": "White diascia",
     "description": "",
     "tags": [],
-    "filename": "314-white-diascia.png"
+    "filename": "314-white-diascia.png",
+    "originalBytes": 709265
   },
   {
     "id": "flowers-315-yellow-nemesia",
@@ -3682,7 +4016,8 @@
     "title": "Yellow nemesia",
     "description": "",
     "tags": [],
-    "filename": "315-yellow-nemesia.png"
+    "filename": "315-yellow-nemesia.png",
+    "originalBytes": 608122
   },
   {
     "id": "flowers-316-white-penstemon",
@@ -3693,7 +4028,8 @@
     "title": "White penstemon",
     "description": "",
     "tags": [],
-    "filename": "316-white-penstemon.png"
+    "filename": "316-white-penstemon.png",
+    "originalBytes": 669273
   },
   {
     "id": "flowers-317-pink-nemesia",
@@ -3704,7 +4040,8 @@
     "title": "Pink nemesia",
     "description": "",
     "tags": [],
-    "filename": "317-pink-nemesia.png"
+    "filename": "317-pink-nemesia.png",
+    "originalBytes": 842204
   },
   {
     "id": "flowers-318-red-penstemon",
@@ -3715,7 +4052,8 @@
     "title": "Red penstemon",
     "description": "",
     "tags": [],
-    "filename": "318-red-penstemon.png"
+    "filename": "318-red-penstemon.png",
+    "originalBytes": 812499
   },
   {
     "id": "flowers-319-purple-nemesia",
@@ -3726,7 +4064,8 @@
     "title": "Purple nemesia",
     "description": "",
     "tags": [],
-    "filename": "319-purple-nemesia.png"
+    "filename": "319-purple-nemesia.png",
+    "originalBytes": 849546
   },
   {
     "id": "flowers-320-blue-penstemon",
@@ -3737,7 +4076,8 @@
     "title": "Blue penstemon",
     "description": "",
     "tags": [],
-    "filename": "320-blue-penstemon.png"
+    "filename": "320-blue-penstemon.png",
+    "originalBytes": 748010
   },
   {
     "id": "flowers-321-orange-nemesia",
@@ -3748,7 +4088,8 @@
     "title": "Orange nemesia",
     "description": "",
     "tags": [],
-    "filename": "321-orange-nemesia.png"
+    "filename": "321-orange-nemesia.png",
+    "originalBytes": 722618
   },
   {
     "id": "flowers-322-pink-penstemon",
@@ -3759,7 +4100,8 @@
     "title": "Pink penstemon",
     "description": "",
     "tags": [],
-    "filename": "322-pink-penstemon.png"
+    "filename": "322-pink-penstemon.png",
+    "originalBytes": 943604
   },
   {
     "id": "flowers-323-blue-nemesia",
@@ -3770,7 +4112,8 @@
     "title": "Blue nemesia",
     "description": "",
     "tags": [],
-    "filename": "323-blue-nemesia.png"
+    "filename": "323-blue-nemesia.png",
+    "originalBytes": 748342
   },
   {
     "id": "flowers-324-purple-penstemon",
@@ -3781,7 +4124,8 @@
     "title": "Purple penstemon",
     "description": "",
     "tags": [],
-    "filename": "324-purple-penstemon.png"
+    "filename": "324-purple-penstemon.png",
+    "originalBytes": 835782
   },
   {
     "id": "flowers-325-red-nemesia",
@@ -3792,7 +4136,8 @@
     "title": "Red nemesia",
     "description": "",
     "tags": [],
-    "filename": "325-red-nemesia.png"
+    "filename": "325-red-nemesia.png",
+    "originalBytes": 798841
   },
   {
     "id": "flowers-326-yellow-mimulus",
@@ -3803,7 +4148,8 @@
     "title": "Yellow mimulus",
     "description": "",
     "tags": [],
-    "filename": "326-yellow-mimulus.png"
+    "filename": "326-yellow-mimulus.png",
+    "originalBytes": 810043
   },
   {
     "id": "flowers-327-pink-linaria",
@@ -3814,7 +4160,8 @@
     "title": "Pink linaria",
     "description": "",
     "tags": [],
-    "filename": "327-pink-linaria.png"
+    "filename": "327-pink-linaria.png",
+    "originalBytes": 666912
   },
   {
     "id": "flowers-328-orange-mimulus",
@@ -3825,7 +4172,8 @@
     "title": "Orange mimulus",
     "description": "",
     "tags": [],
-    "filename": "328-orange-mimulus.png"
+    "filename": "328-orange-mimulus.png",
+    "originalBytes": 870037
   },
   {
     "id": "flowers-329-yellow-linaria",
@@ -3836,7 +4184,8 @@
     "title": "Yellow linaria",
     "description": "",
     "tags": [],
-    "filename": "329-yellow-linaria.png"
+    "filename": "329-yellow-linaria.png",
+    "originalBytes": 493520
   },
   {
     "id": "flowers-330-red-mimulus",
@@ -3847,7 +4196,8 @@
     "title": "Red mimulus",
     "description": "",
     "tags": [],
-    "filename": "330-red-mimulus.png"
+    "filename": "330-red-mimulus.png",
+    "originalBytes": 895837
   },
   {
     "id": "flowers-331-purple-linaria",
@@ -3858,7 +4208,8 @@
     "title": "Purple linaria",
     "description": "",
     "tags": [],
-    "filename": "331-purple-linaria.png"
+    "filename": "331-purple-linaria.png",
+    "originalBytes": 565496
   },
   {
     "id": "flowers-332-pink-mimulus",
@@ -3869,7 +4220,8 @@
     "title": "Pink mimulus",
     "description": "",
     "tags": [],
-    "filename": "332-pink-mimulus.png"
+    "filename": "332-pink-mimulus.png",
+    "originalBytes": 897591
   },
   {
     "id": "flowers-333-white-linaria",
@@ -3880,7 +4232,8 @@
     "title": "White linaria",
     "description": "",
     "tags": [],
-    "filename": "333-white-linaria.png"
+    "filename": "333-white-linaria.png",
+    "originalBytes": 571863
   },
   {
     "id": "flowers-334-white-verbena",
@@ -3891,7 +4244,8 @@
     "title": "White verbena",
     "description": "",
     "tags": [],
-    "filename": "334-white-verbena.png"
+    "filename": "334-white-verbena.png",
+    "originalBytes": 587956
   },
   {
     "id": "flowers-335-white-thunbergia",
@@ -3902,7 +4256,8 @@
     "title": "White thunbergia",
     "description": "",
     "tags": [],
-    "filename": "335-white-thunbergia.png"
+    "filename": "335-white-thunbergia.png",
+    "originalBytes": 920651
   },
   {
     "id": "flowers-336-pink-verbena",
@@ -3913,7 +4268,8 @@
     "title": "Pink verbena",
     "description": "",
     "tags": [],
-    "filename": "336-pink-verbena.png"
+    "filename": "336-pink-verbena.png",
+    "originalBytes": 665338
   },
   {
     "id": "flowers-337-orange-thunbergia",
@@ -3924,7 +4280,8 @@
     "title": "Orange thunbergia",
     "description": "",
     "tags": [],
-    "filename": "337-orange-thunbergia.png"
+    "filename": "337-orange-thunbergia.png",
+    "originalBytes": 866288
   },
   {
     "id": "flowers-338-red-verbena",
@@ -3935,7 +4292,8 @@
     "title": "Red verbena",
     "description": "",
     "tags": [],
-    "filename": "338-red-verbena.png"
+    "filename": "338-red-verbena.png",
+    "originalBytes": 651760
   },
   {
     "id": "flowers-339-yellow-thunbergia",
@@ -3946,7 +4304,8 @@
     "title": "Yellow thunbergia",
     "description": "",
     "tags": [],
-    "filename": "339-yellow-thunbergia.png"
+    "filename": "339-yellow-thunbergia.png",
+    "originalBytes": 1009176
   },
   {
     "id": "flowers-340-purple-verbena",
@@ -3957,7 +4316,8 @@
     "title": "Purple verbena",
     "description": "",
     "tags": [],
-    "filename": "340-purple-verbena.png"
+    "filename": "340-purple-verbena.png",
+    "originalBytes": 782691
   },
   {
     "id": "flowers-341-pink-thunbergia",
@@ -3968,7 +4328,8 @@
     "title": "Pink thunbergia",
     "description": "",
     "tags": [],
-    "filename": "341-pink-thunbergia.png"
+    "filename": "341-pink-thunbergia.png",
+    "originalBytes": 983085
   },
   {
     "id": "flowers-342-blue-verbena",
@@ -3979,7 +4340,8 @@
     "title": "Blue verbena",
     "description": "",
     "tags": [],
-    "filename": "342-blue-verbena.png"
+    "filename": "342-blue-verbena.png",
+    "originalBytes": 666137
   },
   {
     "id": "flowers-343-blue-thunbergia",
@@ -3990,7 +4352,8 @@
     "title": "Blue thunbergia",
     "description": "",
     "tags": [],
-    "filename": "343-blue-thunbergia.png"
+    "filename": "343-blue-thunbergia.png",
+    "originalBytes": 853249
   },
   {
     "id": "flowers-344-yellow-portulaca",
@@ -4001,7 +4364,8 @@
     "title": "Yellow portulaca",
     "description": "",
     "tags": [],
-    "filename": "344-yellow-portulaca.png"
+    "filename": "344-yellow-portulaca.png",
+    "originalBytes": 1015723
   },
   {
     "id": "flowers-345-white-morning-glory",
@@ -4012,7 +4376,8 @@
     "title": "White morning glory",
     "description": "",
     "tags": [],
-    "filename": "345-white-morning-glory.png"
+    "filename": "345-white-morning-glory.png",
+    "originalBytes": 936235
   },
   {
     "id": "flowers-346-pink-portulaca",
@@ -4023,7 +4388,8 @@
     "title": "Pink portulaca",
     "description": "",
     "tags": [],
-    "filename": "346-pink-portulaca.png"
+    "filename": "346-pink-portulaca.png",
+    "originalBytes": 924115
   },
   {
     "id": "flowers-347-purple-morning-glory",
@@ -4034,7 +4400,8 @@
     "title": "Purple morning glory",
     "description": "",
     "tags": [],
-    "filename": "347-purple-morning-glory.png"
+    "filename": "347-purple-morning-glory.png",
+    "originalBytes": 1139635
   },
   {
     "id": "flowers-348-white-portulaca",
@@ -4045,7 +4412,8 @@
     "title": "White portulaca",
     "description": "",
     "tags": [],
-    "filename": "348-white-portulaca.png"
+    "filename": "348-white-portulaca.png",
+    "originalBytes": 901369
   },
   {
     "id": "flowers-349-pink-morning-glory",
@@ -4056,7 +4424,8 @@
     "title": "Pink morning glory",
     "description": "",
     "tags": [],
-    "filename": "349-pink-morning-glory.png"
+    "filename": "349-pink-morning-glory.png",
+    "originalBytes": 801981
   },
   {
     "id": "flowers-350-orange-portulaca",
@@ -4067,7 +4436,8 @@
     "title": "Orange portulaca",
     "description": "",
     "tags": [],
-    "filename": "350-orange-portulaca.png"
+    "filename": "350-orange-portulaca.png",
+    "originalBytes": 1167569
   },
   {
     "id": "flowers-351-white-california-poppy",
@@ -4078,7 +4448,8 @@
     "title": "White california poppy",
     "description": "",
     "tags": [],
-    "filename": "351-white-california-poppy.png"
+    "filename": "351-white-california-poppy.png",
+    "originalBytes": 687585
   },
   {
     "id": "flowers-352-red-portulaca",
@@ -4089,7 +4460,8 @@
     "title": "Red portulaca",
     "description": "",
     "tags": [],
-    "filename": "352-red-portulaca.png"
+    "filename": "352-red-portulaca.png",
+    "originalBytes": 1194214
   },
   {
     "id": "flowers-353-pink-california-poppy",
@@ -4100,7 +4472,8 @@
     "title": "Pink california poppy",
     "description": "",
     "tags": [],
-    "filename": "353-pink-california-poppy.png"
+    "filename": "353-pink-california-poppy.png",
+    "originalBytes": 834612
   },
   {
     "id": "flowers-354-purple-portulaca",
@@ -4111,7 +4484,8 @@
     "title": "Purple portulaca",
     "description": "",
     "tags": [],
-    "filename": "354-purple-portulaca.png"
+    "filename": "354-purple-portulaca.png",
+    "originalBytes": 1144985
   },
   {
     "id": "flowers-355-yellow-california-poppy",
@@ -4122,7 +4496,8 @@
     "title": "Yellow california poppy",
     "description": "",
     "tags": [],
-    "filename": "355-yellow-california-poppy.png"
+    "filename": "355-yellow-california-poppy.png",
+    "originalBytes": 699670
   },
   {
     "id": "flowers-356-blue-clematis",
@@ -4133,7 +4508,8 @@
     "title": "Blue clematis",
     "description": "",
     "tags": [],
-    "filename": "356-blue-clematis.png"
+    "filename": "356-blue-clematis.png",
+    "originalBytes": 958449
   },
   {
     "id": "flowers-357-red-california-poppy",
@@ -4144,7 +4520,8 @@
     "title": "Red california poppy",
     "description": "",
     "tags": [],
-    "filename": "357-red-california-poppy.png"
+    "filename": "357-red-california-poppy.png",
+    "originalBytes": 937728
   },
   {
     "id": "flowers-358-burgundy-clematis",
@@ -4155,6 +4532,7 @@
     "title": "Burgundy clematis",
     "description": "",
     "tags": [],
-    "filename": "358-burgundy-clematis.png"
+    "filename": "358-burgundy-clematis.png",
+    "originalBytes": 1158459
   }
 ]

@@ -8,7 +8,8 @@
     "title": "Paramecium",
     "description": "",
     "tags": [],
-    "filename": "001-paramecium.png"
+    "filename": "001-paramecium.png",
+    "originalBytes": 1690411
   },
   {
     "id": "microorganisms-002-centric-diatom",
@@ -19,7 +20,8 @@
     "title": "Centric diatom",
     "description": "",
     "tags": [],
-    "filename": "002-centric-diatom.png"
+    "filename": "002-centric-diatom.png",
+    "originalBytes": 2377759
   },
   {
     "id": "microorganisms-003-amoeba",
@@ -30,7 +32,8 @@
     "title": "Amoeba",
     "description": "",
     "tags": [],
-    "filename": "003-amoeba.png"
+    "filename": "003-amoeba.png",
+    "originalBytes": 1927502
   },
   {
     "id": "microorganisms-004-euglena",
@@ -41,7 +44,8 @@
     "title": "Euglena",
     "description": "",
     "tags": [],
-    "filename": "004-euglena.png"
+    "filename": "004-euglena.png",
+    "originalBytes": 1572729
   },
   {
     "id": "microorganisms-005-radiolarian",
@@ -52,7 +56,8 @@
     "title": "Radiolarian",
     "description": "",
     "tags": [],
-    "filename": "005-radiolarian.png"
+    "filename": "005-radiolarian.png",
+    "originalBytes": 1192813
   },
   {
     "id": "microorganisms-006-foraminifer",
@@ -63,7 +68,8 @@
     "title": "Foraminifer",
     "description": "",
     "tags": [],
-    "filename": "006-foraminifer.png"
+    "filename": "006-foraminifer.png",
+    "originalBytes": 2092694
   },
   {
     "id": "microorganisms-007-flagellated-bacterium",
@@ -74,7 +80,8 @@
     "title": "Flagellated bacterium",
     "description": "",
     "tags": [],
-    "filename": "007-flagellated-bacterium.png"
+    "filename": "007-flagellated-bacterium.png",
+    "originalBytes": 1786668
   },
   {
     "id": "microorganisms-008-coccolithophore",
@@ -85,7 +92,8 @@
     "title": "Coccolithophore",
     "description": "",
     "tags": [],
-    "filename": "008-coccolithophore.png"
+    "filename": "008-coccolithophore.png",
+    "originalBytes": 1937894
   },
   {
     "id": "microorganisms-009-pennate-diatom",
@@ -96,7 +104,8 @@
     "title": "Pennate diatom",
     "description": "",
     "tags": [],
-    "filename": "009-pennate-diatom.png"
+    "filename": "009-pennate-diatom.png",
+    "originalBytes": 1258587
   },
   {
     "id": "microorganisms-010-spirillum",
@@ -107,7 +116,8 @@
     "title": "Spirillum",
     "description": "",
     "tags": [],
-    "filename": "010-spirillum.png"
+    "filename": "010-spirillum.png",
+    "originalBytes": 649457
   },
   {
     "id": "microorganisms-011-ceratium",
@@ -118,7 +128,8 @@
     "title": "Ceratium",
     "description": "",
     "tags": [],
-    "filename": "011-ceratium.png"
+    "filename": "011-ceratium.png",
+    "originalBytes": 588708
   },
   {
     "id": "microorganisms-012-vorticella",
@@ -129,7 +140,8 @@
     "title": "Vorticella",
     "description": "",
     "tags": [],
-    "filename": "012-vorticella.png"
+    "filename": "012-vorticella.png",
+    "originalBytes": 1535641
   },
   {
     "id": "microorganisms-013-arcella",
@@ -140,7 +152,8 @@
     "title": "Arcella",
     "description": "",
     "tags": [],
-    "filename": "013-arcella.png"
+    "filename": "013-arcella.png",
+    "originalBytes": 2004777
   },
   {
     "id": "microorganisms-014-yeast",
@@ -151,7 +164,8 @@
     "title": "Yeast",
     "description": "",
     "tags": [],
-    "filename": "014-yeast.png"
+    "filename": "014-yeast.png",
+    "originalBytes": 1755873
   },
   {
     "id": "microorganisms-015-micrasterias",
@@ -162,7 +176,8 @@
     "title": "Micrasterias",
     "description": "",
     "tags": [],
-    "filename": "015-micrasterias.png"
+    "filename": "015-micrasterias.png",
+    "originalBytes": 1998545
   },
   {
     "id": "microorganisms-016-coccus",
@@ -173,7 +188,8 @@
     "title": "Coccus",
     "description": "",
     "tags": [],
-    "filename": "016-coccus.png"
+    "filename": "016-coccus.png",
+    "originalBytes": 1359795
   },
   {
     "id": "microorganisms-017-triangular-diatom",
@@ -184,7 +200,8 @@
     "title": "Triangular diatom",
     "description": "",
     "tags": [],
-    "filename": "017-triangular-diatom.png"
+    "filename": "017-triangular-diatom.png",
+    "originalBytes": 1529433
   },
   {
     "id": "microorganisms-018-tardigrade",
@@ -195,7 +212,8 @@
     "title": "Tardigrade",
     "description": "",
     "tags": [],
-    "filename": "018-tardigrade.png"
+    "filename": "018-tardigrade.png",
+    "originalBytes": 1507171
   },
   {
     "id": "microorganisms-019-closterium",
@@ -206,7 +224,8 @@
     "title": "Closterium",
     "description": "",
     "tags": [],
-    "filename": "019-closterium.png"
+    "filename": "019-closterium.png",
+    "originalBytes": 822893
   },
   {
     "id": "microorganisms-020-stentor",
@@ -217,7 +236,8 @@
     "title": "Stentor",
     "description": "",
     "tags": [],
-    "filename": "020-stentor.png"
+    "filename": "020-stentor.png",
+    "originalBytes": 1155804
   },
   {
     "id": "microorganisms-021-euglypha",
@@ -228,7 +248,8 @@
     "title": "Euglypha",
     "description": "",
     "tags": [],
-    "filename": "021-euglypha.png"
+    "filename": "021-euglypha.png",
+    "originalBytes": 1640205
   },
   {
     "id": "microorganisms-022-rotifer",
@@ -239,7 +260,8 @@
     "title": "Rotifer",
     "description": "",
     "tags": [],
-    "filename": "022-rotifer.png"
+    "filename": "022-rotifer.png",
+    "originalBytes": 1046352
   },
   {
     "id": "microorganisms-023-surirella",
@@ -250,7 +272,8 @@
     "title": "Surirella",
     "description": "",
     "tags": [],
-    "filename": "023-surirella.png"
+    "filename": "023-surirella.png",
+    "originalBytes": 1661302
   },
   {
     "id": "microorganisms-024-euplotes",
@@ -261,7 +284,8 @@
     "title": "Euplotes",
     "description": "",
     "tags": [],
-    "filename": "024-euplotes.png"
+    "filename": "024-euplotes.png",
+    "originalBytes": 1681205
   },
   {
     "id": "microorganisms-025-chlamydomonas",
@@ -272,7 +296,8 @@
     "title": "Chlamydomonas",
     "description": "",
     "tags": [],
-    "filename": "025-chlamydomonas.png"
+    "filename": "025-chlamydomonas.png",
+    "originalBytes": 521403
   },
   {
     "id": "microorganisms-026-vibrio",
@@ -283,7 +308,8 @@
     "title": "Vibrio",
     "description": "",
     "tags": [],
-    "filename": "026-vibrio.png"
+    "filename": "026-vibrio.png",
+    "originalBytes": 730624
   },
   {
     "id": "microorganisms-027-nassellarian",
@@ -294,7 +320,8 @@
     "title": "Nassellarian",
     "description": "",
     "tags": [],
-    "filename": "027-nassellarian.png"
+    "filename": "027-nassellarian.png",
+    "originalBytes": 903679
   },
   {
     "id": "microorganisms-028-dileptus",
@@ -305,7 +332,8 @@
     "title": "Dileptus",
     "description": "",
     "tags": [],
-    "filename": "028-dileptus.png"
+    "filename": "028-dileptus.png",
+    "originalBytes": 843191
   },
   {
     "id": "microorganisms-029-centropyxis",
@@ -316,7 +344,8 @@
     "title": "Centropyxis",
     "description": "",
     "tags": [],
-    "filename": "029-centropyxis.png"
+    "filename": "029-centropyxis.png",
+    "originalBytes": 1786100
   },
   {
     "id": "microorganisms-030-chlorella",
@@ -327,7 +356,8 @@
     "title": "Chlorella",
     "description": "",
     "tags": [],
-    "filename": "030-chlorella.png"
+    "filename": "030-chlorella.png",
+    "originalBytes": 1777185
   },
   {
     "id": "microorganisms-031-lacrymaria",
@@ -338,7 +368,8 @@
     "title": "Lacrymaria",
     "description": "",
     "tags": [],
-    "filename": "031-lacrymaria.png"
+    "filename": "031-lacrymaria.png",
+    "originalBytes": 693451
   },
   {
     "id": "microorganisms-032-brachionus",
@@ -349,7 +380,8 @@
     "title": "Brachionus",
     "description": "",
     "tags": [],
-    "filename": "032-brachionus.png"
+    "filename": "032-brachionus.png",
+    "originalBytes": 1249243
   },
   {
     "id": "microorganisms-033-discoidal-radiolarian",
@@ -360,7 +392,8 @@
     "title": "Discoidal radiolarian",
     "description": "",
     "tags": [],
-    "filename": "033-discoidal-radiolarian.png"
+    "filename": "033-discoidal-radiolarian.png",
+    "originalBytes": 1349559
   },
   {
     "id": "microorganisms-034-gastrotrich",
@@ -371,7 +404,8 @@
     "title": "Gastrotrich",
     "description": "",
     "tags": [],
-    "filename": "034-gastrotrich.png"
+    "filename": "034-gastrotrich.png",
+    "originalBytes": 923418
   },
   {
     "id": "microorganisms-035-color-micrasterias",
@@ -382,7 +416,8 @@
     "title": "Color micrasterias",
     "description": "",
     "tags": [],
-    "filename": "035-color-micrasterias.png"
+    "filename": "035-color-micrasterias.png",
+    "originalBytes": 1896856
   },
   {
     "id": "microorganisms-036-color-centric-diatom",
@@ -393,7 +428,8 @@
     "title": "Color centric diatom",
     "description": "",
     "tags": [],
-    "filename": "036-color-centric-diatom.png"
+    "filename": "036-color-centric-diatom.png",
+    "originalBytes": 2270882
   },
   {
     "id": "microorganisms-037-color-paramecium",
@@ -404,7 +440,8 @@
     "title": "Color paramecium",
     "description": "",
     "tags": [],
-    "filename": "037-color-paramecium.png"
+    "filename": "037-color-paramecium.png",
+    "originalBytes": 1906643
   },
   {
     "id": "microorganisms-038-color-radiolarian",
@@ -415,7 +452,8 @@
     "title": "Color radiolarian",
     "description": "",
     "tags": [],
-    "filename": "038-color-radiolarian.png"
+    "filename": "038-color-radiolarian.png",
+    "originalBytes": 1311850
   },
   {
     "id": "microorganisms-039-color-bacterium",
@@ -426,7 +464,8 @@
     "title": "Color bacterium",
     "description": "",
     "tags": [],
-    "filename": "039-color-bacterium.png"
+    "filename": "039-color-bacterium.png",
+    "originalBytes": 1076982
   },
   {
     "id": "microorganisms-040-color-euglena",
@@ -437,7 +476,8 @@
     "title": "Color euglena",
     "description": "",
     "tags": [],
-    "filename": "040-color-euglena.png"
+    "filename": "040-color-euglena.png",
+    "originalBytes": 707732
   },
   {
     "id": "microorganisms-041-color-foraminifer",
@@ -448,7 +488,8 @@
     "title": "Color foraminifer",
     "description": "",
     "tags": [],
-    "filename": "041-color-foraminifer.png"
+    "filename": "041-color-foraminifer.png",
+    "originalBytes": 2297652
   },
   {
     "id": "microorganisms-042-color-yeast",
@@ -459,7 +500,8 @@
     "title": "Color yeast",
     "description": "",
     "tags": [],
-    "filename": "042-color-yeast.png"
+    "filename": "042-color-yeast.png",
+    "originalBytes": 2009221
   },
   {
     "id": "microorganisms-043-color-amoeba",
@@ -470,7 +512,8 @@
     "title": "Color amoeba",
     "description": "",
     "tags": [],
-    "filename": "043-color-amoeba.png"
+    "filename": "043-color-amoeba.png",
+    "originalBytes": 1642857
   },
   {
     "id": "microorganisms-044-color-coccolithophore",
@@ -481,7 +524,8 @@
     "title": "Color coccolithophore",
     "description": "",
     "tags": [],
-    "filename": "044-color-coccolithophore.png"
+    "filename": "044-color-coccolithophore.png",
+    "originalBytes": 2165516
   },
   {
     "id": "microorganisms-045-color-ceratium",
@@ -492,7 +536,8 @@
     "title": "Color ceratium",
     "description": "",
     "tags": [],
-    "filename": "045-color-ceratium.png"
+    "filename": "045-color-ceratium.png",
+    "originalBytes": 704953
   },
   {
     "id": "microorganisms-046-color-tardigrade",
@@ -503,7 +548,8 @@
     "title": "Color tardigrade",
     "description": "",
     "tags": [],
-    "filename": "046-color-tardigrade.png"
+    "filename": "046-color-tardigrade.png",
+    "originalBytes": 1639449
   },
   {
     "id": "microorganisms-047-color-pennate-diatom",
@@ -514,7 +560,8 @@
     "title": "Color pennate diatom",
     "description": "",
     "tags": [],
-    "filename": "047-color-pennate-diatom.png"
+    "filename": "047-color-pennate-diatom.png",
+    "originalBytes": 1526480
   },
   {
     "id": "microorganisms-048-color-vorticella",
@@ -525,7 +572,8 @@
     "title": "Color vorticella",
     "description": "",
     "tags": [],
-    "filename": "048-color-vorticella.png"
+    "filename": "048-color-vorticella.png",
+    "originalBytes": 644742
   },
   {
     "id": "microorganisms-049-color-spirillum",
@@ -536,7 +584,8 @@
     "title": "Color spirillum",
     "description": "",
     "tags": [],
-    "filename": "049-color-spirillum.png"
+    "filename": "049-color-spirillum.png",
+    "originalBytes": 749539
   },
   {
     "id": "microorganisms-050-color-chlamydomonas",
@@ -547,7 +596,8 @@
     "title": "Color chlamydomonas",
     "description": "",
     "tags": [],
-    "filename": "050-color-chlamydomonas.png"
+    "filename": "050-color-chlamydomonas.png",
+    "originalBytes": 607294
   },
   {
     "id": "microorganisms-051-color-triangular-diatom",
@@ -558,7 +608,8 @@
     "title": "Color triangular diatom",
     "description": "",
     "tags": [],
-    "filename": "051-color-triangular-diatom.png"
+    "filename": "051-color-triangular-diatom.png",
+    "originalBytes": 1791974
   },
   {
     "id": "microorganisms-052-color-rotifer",
@@ -569,7 +620,8 @@
     "title": "Color rotifer",
     "description": "",
     "tags": [],
-    "filename": "052-color-rotifer.png"
+    "filename": "052-color-rotifer.png",
+    "originalBytes": 1111711
   },
   {
     "id": "microorganisms-053-color-cosmarium",
@@ -580,7 +632,8 @@
     "title": "Color cosmarium",
     "description": "",
     "tags": [],
-    "filename": "053-color-cosmarium.png"
+    "filename": "053-color-cosmarium.png",
+    "originalBytes": 1571699
   },
   {
     "id": "microorganisms-054-color-stentor",
@@ -591,7 +644,8 @@
     "title": "Color stentor",
     "description": "",
     "tags": [],
-    "filename": "054-color-stentor.png"
+    "filename": "054-color-stentor.png",
+    "originalBytes": 1137185
   },
   {
     "id": "microorganisms-055-color-arcella",
@@ -602,7 +656,8 @@
     "title": "Color arcella",
     "description": "",
     "tags": [],
-    "filename": "055-color-arcella.png"
+    "filename": "055-color-arcella.png",
+    "originalBytes": 1937892
   },
   {
     "id": "microorganisms-056-color-closterium",
@@ -613,7 +668,8 @@
     "title": "Color closterium",
     "description": "",
     "tags": [],
-    "filename": "056-color-closterium.png"
+    "filename": "056-color-closterium.png",
+    "originalBytes": 766485
   },
   {
     "id": "microorganisms-057-color-vibrio",
@@ -624,7 +680,8 @@
     "title": "Color vibrio",
     "description": "",
     "tags": [],
-    "filename": "057-color-vibrio.png"
+    "filename": "057-color-vibrio.png",
+    "originalBytes": 797784
   },
   {
     "id": "microorganisms-058-color-euglypha",
@@ -635,7 +692,8 @@
     "title": "Color euglypha",
     "description": "",
     "tags": [],
-    "filename": "058-color-euglypha.png"
+    "filename": "058-color-euglypha.png",
+    "originalBytes": 1585675
   },
   {
     "id": "microorganisms-059-color-nassellarian",
@@ -646,7 +704,8 @@
     "title": "Color nassellarian",
     "description": "",
     "tags": [],
-    "filename": "059-color-nassellarian.png"
+    "filename": "059-color-nassellarian.png",
+    "originalBytes": 847242
   },
   {
     "id": "microorganisms-060-color-chlorella",
@@ -657,7 +716,8 @@
     "title": "Color chlorella",
     "description": "",
     "tags": [],
-    "filename": "060-color-chlorella.png"
+    "filename": "060-color-chlorella.png",
+    "originalBytes": 1776358
   },
   {
     "id": "microorganisms-061-color-euplotes",
@@ -668,7 +728,8 @@
     "title": "Color euplotes",
     "description": "",
     "tags": [],
-    "filename": "061-color-euplotes.png"
+    "filename": "061-color-euplotes.png",
+    "originalBytes": 2080757
   },
   {
     "id": "microorganisms-062-color-surirella",
@@ -679,7 +740,8 @@
     "title": "Color surirella",
     "description": "",
     "tags": [],
-    "filename": "062-color-surirella.png"
+    "filename": "062-color-surirella.png",
+    "originalBytes": 1693212
   },
   {
     "id": "microorganisms-063-color-brachionus",
@@ -690,7 +752,8 @@
     "title": "Color brachionus",
     "description": "",
     "tags": [],
-    "filename": "063-color-brachionus.png"
+    "filename": "063-color-brachionus.png",
+    "originalBytes": 1411267
   },
   {
     "id": "microorganisms-064-color-coccus",
@@ -701,7 +764,8 @@
     "title": "Color coccus",
     "description": "",
     "tags": [],
-    "filename": "064-color-coccus.png"
+    "filename": "064-color-coccus.png",
+    "originalBytes": 2206150
   },
   {
     "id": "microorganisms-065-color-discoidal-radiolarian",
@@ -712,7 +776,8 @@
     "title": "Color discoidal radiolarian",
     "description": "",
     "tags": [],
-    "filename": "065-color-discoidal-radiolarian.png"
+    "filename": "065-color-discoidal-radiolarian.png",
+    "originalBytes": 1546546
   },
   {
     "id": "microorganisms-066-color-gastrotrich",
@@ -723,7 +788,8 @@
     "title": "Color gastrotrich",
     "description": "",
     "tags": [],
-    "filename": "066-color-gastrotrich.png"
+    "filename": "066-color-gastrotrich.png",
+    "originalBytes": 913635
   },
   {
     "id": "microorganisms-067-color-dileptus",
@@ -734,7 +800,8 @@
     "title": "Color dileptus",
     "description": "",
     "tags": [],
-    "filename": "067-color-dileptus.png"
+    "filename": "067-color-dileptus.png",
+    "originalBytes": 776913
   },
   {
     "id": "microorganisms-068-color-centropyxis",
@@ -745,7 +812,8 @@
     "title": "Color centropyxis",
     "description": "",
     "tags": [],
-    "filename": "068-color-centropyxis.png"
+    "filename": "068-color-centropyxis.png",
+    "originalBytes": 1910129
   },
   {
     "id": "microorganisms-069-color-choanoflagellate",
@@ -756,7 +824,8 @@
     "title": "Color choanoflagellate",
     "description": "",
     "tags": [],
-    "filename": "069-color-choanoflagellate.png"
+    "filename": "069-color-choanoflagellate.png",
+    "originalBytes": 695621
   },
   {
     "id": "microorganisms-070-color-staurastrum",
@@ -767,7 +836,8 @@
     "title": "Color staurastrum",
     "description": "",
     "tags": [],
-    "filename": "070-color-staurastrum.png"
+    "filename": "070-color-staurastrum.png",
+    "originalBytes": 1118630
   },
   {
     "id": "microorganisms-071-color-heliozoan",
@@ -778,7 +848,8 @@
     "title": "Color heliozoan",
     "description": "",
     "tags": [],
-    "filename": "071-color-heliozoan.png"
+    "filename": "071-color-heliozoan.png",
+    "originalBytes": 876091
   },
   {
     "id": "microorganisms-072-color-difflugia",
@@ -789,7 +860,8 @@
     "title": "Color difflugia",
     "description": "",
     "tags": [],
-    "filename": "072-color-difflugia.png"
+    "filename": "072-color-difflugia.png",
+    "originalBytes": 1906443
   },
   {
     "id": "microorganisms-073-color-lacrymaria",
@@ -800,7 +872,8 @@
     "title": "Color lacrymaria",
     "description": "",
     "tags": [],
-    "filename": "073-color-lacrymaria.png"
+    "filename": "073-color-lacrymaria.png",
+    "originalBytes": 1021255
   },
   {
     "id": "microorganisms-074-color-trachelomonas",
@@ -811,7 +884,8 @@
     "title": "Color trachelomonas",
     "description": "",
     "tags": [],
-    "filename": "074-color-trachelomonas.png"
+    "filename": "074-color-trachelomonas.png",
+    "originalBytes": 1115563
   },
   {
     "id": "microorganisms-075-color-phacus",
@@ -822,7 +896,8 @@
     "title": "Color phacus",
     "description": "",
     "tags": [],
-    "filename": "075-color-phacus.png"
+    "filename": "075-color-phacus.png",
+    "originalBytes": 929287
   },
   {
     "id": "microorganisms-076-color-halteria",
@@ -833,7 +908,8 @@
     "title": "Color halteria",
     "description": "",
     "tags": [],
-    "filename": "076-color-halteria.png"
+    "filename": "076-color-halteria.png",
+    "originalBytes": 1450946
   },
   {
     "id": "microorganisms-077-color-tintinnid",
@@ -844,7 +920,8 @@
     "title": "Color tintinnid",
     "description": "",
     "tags": [],
-    "filename": "077-color-tintinnid.png"
+    "filename": "077-color-tintinnid.png",
+    "originalBytes": 1176744
   },
   {
     "id": "microorganisms-078-color-euastrum",
@@ -855,7 +932,8 @@
     "title": "Color euastrum",
     "description": "",
     "tags": [],
-    "filename": "078-color-euastrum.png"
+    "filename": "078-color-euastrum.png",
+    "originalBytes": 1949280
   },
   {
     "id": "microorganisms-079-color-xanthidium",
@@ -866,7 +944,8 @@
     "title": "Color xanthidium",
     "description": "",
     "tags": [],
-    "filename": "079-color-xanthidium.png"
+    "filename": "079-color-xanthidium.png",
+    "originalBytes": 1888530
   },
   {
     "id": "microorganisms-080-color-spirostomum",
@@ -877,7 +956,8 @@
     "title": "Color spirostomum",
     "description": "",
     "tags": [],
-    "filename": "080-color-spirostomum.png"
+    "filename": "080-color-spirostomum.png",
+    "originalBytes": 1183125
   },
   {
     "id": "microorganisms-081-color-didinium",
@@ -888,7 +968,8 @@
     "title": "Color didinium",
     "description": "",
     "tags": [],
-    "filename": "081-color-didinium.png"
+    "filename": "081-color-didinium.png",
+    "originalBytes": 1880611
   },
   {
     "id": "microorganisms-082-color-coleps",
@@ -899,7 +980,8 @@
     "title": "Color coleps",
     "description": "",
     "tags": [],
-    "filename": "082-color-coleps.png"
+    "filename": "082-color-coleps.png",
+    "originalBytes": 1845979
   },
   {
     "id": "microorganisms-083-color-peridinium",
@@ -910,7 +992,8 @@
     "title": "Color peridinium",
     "description": "",
     "tags": [],
-    "filename": "083-color-peridinium.png"
+    "filename": "083-color-peridinium.png",
+    "originalBytes": 1443564
   },
   {
     "id": "microorganisms-084-color-mallomonas",
@@ -921,7 +1004,8 @@
     "title": "Color mallomonas",
     "description": "",
     "tags": [],
-    "filename": "084-color-mallomonas.png"
+    "filename": "084-color-mallomonas.png",
+    "originalBytes": 1080697
   },
   {
     "id": "microorganisms-085-color-cymbella",
@@ -932,7 +1016,8 @@
     "title": "Color cymbella",
     "description": "",
     "tags": [],
-    "filename": "085-color-cymbella.png"
+    "filename": "085-color-cymbella.png",
+    "originalBytes": 1195058
   },
   {
     "id": "microorganisms-086-color-stylonychia",
@@ -943,7 +1028,8 @@
     "title": "Color stylonychia",
     "description": "",
     "tags": [],
-    "filename": "086-color-stylonychia.png"
+    "filename": "086-color-stylonychia.png",
+    "originalBytes": 1595454
   },
   {
     "id": "microorganisms-087-color-actinoptychus",
@@ -954,7 +1040,8 @@
     "title": "Color actinoptychus",
     "description": "",
     "tags": [],
-    "filename": "087-color-actinoptychus.png"
+    "filename": "087-color-actinoptychus.png",
+    "originalBytes": 2522257
   },
   {
     "id": "microorganisms-088-color-tetrahymena",
@@ -965,7 +1052,8 @@
     "title": "Color tetrahymena",
     "description": "",
     "tags": [],
-    "filename": "088-color-tetrahymena.png"
+    "filename": "088-color-tetrahymena.png",
+    "originalBytes": 1676429
   },
   {
     "id": "microorganisms-089-color-noctiluca",
@@ -976,7 +1064,8 @@
     "title": "Color noctiluca",
     "description": "",
     "tags": [],
-    "filename": "089-color-noctiluca.png"
+    "filename": "089-color-noctiluca.png",
+    "originalBytes": 1390198
   },
   {
     "id": "microorganisms-090-color-nitzschia",
@@ -987,7 +1076,8 @@
     "title": "Color nitzschia",
     "description": "",
     "tags": [],
-    "filename": "090-color-nitzschia.png"
+    "filename": "090-color-nitzschia.png",
+    "originalBytes": 725044
   },
   {
     "id": "microorganisms-091-color-pediastrum-cell",
@@ -998,7 +1088,8 @@
     "title": "Color pediastrum cell",
     "description": "",
     "tags": [],
-    "filename": "091-color-pediastrum-cell.png"
+    "filename": "091-color-pediastrum-cell.png",
+    "originalBytes": 1404235
   },
   {
     "id": "microorganisms-092-color-acineta",
@@ -1009,7 +1100,8 @@
     "title": "Color acineta",
     "description": "",
     "tags": [],
-    "filename": "092-color-acineta.png"
+    "filename": "092-color-acineta.png",
+    "originalBytes": 887961
   },
   {
     "id": "microorganisms-093-color-dinophysis",
@@ -1020,7 +1112,8 @@
     "title": "Color dinophysis",
     "description": "",
     "tags": [],
-    "filename": "093-color-dinophysis.png"
+    "filename": "093-color-dinophysis.png",
+    "originalBytes": 1921379
   },
   {
     "id": "microorganisms-094-color-oocystis",
@@ -1031,7 +1124,8 @@
     "title": "Color oocystis",
     "description": "",
     "tags": [],
-    "filename": "094-color-oocystis.png"
+    "filename": "094-color-oocystis.png",
+    "originalBytes": 1235095
   },
   {
     "id": "microorganisms-095-color-licmophora",
@@ -1042,7 +1136,8 @@
     "title": "Color licmophora",
     "description": "",
     "tags": [],
-    "filename": "095-color-licmophora.png"
+    "filename": "095-color-licmophora.png",
+    "originalBytes": 1755063
   },
   {
     "id": "microorganisms-096-color-bdellovibrio",
@@ -1053,7 +1148,8 @@
     "title": "Color bdellovibrio",
     "description": "",
     "tags": [],
-    "filename": "096-color-bdellovibrio.png"
+    "filename": "096-color-bdellovibrio.png",
+    "originalBytes": 547705
   },
   {
     "id": "microorganisms-097-color-lesquereusia",
@@ -1064,7 +1160,8 @@
     "title": "Color lesquereusia",
     "description": "",
     "tags": [],
-    "filename": "097-color-lesquereusia.png"
+    "filename": "097-color-lesquereusia.png",
+    "originalBytes": 2064511
   },
   {
     "id": "microorganisms-098-color-tetraedron",
@@ -1075,7 +1172,8 @@
     "title": "Color tetraedron",
     "description": "",
     "tags": [],
-    "filename": "098-color-tetraedron.png"
+    "filename": "098-color-tetraedron.png",
+    "originalBytes": 755012
   },
   {
     "id": "microorganisms-099-color-blepharisma",
@@ -1086,7 +1184,8 @@
     "title": "Color blepharisma",
     "description": "",
     "tags": [],
-    "filename": "099-color-blepharisma.png"
+    "filename": "099-color-blepharisma.png",
+    "originalBytes": 1725848
   },
   {
     "id": "microorganisms-100-color-spongodiscus",
@@ -1097,7 +1196,8 @@
     "title": "Color spongodiscus",
     "description": "",
     "tags": [],
-    "filename": "100-color-spongodiscus.png"
+    "filename": "100-color-spongodiscus.png",
+    "originalBytes": 1151366
   },
   {
     "id": "microorganisms-101-color-trachelophyllum",
@@ -1108,7 +1208,8 @@
     "title": "Color trachelophyllum",
     "description": "",
     "tags": [],
-    "filename": "101-color-trachelophyllum.png"
+    "filename": "101-color-trachelophyllum.png",
+    "originalBytes": 1128541
   },
   {
     "id": "microorganisms-102-color-amphora",
@@ -1119,7 +1220,8 @@
     "title": "Color amphora",
     "description": "",
     "tags": [],
-    "filename": "102-color-amphora.png"
+    "filename": "102-color-amphora.png",
+    "originalBytes": 1418674
   },
   {
     "id": "microorganisms-103-color-cryptomonas",
@@ -1130,7 +1232,8 @@
     "title": "Color cryptomonas",
     "description": "",
     "tags": [],
-    "filename": "103-color-cryptomonas.png"
+    "filename": "103-color-cryptomonas.png",
+    "originalBytes": 992801
   },
   {
     "id": "microorganisms-104-color-acanthocystis",
@@ -1141,7 +1244,8 @@
     "title": "Color acanthocystis",
     "description": "",
     "tags": [],
-    "filename": "104-color-acanthocystis.png"
+    "filename": "104-color-acanthocystis.png",
+    "originalBytes": 1039587
   },
   {
     "id": "microorganisms-105-color-scenedesmus-cell",
@@ -1152,7 +1256,8 @@
     "title": "Color scenedesmus cell",
     "description": "",
     "tags": [],
-    "filename": "105-color-scenedesmus-cell.png"
+    "filename": "105-color-scenedesmus-cell.png",
+    "originalBytes": 1359762
   },
   {
     "id": "microorganisms-106-color-pleurotaenium",
@@ -1163,7 +1268,8 @@
     "title": "Color pleurotaenium",
     "description": "",
     "tags": [],
-    "filename": "106-color-pleurotaenium.png"
+    "filename": "106-color-pleurotaenium.png",
+    "originalBytes": 669227
   },
   {
     "id": "microorganisms-107-color-micrasterias-lobed",
@@ -1174,7 +1280,8 @@
     "title": "Color micrasterias lobed",
     "description": "",
     "tags": [],
-    "filename": "107-color-micrasterias-lobed.png"
+    "filename": "107-color-micrasterias-lobed.png",
+    "originalBytes": 1963677
   },
   {
     "id": "microorganisms-108-color-globigerina",
@@ -1185,7 +1292,8 @@
     "title": "Color globigerina",
     "description": "",
     "tags": [],
-    "filename": "108-color-globigerina.png"
+    "filename": "108-color-globigerina.png",
+    "originalBytes": 1985433
   },
   {
     "id": "microorganisms-109-color-strombidium",
@@ -1196,7 +1304,8 @@
     "title": "Color strombidium",
     "description": "",
     "tags": [],
-    "filename": "109-color-strombidium.png"
+    "filename": "109-color-strombidium.png",
+    "originalBytes": 1386968
   },
   {
     "id": "microorganisms-110-color-gomphonema",
@@ -1207,7 +1316,8 @@
     "title": "Color gomphonema",
     "description": "",
     "tags": [],
-    "filename": "110-color-gomphonema.png"
+    "filename": "110-color-gomphonema.png",
+    "originalBytes": 1091439
   },
   {
     "id": "microorganisms-111-color-acanthamoeba",
@@ -1218,7 +1328,8 @@
     "title": "Color acanthamoeba",
     "description": "",
     "tags": [],
-    "filename": "111-color-acanthamoeba.png"
+    "filename": "111-color-acanthamoeba.png",
+    "originalBytes": 1321354
   },
   {
     "id": "microorganisms-112-color-synura-cell",
@@ -1229,7 +1340,8 @@
     "title": "Color synura cell",
     "description": "",
     "tags": [],
-    "filename": "112-color-synura-cell.png"
+    "filename": "112-color-synura-cell.png",
+    "originalBytes": 1132864
   },
   {
     "id": "microorganisms-113-color-synechococcus",
@@ -1240,7 +1352,8 @@
     "title": "Color synechococcus",
     "description": "",
     "tags": [],
-    "filename": "113-color-synechococcus.png"
+    "filename": "113-color-synechococcus.png",
+    "originalBytes": 1391184
   },
   {
     "id": "microorganisms-114-color-entomoneis",
@@ -1251,7 +1364,8 @@
     "title": "Color entomoneis",
     "description": "",
     "tags": [],
-    "filename": "114-color-entomoneis.png"
+    "filename": "114-color-entomoneis.png",
+    "originalBytes": 1250179
   },
   {
     "id": "microorganisms-115-color-metopus",
@@ -1262,7 +1376,8 @@
     "title": "Color metopus",
     "description": "",
     "tags": [],
-    "filename": "115-color-metopus.png"
+    "filename": "115-color-metopus.png",
+    "originalBytes": 1949610
   },
   {
     "id": "microorganisms-116-color-pinnularia",
@@ -1273,7 +1388,8 @@
     "title": "Color pinnularia",
     "description": "",
     "tags": [],
-    "filename": "116-color-pinnularia.png"
+    "filename": "116-color-pinnularia.png",
+    "originalBytes": 1558774
   },
   {
     "id": "microorganisms-117-color-tetraselmis",
@@ -1284,7 +1400,8 @@
     "title": "Color tetraselmis",
     "description": "",
     "tags": [],
-    "filename": "117-color-tetraselmis.png"
+    "filename": "117-color-tetraselmis.png",
+    "originalBytes": 896049
   },
   {
     "id": "microorganisms-118-color-nebela",
@@ -1295,7 +1412,8 @@
     "title": "Color nebela",
     "description": "",
     "tags": [],
-    "filename": "118-color-nebela.png"
+    "filename": "118-color-nebela.png",
+    "originalBytes": 2029524
   },
   {
     "id": "microorganisms-119-color-litonotus",
@@ -1306,7 +1424,8 @@
     "title": "Color litonotus",
     "description": "",
     "tags": [],
-    "filename": "119-color-litonotus.png"
+    "filename": "119-color-litonotus.png",
+    "originalBytes": 1335769
   },
   {
     "id": "microorganisms-120-color-aulacodiscus",
@@ -1317,7 +1436,8 @@
     "title": "Color aulacodiscus",
     "description": "",
     "tags": [],
-    "filename": "120-color-aulacodiscus.png"
+    "filename": "120-color-aulacodiscus.png",
+    "originalBytes": 2137022
   },
   {
     "id": "microorganisms-121-color-staurastrum-six-arms",
@@ -1328,7 +1448,8 @@
     "title": "Color staurastrum six arms",
     "description": "",
     "tags": [],
-    "filename": "121-color-staurastrum-six-arms.png"
+    "filename": "121-color-staurastrum-six-arms.png",
+    "originalBytes": 1196516
   },
   {
     "id": "microorganisms-122-color-chilodonella",
@@ -1339,7 +1460,8 @@
     "title": "Color chilodonella",
     "description": "",
     "tags": [],
-    "filename": "122-color-chilodonella.png"
+    "filename": "122-color-chilodonella.png",
+    "originalBytes": 2024429
   },
   {
     "id": "microorganisms-123-color-haloquadratum",
@@ -1350,7 +1472,8 @@
     "title": "Color haloquadratum",
     "description": "",
     "tags": [],
-    "filename": "123-color-haloquadratum.png"
+    "filename": "123-color-haloquadratum.png",
+    "originalBytes": 1754573
   },
   {
     "id": "microorganisms-124-color-caloneis",
@@ -1361,7 +1484,8 @@
     "title": "Color caloneis",
     "description": "",
     "tags": [],
-    "filename": "124-color-caloneis.png"
+    "filename": "124-color-caloneis.png",
+    "originalBytes": 1318786
   },
   {
     "id": "microorganisms-125-color-lepocinclis",
@@ -1372,7 +1496,8 @@
     "title": "Color lepocinclis",
     "description": "",
     "tags": [],
-    "filename": "125-color-lepocinclis.png"
+    "filename": "125-color-lepocinclis.png",
+    "originalBytes": 1004067
   },
   {
     "id": "microorganisms-126-color-schizosaccharomyces",
@@ -1383,7 +1508,8 @@
     "title": "Color schizosaccharomyces",
     "description": "",
     "tags": [],
-    "filename": "126-color-schizosaccharomyces.png"
+    "filename": "126-color-schizosaccharomyces.png",
+    "originalBytes": 1372625
   },
   {
     "id": "microorganisms-127-color-hantzschia",
@@ -1394,7 +1520,8 @@
     "title": "Color hantzschia",
     "description": "",
     "tags": [],
-    "filename": "127-color-hantzschia.png"
+    "filename": "127-color-hantzschia.png",
+    "originalBytes": 903018
   },
   {
     "id": "microorganisms-128-color-vaginicola",
@@ -1405,7 +1532,8 @@
     "title": "Color vaginicola",
     "description": "",
     "tags": [],
-    "filename": "128-color-vaginicola.png"
+    "filename": "128-color-vaginicola.png",
+    "originalBytes": 893729
   },
   {
     "id": "microorganisms-129-color-euastrum-notched",
@@ -1416,7 +1544,8 @@
     "title": "Color euastrum notched",
     "description": "",
     "tags": [],
-    "filename": "129-color-euastrum-notched.png"
+    "filename": "129-color-euastrum-notched.png",
+    "originalBytes": 1995776
   },
   {
     "id": "microorganisms-130-color-elphidium",
@@ -1427,7 +1556,8 @@
     "title": "Color elphidium",
     "description": "",
     "tags": [],
-    "filename": "130-color-elphidium.png"
+    "filename": "130-color-elphidium.png",
+    "originalBytes": 2675894
   },
   {
     "id": "microorganisms-131-color-urocentrum",
@@ -1438,7 +1568,8 @@
     "title": "Color urocentrum",
     "description": "",
     "tags": [],
-    "filename": "131-color-urocentrum.png"
+    "filename": "131-color-urocentrum.png",
+    "originalBytes": 1394262
   },
   {
     "id": "microorganisms-132-color-melosira-cell",
@@ -1449,7 +1580,8 @@
     "title": "Color melosira cell",
     "description": "",
     "tags": [],
-    "filename": "132-color-melosira-cell.png"
+    "filename": "132-color-melosira-cell.png",
+    "originalBytes": 1894643
   },
   {
     "id": "microorganisms-133-color-ankistrodesmus",
@@ -1460,7 +1592,8 @@
     "title": "Color ankistrodesmus",
     "description": "",
     "tags": [],
-    "filename": "133-color-ankistrodesmus.png"
+    "filename": "133-color-ankistrodesmus.png",
+    "originalBytes": 438732
   },
   {
     "id": "microorganisms-134-color-caulobacter",
@@ -1471,7 +1604,8 @@
     "title": "Color caulobacter",
     "description": "",
     "tags": [],
-    "filename": "134-color-caulobacter.png"
+    "filename": "134-color-caulobacter.png",
+    "originalBytes": 548682
   },
   {
     "id": "microorganisms-135-color-cosmarium-scalloped",
@@ -1482,7 +1616,8 @@
     "title": "Color cosmarium scalloped",
     "description": "",
     "tags": [],
-    "filename": "135-color-cosmarium-scalloped.png"
+    "filename": "135-color-cosmarium-scalloped.png",
+    "originalBytes": 2074579
   },
   {
     "id": "microorganisms-136-color-nassellarian-bell",
@@ -1493,7 +1628,8 @@
     "title": "Color nassellarian bell",
     "description": "",
     "tags": [],
-    "filename": "136-color-nassellarian-bell.png"
+    "filename": "136-color-nassellarian-bell.png",
+    "originalBytes": 1098836
   },
   {
     "id": "microorganisms-137-color-trachelomonas-spiny",
@@ -1504,7 +1640,8 @@
     "title": "Color trachelomonas spiny",
     "description": "",
     "tags": [],
-    "filename": "137-color-trachelomonas-spiny.png"
+    "filename": "137-color-trachelomonas-spiny.png",
+    "originalBytes": 1406551
   },
   {
     "id": "microorganisms-138-color-oxytricha",
@@ -1515,7 +1652,8 @@
     "title": "Color oxytricha",
     "description": "",
     "tags": [],
-    "filename": "138-color-oxytricha.png"
+    "filename": "138-color-oxytricha.png",
+    "originalBytes": 1638948
   },
   {
     "id": "microorganisms-139-color-achnanthes",
@@ -1526,7 +1664,8 @@
     "title": "Color achnanthes",
     "description": "",
     "tags": [],
-    "filename": "139-color-achnanthes.png"
+    "filename": "139-color-achnanthes.png",
+    "originalBytes": 1398416
   },
   {
     "id": "microorganisms-140-color-rhodotorula",
@@ -1537,7 +1676,8 @@
     "title": "Color rhodotorula",
     "description": "",
     "tags": [],
-    "filename": "140-color-rhodotorula.png"
+    "filename": "140-color-rhodotorula.png",
+    "originalBytes": 1666153
   },
   {
     "id": "microorganisms-141-color-diploneis",
@@ -1548,7 +1688,8 @@
     "title": "Color diploneis",
     "description": "",
     "tags": [],
-    "filename": "141-color-diploneis.png"
+    "filename": "141-color-diploneis.png",
+    "originalBytes": 1937820
   },
   {
     "id": "microorganisms-142-color-colpoda",
@@ -1559,7 +1700,8 @@
     "title": "Color colpoda",
     "description": "",
     "tags": [],
-    "filename": "142-color-colpoda.png"
+    "filename": "142-color-colpoda.png",
+    "originalBytes": 1888466
   },
   {
     "id": "microorganisms-143-color-staurodesmus",
@@ -1570,7 +1712,8 @@
     "title": "Color staurodesmus",
     "description": "",
     "tags": [],
-    "filename": "143-color-staurodesmus.png"
+    "filename": "143-color-staurodesmus.png",
+    "originalBytes": 1336254
   },
   {
     "id": "microorganisms-144-color-petalomonas",
@@ -1581,7 +1724,8 @@
     "title": "Color petalomonas",
     "description": "",
     "tags": [],
-    "filename": "144-color-petalomonas.png"
+    "filename": "144-color-petalomonas.png",
+    "originalBytes": 1244505
   },
   {
     "id": "microorganisms-145-color-triceratium",
@@ -1592,7 +1736,8 @@
     "title": "Color triceratium",
     "description": "",
     "tags": [],
-    "filename": "145-color-triceratium.png"
+    "filename": "145-color-triceratium.png",
+    "originalBytes": 1763156
   },
   {
     "id": "microorganisms-146-color-bodo",
@@ -1603,7 +1748,8 @@
     "title": "Color bodo",
     "description": "",
     "tags": [],
-    "filename": "146-color-bodo.png"
+    "filename": "146-color-bodo.png",
+    "originalBytes": 536953
   },
   {
     "id": "microorganisms-147-color-textularia",
@@ -1614,7 +1760,8 @@
     "title": "Color textularia",
     "description": "",
     "tags": [],
-    "filename": "147-color-textularia.png"
+    "filename": "147-color-textularia.png",
+    "originalBytes": 1344510
   },
   {
     "id": "microorganisms-148-color-mesodinium",
@@ -1625,7 +1772,8 @@
     "title": "Color mesodinium",
     "description": "",
     "tags": [],
-    "filename": "148-color-mesodinium.png"
+    "filename": "148-color-mesodinium.png",
+    "originalBytes": 1557787
   },
   {
     "id": "microorganisms-149-color-coelastrum-cell",
@@ -1636,7 +1784,8 @@
     "title": "Color coelastrum cell",
     "description": "",
     "tags": [],
-    "filename": "149-color-coelastrum-cell.png"
+    "filename": "149-color-coelastrum-cell.png",
+    "originalBytes": 1946869
   },
   {
     "id": "microorganisms-150-color-campylodiscus",
@@ -1647,7 +1796,8 @@
     "title": "Color campylodiscus",
     "description": "",
     "tags": [],
-    "filename": "150-color-campylodiscus.png"
+    "filename": "150-color-campylodiscus.png",
+    "originalBytes": 2038538
   },
   {
     "id": "microorganisms-151-color-keratella",
@@ -1658,7 +1808,8 @@
     "title": "Color keratella",
     "description": "",
     "tags": [],
-    "filename": "151-color-keratella.png"
+    "filename": "151-color-keratella.png",
+    "originalBytes": 1272180
   },
   {
     "id": "microorganisms-152-color-closterium-crescent",
@@ -1669,7 +1820,8 @@
     "title": "Color closterium crescent",
     "description": "",
     "tags": [],
-    "filename": "152-color-closterium-crescent.png"
+    "filename": "152-color-closterium-crescent.png",
+    "originalBytes": 663033
   },
   {
     "id": "microorganisms-153-color-loxodes",
@@ -1680,7 +1832,8 @@
     "title": "Color loxodes",
     "description": "",
     "tags": [],
-    "filename": "153-color-loxodes.png"
+    "filename": "153-color-loxodes.png",
+    "originalBytes": 1412332
   },
   {
     "id": "microorganisms-154-color-lagena",
@@ -1691,7 +1844,8 @@
     "title": "Color lagena",
     "description": "",
     "tags": [],
-    "filename": "154-color-lagena.png"
+    "filename": "154-color-lagena.png",
+    "originalBytes": 1324938
   },
   {
     "id": "microorganisms-155-color-dunaliella",
@@ -1702,7 +1856,8 @@
     "title": "Color dunaliella",
     "description": "",
     "tags": [],
-    "filename": "155-color-dunaliella.png"
+    "filename": "155-color-dunaliella.png",
+    "originalBytes": 508887
   },
   {
     "id": "microorganisms-156-color-epithemia",
@@ -1713,7 +1868,8 @@
     "title": "Color epithemia",
     "description": "",
     "tags": [],
-    "filename": "156-color-epithemia.png"
+    "filename": "156-color-epithemia.png",
+    "originalBytes": 1158480
   },
   {
     "id": "microorganisms-157-color-prorodon",
@@ -1724,7 +1880,8 @@
     "title": "Color prorodon",
     "description": "",
     "tags": [],
-    "filename": "157-color-prorodon.png"
+    "filename": "157-color-prorodon.png",
+    "originalBytes": 1958359
   },
   {
     "id": "microorganisms-158-color-raphidocelis",
@@ -1735,7 +1892,8 @@
     "title": "Color raphidocelis",
     "description": "",
     "tags": [],
-    "filename": "158-color-raphidocelis.png"
+    "filename": "158-color-raphidocelis.png",
+    "originalBytes": 483543
   },
   {
     "id": "microorganisms-159-color-euglypha-spiny",
@@ -1746,7 +1904,8 @@
     "title": "Color euglypha spiny",
     "description": "",
     "tags": [],
-    "filename": "159-color-euglypha-spiny.png"
+    "filename": "159-color-euglypha-spiny.png",
+    "originalBytes": 1705835
   },
   {
     "id": "microorganisms-160-color-frontonia",
@@ -1757,7 +1916,8 @@
     "title": "Color frontonia",
     "description": "",
     "tags": [],
-    "filename": "160-color-frontonia.png"
+    "filename": "160-color-frontonia.png",
+    "originalBytes": 2040558
   },
   {
     "id": "microorganisms-161-color-biddulphia",
@@ -1768,7 +1928,8 @@
     "title": "Color biddulphia",
     "description": "",
     "tags": [],
-    "filename": "161-color-biddulphia.png"
+    "filename": "161-color-biddulphia.png",
+    "originalBytes": 1815579
   },
   {
     "id": "microorganisms-162-color-golenkinia",
@@ -1779,7 +1940,8 @@
     "title": "Color golenkinia",
     "description": "",
     "tags": [],
-    "filename": "162-color-golenkinia.png"
+    "filename": "162-color-golenkinia.png",
+    "originalBytes": 938736
   },
   {
     "id": "microorganisms-163-color-dileptus-curved",
@@ -1790,7 +1952,8 @@
     "title": "Color dileptus curved",
     "description": "",
     "tags": [],
-    "filename": "163-color-dileptus-curved.png"
+    "filename": "163-color-dileptus-curved.png",
+    "originalBytes": 1315798
   },
   {
     "id": "microorganisms-164-color-cocconeis",
@@ -1801,7 +1964,8 @@
     "title": "Color cocconeis",
     "description": "",
     "tags": [],
-    "filename": "164-color-cocconeis.png"
+    "filename": "164-color-cocconeis.png",
+    "originalBytes": 1819080
   },
   {
     "id": "microorganisms-165-color-haematococcus",
@@ -1812,7 +1976,8 @@
     "title": "Color haematococcus",
     "description": "",
     "tags": [],
-    "filename": "165-color-haematococcus.png"
+    "filename": "165-color-haematococcus.png",
+    "originalBytes": 1567344
   },
   {
     "id": "microorganisms-166-color-aspidisca",
@@ -1823,7 +1988,8 @@
     "title": "Color aspidisca",
     "description": "",
     "tags": [],
-    "filename": "166-color-aspidisca.png"
+    "filename": "166-color-aspidisca.png",
+    "originalBytes": 1604779
   },
   {
     "id": "microorganisms-167-color-gyrosigma",
@@ -1834,7 +2000,8 @@
     "title": "Color gyrosigma",
     "description": "",
     "tags": [],
-    "filename": "167-color-gyrosigma.png"
+    "filename": "167-color-gyrosigma.png",
+    "originalBytes": 839371
   },
   {
     "id": "microorganisms-168-color-monoraphidium",
@@ -1845,7 +2012,8 @@
     "title": "Color monoraphidium",
     "description": "",
     "tags": [],
-    "filename": "168-color-monoraphidium.png"
+    "filename": "168-color-monoraphidium.png",
+    "originalBytes": 423854
   },
   {
     "id": "microorganisms-169-color-uronema",
@@ -1856,7 +2024,8 @@
     "title": "Color uronema",
     "description": "",
     "tags": [],
-    "filename": "169-color-uronema.png"
+    "filename": "169-color-uronema.png",
+    "originalBytes": 747706
   },
   {
     "id": "microorganisms-170-color-asteromphalus",
@@ -1867,7 +2036,8 @@
     "title": "Color asteromphalus",
     "description": "",
     "tags": [],
-    "filename": "170-color-asteromphalus.png"
+    "filename": "170-color-asteromphalus.png",
+    "originalBytes": 1966190
   },
   {
     "id": "microorganisms-171-color-chroococcus",
@@ -1878,7 +2048,8 @@
     "title": "Color chroococcus",
     "description": "",
     "tags": [],
-    "filename": "171-color-chroococcus.png"
+    "filename": "171-color-chroococcus.png",
+    "originalBytes": 1242192
   },
   {
     "id": "microorganisms-172-color-rhizosolenia",
@@ -1889,7 +2060,8 @@
     "title": "Color rhizosolenia",
     "description": "",
     "tags": [],
-    "filename": "172-color-rhizosolenia.png"
+    "filename": "172-color-rhizosolenia.png",
+    "originalBytes": 547091
   },
   {
     "id": "microorganisms-173-color-pseudomonas",
@@ -1900,7 +2072,8 @@
     "title": "Color pseudomonas",
     "description": "",
     "tags": [],
-    "filename": "173-color-pseudomonas.png"
+    "filename": "173-color-pseudomonas.png",
+    "originalBytes": 518218
   },
   {
     "id": "microorganisms-174-color-selenastrum",
@@ -1911,7 +2084,8 @@
     "title": "Color selenastrum",
     "description": "",
     "tags": [],
-    "filename": "174-color-selenastrum.png"
+    "filename": "174-color-selenastrum.png",
+    "originalBytes": 577130
   },
   {
     "id": "microorganisms-175-color-eunotia",
@@ -1922,7 +2096,8 @@
     "title": "Color eunotia",
     "description": "",
     "tags": [],
-    "filename": "175-color-eunotia.png"
+    "filename": "175-color-eunotia.png",
+    "originalBytes": 737573
   },
   {
     "id": "microorganisms-176-color-trinema",
@@ -1933,7 +2108,8 @@
     "title": "Color trinema",
     "description": "",
     "tags": [],
-    "filename": "176-color-trinema.png"
+    "filename": "176-color-trinema.png",
+    "originalBytes": 1887701
   },
   {
     "id": "microorganisms-177-color-pandorina-cell",
@@ -1944,7 +2120,8 @@
     "title": "Color pandorina cell",
     "description": "",
     "tags": [],
-    "filename": "177-color-pandorina-cell.png"
+    "filename": "177-color-pandorina-cell.png",
+    "originalBytes": 620010
   },
   {
     "id": "microorganisms-178-color-paramecium-violet",
@@ -1955,7 +2132,8 @@
     "title": "Color paramecium violet",
     "description": "",
     "tags": [],
-    "filename": "178-color-paramecium-violet.png"
+    "filename": "178-color-paramecium-violet.png",
+    "originalBytes": 1885594
   },
   {
     "id": "microorganisms-179-color-porphyridium",
@@ -1966,7 +2144,8 @@
     "title": "Color porphyridium",
     "description": "",
     "tags": [],
-    "filename": "179-color-porphyridium.png"
+    "filename": "179-color-porphyridium.png",
+    "originalBytes": 1468018
   },
   {
     "id": "microorganisms-180-color-quinqueloculina",
@@ -1977,7 +2156,8 @@
     "title": "Color quinqueloculina",
     "description": "",
     "tags": [],
-    "filename": "180-color-quinqueloculina.png"
+    "filename": "180-color-quinqueloculina.png",
+    "originalBytes": 1377853
   },
   {
     "id": "microorganisms-181-color-ciliate-ridged",
@@ -1988,7 +2168,8 @@
     "title": "Color ciliate ridged",
     "description": "",
     "tags": [],
-    "filename": "181-color-ciliate-ridged.png"
+    "filename": "181-color-ciliate-ridged.png",
+    "originalBytes": 1807238
   },
   {
     "id": "microorganisms-182-color-tetraedron-four-tips",
@@ -1999,7 +2180,8 @@
     "title": "Color tetraedron four tips",
     "description": "",
     "tags": [],
-    "filename": "182-color-tetraedron-four-tips.png"
+    "filename": "182-color-tetraedron-four-tips.png",
+    "originalBytes": 1170448
   },
   {
     "id": "microorganisms-183-color-chaetoceros-cell",
@@ -2010,7 +2192,8 @@
     "title": "Color chaetoceros cell",
     "description": "",
     "tags": [],
-    "filename": "183-color-chaetoceros-cell.png"
+    "filename": "183-color-chaetoceros-cell.png",
+    "originalBytes": 680873
   },
   {
     "id": "microorganisms-184-color-tardigrade-peach",
@@ -2021,7 +2204,8 @@
     "title": "Color tardigrade peach",
     "description": "",
     "tags": [],
-    "filename": "184-color-tardigrade-peach.png"
+    "filename": "184-color-tardigrade-peach.png",
+    "originalBytes": 1373808
   },
   {
     "id": "microorganisms-185-color-diploneis-amber",
@@ -2032,7 +2216,8 @@
     "title": "Color diploneis amber",
     "description": "",
     "tags": [],
-    "filename": "185-color-diploneis-amber.png"
+    "filename": "185-color-diploneis-amber.png",
+    "originalBytes": 2170519
   },
   {
     "id": "microorganisms-186-color-euastrum-rounded",
@@ -2043,7 +2228,8 @@
     "title": "Color euastrum rounded",
     "description": "",
     "tags": [],
-    "filename": "186-color-euastrum-rounded.png"
+    "filename": "186-color-euastrum-rounded.png",
+    "originalBytes": 1693835
   },
   {
     "id": "microorganisms-187-color-navicula",
@@ -2054,7 +2240,8 @@
     "title": "Color navicula",
     "description": "",
     "tags": [],
-    "filename": "187-color-navicula.png"
+    "filename": "187-color-navicula.png",
+    "originalBytes": 1086896
   },
   {
     "id": "microorganisms-188-color-yeast-lilac",
@@ -2065,7 +2252,8 @@
     "title": "Color yeast lilac",
     "description": "",
     "tags": [],
-    "filename": "188-color-yeast-lilac.png"
+    "filename": "188-color-yeast-lilac.png",
+    "originalBytes": 1442081
   },
   {
     "id": "microorganisms-189-color-scenedesmus-two-spines",
@@ -2076,7 +2264,8 @@
     "title": "Color scenedesmus two spines",
     "description": "",
     "tags": [],
-    "filename": "189-color-scenedesmus-two-spines.png"
+    "filename": "189-color-scenedesmus-two-spines.png",
+    "originalBytes": 768682
   },
   {
     "id": "microorganisms-190-color-triceratium-amber",
@@ -2087,7 +2276,8 @@
     "title": "Color triceratium amber",
     "description": "",
     "tags": [],
-    "filename": "190-color-triceratium-amber.png"
+    "filename": "190-color-triceratium-amber.png",
+    "originalBytes": 1659999
   },
   {
     "id": "microorganisms-191-color-colpidium",
@@ -2098,7 +2288,8 @@
     "title": "Color colpidium",
     "description": "",
     "tags": [],
-    "filename": "191-color-colpidium.png"
+    "filename": "191-color-colpidium.png",
+    "originalBytes": 2379082
   },
   {
     "id": "microorganisms-192-color-phacus-long-tail",
@@ -2109,7 +2300,8 @@
     "title": "Color phacus long tail",
     "description": "",
     "tags": [],
-    "filename": "192-color-phacus-long-tail.png"
+    "filename": "192-color-phacus-long-tail.png",
+    "originalBytes": 718348
   },
   {
     "id": "microorganisms-193-color-radiolarian-six-spines",
@@ -2120,7 +2312,8 @@
     "title": "Color radiolarian six spines",
     "description": "",
     "tags": [],
-    "filename": "193-color-radiolarian-six-spines.png"
+    "filename": "193-color-radiolarian-six-spines.png",
+    "originalBytes": 1245199
   },
   {
     "id": "microorganisms-194-color-spirillum-coral",
@@ -2131,7 +2324,8 @@
     "title": "Color spirillum coral",
     "description": "",
     "tags": [],
-    "filename": "194-color-spirillum-coral.png"
+    "filename": "194-color-spirillum-coral.png",
+    "originalBytes": 581985
   },
   {
     "id": "microorganisms-195-color-coscinodiscus",
@@ -2142,7 +2336,8 @@
     "title": "Color coscinodiscus",
     "description": "",
     "tags": [],
-    "filename": "195-color-coscinodiscus.png"
+    "filename": "195-color-coscinodiscus.png",
+    "originalBytes": 2290025
   },
   {
     "id": "microorganisms-196-color-penium",
@@ -2153,7 +2348,8 @@
     "title": "Color penium",
     "description": "",
     "tags": [],
-    "filename": "196-color-penium.png"
+    "filename": "196-color-penium.png",
+    "originalBytes": 899971
   },
   {
     "id": "microorganisms-197-color-vorticella-curved-stalk",
@@ -2164,7 +2360,8 @@
     "title": "Color vorticella curved stalk",
     "description": "",
     "tags": [],
-    "filename": "197-color-vorticella-curved-stalk.png"
+    "filename": "197-color-vorticella-curved-stalk.png",
+    "originalBytes": 630672
   },
   {
     "id": "microorganisms-198-color-lagena-ribbed",
@@ -2175,7 +2372,8 @@
     "title": "Color lagena ribbed",
     "description": "",
     "tags": [],
-    "filename": "198-color-lagena-ribbed.png"
+    "filename": "198-color-lagena-ribbed.png",
+    "originalBytes": 1279361
   },
   {
     "id": "microorganisms-199-color-cryptomonas-golden",
@@ -2186,7 +2384,8 @@
     "title": "Color cryptomonas golden",
     "description": "",
     "tags": [],
-    "filename": "199-color-cryptomonas-golden.png"
+    "filename": "199-color-cryptomonas-golden.png",
+    "originalBytes": 741682
   },
   {
     "id": "microorganisms-200-color-tetrahymena-blue",
@@ -2197,7 +2396,8 @@
     "title": "Color tetrahymena blue",
     "description": "",
     "tags": [],
-    "filename": "200-color-tetrahymena-blue.png"
+    "filename": "200-color-tetrahymena-blue.png",
+    "originalBytes": 2209846
   },
   {
     "id": "microorganisms-201-color-cyclotella",
@@ -2208,7 +2408,8 @@
     "title": "Color cyclotella",
     "description": "",
     "tags": [],
-    "filename": "201-color-cyclotella.png"
+    "filename": "201-color-cyclotella.png",
+    "originalBytes": 1675037
   },
   {
     "id": "microorganisms-202-color-micrasterias-rounded-lobes",
@@ -2219,7 +2420,8 @@
     "title": "Color micrasterias rounded lobes",
     "description": "",
     "tags": [],
-    "filename": "202-color-micrasterias-rounded-lobes.png"
+    "filename": "202-color-micrasterias-rounded-lobes.png",
+    "originalBytes": 2283889
   },
   {
     "id": "microorganisms-203-color-euglypha-lilac",
@@ -2230,7 +2432,8 @@
     "title": "Color euglypha lilac",
     "description": "",
     "tags": [],
-    "filename": "203-color-euglypha-lilac.png"
+    "filename": "203-color-euglypha-lilac.png",
+    "originalBytes": 1742545
   },
   {
     "id": "microorganisms-204-color-surirella-wavy",
@@ -2241,7 +2444,8 @@
     "title": "Color surirella wavy",
     "description": "",
     "tags": [],
-    "filename": "204-color-surirella-wavy.png"
+    "filename": "204-color-surirella-wavy.png",
+    "originalBytes": 2057763
   },
   {
     "id": "microorganisms-205-color-amoeba-aqua",
@@ -2252,7 +2456,8 @@
     "title": "Color amoeba aqua",
     "description": "",
     "tags": [],
-    "filename": "205-color-amoeba-aqua.png"
+    "filename": "205-color-amoeba-aqua.png",
+    "originalBytes": 1626453
   },
   {
     "id": "microorganisms-206-color-euplotes-lilac",
@@ -2263,7 +2468,8 @@
     "title": "Color euplotes lilac",
     "description": "",
     "tags": [],
-    "filename": "206-color-euplotes-lilac.png"
+    "filename": "206-color-euplotes-lilac.png",
+    "originalBytes": 1855392
   },
   {
     "id": "microorganisms-207-color-trachelomonas-collar",
@@ -2274,7 +2480,8 @@
     "title": "Color trachelomonas collar",
     "description": "",
     "tags": [],
-    "filename": "207-color-trachelomonas-collar.png"
+    "filename": "207-color-trachelomonas-collar.png",
+    "originalBytes": 1034664
   },
   {
     "id": "microorganisms-208-color-cosmarium-round",
@@ -2285,7 +2492,8 @@
     "title": "Color cosmarium round",
     "description": "",
     "tags": [],
-    "filename": "208-color-cosmarium-round.png"
+    "filename": "208-color-cosmarium-round.png",
+    "originalBytes": 1744507
   },
   {
     "id": "microorganisms-209-color-cymbella-copper",
@@ -2296,7 +2504,8 @@
     "title": "Color cymbella copper",
     "description": "",
     "tags": [],
-    "filename": "209-color-cymbella-copper.png"
+    "filename": "209-color-cymbella-copper.png",
+    "originalBytes": 1028604
   },
   {
     "id": "microorganisms-210-color-didinium-lilac",
@@ -2307,7 +2516,8 @@
     "title": "Color didinium lilac",
     "description": "",
     "tags": [],
-    "filename": "210-color-didinium-lilac.png"
+    "filename": "210-color-didinium-lilac.png",
+    "originalBytes": 1825758
   },
   {
     "id": "microorganisms-211-color-dunaliella-pear",
@@ -2318,7 +2528,8 @@
     "title": "Color dunaliella pear",
     "description": "",
     "tags": [],
-    "filename": "211-color-dunaliella-pear.png"
+    "filename": "211-color-dunaliella-pear.png",
+    "originalBytes": 569523
   },
   {
     "id": "microorganisms-212-color-globigerina-amber",
@@ -2329,7 +2540,8 @@
     "title": "Color globigerina amber",
     "description": "",
     "tags": [],
-    "filename": "212-color-globigerina-amber.png"
+    "filename": "212-color-globigerina-amber.png",
+    "originalBytes": 2197840
   },
   {
     "id": "microorganisms-213-color-colpoda-mint",
@@ -2340,7 +2552,8 @@
     "title": "Color colpoda mint",
     "description": "",
     "tags": [],
-    "filename": "213-color-colpoda-mint.png"
+    "filename": "213-color-colpoda-mint.png",
+    "originalBytes": 2116996
   },
   {
     "id": "microorganisms-214-color-haematococcus-oval",
@@ -2351,7 +2564,8 @@
     "title": "Color haematococcus oval",
     "description": "",
     "tags": [],
-    "filename": "214-color-haematococcus-oval.png"
+    "filename": "214-color-haematococcus-oval.png",
+    "originalBytes": 1442528
   },
   {
     "id": "microorganisms-215-color-pinnularia-amber",
@@ -2362,7 +2576,8 @@
     "title": "Color pinnularia amber",
     "description": "",
     "tags": [],
-    "filename": "215-color-pinnularia-amber.png"
+    "filename": "215-color-pinnularia-amber.png",
+    "originalBytes": 1166108
   },
   {
     "id": "microorganisms-216-color-stentor-teal",
@@ -2373,7 +2588,8 @@
     "title": "Color stentor teal",
     "description": "",
     "tags": [],
-    "filename": "216-color-stentor-teal.png"
+    "filename": "216-color-stentor-teal.png",
+    "originalBytes": 1339401
   },
   {
     "id": "microorganisms-217-color-chlorella-oval",
@@ -2384,7 +2600,8 @@
     "title": "Color chlorella oval",
     "description": "",
     "tags": [],
-    "filename": "217-color-chlorella-oval.png"
+    "filename": "217-color-chlorella-oval.png",
+    "originalBytes": 970338
   },
   {
     "id": "microorganisms-218-color-prorodon-lilac",
@@ -2395,7 +2612,8 @@
     "title": "Color prorodon lilac",
     "description": "",
     "tags": [],
-    "filename": "218-color-prorodon-lilac.png"
+    "filename": "218-color-prorodon-lilac.png",
+    "originalBytes": 2095484
   },
   {
     "id": "microorganisms-219-color-biddulphia-amber",
@@ -2406,7 +2624,8 @@
     "title": "Color biddulphia amber",
     "description": "",
     "tags": [],
-    "filename": "219-color-biddulphia-amber.png"
+    "filename": "219-color-biddulphia-amber.png",
+    "originalBytes": 1247459
   },
   {
     "id": "microorganisms-220-color-closterium-slender",
@@ -2417,7 +2636,8 @@
     "title": "Color closterium slender",
     "description": "",
     "tags": [],
-    "filename": "220-color-closterium-slender.png"
+    "filename": "220-color-closterium-slender.png",
+    "originalBytes": 690400
   },
   {
     "id": "microorganisms-221-color-vibrio-coral",
@@ -2428,7 +2648,8 @@
     "title": "Color vibrio coral",
     "description": "",
     "tags": [],
-    "filename": "221-color-vibrio-coral.png"
+    "filename": "221-color-vibrio-coral.png",
+    "originalBytes": 665389
   },
   {
     "id": "microorganisms-222-color-arcella-amber",
@@ -2439,7 +2660,8 @@
     "title": "Color arcella amber",
     "description": "",
     "tags": [],
-    "filename": "222-color-arcella-amber.png"
+    "filename": "222-color-arcella-amber.png",
+    "originalBytes": 1884452
   },
   {
     "id": "microorganisms-223-color-euglena-slender",
@@ -2450,7 +2672,8 @@
     "title": "Color euglena slender",
     "description": "",
     "tags": [],
-    "filename": "223-color-euglena-slender.png"
+    "filename": "223-color-euglena-slender.png",
+    "originalBytes": 616748
   },
   {
     "id": "microorganisms-224-color-nassellarian-lilac",
@@ -2461,7 +2684,8 @@
     "title": "Color nassellarian lilac",
     "description": "",
     "tags": [],
-    "filename": "224-color-nassellarian-lilac.png"
+    "filename": "224-color-nassellarian-lilac.png",
+    "originalBytes": 1410287
   },
   {
     "id": "microorganisms-225-color-peridinium-olive",
@@ -2472,7 +2696,8 @@
     "title": "Color peridinium olive",
     "description": "",
     "tags": [],
-    "filename": "225-color-peridinium-olive.png"
+    "filename": "225-color-peridinium-olive.png",
+    "originalBytes": 1480482
   },
   {
     "id": "microorganisms-226-color-strombidium-teal",
@@ -2483,7 +2708,8 @@
     "title": "Color strombidium teal",
     "description": "",
     "tags": [],
-    "filename": "226-color-strombidium-teal.png"
+    "filename": "226-color-strombidium-teal.png",
+    "originalBytes": 1863047
   },
   {
     "id": "microorganisms-227-color-actinoptychus-amber",
@@ -2494,7 +2720,8 @@
     "title": "Color actinoptychus amber",
     "description": "",
     "tags": [],
-    "filename": "227-color-actinoptychus-amber.png"
+    "filename": "227-color-actinoptychus-amber.png",
+    "originalBytes": 2524258
   },
   {
     "id": "microorganisms-228-color-staurodesmus-three-spines",
@@ -2505,7 +2732,8 @@
     "title": "Color staurodesmus three spines",
     "description": "",
     "tags": [],
-    "filename": "228-color-staurodesmus-three-spines.png"
+    "filename": "228-color-staurodesmus-three-spines.png",
+    "originalBytes": 1064038
   },
   {
     "id": "microorganisms-229-color-coleps-lilac",
@@ -2516,7 +2744,8 @@
     "title": "Color coleps lilac",
     "description": "",
     "tags": [],
-    "filename": "229-color-coleps-lilac.png"
+    "filename": "229-color-coleps-lilac.png",
+    "originalBytes": 1858715
   },
   {
     "id": "microorganisms-230-color-nitzschia-amber",
@@ -2527,7 +2756,8 @@
     "title": "Color nitzschia amber",
     "description": "",
     "tags": [],
-    "filename": "230-color-nitzschia-amber.png"
+    "filename": "230-color-nitzschia-amber.png",
+    "originalBytes": 1007073
   },
   {
     "id": "microorganisms-231-color-chlamydomonas-oval",
@@ -2538,7 +2768,8 @@
     "title": "Color chlamydomonas oval",
     "description": "",
     "tags": [],
-    "filename": "231-color-chlamydomonas-oval.png"
+    "filename": "231-color-chlamydomonas-oval.png",
+    "originalBytes": 847386
   },
   {
     "id": "microorganisms-232-color-tintinnid-teal",
@@ -2549,7 +2780,8 @@
     "title": "Color tintinnid teal",
     "description": "",
     "tags": [],
-    "filename": "232-color-tintinnid-teal.png"
+    "filename": "232-color-tintinnid-teal.png",
+    "originalBytes": 1308611
   },
   {
     "id": "microorganisms-233-color-amphora-amber",
@@ -2560,7 +2792,8 @@
     "title": "Color amphora amber",
     "description": "",
     "tags": [],
-    "filename": "233-color-amphora-amber.png"
+    "filename": "233-color-amphora-amber.png",
+    "originalBytes": 1355591
   },
   {
     "id": "microorganisms-234-color-rhodotorula-rose",
@@ -2571,7 +2804,8 @@
     "title": "Color rhodotorula rose",
     "description": "",
     "tags": [],
-    "filename": "234-color-rhodotorula-rose.png"
+    "filename": "234-color-rhodotorula-rose.png",
+    "originalBytes": 1651474
   },
   {
     "id": "microorganisms-235-color-scenedesmus-short-horns",
@@ -2582,7 +2816,8 @@
     "title": "Color scenedesmus short horns",
     "description": "",
     "tags": [],
-    "filename": "235-color-scenedesmus-short-horns.png"
+    "filename": "235-color-scenedesmus-short-horns.png",
+    "originalBytes": 737986
   },
   {
     "id": "microorganisms-236-color-euastrum-green",
@@ -2593,7 +2828,8 @@
     "title": "Color euastrum green",
     "description": "",
     "tags": [],
-    "filename": "236-color-euastrum-green.png"
+    "filename": "236-color-euastrum-green.png",
+    "originalBytes": 1878201
   },
   {
     "id": "microorganisms-237-color-coccolithophore-amber",
@@ -2604,7 +2840,8 @@
     "title": "Color coccolithophore amber",
     "description": "",
     "tags": [],
-    "filename": "237-color-coccolithophore-amber.png"
+    "filename": "237-color-coccolithophore-amber.png",
+    "originalBytes": 2163388
   },
   {
     "id": "microorganisms-238-color-dileptus-teal",
@@ -2615,7 +2852,8 @@
     "title": "Color dileptus teal",
     "description": "",
     "tags": [],
-    "filename": "238-color-dileptus-teal.png"
+    "filename": "238-color-dileptus-teal.png",
+    "originalBytes": 1067689
   },
   {
     "id": "microorganisms-239-color-selenastrum-crescent",
@@ -2626,7 +2864,8 @@
     "title": "Color selenastrum crescent",
     "description": "",
     "tags": [],
-    "filename": "239-color-selenastrum-crescent.png"
+    "filename": "239-color-selenastrum-crescent.png",
+    "originalBytes": 573698
   },
   {
     "id": "microorganisms-240-color-cocconeis-gold",
@@ -2637,7 +2876,8 @@
     "title": "Color cocconeis gold",
     "description": "",
     "tags": [],
-    "filename": "240-color-cocconeis-gold.png"
+    "filename": "240-color-cocconeis-gold.png",
+    "originalBytes": 2181483
   },
   {
     "id": "microorganisms-241-color-frontonia-teal",
@@ -2648,7 +2888,8 @@
     "title": "Color frontonia teal",
     "description": "",
     "tags": [],
-    "filename": "241-color-frontonia-teal.png"
+    "filename": "241-color-frontonia-teal.png",
+    "originalBytes": 2021344
   },
   {
     "id": "microorganisms-242-color-oocystis-green",
@@ -2659,7 +2900,8 @@
     "title": "Color oocystis green",
     "description": "",
     "tags": [],
-    "filename": "242-color-oocystis-green.png"
+    "filename": "242-color-oocystis-green.png",
+    "originalBytes": 952773
   },
   {
     "id": "microorganisms-243-color-trinema-lilac",
@@ -2670,7 +2912,8 @@
     "title": "Color trinema lilac",
     "description": "",
     "tags": [],
-    "filename": "243-color-trinema-lilac.png"
+    "filename": "243-color-trinema-lilac.png",
+    "originalBytes": 2046753
   },
   {
     "id": "microorganisms-244-color-porphyridium-oval",
@@ -2681,7 +2924,8 @@
     "title": "Color porphyridium oval",
     "description": "",
     "tags": [],
-    "filename": "244-color-porphyridium-oval.png"
+    "filename": "244-color-porphyridium-oval.png",
+    "originalBytes": 1257167
   },
   {
     "id": "microorganisms-245-color-gyrosigma-amber",
@@ -2692,7 +2936,8 @@
     "title": "Color gyrosigma amber",
     "description": "",
     "tags": [],
-    "filename": "245-color-gyrosigma-amber.png"
+    "filename": "245-color-gyrosigma-amber.png",
+    "originalBytes": 845791
   },
   {
     "id": "microorganisms-246-color-stylonychia-teal",
@@ -2703,7 +2948,8 @@
     "title": "Color stylonychia teal",
     "description": "",
     "tags": [],
-    "filename": "246-color-stylonychia-teal.png"
+    "filename": "246-color-stylonychia-teal.png",
+    "originalBytes": 1734797
   },
   {
     "id": "microorganisms-247-color-pleurosigma",
@@ -2714,7 +2960,8 @@
     "title": "Color pleurosigma",
     "description": "",
     "tags": [],
-    "filename": "247-color-pleurosigma.png"
+    "filename": "247-color-pleurosigma.png",
+    "originalBytes": 874076
   },
   {
     "id": "microorganisms-248-color-mallomonas-olive",
@@ -2725,7 +2972,8 @@
     "title": "Color mallomonas olive",
     "description": "",
     "tags": [],
-    "filename": "248-color-mallomonas-olive.png"
+    "filename": "248-color-mallomonas-olive.png",
+    "originalBytes": 1519339
   },
   {
     "id": "microorganisms-249-color-nebela-lilac",
@@ -2736,7 +2984,8 @@
     "title": "Color nebela lilac",
     "description": "",
     "tags": [],
-    "filename": "249-color-nebela-lilac.png"
+    "filename": "249-color-nebela-lilac.png",
+    "originalBytes": 1866077
   },
   {
     "id": "microorganisms-250-color-bdelloid-rotifer",
@@ -2747,7 +2996,8 @@
     "title": "Color bdelloid rotifer",
     "description": "",
     "tags": [],
-    "filename": "250-color-bdelloid-rotifer.png"
+    "filename": "250-color-bdelloid-rotifer.png",
+    "originalBytes": 1051992
   },
   {
     "id": "microorganisms-251-color-bacterium-coral",
@@ -2758,7 +3008,8 @@
     "title": "Color bacterium coral",
     "description": "",
     "tags": [],
-    "filename": "251-color-bacterium-coral.png"
+    "filename": "251-color-bacterium-coral.png",
+    "originalBytes": 803167
   },
   {
     "id": "microorganisms-252-color-phaeodactylum",
@@ -2769,7 +3020,8 @@
     "title": "Color phaeodactylum",
     "description": "",
     "tags": [],
-    "filename": "252-color-phaeodactylum.png"
+    "filename": "252-color-phaeodactylum.png",
+    "originalBytes": 592851
   },
   {
     "id": "microorganisms-253-color-metopus-lilac",
@@ -2780,7 +3032,8 @@
     "title": "Color metopus lilac",
     "description": "",
     "tags": [],
-    "filename": "253-color-metopus-lilac.png"
+    "filename": "253-color-metopus-lilac.png",
+    "originalBytes": 1508929
   },
   {
     "id": "microorganisms-254-color-cosmarium-crenellated",
@@ -2791,7 +3044,8 @@
     "title": "Color cosmarium crenellated",
     "description": "",
     "tags": [],
-    "filename": "254-color-cosmarium-crenellated.png"
+    "filename": "254-color-cosmarium-crenellated.png",
+    "originalBytes": 1709816
   },
   {
     "id": "microorganisms-255-color-foraminifer-amber",
@@ -2802,7 +3056,8 @@
     "title": "Color foraminifer amber",
     "description": "",
     "tags": [],
-    "filename": "255-color-foraminifer-amber.png"
+    "filename": "255-color-foraminifer-amber.png",
+    "originalBytes": 1904192
   },
   {
     "id": "microorganisms-256-color-lacrymaria-teal",
@@ -2813,7 +3068,8 @@
     "title": "Color lacrymaria teal",
     "description": "",
     "tags": [],
-    "filename": "256-color-lacrymaria-teal.png"
+    "filename": "256-color-lacrymaria-teal.png",
+    "originalBytes": 1262632
   },
   {
     "id": "microorganisms-257-color-fragilaria-cell",
@@ -2824,7 +3080,8 @@
     "title": "Color fragilaria cell",
     "description": "",
     "tags": [],
-    "filename": "257-color-fragilaria-cell.png"
+    "filename": "257-color-fragilaria-cell.png",
+    "originalBytes": 1000917
   },
   {
     "id": "microorganisms-258-color-tetraselmis-pear",
@@ -2835,7 +3092,8 @@
     "title": "Color tetraselmis pear",
     "description": "",
     "tags": [],
-    "filename": "258-color-tetraselmis-pear.png"
+    "filename": "258-color-tetraselmis-pear.png",
+    "originalBytes": 662308
   },
   {
     "id": "microorganisms-259-color-blepharisma-rose",
@@ -2846,7 +3104,8 @@
     "title": "Color blepharisma rose",
     "description": "",
     "tags": [],
-    "filename": "259-color-blepharisma-rose.png"
+    "filename": "259-color-blepharisma-rose.png",
+    "originalBytes": 1596218
   },
   {
     "id": "microorganisms-260-color-radiolarian-gold",
@@ -2857,7 +3116,8 @@
     "title": "Color radiolarian gold",
     "description": "",
     "tags": [],
-    "filename": "260-color-radiolarian-gold.png"
+    "filename": "260-color-radiolarian-gold.png",
+    "originalBytes": 1412246
   },
   {
     "id": "microorganisms-261-color-ceratium-olive",
@@ -2868,7 +3128,8 @@
     "title": "Color ceratium olive",
     "description": "",
     "tags": [],
-    "filename": "261-color-ceratium-olive.png"
+    "filename": "261-color-ceratium-olive.png",
+    "originalBytes": 685287
   },
   {
     "id": "microorganisms-262-color-amoeba-four-lobes",
@@ -2879,7 +3140,8 @@
     "title": "Color amoeba four lobes",
     "description": "",
     "tags": [],
-    "filename": "262-color-amoeba-four-lobes.png"
+    "filename": "262-color-amoeba-four-lobes.png",
+    "originalBytes": 1546101
   },
   {
     "id": "microorganisms-263-color-tardigrade-lilac",
@@ -2890,7 +3152,8 @@
     "title": "Color tardigrade lilac",
     "description": "",
     "tags": [],
-    "filename": "263-color-tardigrade-lilac.png"
+    "filename": "263-color-tardigrade-lilac.png",
+    "originalBytes": 1510120
   },
   {
     "id": "microorganisms-264-color-gomphonema-amber",
@@ -2901,7 +3164,8 @@
     "title": "Color gomphonema amber",
     "description": "",
     "tags": [],
-    "filename": "264-color-gomphonema-amber.png"
+    "filename": "264-color-gomphonema-amber.png",
+    "originalBytes": 1027856
   },
   {
     "id": "microorganisms-265-color-trachelomonas-olive",
@@ -2912,7 +3176,8 @@
     "title": "Color trachelomonas olive",
     "description": "",
     "tags": [],
-    "filename": "265-color-trachelomonas-olive.png"
+    "filename": "265-color-trachelomonas-olive.png",
+    "originalBytes": 1754506
   },
   {
     "id": "microorganisms-266-color-aspidisca-teal",
@@ -2923,7 +3188,8 @@
     "title": "Color aspidisca teal",
     "description": "",
     "tags": [],
-    "filename": "266-color-aspidisca-teal.png"
+    "filename": "266-color-aspidisca-teal.png",
+    "originalBytes": 1897512
   },
   {
     "id": "microorganisms-267-color-asterionella-cell",
@@ -2934,7 +3200,8 @@
     "title": "Color asterionella cell",
     "description": "",
     "tags": [],
-    "filename": "267-color-asterionella-cell.png"
+    "filename": "267-color-asterionella-cell.png",
+    "originalBytes": 536048
   },
   {
     "id": "microorganisms-268-color-porphyridium-crimson",
@@ -2945,7 +3212,8 @@
     "title": "Color porphyridium crimson",
     "description": "",
     "tags": [],
-    "filename": "268-color-porphyridium-crimson.png"
+    "filename": "268-color-porphyridium-crimson.png",
+    "originalBytes": 1442766
   },
   {
     "id": "microorganisms-269-color-difflugia-lilac",
@@ -2956,7 +3224,8 @@
     "title": "Color difflugia lilac",
     "description": "",
     "tags": [],
-    "filename": "269-color-difflugia-lilac.png"
+    "filename": "269-color-difflugia-lilac.png",
+    "originalBytes": 2055656
   },
   {
     "id": "microorganisms-270-color-centric-diatom-drum",
@@ -2967,7 +3236,8 @@
     "title": "Color centric diatom drum",
     "description": "",
     "tags": [],
-    "filename": "270-color-centric-diatom-drum.png"
+    "filename": "270-color-centric-diatom-drum.png",
+    "originalBytes": 2009785
   },
   {
     "id": "microorganisms-271-color-phacus-leaf",
@@ -2978,7 +3248,8 @@
     "title": "Color phacus leaf",
     "description": "",
     "tags": [],
-    "filename": "271-color-phacus-leaf.png"
+    "filename": "271-color-phacus-leaf.png",
+    "originalBytes": 1414247
   },
   {
     "id": "microorganisms-272-color-yeast-rose",
@@ -2989,7 +3260,8 @@
     "title": "Color yeast rose",
     "description": "",
     "tags": [],
-    "filename": "272-color-yeast-rose.png"
+    "filename": "272-color-yeast-rose.png",
+    "originalBytes": 1583057
   },
   {
     "id": "microorganisms-273-color-strombidium-cone",
@@ -3000,7 +3272,8 @@
     "title": "Color strombidium cone",
     "description": "",
     "tags": [],
-    "filename": "273-color-strombidium-cone.png"
+    "filename": "273-color-strombidium-cone.png",
+    "originalBytes": 1648218
   },
   {
     "id": "microorganisms-274-color-staurastrum-short-arms",
@@ -3011,7 +3284,8 @@
     "title": "Color staurastrum short arms",
     "description": "",
     "tags": [],
-    "filename": "274-color-staurastrum-short-arms.png"
+    "filename": "274-color-staurastrum-short-arms.png",
+    "originalBytes": 1080792
   },
   {
     "id": "microorganisms-275-color-campylodiscus-amber",
@@ -3022,7 +3296,8 @@
     "title": "Color campylodiscus amber",
     "description": "",
     "tags": [],
-    "filename": "275-color-campylodiscus-amber.png"
+    "filename": "275-color-campylodiscus-amber.png",
+    "originalBytes": 1718753
   },
   {
     "id": "microorganisms-276-color-litonotus-lilac",
@@ -3033,7 +3308,8 @@
     "title": "Color litonotus lilac",
     "description": "",
     "tags": [],
-    "filename": "276-color-litonotus-lilac.png"
+    "filename": "276-color-litonotus-lilac.png",
+    "originalBytes": 1421404
   },
   {
     "id": "microorganisms-277-color-penium-capsule",
@@ -3044,7 +3320,8 @@
     "title": "Color penium capsule",
     "description": "",
     "tags": [],
-    "filename": "277-color-penium-capsule.png"
+    "filename": "277-color-penium-capsule.png",
+    "originalBytes": 859554
   },
   {
     "id": "microorganisms-278-color-quinqueloculina-gold",
@@ -3055,7 +3332,8 @@
     "title": "Color quinqueloculina gold",
     "description": "",
     "tags": [],
-    "filename": "278-color-quinqueloculina-gold.png"
+    "filename": "278-color-quinqueloculina-gold.png",
+    "originalBytes": 1978272
   },
   {
     "id": "microorganisms-279-color-vorticella-teal",
@@ -3066,7 +3344,8 @@
     "title": "Color vorticella teal",
     "description": "",
     "tags": [],
-    "filename": "279-color-vorticella-teal.png"
+    "filename": "279-color-vorticella-teal.png",
+    "originalBytes": 1009269
   },
   {
     "id": "microorganisms-280-color-tetraedron-pillow",
@@ -3077,7 +3356,8 @@
     "title": "Color tetraedron pillow",
     "description": "",
     "tags": [],
-    "filename": "280-color-tetraedron-pillow.png"
+    "filename": "280-color-tetraedron-pillow.png",
+    "originalBytes": 1115714
   },
   {
     "id": "microorganisms-281-color-didinium-barrel",
@@ -3088,7 +3368,8 @@
     "title": "Color didinium barrel",
     "description": "",
     "tags": [],
-    "filename": "281-color-didinium-barrel.png"
+    "filename": "281-color-didinium-barrel.png",
+    "originalBytes": 1889879
   },
   {
     "id": "microorganisms-282-color-triceratium-gold",
@@ -3099,7 +3380,8 @@
     "title": "Color triceratium gold",
     "description": "",
     "tags": [],
-    "filename": "282-color-triceratium-gold.png"
+    "filename": "282-color-triceratium-gold.png",
+    "originalBytes": 1600899
   },
   {
     "id": "microorganisms-283-color-xanthidium-green",
@@ -3110,7 +3392,8 @@
     "title": "Color xanthidium green",
     "description": "",
     "tags": [],
-    "filename": "283-color-xanthidium-green.png"
+    "filename": "283-color-xanthidium-green.png",
+    "originalBytes": 1319233
   },
   {
     "id": "microorganisms-284-color-gastrotrich-teal",
@@ -3121,7 +3404,8 @@
     "title": "Color gastrotrich teal",
     "description": "",
     "tags": [],
-    "filename": "284-color-gastrotrich-teal.png"
+    "filename": "284-color-gastrotrich-teal.png",
+    "originalBytes": 1097187
   },
   {
     "id": "microorganisms-285-color-coleps-armored",
@@ -3132,7 +3416,8 @@
     "title": "Color coleps armored",
     "description": "",
     "tags": [],
-    "filename": "285-color-coleps-armored.png"
+    "filename": "285-color-coleps-armored.png",
+    "originalBytes": 1639062
   },
   {
     "id": "microorganisms-286-color-diploneis-gold",
@@ -3143,7 +3428,8 @@
     "title": "Color diploneis gold",
     "description": "",
     "tags": [],
-    "filename": "286-color-diploneis-gold.png"
+    "filename": "286-color-diploneis-gold.png",
+    "originalBytes": 1921498
   },
   {
     "id": "microorganisms-287-color-closterium-broad",
@@ -3154,7 +3440,8 @@
     "title": "Color closterium broad",
     "description": "",
     "tags": [],
-    "filename": "287-color-closterium-broad.png"
+    "filename": "287-color-closterium-broad.png",
+    "originalBytes": 789218
   },
   {
     "id": "microorganisms-288-color-spirillum-rose",
@@ -3165,7 +3452,8 @@
     "title": "Color spirillum rose",
     "description": "",
     "tags": [],
-    "filename": "288-color-spirillum-rose.png"
+    "filename": "288-color-spirillum-rose.png",
+    "originalBytes": 829206
   },
   {
     "id": "microorganisms-289-color-lagena-lilac",
@@ -3176,7 +3464,8 @@
     "title": "Color lagena lilac",
     "description": "",
     "tags": [],
-    "filename": "289-color-lagena-lilac.png"
+    "filename": "289-color-lagena-lilac.png",
+    "originalBytes": 1822206
   },
   {
     "id": "microorganisms-290-color-colpoda-teal",
@@ -3187,7 +3476,8 @@
     "title": "Color colpoda teal",
     "description": "",
     "tags": [],
-    "filename": "290-color-colpoda-teal.png"
+    "filename": "290-color-colpoda-teal.png",
+    "originalBytes": 1823329
   },
   {
     "id": "microorganisms-291-color-surirella-gold",
@@ -3198,7 +3488,8 @@
     "title": "Color surirella gold",
     "description": "",
     "tags": [],
-    "filename": "291-color-surirella-gold.png"
+    "filename": "291-color-surirella-gold.png",
+    "originalBytes": 1744716
   },
   {
     "id": "microorganisms-292-color-chlamydomonas-green",
@@ -3209,7 +3500,8 @@
     "title": "Color chlamydomonas green",
     "description": "",
     "tags": [],
-    "filename": "292-color-chlamydomonas-green.png"
+    "filename": "292-color-chlamydomonas-green.png",
+    "originalBytes": 659892
   },
   {
     "id": "microorganisms-293-color-paramecium-teal",
@@ -3220,7 +3512,8 @@
     "title": "Color paramecium teal",
     "description": "",
     "tags": [],
-    "filename": "293-color-paramecium-teal.png"
+    "filename": "293-color-paramecium-teal.png",
+    "originalBytes": 1584029
   },
   {
     "id": "microorganisms-294-color-euglypha-scaled",
@@ -3231,7 +3524,8 @@
     "title": "Color euglypha scaled",
     "description": "",
     "tags": [],
-    "filename": "294-color-euglypha-scaled.png"
+    "filename": "294-color-euglypha-scaled.png",
+    "originalBytes": 1686413
   },
   {
     "id": "microorganisms-295-color-cymbella-gold",
@@ -3242,7 +3536,8 @@
     "title": "Color cymbella gold",
     "description": "",
     "tags": [],
-    "filename": "295-color-cymbella-gold.png"
+    "filename": "295-color-cymbella-gold.png",
+    "originalBytes": 895895
   },
   {
     "id": "microorganisms-296-color-euglena-curved",
@@ -3253,7 +3548,8 @@
     "title": "Color euglena curved",
     "description": "",
     "tags": [],
-    "filename": "296-color-euglena-curved.png"
+    "filename": "296-color-euglena-curved.png",
+    "originalBytes": 732405
   },
   {
     "id": "microorganisms-297-color-nassellarian-bell-lilac",
@@ -3264,7 +3560,8 @@
     "title": "Color nassellarian bell lilac",
     "description": "",
     "tags": [],
-    "filename": "297-color-nassellarian-bell-lilac.png"
+    "filename": "297-color-nassellarian-bell-lilac.png",
+    "originalBytes": 1364112
   },
   {
     "id": "microorganisms-298-color-nitzschia-gold",
@@ -3275,7 +3572,8 @@
     "title": "Color nitzschia gold",
     "description": "",
     "tags": [],
-    "filename": "298-color-nitzschia-gold.png"
+    "filename": "298-color-nitzschia-gold.png",
+    "originalBytes": 722125
   },
   {
     "id": "microorganisms-299-color-micrasterias-fan",
@@ -3286,7 +3584,8 @@
     "title": "Color micrasterias fan",
     "description": "",
     "tags": [],
-    "filename": "299-color-micrasterias-fan.png"
+    "filename": "299-color-micrasterias-fan.png",
+    "originalBytes": 1710133
   },
   {
     "id": "microorganisms-300-color-stentor-trumpet",
@@ -3297,7 +3596,8 @@
     "title": "Color stentor trumpet",
     "description": "",
     "tags": [],
-    "filename": "300-color-stentor-trumpet.png"
+    "filename": "300-color-stentor-trumpet.png",
+    "originalBytes": 1260724
   },
   {
     "id": "microorganisms-301-color-arcella-dome",
@@ -3308,7 +3608,8 @@
     "title": "Color arcella dome",
     "description": "",
     "tags": [],
-    "filename": "301-color-arcella-dome.png"
+    "filename": "301-color-arcella-dome.png",
+    "originalBytes": 1793790
   },
   {
     "id": "microorganisms-302-color-monoraphidium-curved",
@@ -3319,7 +3620,8 @@
     "title": "Color monoraphidium curved",
     "description": "",
     "tags": [],
-    "filename": "302-color-monoraphidium-curved.png"
+    "filename": "302-color-monoraphidium-curved.png",
+    "originalBytes": 511301
   },
   {
     "id": "microorganisms-303-color-euplotes-ridged",
@@ -3330,7 +3632,8 @@
     "title": "Color euplotes ridged",
     "description": "",
     "tags": [],
-    "filename": "303-color-euplotes-ridged.png"
+    "filename": "303-color-euplotes-ridged.png",
+    "originalBytes": 1766660
   },
   {
     "id": "microorganisms-304-color-coccolithophore-gold",
@@ -3341,7 +3644,8 @@
     "title": "Color coccolithophore gold",
     "description": "",
     "tags": [],
-    "filename": "304-color-coccolithophore-gold.png"
+    "filename": "304-color-coccolithophore-gold.png",
+    "originalBytes": 1902927
   },
   {
     "id": "microorganisms-305-color-coccobacillus-rose",
@@ -3352,7 +3656,8 @@
     "title": "Color coccobacillus rose",
     "description": "",
     "tags": [],
-    "filename": "305-color-coccobacillus-rose.png"
+    "filename": "305-color-coccobacillus-rose.png",
+    "originalBytes": 1262136
   },
   {
     "id": "microorganisms-306-color-oocystis-oval",
@@ -3363,7 +3668,8 @@
     "title": "Color oocystis oval",
     "description": "",
     "tags": [],
-    "filename": "306-color-oocystis-oval.png"
+    "filename": "306-color-oocystis-oval.png",
+    "originalBytes": 1000975
   },
   {
     "id": "microorganisms-307-color-tetrahymena-lilac",
@@ -3374,7 +3680,8 @@
     "title": "Color tetrahymena lilac",
     "description": "",
     "tags": [],
-    "filename": "307-color-tetrahymena-lilac.png"
+    "filename": "307-color-tetrahymena-lilac.png",
+    "originalBytes": 1715236
   },
   {
     "id": "microorganisms-308-color-golenkinia-short-spines",
@@ -3385,7 +3692,8 @@
     "title": "Color golenkinia short spines",
     "description": "",
     "tags": [],
-    "filename": "308-color-golenkinia-short-spines.png"
+    "filename": "308-color-golenkinia-short-spines.png",
+    "originalBytes": 1187655
   },
   {
     "id": "microorganisms-309-color-rhizosolenia-gold",
@@ -3396,7 +3704,8 @@
     "title": "Color rhizosolenia gold",
     "description": "",
     "tags": [],
-    "filename": "309-color-rhizosolenia-gold.png"
+    "filename": "309-color-rhizosolenia-gold.png",
+    "originalBytes": 757695
   },
   {
     "id": "microorganisms-310-color-dileptus-short-proboscis",
@@ -3407,7 +3716,8 @@
     "title": "Color dileptus short proboscis",
     "description": "",
     "tags": [],
-    "filename": "310-color-dileptus-short-proboscis.png"
+    "filename": "310-color-dileptus-short-proboscis.png",
+    "originalBytes": 1347782
   },
   {
     "id": "microorganisms-311-color-staurodesmus-angular",
@@ -3418,7 +3728,8 @@
     "title": "Color staurodesmus angular",
     "description": "",
     "tags": [],
-    "filename": "311-color-staurodesmus-angular.png"
+    "filename": "311-color-staurodesmus-angular.png",
+    "originalBytes": 1029654
   },
   {
     "id": "microorganisms-312-color-licmophora-gold",
@@ -3429,7 +3740,8 @@
     "title": "Color licmophora gold",
     "description": "",
     "tags": [],
-    "filename": "312-color-licmophora-gold.png"
+    "filename": "312-color-licmophora-gold.png",
+    "originalBytes": 1369544
   },
   {
     "id": "microorganisms-313-color-spirostomum-teal",
@@ -3440,7 +3752,8 @@
     "title": "Color spirostomum teal",
     "description": "",
     "tags": [],
-    "filename": "313-color-spirostomum-teal.png"
+    "filename": "313-color-spirostomum-teal.png",
+    "originalBytes": 1221954
   },
   {
     "id": "microorganisms-314-color-elphidium-lilac",
@@ -3451,7 +3764,8 @@
     "title": "Color elphidium lilac",
     "description": "",
     "tags": [],
-    "filename": "314-color-elphidium-lilac.png"
+    "filename": "314-color-elphidium-lilac.png",
+    "originalBytes": 1705388
   },
   {
     "id": "microorganisms-315-color-lepocinclis-green",
@@ -3462,7 +3776,8 @@
     "title": "Color lepocinclis green",
     "description": "",
     "tags": [],
-    "filename": "315-color-lepocinclis-green.png"
+    "filename": "315-color-lepocinclis-green.png",
+    "originalBytes": 1164250
   },
   {
     "id": "microorganisms-316-color-biddulphia-gold",
@@ -3473,7 +3788,8 @@
     "title": "Color biddulphia gold",
     "description": "",
     "tags": [],
-    "filename": "316-color-biddulphia-gold.png"
+    "filename": "316-color-biddulphia-gold.png",
+    "originalBytes": 1514799
   },
   {
     "id": "microorganisms-317-color-scenedesmus-horns",
@@ -3484,7 +3800,8 @@
     "title": "Color scenedesmus horns",
     "description": "",
     "tags": [],
-    "filename": "317-color-scenedesmus-horns.png"
+    "filename": "317-color-scenedesmus-horns.png",
+    "originalBytes": 719721
   },
   {
     "id": "microorganisms-318-color-brachionus-lilac",
@@ -3495,7 +3812,8 @@
     "title": "Color brachionus lilac",
     "description": "",
     "tags": [],
-    "filename": "318-color-brachionus-lilac.png"
+    "filename": "318-color-brachionus-lilac.png",
+    "originalBytes": 1733226
   },
   {
     "id": "microorganisms-319-color-euastrum-lobes",
@@ -3506,7 +3824,8 @@
     "title": "Color euastrum lobes",
     "description": "",
     "tags": [],
-    "filename": "319-color-euastrum-lobes.png"
+    "filename": "319-color-euastrum-lobes.png",
+    "originalBytes": 1559787
   },
   {
     "id": "microorganisms-320-color-cocconeis-domed",
@@ -3517,7 +3836,8 @@
     "title": "Color cocconeis domed",
     "description": "",
     "tags": [],
-    "filename": "320-color-cocconeis-domed.png"
+    "filename": "320-color-cocconeis-domed.png",
+    "originalBytes": 2122610
   },
   {
     "id": "microorganisms-321-color-fission-yeast-rose",
@@ -3528,7 +3848,8 @@
     "title": "Color fission yeast rose",
     "description": "",
     "tags": [],
-    "filename": "321-color-fission-yeast-rose.png"
+    "filename": "321-color-fission-yeast-rose.png",
+    "originalBytes": 1257993
   },
   {
     "id": "microorganisms-322-color-mallomonas-sage",
@@ -3539,7 +3860,8 @@
     "title": "Color mallomonas sage",
     "description": "",
     "tags": [],
-    "filename": "322-color-mallomonas-sage.png"
+    "filename": "322-color-mallomonas-sage.png",
+    "originalBytes": 897249
   },
   {
     "id": "microorganisms-323-color-tintinnid-vase",
@@ -3550,7 +3872,8 @@
     "title": "Color tintinnid vase",
     "description": "",
     "tags": [],
-    "filename": "323-color-tintinnid-vase.png"
+    "filename": "323-color-tintinnid-vase.png",
+    "originalBytes": 1435780
   },
   {
     "id": "microorganisms-324-color-haematococcus-red",
@@ -3561,7 +3884,8 @@
     "title": "Color haematococcus red",
     "description": "",
     "tags": [],
-    "filename": "324-color-haematococcus-red.png"
+    "filename": "324-color-haematococcus-red.png",
+    "originalBytes": 1324671
   },
   {
     "id": "microorganisms-325-color-pinnularia-gold",
@@ -3572,7 +3896,8 @@
     "title": "Color pinnularia gold",
     "description": "",
     "tags": [],
-    "filename": "325-color-pinnularia-gold.png"
+    "filename": "325-color-pinnularia-gold.png",
+    "originalBytes": 1207866
   },
   {
     "id": "microorganisms-326-color-chilodonella-teal",
@@ -3583,7 +3908,8 @@
     "title": "Color chilodonella teal",
     "description": "",
     "tags": [],
-    "filename": "326-color-chilodonella-teal.png"
+    "filename": "326-color-chilodonella-teal.png",
+    "originalBytes": 2006567
   },
   {
     "id": "microorganisms-327-color-peridinium-plates",
@@ -3594,7 +3920,8 @@
     "title": "Color peridinium plates",
     "description": "",
     "tags": [],
-    "filename": "327-color-peridinium-plates.png"
+    "filename": "327-color-peridinium-plates.png",
+    "originalBytes": 1971483
   },
   {
     "id": "microorganisms-328-color-radiolarian-disk-gold",
@@ -3605,7 +3932,8 @@
     "title": "Color radiolarian disk gold",
     "description": "",
     "tags": [],
-    "filename": "328-color-radiolarian-disk-gold.png"
+    "filename": "328-color-radiolarian-disk-gold.png",
+    "originalBytes": 2002886
   },
   {
     "id": "microorganisms-329-color-selenastrum-broad",
@@ -3616,7 +3944,8 @@
     "title": "Color selenastrum broad",
     "description": "",
     "tags": [],
-    "filename": "329-color-selenastrum-broad.png"
+    "filename": "329-color-selenastrum-broad.png",
+    "originalBytes": 616968
   },
   {
     "id": "microorganisms-330-color-tabellaria-cell",
@@ -3627,7 +3956,8 @@
     "title": "Color tabellaria cell",
     "description": "",
     "tags": [],
-    "filename": "330-color-tabellaria-cell.png"
+    "filename": "330-color-tabellaria-cell.png",
+    "originalBytes": 1240577
   },
   {
     "id": "microorganisms-331-color-keratella-lilac",
@@ -3638,7 +3968,8 @@
     "title": "Color keratella lilac",
     "description": "",
     "tags": [],
-    "filename": "331-color-keratella-lilac.png"
+    "filename": "331-color-keratella-lilac.png",
+    "originalBytes": 1268963
   },
   {
     "id": "microorganisms-332-color-prorodon-teal",
@@ -3649,7 +3980,8 @@
     "title": "Color prorodon teal",
     "description": "",
     "tags": [],
-    "filename": "332-color-prorodon-teal.png"
+    "filename": "332-color-prorodon-teal.png",
+    "originalBytes": 1699060
   },
   {
     "id": "microorganisms-333-color-cryptomonas-olive",
@@ -3660,7 +3992,8 @@
     "title": "Color cryptomonas olive",
     "description": "",
     "tags": [],
-    "filename": "333-color-cryptomonas-olive.png"
+    "filename": "333-color-cryptomonas-olive.png",
+    "originalBytes": 616529
   },
   {
     "id": "microorganisms-334-color-lesquereusia-rose",
@@ -3671,7 +4004,8 @@
     "title": "Color lesquereusia rose",
     "description": "",
     "tags": [],
-    "filename": "334-color-lesquereusia-rose.png"
+    "filename": "334-color-lesquereusia-rose.png",
+    "originalBytes": 1406055
   },
   {
     "id": "microorganisms-335-color-aulacodiscus-amber",
@@ -3682,7 +4016,8 @@
     "title": "Color aulacodiscus amber",
     "description": "",
     "tags": [],
-    "filename": "335-color-aulacodiscus-amber.png"
+    "filename": "335-color-aulacodiscus-amber.png",
+    "originalBytes": 2009079
   },
   {
     "id": "microorganisms-336-color-dunaliella-green",
@@ -3693,7 +4028,8 @@
     "title": "Color dunaliella green",
     "description": "",
     "tags": [],
-    "filename": "336-color-dunaliella-green.png"
+    "filename": "336-color-dunaliella-green.png",
+    "originalBytes": 655894
   },
   {
     "id": "microorganisms-337-color-frontonia-lilac",
@@ -3704,7 +4040,8 @@
     "title": "Color frontonia lilac",
     "description": "",
     "tags": [],
-    "filename": "337-color-frontonia-lilac.png"
+    "filename": "337-color-frontonia-lilac.png",
+    "originalBytes": 1673278
   },
   {
     "id": "microorganisms-338-color-actinoptychus-six-sectors",
@@ -3715,7 +4052,8 @@
     "title": "Color actinoptychus six sectors",
     "description": "",
     "tags": [],
-    "filename": "338-color-actinoptychus-six-sectors.png"
+    "filename": "338-color-actinoptychus-six-sectors.png",
+    "originalBytes": 2351428
   },
   {
     "id": "microorganisms-339-color-trinema-mint",
@@ -3726,7 +4064,8 @@
     "title": "Color trinema mint",
     "description": "",
     "tags": [],
-    "filename": "339-color-trinema-mint.png"
+    "filename": "339-color-trinema-mint.png",
+    "originalBytes": 1547616
   },
   {
     "id": "microorganisms-340-color-vibrio-coral",
@@ -3737,7 +4076,8 @@
     "title": "Color vibrio coral",
     "description": "",
     "tags": [],
-    "filename": "340-color-vibrio-coral.png"
+    "filename": "340-color-vibrio-coral.png",
+    "originalBytes": 633279
   },
   {
     "id": "microorganisms-341-color-cosmarium-scalloped",
@@ -3748,7 +4088,8 @@
     "title": "Color cosmarium scalloped",
     "description": "",
     "tags": [],
-    "filename": "341-color-cosmarium-scalloped.png"
+    "filename": "341-color-cosmarium-scalloped.png",
+    "originalBytes": 1990785
   },
   {
     "id": "microorganisms-342-color-trachelophyllum-teal",
@@ -3759,7 +4100,8 @@
     "title": "Color trachelophyllum teal",
     "description": "",
     "tags": [],
-    "filename": "342-color-trachelophyllum-teal.png"
+    "filename": "342-color-trachelophyllum-teal.png",
+    "originalBytes": 1191812
   },
   {
     "id": "microorganisms-343-color-entomoneis-amber",
@@ -3770,7 +4112,8 @@
     "title": "Color entomoneis amber",
     "description": "",
     "tags": [],
-    "filename": "343-color-entomoneis-amber.png"
+    "filename": "343-color-entomoneis-amber.png",
+    "originalBytes": 1023023
   },
   {
     "id": "microorganisms-344-color-tardigrade-rose",
@@ -3781,7 +4124,8 @@
     "title": "Color tardigrade rose",
     "description": "",
     "tags": [],
-    "filename": "344-color-tardigrade-rose.png"
+    "filename": "344-color-tardigrade-rose.png",
+    "originalBytes": 1460034
   },
   {
     "id": "microorganisms-345-color-pleurotaenium-green",
@@ -3792,7 +4136,8 @@
     "title": "Color pleurotaenium green",
     "description": "",
     "tags": [],
-    "filename": "345-color-pleurotaenium-green.png"
+    "filename": "345-color-pleurotaenium-green.png",
+    "originalBytes": 714954
   },
   {
     "id": "microorganisms-346-color-foraminifer-lilac",
@@ -3803,7 +4148,8 @@
     "title": "Color foraminifer lilac",
     "description": "",
     "tags": [],
-    "filename": "346-color-foraminifer-lilac.png"
+    "filename": "346-color-foraminifer-lilac.png",
+    "originalBytes": 1560105
   },
   {
     "id": "microorganisms-347-color-navicula-gold",
@@ -3814,7 +4160,8 @@
     "title": "Color navicula gold",
     "description": "",
     "tags": [],
-    "filename": "347-color-navicula-gold.png"
+    "filename": "347-color-navicula-gold.png",
+    "originalBytes": 1117736
   },
   {
     "id": "microorganisms-348-color-staurastrum-three-arms",
@@ -3825,7 +4172,8 @@
     "title": "Color staurastrum three arms",
     "description": "",
     "tags": [],
-    "filename": "348-color-staurastrum-three-arms.png"
+    "filename": "348-color-staurastrum-three-arms.png",
+    "originalBytes": 917212
   },
   {
     "id": "microorganisms-349-color-choanoflagellate-teal",
@@ -3836,7 +4184,8 @@
     "title": "Color choanoflagellate teal",
     "description": "",
     "tags": [],
-    "filename": "349-color-choanoflagellate-teal.png"
+    "filename": "349-color-choanoflagellate-teal.png",
+    "originalBytes": 590004
   },
   {
     "id": "microorganisms-350-color-porphyridium-ruby",
@@ -3847,7 +4196,8 @@
     "title": "Color porphyridium ruby",
     "description": "",
     "tags": [],
-    "filename": "350-color-porphyridium-ruby.png"
+    "filename": "350-color-porphyridium-ruby.png",
+    "originalBytes": 1326067
   },
   {
     "id": "microorganisms-351-color-eunotia-amber",
@@ -3858,7 +4208,8 @@
     "title": "Color eunotia amber",
     "description": "",
     "tags": [],
-    "filename": "351-color-eunotia-amber.png"
+    "filename": "351-color-eunotia-amber.png",
+    "originalBytes": 739011
   },
   {
     "id": "microorganisms-352-color-amoeba-five-lobes",
@@ -3869,7 +4220,8 @@
     "title": "Color amoeba five lobes",
     "description": "",
     "tags": [],
-    "filename": "352-color-amoeba-five-lobes.png"
+    "filename": "352-color-amoeba-five-lobes.png",
+    "originalBytes": 1674550
   },
   {
     "id": "microorganisms-353-color-radiolarian-lilac-sphere",
@@ -3880,7 +4232,8 @@
     "title": "Color radiolarian lilac sphere",
     "description": "",
     "tags": [],
-    "filename": "353-color-radiolarian-lilac-sphere.png"
+    "filename": "353-color-radiolarian-lilac-sphere.png",
+    "originalBytes": 1476823
   },
   {
     "id": "microorganisms-354-color-euglena-striped",
@@ -3891,7 +4244,8 @@
     "title": "Color euglena striped",
     "description": "",
     "tags": [],
-    "filename": "354-color-euglena-striped.png"
+    "filename": "354-color-euglena-striped.png",
+    "originalBytes": 555362
   },
   {
     "id": "microorganisms-355-color-amphora-amber",
@@ -3902,7 +4256,8 @@
     "title": "Color amphora amber",
     "description": "",
     "tags": [],
-    "filename": "355-color-amphora-amber.png"
+    "filename": "355-color-amphora-amber.png",
+    "originalBytes": 1514198
   },
   {
     "id": "microorganisms-356-color-rhodotorula-coral",
@@ -3913,7 +4268,8 @@
     "title": "Color rhodotorula coral",
     "description": "",
     "tags": [],
-    "filename": "356-color-rhodotorula-coral.png"
+    "filename": "356-color-rhodotorula-coral.png",
+    "originalBytes": 1981509
   },
   {
     "id": "microorganisms-357-color-halteria-mint",
@@ -3924,7 +4280,8 @@
     "title": "Color halteria mint",
     "description": "",
     "tags": [],
-    "filename": "357-color-halteria-mint.png"
+    "filename": "357-color-halteria-mint.png",
+    "originalBytes": 1799665
   },
   {
     "id": "microorganisms-358-color-tetraedron-triangle",
@@ -3935,6 +4292,7 @@
     "title": "Color tetraedron triangle",
     "description": "",
     "tags": [],
-    "filename": "358-color-tetraedron-triangle.png"
+    "filename": "358-color-tetraedron-triangle.png",
+    "originalBytes": 785936
   }
 ]

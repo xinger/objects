@@ -78,6 +78,7 @@ export async function importCategory(directory, categoryId, originalsDirectory) 
       height: metadata.height,
       ...sourceMetadata(path.basename(file.key), prompts),
       filename: path.basename(file.key),
+      originalBytes: bytes.length,
     });
   }
   return records;

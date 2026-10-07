@@ -13,7 +13,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "001-fly-agaric.png"
+    "filename": "001-fly-agaric.png",
+    "originalBytes": 1442378
   },
   {
     "id": "mushrooms-002-porcini",
@@ -29,7 +30,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "002-porcini.png"
+    "filename": "002-porcini.png",
+    "originalBytes": 2143255
   },
   {
     "id": "mushrooms-003-chanterelle",
@@ -45,7 +47,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "003-chanterelle.png"
+    "filename": "003-chanterelle.png",
+    "originalBytes": 1263900
   },
   {
     "id": "mushrooms-004-morel",
@@ -61,7 +64,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "004-morel.png"
+    "filename": "004-morel.png",
+    "originalBytes": 2185094
   },
   {
     "id": "mushrooms-005-black-morel",
@@ -77,7 +81,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "005-black-morel.png"
+    "filename": "005-black-morel.png",
+    "originalBytes": 2194018
   },
   {
     "id": "mushrooms-006-violet-webcap",
@@ -93,7 +98,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "006-violet-webcap.png"
+    "filename": "006-violet-webcap.png",
+    "originalBytes": 1753228
   },
   {
     "id": "mushrooms-007-amethyst-deceiver",
@@ -109,7 +115,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "007-amethyst-deceiver.png"
+    "filename": "007-amethyst-deceiver.png",
+    "originalBytes": 1699629
   },
   {
     "id": "mushrooms-008-parasol",
@@ -125,7 +132,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "008-parasol.png"
+    "filename": "008-parasol.png",
+    "originalBytes": 1413914
   },
   {
     "id": "mushrooms-009-bay-bolete",
@@ -141,7 +149,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "009-bay-bolete.png"
+    "filename": "009-bay-bolete.png",
+    "originalBytes": 1701360
   },
   {
     "id": "mushrooms-010-birch-bolete",
@@ -157,7 +166,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "010-birch-bolete.png"
+    "filename": "010-birch-bolete.png",
+    "originalBytes": 2320345
   },
   {
     "id": "mushrooms-011-orange-bolete",
@@ -173,7 +183,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "011-orange-bolete.png"
+    "filename": "011-orange-bolete.png",
+    "originalBytes": 1691511
   },
   {
     "id": "mushrooms-012-red-cracking-bolete",
@@ -189,7 +200,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "012-red-cracking-bolete.png"
+    "filename": "012-red-cracking-bolete.png",
+    "originalBytes": 2180583
   },
   {
     "id": "mushrooms-013-slippery-jack",
@@ -205,7 +217,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "013-slippery-jack.png"
+    "filename": "013-slippery-jack.png",
+    "originalBytes": 1628233
   },
   {
     "id": "mushrooms-014-velvet-bolete",
@@ -221,7 +234,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "014-velvet-bolete.png"
+    "filename": "014-velvet-bolete.png",
+    "originalBytes": 1638033
   },
   {
     "id": "mushrooms-015-scarletina-bolete",
@@ -237,7 +251,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "015-scarletina-bolete.png"
+    "filename": "015-scarletina-bolete.png",
+    "originalBytes": 1953384
   },
   {
     "id": "mushrooms-016-saffron-milkcap",
@@ -253,7 +268,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "016-saffron-milkcap.png"
+    "filename": "016-saffron-milkcap.png",
+    "originalBytes": 1719556
   },
   {
     "id": "mushrooms-017-indigo-milkcap",
@@ -269,7 +285,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "017-indigo-milkcap.png"
+    "filename": "017-indigo-milkcap.png",
+    "originalBytes": 1614063
   },
   {
     "id": "mushrooms-018-sickener",
@@ -285,7 +302,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "018-sickener.png"
+    "filename": "018-sickener.png",
+    "originalBytes": 1404046
   },
   {
     "id": "mushrooms-019-green-russula",
@@ -301,7 +319,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "019-green-russula.png"
+    "filename": "019-green-russula.png",
+    "originalBytes": 1393925
   },
   {
     "id": "mushrooms-020-charcoal-burner",
@@ -317,7 +336,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "020-charcoal-burner.png"
+    "filename": "020-charcoal-burner.png",
+    "originalBytes": 1405251
   },
   {
     "id": "mushrooms-021-wood-blewit",
@@ -333,7 +353,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "021-wood-blewit.png"
+    "filename": "021-wood-blewit.png",
+    "originalBytes": 1559695
   },
   {
     "id": "mushrooms-022-lilac-fibrecap",
@@ -349,7 +370,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "022-lilac-fibrecap.png"
+    "filename": "022-lilac-fibrecap.png",
+    "originalBytes": 1597212
   },
   {
     "id": "mushrooms-023-hedgehog",
@@ -365,7 +387,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "023-hedgehog.png"
+    "filename": "023-hedgehog.png",
+    "originalBytes": 1506577
   },
   {
     "id": "mushrooms-024-black-trumpet",
@@ -381,7 +404,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "024-black-trumpet.png"
+    "filename": "024-black-trumpet.png",
+    "originalBytes": 1296735
   },
   {
     "id": "mushrooms-025-winter-chanterelle",
@@ -397,7 +421,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "025-winter-chanterelle.png"
+    "filename": "025-winter-chanterelle.png",
+    "originalBytes": 1810404
   },
   {
     "id": "mushrooms-026-horn-of-plenty",
@@ -413,7 +438,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "026-horn-of-plenty.png"
+    "filename": "026-horn-of-plenty.png",
+    "originalBytes": 991009
   },
   {
     "id": "mushrooms-027-caesar-mushroom",
@@ -429,7 +455,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "027-caesar-mushroom.png"
+    "filename": "027-caesar-mushroom.png",
+    "originalBytes": 2383605
   },
   {
     "id": "mushrooms-028-blusher",
@@ -445,7 +472,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "028-blusher.png"
+    "filename": "028-blusher.png",
+    "originalBytes": 1467138
   },
   {
     "id": "mushrooms-029-panther-cap",
@@ -461,7 +489,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "029-panther-cap.png"
+    "filename": "029-panther-cap.png",
+    "originalBytes": 2248513
   },
   {
     "id": "mushrooms-030-destroying-angel",
@@ -477,7 +506,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "030-destroying-angel.png"
+    "filename": "030-destroying-angel.png",
+    "originalBytes": 1795833
   },
   {
     "id": "mushrooms-031-false-death-cap",
@@ -493,7 +523,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "031-false-death-cap.png"
+    "filename": "031-false-death-cap.png",
+    "originalBytes": 2020925
   },
   {
     "id": "mushrooms-032-grisette",
@@ -509,7 +540,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "032-grisette.png"
+    "filename": "032-grisette.png",
+    "originalBytes": 1639440
   },
   {
     "id": "mushrooms-033-tawny-grisette",
@@ -525,7 +557,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "033-tawny-grisette.png"
+    "filename": "033-tawny-grisette.png",
+    "originalBytes": 995771
   },
   {
     "id": "mushrooms-034-shaggy-inkcap",
@@ -541,7 +574,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "034-shaggy-inkcap.png"
+    "filename": "034-shaggy-inkcap.png",
+    "originalBytes": 1664020
   },
   {
     "id": "mushrooms-035-magpie-inkcap",
@@ -557,7 +591,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "035-magpie-inkcap.png"
+    "filename": "035-magpie-inkcap.png",
+    "originalBytes": 1851158
   },
   {
     "id": "mushrooms-036-fairy-inkcap",
@@ -573,7 +608,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "036-fairy-inkcap.png"
+    "filename": "036-fairy-inkcap.png",
+    "originalBytes": 1444398
   },
   {
     "id": "mushrooms-037-pleated-inkcap",
@@ -589,7 +625,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "037-pleated-inkcap.png"
+    "filename": "037-pleated-inkcap.png",
+    "originalBytes": 1659810
   },
   {
     "id": "mushrooms-038-rosy-bonnet",
@@ -605,7 +642,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "038-rosy-bonnet.png"
+    "filename": "038-rosy-bonnet.png",
+    "originalBytes": 969906
   },
   {
     "id": "mushrooms-039-orange-bonnet",
@@ -621,7 +659,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "039-orange-bonnet.png"
+    "filename": "039-orange-bonnet.png",
+    "originalBytes": 1492772
   },
   {
     "id": "mushrooms-040-garlic-parachute",
@@ -637,7 +676,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "040-garlic-parachute.png"
+    "filename": "040-garlic-parachute.png",
+    "originalBytes": 682012
   },
   {
     "id": "mushrooms-041-oyster",
@@ -653,7 +693,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "041-oyster.png"
+    "filename": "041-oyster.png",
+    "originalBytes": 1767049
   },
   {
     "id": "mushrooms-042-pink-oyster",
@@ -669,7 +710,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "042-pink-oyster.png"
+    "filename": "042-pink-oyster.png",
+    "originalBytes": 2307325
   },
   {
     "id": "mushrooms-043-golden-oyster",
@@ -685,7 +727,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "043-golden-oyster.png"
+    "filename": "043-golden-oyster.png",
+    "originalBytes": 1115331
   },
   {
     "id": "mushrooms-044-blue-oyster",
@@ -701,7 +744,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "044-blue-oyster.png"
+    "filename": "044-blue-oyster.png",
+    "originalBytes": 1500014
   },
   {
     "id": "mushrooms-045-king-oyster",
@@ -717,7 +761,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "045-king-oyster.png"
+    "filename": "045-king-oyster.png",
+    "originalBytes": 1832635
   },
   {
     "id": "mushrooms-046-shiitake",
@@ -733,7 +778,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "046-shiitake.png"
+    "filename": "046-shiitake.png",
+    "originalBytes": 2160194
   },
   {
     "id": "mushrooms-047-velvet-shank",
@@ -749,7 +795,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "047-velvet-shank.png"
+    "filename": "047-velvet-shank.png",
+    "originalBytes": 1068411
   },
   {
     "id": "mushrooms-048-reishi",
@@ -765,7 +812,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "048-reishi.png"
+    "filename": "048-reishi.png",
+    "originalBytes": 1615433
   },
   {
     "id": "mushrooms-049-artist-conk",
@@ -781,7 +829,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "049-artist-conk.png"
+    "filename": "049-artist-conk.png",
+    "originalBytes": 2269680
   },
   {
     "id": "mushrooms-050-tinder-conk",
@@ -797,7 +846,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "050-tinder-conk.png"
+    "filename": "050-tinder-conk.png",
+    "originalBytes": 2403059
   },
   {
     "id": "mushrooms-051-turkey-tail",
@@ -813,7 +863,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "051-turkey-tail.png"
+    "filename": "051-turkey-tail.png",
+    "originalBytes": 2952429
   },
   {
     "id": "mushrooms-052-birch-polypore",
@@ -829,7 +880,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "052-birch-polypore.png"
+    "filename": "052-birch-polypore.png",
+    "originalBytes": 2313771
   },
   {
     "id": "mushrooms-053-dryad-saddle",
@@ -845,7 +897,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "053-dryad-saddle.png"
+    "filename": "053-dryad-saddle.png",
+    "originalBytes": 1728124
   },
   {
     "id": "mushrooms-054-beefsteak",
@@ -861,7 +914,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "054-beefsteak.png"
+    "filename": "054-beefsteak.png",
+    "originalBytes": 2531365
   },
   {
     "id": "mushrooms-055-chicken-of-woods",
@@ -877,7 +931,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "055-chicken-of-woods.png"
+    "filename": "055-chicken-of-woods.png",
+    "originalBytes": 2043762
   },
   {
     "id": "mushrooms-056-cinnabar-polypore",
@@ -893,7 +948,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "056-cinnabar-polypore.png"
+    "filename": "056-cinnabar-polypore.png",
+    "originalBytes": 2598610
   },
   {
     "id": "mushrooms-057-blue-bracket",
@@ -909,7 +965,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "057-blue-bracket.png"
+    "filename": "057-blue-bracket.png",
+    "originalBytes": 2144474
   },
   {
     "id": "mushrooms-058-violet-tooth",
@@ -925,7 +982,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "058-violet-tooth.png"
+    "filename": "058-violet-tooth.png",
+    "originalBytes": 2036188
   },
   {
     "id": "mushrooms-059-purple-crust-bracket",
@@ -941,7 +999,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "059-purple-crust-bracket.png"
+    "filename": "059-purple-crust-bracket.png",
+    "originalBytes": 2234273
   },
   {
     "id": "mushrooms-060-split-gill",
@@ -957,7 +1016,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "060-split-gill.png"
+    "filename": "060-split-gill.png",
+    "originalBytes": 1150554
   },
   {
     "id": "mushrooms-061-jelly-ear",
@@ -973,7 +1033,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "061-jelly-ear.png"
+    "filename": "061-jelly-ear.png",
+    "originalBytes": 1543139
   },
   {
     "id": "mushrooms-062-amber-jelly",
@@ -989,7 +1050,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "062-amber-jelly.png"
+    "filename": "062-amber-jelly.png",
+    "originalBytes": 1778643
   },
   {
     "id": "mushrooms-063-witches-butter",
@@ -1005,7 +1067,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "063-witches-butter.png"
+    "filename": "063-witches-butter.png",
+    "originalBytes": 2103984
   },
   {
     "id": "mushrooms-064-white-jelly",
@@ -1021,7 +1084,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "064-white-jelly.png"
+    "filename": "064-white-jelly.png",
+    "originalBytes": 1810939
   },
   {
     "id": "mushrooms-065-lions-mane",
@@ -1037,7 +1101,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "065-lions-mane.png"
+    "filename": "065-lions-mane.png",
+    "originalBytes": 1612246
   },
   {
     "id": "mushrooms-066-comb-tooth",
@@ -1053,7 +1118,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "066-comb-tooth.png"
+    "filename": "066-comb-tooth.png",
+    "originalBytes": 1394964
   },
   {
     "id": "mushrooms-067-resinous-polypore",
@@ -1069,7 +1135,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "067-resinous-polypore.png"
+    "filename": "067-resinous-polypore.png",
+    "originalBytes": 2313236
   },
   {
     "id": "mushrooms-068-mazegill",
@@ -1085,7 +1152,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "068-mazegill.png"
+    "filename": "068-mazegill.png",
+    "originalBytes": 2289164
   },
   {
     "id": "mushrooms-069-shaggy-bracket",
@@ -1101,7 +1169,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "069-shaggy-bracket.png"
+    "filename": "069-shaggy-bracket.png",
+    "originalBytes": 2643933
   },
   {
     "id": "mushrooms-070-black-foot-polypore",
@@ -1117,7 +1186,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "070-black-foot-polypore.png"
+    "filename": "070-black-foot-polypore.png",
+    "originalBytes": 1654588
   },
   {
     "id": "mushrooms-071-veiled-lady",
@@ -1133,7 +1203,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "071-veiled-lady.png"
+    "filename": "071-veiled-lady.png",
+    "originalBytes": 2022696
   },
   {
     "id": "mushrooms-072-yellow-veiled-lady",
@@ -1149,7 +1220,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "072-yellow-veiled-lady.png"
+    "filename": "072-yellow-veiled-lady.png",
+    "originalBytes": 2320516
   },
   {
     "id": "mushrooms-073-orange-veiled-lady",
@@ -1165,7 +1237,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "073-orange-veiled-lady.png"
+    "filename": "073-orange-veiled-lady.png",
+    "originalBytes": 2143103
   },
   {
     "id": "mushrooms-074-red-cage",
@@ -1181,7 +1254,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "074-red-cage.png"
+    "filename": "074-red-cage.png",
+    "originalBytes": 2328917
   },
   {
     "id": "mushrooms-075-basket-stinkhorn",
@@ -1197,7 +1271,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "075-basket-stinkhorn.png"
+    "filename": "075-basket-stinkhorn.png",
+    "originalBytes": 1593901
   },
   {
     "id": "mushrooms-076-column-stinkhorn",
@@ -1213,7 +1288,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "076-column-stinkhorn.png"
+    "filename": "076-column-stinkhorn.png",
+    "originalBytes": 2545387
   },
   {
     "id": "mushrooms-077-anemone-stinkhorn",
@@ -1229,7 +1305,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "077-anemone-stinkhorn.png"
+    "filename": "077-anemone-stinkhorn.png",
+    "originalBytes": 1454102
   },
   {
     "id": "mushrooms-078-octopus-stinkhorn",
@@ -1245,7 +1322,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "078-octopus-stinkhorn.png"
+    "filename": "078-octopus-stinkhorn.png",
+    "originalBytes": 1293634
   },
   {
     "id": "mushrooms-079-elegant-stinkhorn",
@@ -1261,7 +1339,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "079-elegant-stinkhorn.png"
+    "filename": "079-elegant-stinkhorn.png",
+    "originalBytes": 1707489
   },
   {
     "id": "mushrooms-080-pink-stinkhorn",
@@ -1277,7 +1356,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "080-pink-stinkhorn.png"
+    "filename": "080-pink-stinkhorn.png",
+    "originalBytes": 1567857
   },
   {
     "id": "mushrooms-081-bleeding-tooth",
@@ -1293,7 +1373,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "081-bleeding-tooth.png"
+    "filename": "081-bleeding-tooth.png",
+    "originalBytes": 1564869
   },
   {
     "id": "mushrooms-082-blue-pinkgill",
@@ -1309,7 +1390,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "082-blue-pinkgill.png"
+    "filename": "082-blue-pinkgill.png",
+    "originalBytes": 1266872
   },
   {
     "id": "mushrooms-083-green-parrot",
@@ -1325,7 +1407,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "083-green-parrot.png"
+    "filename": "083-green-parrot.png",
+    "originalBytes": 1789374
   },
   {
     "id": "mushrooms-084-scarlet-waxcap",
@@ -1341,7 +1424,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "084-scarlet-waxcap.png"
+    "filename": "084-scarlet-waxcap.png",
+    "originalBytes": 1074957
   },
   {
     "id": "mushrooms-085-golden-waxcap",
@@ -1357,7 +1441,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "085-golden-waxcap.png"
+    "filename": "085-golden-waxcap.png",
+    "originalBytes": 1671742
   },
   {
     "id": "mushrooms-086-pink-waxcap",
@@ -1373,7 +1458,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "086-pink-waxcap.png"
+    "filename": "086-pink-waxcap.png",
+    "originalBytes": 1089465
   },
   {
     "id": "mushrooms-087-luminous-bonnet",
@@ -1389,7 +1475,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "087-luminous-bonnet.png"
+    "filename": "087-luminous-bonnet.png",
+    "originalBytes": 1924559
   },
   {
     "id": "mushrooms-088-emerald-bonnet",
@@ -1405,7 +1492,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "088-emerald-bonnet.png"
+    "filename": "088-emerald-bonnet.png",
+    "originalBytes": 1457917
   },
   {
     "id": "mushrooms-089-violet-parachute",
@@ -1421,7 +1509,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "089-violet-parachute.png"
+    "filename": "089-violet-parachute.png",
+    "originalBytes": 1771226
   },
   {
     "id": "mushrooms-090-orange-pinwheel",
@@ -1437,7 +1526,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "090-orange-pinwheel.png"
+    "filename": "090-orange-pinwheel.png",
+    "originalBytes": 902731
   },
   {
     "id": "mushrooms-091-pink-pinwheel",
@@ -1453,7 +1543,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "091-pink-pinwheel.png"
+    "filename": "091-pink-pinwheel.png",
+    "originalBytes": 911096
   },
   {
     "id": "mushrooms-092-white-pinwheel",
@@ -1469,7 +1560,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "092-white-pinwheel.png"
+    "filename": "092-white-pinwheel.png",
+    "originalBytes": 602339
   },
   {
     "id": "mushrooms-093-ruby-cup",
@@ -1485,7 +1577,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "093-ruby-cup.png"
+    "filename": "093-ruby-cup.png",
+    "originalBytes": 1005981
   },
   {
     "id": "mushrooms-094-orange-peel",
@@ -1501,7 +1594,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "094-orange-peel.png"
+    "filename": "094-orange-peel.png",
+    "originalBytes": 1446311
   },
   {
     "id": "mushrooms-095-hairy-scarlet-cup",
@@ -1517,7 +1611,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "095-hairy-scarlet-cup.png"
+    "filename": "095-hairy-scarlet-cup.png",
+    "originalBytes": 1238373
   },
   {
     "id": "mushrooms-096-star-cup",
@@ -1533,7 +1628,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "096-star-cup.png"
+    "filename": "096-star-cup.png",
+    "originalBytes": 1606641
   },
   {
     "id": "mushrooms-097-violet-coral",
@@ -1549,7 +1645,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "097-violet-coral.png"
+    "filename": "097-violet-coral.png",
+    "originalBytes": 1715749
   },
   {
     "id": "mushrooms-098-golden-spindle",
@@ -1565,7 +1662,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "098-golden-spindle.png"
+    "filename": "098-golden-spindle.png",
+    "originalBytes": 1310019
   },
   {
     "id": "mushrooms-099-earthstar",
@@ -1581,7 +1679,8 @@
       "botanical",
       "realistic"
     ],
-    "filename": "099-earthstar.png"
+    "filename": "099-earthstar.png",
+    "originalBytes": 1576273
   },
   {
     "id": "mushrooms-100-stalked-puffball",
@@ -1597,6 +1696,7 @@
       "botanical",
       "realistic"
     ],
-    "filename": "100-stalked-puffball.png"
+    "filename": "100-stalked-puffball.png",
+    "originalBytes": 1579915
   }
 ]

@@ -8,7 +8,8 @@
     "title": "Ladybird",
     "description": "",
     "tags": [],
-    "filename": "001-ladybird.png"
+    "filename": "001-ladybird.png",
+    "originalBytes": 1150944
   },
   {
     "id": "insects-002-blue-morpho",
@@ -19,7 +20,8 @@
     "title": "Blue morpho",
     "description": "",
     "tags": [],
-    "filename": "002-blue-morpho.png"
+    "filename": "002-blue-morpho.png",
+    "originalBytes": 2225561
   },
   {
     "id": "insects-003-honey-bee",
@@ -30,7 +32,8 @@
     "title": "Honey bee",
     "description": "",
     "tags": [],
-    "filename": "003-honey-bee.png"
+    "filename": "003-honey-bee.png",
+    "originalBytes": 1468833
   },
   {
     "id": "insects-004-praying-mantis",
@@ -41,7 +44,8 @@
     "title": "Praying mantis",
     "description": "",
     "tags": [],
-    "filename": "004-praying-mantis.png"
+    "filename": "004-praying-mantis.png",
+    "originalBytes": 822653
   },
   {
     "id": "insects-005-dragonfly",
@@ -52,7 +56,8 @@
     "title": "Dragonfly",
     "description": "",
     "tags": [],
-    "filename": "005-dragonfly.png"
+    "filename": "005-dragonfly.png",
+    "originalBytes": 1273940
   },
   {
     "id": "insects-006-stag-beetle",
@@ -63,7 +68,8 @@
     "title": "Stag beetle",
     "description": "",
     "tags": [],
-    "filename": "006-stag-beetle.png"
+    "filename": "006-stag-beetle.png",
+    "originalBytes": 1071596
   },
   {
     "id": "insects-007-grasshopper",
@@ -74,7 +80,8 @@
     "title": "Grasshopper",
     "description": "",
     "tags": [],
-    "filename": "007-grasshopper.png"
+    "filename": "007-grasshopper.png",
+    "originalBytes": 930282
   },
   {
     "id": "insects-008-luna-moth",
@@ -85,7 +92,8 @@
     "title": "Luna moth",
     "description": "",
     "tags": [],
-    "filename": "008-luna-moth.png"
+    "filename": "008-luna-moth.png",
+    "originalBytes": 1506017
   },
   {
     "id": "insects-009-red-wood-ant",
@@ -96,7 +104,8 @@
     "title": "Red wood ant",
     "description": "",
     "tags": [],
-    "filename": "009-red-wood-ant.png"
+    "filename": "009-red-wood-ant.png",
+    "originalBytes": 667490
   },
   {
     "id": "insects-010-rose-chafer",
@@ -107,7 +116,8 @@
     "title": "Rose chafer",
     "description": "",
     "tags": [],
-    "filename": "010-rose-chafer.png"
+    "filename": "010-rose-chafer.png",
+    "originalBytes": 1361370
   },
   {
     "id": "insects-011-wasp",
@@ -118,7 +128,8 @@
     "title": "Wasp",
     "description": "",
     "tags": [],
-    "filename": "011-wasp.png"
+    "filename": "011-wasp.png",
+    "originalBytes": 915657
   },
   {
     "id": "insects-012-cicada",
@@ -129,7 +140,8 @@
     "title": "Cicada",
     "description": "",
     "tags": [],
-    "filename": "012-cicada.png"
+    "filename": "012-cicada.png",
+    "originalBytes": 1152561
   },
   {
     "id": "insects-013-monarch-butterfly",
@@ -140,7 +152,8 @@
     "title": "Monarch butterfly",
     "description": "",
     "tags": [],
-    "filename": "013-monarch-butterfly.png"
+    "filename": "013-monarch-butterfly.png",
+    "originalBytes": 1650495
   },
   {
     "id": "insects-014-rhinoceros-beetle",
@@ -151,7 +164,8 @@
     "title": "Rhinoceros beetle",
     "description": "",
     "tags": [],
-    "filename": "014-rhinoceros-beetle.png"
+    "filename": "014-rhinoceros-beetle.png",
+    "originalBytes": 1184421
   },
   {
     "id": "insects-015-bumblebee",
@@ -162,7 +176,8 @@
     "title": "Bumblebee",
     "description": "",
     "tags": [],
-    "filename": "015-bumblebee.png"
+    "filename": "015-bumblebee.png",
+    "originalBytes": 1312949
   },
   {
     "id": "insects-016-green-lacewing",
@@ -173,7 +188,8 @@
     "title": "Green lacewing",
     "description": "",
     "tags": [],
-    "filename": "016-green-lacewing.png"
+    "filename": "016-green-lacewing.png",
+    "originalBytes": 850170
   },
   {
     "id": "insects-017-green-shield-bug",
@@ -184,7 +200,8 @@
     "title": "Green shield bug",
     "description": "",
     "tags": [],
-    "filename": "017-green-shield-bug.png"
+    "filename": "017-green-shield-bug.png",
+    "originalBytes": 1097549
   },
   {
     "id": "insects-018-swallowtail",
@@ -195,7 +212,8 @@
     "title": "Swallowtail",
     "description": "",
     "tags": [],
-    "filename": "018-swallowtail.png"
+    "filename": "018-swallowtail.png",
+    "originalBytes": 1866385
   },
   {
     "id": "insects-019-field-cricket",
@@ -206,7 +224,8 @@
     "title": "Field cricket",
     "description": "",
     "tags": [],
-    "filename": "019-field-cricket.png"
+    "filename": "019-field-cricket.png",
+    "originalBytes": 844231
   },
   {
     "id": "insects-020-rosalia-longhorn",
@@ -217,7 +236,8 @@
     "title": "Rosalia longhorn",
     "description": "",
     "tags": [],
-    "filename": "020-rosalia-longhorn.png"
+    "filename": "020-rosalia-longhorn.png",
+    "originalBytes": 731179
   },
   {
     "id": "insects-021-stick-insect",
@@ -228,7 +248,8 @@
     "title": "Stick insect",
     "description": "",
     "tags": [],
-    "filename": "021-stick-insect.png"
+    "filename": "021-stick-insect.png",
+    "originalBytes": 390582
   },
   {
     "id": "insects-022-peacock-butterfly",
@@ -239,7 +260,8 @@
     "title": "Peacock butterfly",
     "description": "",
     "tags": [],
-    "filename": "022-peacock-butterfly.png"
+    "filename": "022-peacock-butterfly.png",
+    "originalBytes": 2026265
   },
   {
     "id": "insects-023-firebug",
@@ -250,7 +272,8 @@
     "title": "Firebug",
     "description": "",
     "tags": [],
-    "filename": "023-firebug.png"
+    "filename": "023-firebug.png",
+    "originalBytes": 931810
   },
   {
     "id": "insects-024-acorn-weevil",
@@ -261,7 +284,8 @@
     "title": "Acorn weevil",
     "description": "",
     "tags": [],
-    "filename": "024-acorn-weevil.png"
+    "filename": "024-acorn-weevil.png",
+    "originalBytes": 1090394
   },
   {
     "id": "insects-025-leaf-insect",
@@ -272,7 +296,8 @@
     "title": "Leaf insect",
     "description": "",
     "tags": [],
-    "filename": "025-leaf-insect.png"
+    "filename": "025-leaf-insect.png",
+    "originalBytes": 1215941
   },
   {
     "id": "insects-026-violet-ground-beetle",
@@ -283,7 +308,8 @@
     "title": "Violet ground beetle",
     "description": "",
     "tags": [],
-    "filename": "026-violet-ground-beetle.png"
+    "filename": "026-violet-ground-beetle.png",
+    "originalBytes": 911370
   },
   {
     "id": "insects-027-hoverfly",
@@ -294,7 +320,8 @@
     "title": "Hoverfly",
     "description": "",
     "tags": [],
-    "filename": "027-hoverfly.png"
+    "filename": "027-hoverfly.png",
+    "originalBytes": 968915
   },
   {
     "id": "insects-028-cabbage-white",
@@ -305,7 +332,8 @@
     "title": "Cabbage white",
     "description": "",
     "tags": [],
-    "filename": "028-cabbage-white.png"
+    "filename": "028-cabbage-white.png",
+    "originalBytes": 1826871
   },
   {
     "id": "insects-029-cockchafer",
@@ -316,7 +344,8 @@
     "title": "Cockchafer",
     "description": "",
     "tags": [],
-    "filename": "029-cockchafer.png"
+    "filename": "029-cockchafer.png",
+    "originalBytes": 1085126
   },
   {
     "id": "insects-030-demoiselle",
@@ -327,7 +356,8 @@
     "title": "Demoiselle",
     "description": "",
     "tags": [],
-    "filename": "030-demoiselle.png"
+    "filename": "030-demoiselle.png",
+    "originalBytes": 1057594
   },
   {
     "id": "insects-031-orchid-mantis",
@@ -338,7 +368,8 @@
     "title": "Orchid mantis",
     "description": "",
     "tags": [],
-    "filename": "031-orchid-mantis.png"
+    "filename": "031-orchid-mantis.png",
+    "originalBytes": 770898
   },
   {
     "id": "insects-032-goliath-beetle",
@@ -349,7 +380,8 @@
     "title": "Goliath beetle",
     "description": "",
     "tags": [],
-    "filename": "032-goliath-beetle.png"
+    "filename": "032-goliath-beetle.png",
+    "originalBytes": 1201893
   },
   {
     "id": "insects-033-brimstone-butterfly",
@@ -360,7 +392,8 @@
     "title": "Brimstone butterfly",
     "description": "",
     "tags": [],
-    "filename": "033-brimstone-butterfly.png"
+    "filename": "033-brimstone-butterfly.png",
+    "originalBytes": 1818725
   },
   {
     "id": "insects-034-diving-beetle",
@@ -371,7 +404,8 @@
     "title": "Diving beetle",
     "description": "",
     "tags": [],
-    "filename": "034-diving-beetle.png"
+    "filename": "034-diving-beetle.png",
+    "originalBytes": 889587
   },
   {
     "id": "insects-035-atlas-moth",
@@ -382,7 +416,8 @@
     "title": "Atlas moth",
     "description": "",
     "tags": [],
-    "filename": "035-atlas-moth.png"
+    "filename": "035-atlas-moth.png",
+    "originalBytes": 1742024
   },
   {
     "id": "insects-036-jewel-beetle",
@@ -393,7 +428,8 @@
     "title": "Jewel beetle",
     "description": "",
     "tags": [],
-    "filename": "036-jewel-beetle.png"
+    "filename": "036-jewel-beetle.png",
+    "originalBytes": 1108407
   },
   {
     "id": "insects-037-mole-cricket",
@@ -404,7 +440,8 @@
     "title": "Mole cricket",
     "description": "",
     "tags": [],
-    "filename": "037-mole-cricket.png"
+    "filename": "037-mole-cricket.png",
+    "originalBytes": 777761
   },
   {
     "id": "insects-038-red-admiral",
@@ -415,7 +452,8 @@
     "title": "Red admiral",
     "description": "",
     "tags": [],
-    "filename": "038-red-admiral.png"
+    "filename": "038-red-admiral.png",
+    "originalBytes": 1951682
   },
   {
     "id": "insects-039-eyed-click-beetle",
@@ -426,7 +464,8 @@
     "title": "Eyed click beetle",
     "description": "",
     "tags": [],
-    "filename": "039-eyed-click-beetle.png"
+    "filename": "039-eyed-click-beetle.png",
+    "originalBytes": 962813
   },
   {
     "id": "insects-040-european-hornet",
@@ -437,7 +476,8 @@
     "title": "European hornet",
     "description": "",
     "tags": [],
-    "filename": "040-european-hornet.png"
+    "filename": "040-european-hornet.png",
+    "originalBytes": 1118632
   },
   {
     "id": "insects-041-common-blue",
@@ -448,7 +488,8 @@
     "title": "Common blue",
     "description": "",
     "tags": [],
-    "filename": "041-common-blue.png"
+    "filename": "041-common-blue.png",
+    "originalBytes": 2096646
   },
   {
     "id": "insects-042-green-tiger-beetle",
@@ -459,7 +500,8 @@
     "title": "Green tiger beetle",
     "description": "",
     "tags": [],
-    "filename": "042-green-tiger-beetle.png"
+    "filename": "042-green-tiger-beetle.png",
+    "originalBytes": 900922
   },
   {
     "id": "insects-043-elephant-hawk-moth",
@@ -470,7 +512,8 @@
     "title": "Elephant hawk moth",
     "description": "",
     "tags": [],
-    "filename": "043-elephant-hawk-moth.png"
+    "filename": "043-elephant-hawk-moth.png",
+    "originalBytes": 1129930
   },
   {
     "id": "insects-044-earwig",
@@ -481,7 +524,8 @@
     "title": "Earwig",
     "description": "",
     "tags": [],
-    "filename": "044-earwig.png"
+    "filename": "044-earwig.png",
+    "originalBytes": 624524
   },
   {
     "id": "insects-045-carpenter-bee",
@@ -492,7 +536,8 @@
     "title": "Carpenter bee",
     "description": "",
     "tags": [],
-    "filename": "045-carpenter-bee.png"
+    "filename": "045-carpenter-bee.png",
+    "originalBytes": 1123754
   },
   {
     "id": "insects-046-zebra-longwing",
@@ -503,7 +548,8 @@
     "title": "Zebra longwing",
     "description": "",
     "tags": [],
-    "filename": "046-zebra-longwing.png"
+    "filename": "046-zebra-longwing.png",
+    "originalBytes": 995399
   },
   {
     "id": "insects-047-hercules-beetle",
@@ -514,7 +560,8 @@
     "title": "Hercules beetle",
     "description": "",
     "tags": [],
-    "filename": "047-hercules-beetle.png"
+    "filename": "047-hercules-beetle.png",
+    "originalBytes": 1042795
   },
   {
     "id": "insects-048-rhododendron-leafhopper",
@@ -525,7 +572,8 @@
     "title": "Rhododendron leafhopper",
     "description": "",
     "tags": [],
-    "filename": "048-rhododendron-leafhopper.png"
+    "filename": "048-rhododendron-leafhopper.png",
+    "originalBytes": 653215
   },
   {
     "id": "insects-049-rainbow-stag-beetle",
@@ -536,7 +584,8 @@
     "title": "Rainbow stag beetle",
     "description": "",
     "tags": [],
-    "filename": "049-rainbow-stag-beetle.png"
+    "filename": "049-rainbow-stag-beetle.png",
+    "originalBytes": 981983
   },
   {
     "id": "insects-050-glasswing-butterfly",
@@ -547,7 +596,8 @@
     "title": "Glasswing butterfly",
     "description": "",
     "tags": [],
-    "filename": "050-glasswing-butterfly.png"
+    "filename": "050-glasswing-butterfly.png",
+    "originalBytes": 1636319
   },
   {
     "id": "insects-051-mosquito",
@@ -558,7 +608,8 @@
     "title": "Mosquito",
     "description": "",
     "tags": [],
-    "filename": "051-mosquito.png"
+    "filename": "051-mosquito.png",
+    "originalBytes": 538751
   },
   {
     "id": "insects-052-scarlet-lily-beetle",
@@ -569,7 +620,8 @@
     "title": "Scarlet lily beetle",
     "description": "",
     "tags": [],
-    "filename": "052-scarlet-lily-beetle.png"
+    "filename": "052-scarlet-lily-beetle.png",
+    "originalBytes": 753278
   },
   {
     "id": "insects-053-rosy-maple-moth",
@@ -580,7 +632,8 @@
     "title": "Rosy maple moth",
     "description": "",
     "tags": [],
-    "filename": "053-rosy-maple-moth.png"
+    "filename": "053-rosy-maple-moth.png",
+    "originalBytes": 1353388
   },
   {
     "id": "insects-054-golden-tortoise-beetle",
@@ -591,7 +644,8 @@
     "title": "Golden tortoise beetle",
     "description": "",
     "tags": [],
-    "filename": "054-golden-tortoise-beetle.png"
+    "filename": "054-golden-tortoise-beetle.png",
+    "originalBytes": 1307869
   },
   {
     "id": "insects-055-lanternfly",
@@ -602,7 +656,8 @@
     "title": "Lanternfly",
     "description": "",
     "tags": [],
-    "filename": "055-lanternfly.png"
+    "filename": "055-lanternfly.png",
+    "originalBytes": 937515
   },
   {
     "id": "insects-056-colorado-potato-beetle",
@@ -613,7 +668,8 @@
     "title": "Colorado potato beetle",
     "description": "",
     "tags": [],
-    "filename": "056-colorado-potato-beetle.png"
+    "filename": "056-colorado-potato-beetle.png",
+    "originalBytes": 1007840
   },
   {
     "id": "insects-057-desert-locust",
@@ -624,7 +680,8 @@
     "title": "Desert locust",
     "description": "",
     "tags": [],
-    "filename": "057-desert-locust.png"
+    "filename": "057-desert-locust.png",
+    "originalBytes": 1235799
   },
   {
     "id": "insects-058-firefly",
@@ -635,7 +692,8 @@
     "title": "Firefly",
     "description": "",
     "tags": [],
-    "filename": "058-firefly.png"
+    "filename": "058-firefly.png",
+    "originalBytes": 681174
   },
   {
     "id": "insects-059-small-tortoiseshell",
@@ -646,7 +704,8 @@
     "title": "Small tortoiseshell",
     "description": "",
     "tags": [],
-    "filename": "059-small-tortoiseshell.png"
+    "filename": "059-small-tortoiseshell.png",
+    "originalBytes": 1816557
   },
   {
     "id": "insects-060-ghost-mantis",
@@ -657,7 +716,8 @@
     "title": "Ghost mantis",
     "description": "",
     "tags": [],
-    "filename": "060-ghost-mantis.png"
+    "filename": "060-ghost-mantis.png",
+    "originalBytes": 945282
   },
   {
     "id": "insects-061-green-birdwing",
@@ -668,7 +728,8 @@
     "title": "Green birdwing",
     "description": "",
     "tags": [],
-    "filename": "061-green-birdwing.png"
+    "filename": "061-green-birdwing.png",
+    "originalBytes": 1726505
   },
   {
     "id": "insects-062-giraffe-weevil",
@@ -679,7 +740,8 @@
     "title": "Giraffe weevil",
     "description": "",
     "tags": [],
-    "filename": "062-giraffe-weevil.png"
+    "filename": "062-giraffe-weevil.png",
+    "originalBytes": 538431
   },
   {
     "id": "insects-063-apollo-butterfly",
@@ -690,7 +752,8 @@
     "title": "Apollo butterfly",
     "description": "",
     "tags": [],
-    "filename": "063-apollo-butterfly.png"
+    "filename": "063-apollo-butterfly.png",
+    "originalBytes": 2151177
   },
   {
     "id": "insects-064-blue-bottle-fly",
@@ -701,7 +764,8 @@
     "title": "Blue bottle fly",
     "description": "",
     "tags": [],
-    "filename": "064-blue-bottle-fly.png"
+    "filename": "064-blue-bottle-fly.png",
+    "originalBytes": 1221061
   },
   {
     "id": "insects-065-owl-butterfly",
@@ -712,7 +776,8 @@
     "title": "Owl butterfly",
     "description": "",
     "tags": [],
-    "filename": "065-owl-butterfly.png"
+    "filename": "065-owl-butterfly.png",
+    "originalBytes": 1910159
   },
   {
     "id": "insects-066-dung-beetle",
@@ -723,7 +788,8 @@
     "title": "Dung beetle",
     "description": "",
     "tags": [],
-    "filename": "066-dung-beetle.png"
+    "filename": "066-dung-beetle.png",
+    "originalBytes": 1336256
   },
   {
     "id": "insects-067-madagascan-sunset-moth",
@@ -734,7 +800,8 @@
     "title": "Madagascan sunset moth",
     "description": "",
     "tags": [],
-    "filename": "067-madagascan-sunset-moth.png"
+    "filename": "067-madagascan-sunset-moth.png",
+    "originalBytes": 2089265
   },
   {
     "id": "insects-068-water-strider",
@@ -745,7 +812,8 @@
     "title": "Water strider",
     "description": "",
     "tags": [],
-    "filename": "068-water-strider.png"
+    "filename": "068-water-strider.png",
+    "originalBytes": 357575
   },
   {
     "id": "insects-069-harlequin-beetle",
@@ -756,7 +824,8 @@
     "title": "Harlequin beetle",
     "description": "",
     "tags": [],
-    "filename": "069-harlequin-beetle.png"
+    "filename": "069-harlequin-beetle.png",
+    "originalBytes": 975591
   },
   {
     "id": "insects-070-comet-moth",
@@ -767,7 +836,8 @@
     "title": "Comet moth",
     "description": "",
     "tags": [],
-    "filename": "070-comet-moth.png"
+    "filename": "070-comet-moth.png",
+    "originalBytes": 1256349
   },
   {
     "id": "insects-071-weaver-ant",
@@ -778,7 +848,8 @@
     "title": "Weaver ant",
     "description": "",
     "tags": [],
-    "filename": "071-weaver-ant.png"
+    "filename": "071-weaver-ant.png",
+    "originalBytes": 625968
   },
   {
     "id": "insects-072-cuckoo-wasp",
@@ -789,7 +860,8 @@
     "title": "Cuckoo wasp",
     "description": "",
     "tags": [],
-    "filename": "072-cuckoo-wasp.png"
+    "filename": "072-cuckoo-wasp.png",
+    "originalBytes": 1102219
   },
   {
     "id": "insects-073-scarce-swallowtail",
@@ -800,7 +872,8 @@
     "title": "Scarce swallowtail",
     "description": "",
     "tags": [],
-    "filename": "073-scarce-swallowtail.png"
+    "filename": "073-scarce-swallowtail.png",
+    "originalBytes": 1667221
   },
   {
     "id": "insects-074-female-stag-beetle",
@@ -811,7 +884,8 @@
     "title": "Female stag beetle",
     "description": "",
     "tags": [],
-    "filename": "074-female-stag-beetle.png"
+    "filename": "074-female-stag-beetle.png",
+    "originalBytes": 1094301
   },
   {
     "id": "insects-075-red-mason-bee",
@@ -822,7 +896,8 @@
     "title": "Red mason bee",
     "description": "",
     "tags": [],
-    "filename": "075-red-mason-bee.png"
+    "filename": "075-red-mason-bee.png",
+    "originalBytes": 1082318
   },
   {
     "id": "insects-076-spotted-lanternfly",
@@ -833,7 +908,8 @@
     "title": "Spotted lanternfly",
     "description": "",
     "tags": [],
-    "filename": "076-spotted-lanternfly.png"
+    "filename": "076-spotted-lanternfly.png",
+    "originalBytes": 1322819
   },
   {
     "id": "insects-077-red-soldier-beetle",
@@ -844,7 +920,8 @@
     "title": "Red soldier beetle",
     "description": "",
     "tags": [],
-    "filename": "077-red-soldier-beetle.png"
+    "filename": "077-red-soldier-beetle.png",
+    "originalBytes": 720359
   },
   {
     "id": "insects-078-six-spot-burnet",
@@ -855,7 +932,8 @@
     "title": "Six spot burnet",
     "description": "",
     "tags": [],
-    "filename": "078-six-spot-burnet.png"
+    "filename": "078-six-spot-burnet.png",
+    "originalBytes": 1489872
   },
   {
     "id": "insects-079-katydid",
@@ -866,7 +944,8 @@
     "title": "Katydid",
     "description": "",
     "tags": [],
-    "filename": "079-katydid.png"
+    "filename": "079-katydid.png",
+    "originalBytes": 703117
   },
   {
     "id": "insects-080-mourning-cloak",
@@ -877,7 +956,8 @@
     "title": "Mourning cloak",
     "description": "",
     "tags": [],
-    "filename": "080-mourning-cloak.png"
+    "filename": "080-mourning-cloak.png",
+    "originalBytes": 1860067
   },
   {
     "id": "insects-081-carpenter-ant",
@@ -888,7 +968,8 @@
     "title": "Carpenter ant",
     "description": "",
     "tags": [],
-    "filename": "081-carpenter-ant.png"
+    "filename": "081-carpenter-ant.png",
+    "originalBytes": 829690
   },
   {
     "id": "insects-082-scarlet-darter",
@@ -899,7 +980,8 @@
     "title": "Scarlet darter",
     "description": "",
     "tags": [],
-    "filename": "082-scarlet-darter.png"
+    "filename": "082-scarlet-darter.png",
+    "originalBytes": 1268318
   },
   {
     "id": "insects-083-painted-lady",
@@ -910,7 +992,8 @@
     "title": "Painted lady",
     "description": "",
     "tags": [],
-    "filename": "083-painted-lady.png"
+    "filename": "083-painted-lady.png",
+    "originalBytes": 1999770
   },
   {
     "id": "insects-084-blue-banded-bee",
@@ -921,7 +1004,8 @@
     "title": "Blue banded bee",
     "description": "",
     "tags": [],
-    "filename": "084-blue-banded-bee.png"
+    "filename": "084-blue-banded-bee.png",
+    "originalBytes": 1348038
   },
   {
     "id": "insects-085-burying-beetle",
@@ -932,7 +1016,8 @@
     "title": "Burying beetle",
     "description": "",
     "tags": [],
-    "filename": "085-burying-beetle.png"
+    "filename": "085-burying-beetle.png",
+    "originalBytes": 1163841
   },
   {
     "id": "insects-086-orange-tip",
@@ -943,7 +1028,8 @@
     "title": "Orange tip",
     "description": "",
     "tags": [],
-    "filename": "086-orange-tip.png"
+    "filename": "086-orange-tip.png",
+    "originalBytes": 1575768
   },
   {
     "id": "insects-087-thorn-treehopper",
@@ -954,7 +1040,8 @@
     "title": "Thorn treehopper",
     "description": "",
     "tags": [],
-    "filename": "087-thorn-treehopper.png"
+    "filename": "087-thorn-treehopper.png",
+    "originalBytes": 1119008
   },
   {
     "id": "insects-088-cecropia-moth",
@@ -965,7 +1052,8 @@
     "title": "Cecropia moth",
     "description": "",
     "tags": [],
-    "filename": "088-cecropia-moth.png"
+    "filename": "088-cecropia-moth.png",
+    "originalBytes": 2263031
   },
   {
     "id": "insects-089-bee-fly",
@@ -976,7 +1064,8 @@
     "title": "Bee fly",
     "description": "",
     "tags": [],
-    "filename": "089-bee-fly.png"
+    "filename": "089-bee-fly.png",
+    "originalBytes": 1029217
   },
   {
     "id": "insects-090-striped-shield-bug",
@@ -987,7 +1076,8 @@
     "title": "Striped shield bug",
     "description": "",
     "tags": [],
-    "filename": "090-striped-shield-bug.png"
+    "filename": "090-striped-shield-bug.png",
+    "originalBytes": 1193680
   },
   {
     "id": "insects-091-mayfly",
@@ -998,7 +1088,8 @@
     "title": "Mayfly",
     "description": "",
     "tags": [],
-    "filename": "091-mayfly.png"
+    "filename": "091-mayfly.png",
+    "originalBytes": 765136
   },
   {
     "id": "insects-092-bombardier-beetle",
@@ -1009,7 +1100,8 @@
     "title": "Bombardier beetle",
     "description": "",
     "tags": [],
-    "filename": "092-bombardier-beetle.png"
+    "filename": "092-bombardier-beetle.png",
+    "originalBytes": 829431
   },
   {
     "id": "insects-093-southern-festoon",
@@ -1020,7 +1112,8 @@
     "title": "Southern festoon",
     "description": "",
     "tags": [],
-    "filename": "093-southern-festoon.png"
+    "filename": "093-southern-festoon.png",
+    "originalBytes": 2234121
   },
   {
     "id": "insects-094-orchid-bee",
@@ -1031,7 +1124,8 @@
     "title": "Orchid bee",
     "description": "",
     "tags": [],
-    "filename": "094-orchid-bee.png"
+    "filename": "094-orchid-bee.png",
+    "originalBytes": 1160863
   },
   {
     "id": "insects-095-polyphemus-moth",
@@ -1042,7 +1136,8 @@
     "title": "Polyphemus moth",
     "description": "",
     "tags": [],
-    "filename": "095-polyphemus-moth.png"
+    "filename": "095-polyphemus-moth.png",
+    "originalBytes": 2142497
   },
   {
     "id": "insects-096-blue-tailed-damselfly",
@@ -1053,7 +1148,8 @@
     "title": "Blue tailed damselfly",
     "description": "",
     "tags": [],
-    "filename": "096-blue-tailed-damselfly.png"
+    "filename": "096-blue-tailed-damselfly.png",
+    "originalBytes": 655448
   },
   {
     "id": "insects-097-rove-beetle",
@@ -1064,7 +1160,8 @@
     "title": "Rove beetle",
     "description": "",
     "tags": [],
-    "filename": "097-rove-beetle.png"
+    "filename": "097-rove-beetle.png",
+    "originalBytes": 892781
   },
   {
     "id": "insects-098-tiger-swallowtail",
@@ -1075,7 +1172,8 @@
     "title": "Tiger swallowtail",
     "description": "",
     "tags": [],
-    "filename": "098-tiger-swallowtail.png"
+    "filename": "098-tiger-swallowtail.png",
+    "originalBytes": 1886571
   },
   {
     "id": "insects-099-german-cockroach",
@@ -1086,7 +1184,8 @@
     "title": "German cockroach",
     "description": "",
     "tags": [],
-    "filename": "099-german-cockroach.png"
+    "filename": "099-german-cockroach.png",
+    "originalBytes": 674687
   },
   {
     "id": "insects-100-purple-emperor",
@@ -1097,7 +1196,8 @@
     "title": "Purple emperor",
     "description": "",
     "tags": [],
-    "filename": "100-purple-emperor.png"
+    "filename": "100-purple-emperor.png",
+    "originalBytes": 2079843
   },
   {
     "id": "insects-101-scorpionfly",
@@ -1108,7 +1208,8 @@
     "title": "Scorpionfly",
     "description": "",
     "tags": [],
-    "filename": "101-scorpionfly.png"
+    "filename": "101-scorpionfly.png",
+    "originalBytes": 930021
   },
   {
     "id": "insects-102-peppered-moth",
@@ -1119,7 +1220,8 @@
     "title": "Peppered moth",
     "description": "",
     "tags": [],
-    "filename": "102-peppered-moth.png"
+    "filename": "102-peppered-moth.png",
+    "originalBytes": 1694122
   },
   {
     "id": "insects-103-robber-fly",
@@ -1130,7 +1232,8 @@
     "title": "Robber fly",
     "description": "",
     "tags": [],
-    "filename": "103-robber-fly.png"
+    "filename": "103-robber-fly.png",
+    "originalBytes": 1164911
   },
   {
     "id": "insects-104-japanese-beetle",
@@ -1141,7 +1244,8 @@
     "title": "Japanese beetle",
     "description": "",
     "tags": [],
-    "filename": "104-japanese-beetle.png"
+    "filename": "104-japanese-beetle.png",
+    "originalBytes": 1033595
   },
   {
     "id": "insects-105-hummingbird-hawk-moth",
@@ -1152,7 +1256,8 @@
     "title": "Hummingbird hawk moth",
     "description": "",
     "tags": [],
-    "filename": "105-hummingbird-hawk-moth.png"
+    "filename": "105-hummingbird-hawk-moth.png",
+    "originalBytes": 1136914
   },
   {
     "id": "insects-106-giant-water-bug",
@@ -1163,7 +1268,8 @@
     "title": "Giant water bug",
     "description": "",
     "tags": [],
-    "filename": "106-giant-water-bug.png"
+    "filename": "106-giant-water-bug.png",
+    "originalBytes": 1538343
   },
   {
     "id": "insects-107-garden-tiger-moth",
@@ -1174,7 +1280,8 @@
     "title": "Garden tiger moth",
     "description": "",
     "tags": [],
-    "filename": "107-garden-tiger-moth.png"
+    "filename": "107-garden-tiger-moth.png",
+    "originalBytes": 1725680
   },
   {
     "id": "insects-108-leafcutter-ant",
@@ -1185,7 +1292,8 @@
     "title": "Leafcutter ant",
     "description": "",
     "tags": [],
-    "filename": "108-leafcutter-ant.png"
+    "filename": "108-leafcutter-ant.png",
+    "originalBytes": 824378
   },
   {
     "id": "insects-109-silverfish",
@@ -1196,7 +1304,8 @@
     "title": "Silverfish",
     "description": "",
     "tags": [],
-    "filename": "109-silverfish.png"
+    "filename": "109-silverfish.png",
+    "originalBytes": 536893
   },
   {
     "id": "insects-110-paper-kite",
@@ -1207,7 +1316,8 @@
     "title": "Paper kite",
     "description": "",
     "tags": [],
-    "filename": "110-paper-kite.png"
+    "filename": "110-paper-kite.png",
+    "originalBytes": 1827108
   },
   {
     "id": "insects-111-antlion",
@@ -1218,7 +1328,8 @@
     "title": "Antlion",
     "description": "",
     "tags": [],
-    "filename": "111-antlion.png"
+    "filename": "111-antlion.png",
+    "originalBytes": 1396389
   },
   {
     "id": "insects-112-violet-oil-beetle",
@@ -1229,7 +1340,8 @@
     "title": "Violet oil beetle",
     "description": "",
     "tags": [],
-    "filename": "112-violet-oil-beetle.png"
+    "filename": "112-violet-oil-beetle.png",
+    "originalBytes": 1198252
   },
   {
     "id": "insects-113-mud-dauber",
@@ -1240,7 +1352,8 @@
     "title": "Mud dauber",
     "description": "",
     "tags": [],
-    "filename": "113-mud-dauber.png"
+    "filename": "113-mud-dauber.png",
+    "originalBytes": 842468
   },
   {
     "id": "insects-114-io-moth",
@@ -1251,7 +1364,8 @@
     "title": "Io moth",
     "description": "",
     "tags": [],
-    "filename": "114-io-moth.png"
+    "filename": "114-io-moth.png",
+    "originalBytes": 1833721
   },
   {
     "id": "insects-115-soldier-termite",
@@ -1262,7 +1376,8 @@
     "title": "Soldier termite",
     "description": "",
     "tags": [],
-    "filename": "115-soldier-termite.png"
+    "filename": "115-soldier-termite.png",
+    "originalBytes": 664633
   },
   {
     "id": "insects-116-red-black-froghopper",
@@ -1273,7 +1388,8 @@
     "title": "Red black froghopper",
     "description": "",
     "tags": [],
-    "filename": "116-red-black-froghopper.png"
+    "filename": "116-red-black-froghopper.png",
+    "originalBytes": 974456
   },
   {
     "id": "insects-117-dead-leaf-mantis",
@@ -1284,7 +1400,8 @@
     "title": "Dead leaf mantis",
     "description": "",
     "tags": [],
-    "filename": "117-dead-leaf-mantis.png"
+    "filename": "117-dead-leaf-mantis.png",
+    "originalBytes": 1062908
   },
   {
     "id": "insects-118-wheel-bug",
@@ -1295,7 +1412,8 @@
     "title": "Wheel bug",
     "description": "",
     "tags": [],
-    "filename": "118-wheel-bug.png"
+    "filename": "118-wheel-bug.png",
+    "originalBytes": 944757
   },
   {
     "id": "insects-119-red-tailed-bumblebee",
@@ -1306,7 +1424,8 @@
     "title": "Red tailed bumblebee",
     "description": "",
     "tags": [],
-    "filename": "119-red-tailed-bumblebee.png"
+    "filename": "119-red-tailed-bumblebee.png",
+    "originalBytes": 1471094
   },
   {
     "id": "insects-120-caddisfly",
@@ -1317,7 +1436,8 @@
     "title": "Caddisfly",
     "description": "",
     "tags": [],
-    "filename": "120-caddisfly.png"
+    "filename": "120-caddisfly.png",
+    "originalBytes": 595329
   },
   {
     "id": "insects-121-green-hairstreak",
@@ -1328,7 +1448,8 @@
     "title": "Green hairstreak",
     "description": "",
     "tags": [],
-    "filename": "121-green-hairstreak.png"
+    "filename": "121-green-hairstreak.png",
+    "originalBytes": 1591357
   },
   {
     "id": "insects-122-owlfly",
@@ -1339,7 +1460,8 @@
     "title": "Owlfly",
     "description": "",
     "tags": [],
-    "filename": "122-owlfly.png"
+    "filename": "122-owlfly.png",
+    "originalBytes": 1394187
   },
   {
     "id": "insects-123-red-palm-weevil",
@@ -1350,7 +1472,8 @@
     "title": "Red palm weevil",
     "description": "",
     "tags": [],
-    "filename": "123-red-palm-weevil.png"
+    "filename": "123-red-palm-weevil.png",
+    "originalBytes": 1102718
   },
   {
     "id": "insects-124-oakleaf-butterfly",
@@ -1361,7 +1484,8 @@
     "title": "Oakleaf butterfly",
     "description": "",
     "tags": [],
-    "filename": "124-oakleaf-butterfly.png"
+    "filename": "124-oakleaf-butterfly.png",
+    "originalBytes": 1461651
   },
   {
     "id": "insects-125-housefly",
@@ -1372,7 +1496,8 @@
     "title": "Housefly",
     "description": "",
     "tags": [],
-    "filename": "125-housefly.png"
+    "filename": "125-housefly.png",
+    "originalBytes": 1263110
   },
   {
     "id": "insects-126-wasp-beetle",
@@ -1383,7 +1508,8 @@
     "title": "Wasp beetle",
     "description": "",
     "tags": [],
-    "filename": "126-wasp-beetle.png"
+    "filename": "126-wasp-beetle.png",
+    "originalBytes": 919564
   },
   {
     "id": "insects-127-lace-bug",
@@ -1394,7 +1520,8 @@
     "title": "Lace bug",
     "description": "",
     "tags": [],
-    "filename": "127-lace-bug.png"
+    "filename": "127-lace-bug.png",
+    "originalBytes": 1178305
   },
   {
     "id": "insects-128-emperor-dragonfly",
@@ -1405,7 +1532,8 @@
     "title": "Emperor dragonfly",
     "description": "",
     "tags": [],
-    "filename": "128-emperor-dragonfly.png"
+    "filename": "128-emperor-dragonfly.png",
+    "originalBytes": 1134296
   },
   {
     "id": "insects-129-blue-weevil",
@@ -1416,7 +1544,8 @@
     "title": "Blue weevil",
     "description": "",
     "tags": [],
-    "filename": "129-blue-weevil.png"
+    "filename": "129-blue-weevil.png",
+    "originalBytes": 1205514
   },
   {
     "id": "insects-130-large-emerald-moth",
@@ -1427,7 +1556,8 @@
     "title": "Large emerald moth",
     "description": "",
     "tags": [],
-    "filename": "130-large-emerald-moth.png"
+    "filename": "130-large-emerald-moth.png",
+    "originalBytes": 2133801
   },
   {
     "id": "insects-131-diving-beetle-flight",
@@ -1438,7 +1568,8 @@
     "title": "Diving beetle flight",
     "description": "",
     "tags": [],
-    "filename": "131-diving-beetle-flight.png"
+    "filename": "131-diving-beetle-flight.png",
+    "originalBytes": 1442265
   },
   {
     "id": "insects-132-red-postman",
@@ -1449,7 +1580,8 @@
     "title": "Red postman",
     "description": "",
     "tags": [],
-    "filename": "132-red-postman.png"
+    "filename": "132-red-postman.png",
+    "originalBytes": 1308573
   },
   {
     "id": "insects-133-buffalo-treehopper",
@@ -1460,7 +1592,8 @@
     "title": "Buffalo treehopper",
     "description": "",
     "tags": [],
-    "filename": "133-buffalo-treehopper.png"
+    "filename": "133-buffalo-treehopper.png",
+    "originalBytes": 1085592
   },
   {
     "id": "insects-134-small-copper",
@@ -1471,7 +1604,8 @@
     "title": "Small copper",
     "description": "",
     "tags": [],
-    "filename": "134-small-copper.png"
+    "filename": "134-small-copper.png",
+    "originalBytes": 2057166
   },
   {
     "id": "insects-135-stonefly",
@@ -1482,7 +1616,8 @@
     "title": "Stonefly",
     "description": "",
     "tags": [],
-    "filename": "135-stonefly.png"
+    "filename": "135-stonefly.png",
+    "originalBytes": 652343
   },
   {
     "id": "insects-136-atlas-beetle",
@@ -1493,7 +1628,8 @@
     "title": "Atlas beetle",
     "description": "",
     "tags": [],
-    "filename": "136-atlas-beetle.png"
+    "filename": "136-atlas-beetle.png",
+    "originalBytes": 1133282
   },
   {
     "id": "insects-137-deaths-head-hawkmoth",
@@ -1504,7 +1640,8 @@
     "title": "Deaths head hawkmoth",
     "description": "",
     "tags": [],
-    "filename": "137-deaths-head-hawkmoth.png"
+    "filename": "137-deaths-head-hawkmoth.png",
+    "originalBytes": 1474963
   },
   {
     "id": "insects-138-water-scorpion",
@@ -1515,7 +1652,8 @@
     "title": "Water scorpion",
     "description": "",
     "tags": [],
-    "filename": "138-water-scorpion.png"
+    "filename": "138-water-scorpion.png",
+    "originalBytes": 770554
   },
   {
     "id": "insects-139-rosemary-beetle",
@@ -1526,7 +1664,8 @@
     "title": "Rosemary beetle",
     "description": "",
     "tags": [],
-    "filename": "139-rosemary-beetle.png"
+    "filename": "139-rosemary-beetle.png",
+    "originalBytes": 1146898
   },
   {
     "id": "insects-140-crane-fly",
@@ -1537,7 +1676,8 @@
     "title": "Crane fly",
     "description": "",
     "tags": [],
-    "filename": "140-crane-fly.png"
+    "filename": "140-crane-fly.png",
+    "originalBytes": 512294
   },
   {
     "id": "insects-141-emerald-swallowtail",
@@ -1548,7 +1688,8 @@
     "title": "Emerald swallowtail",
     "description": "",
     "tags": [],
-    "filename": "141-emerald-swallowtail.png"
+    "filename": "141-emerald-swallowtail.png",
+    "originalBytes": 2003084
   },
   {
     "id": "insects-142-red-velvet-ant",
@@ -1559,7 +1700,8 @@
     "title": "Red velvet ant",
     "description": "",
     "tags": [],
-    "filename": "142-red-velvet-ant.png"
+    "filename": "142-red-velvet-ant.png",
+    "originalBytes": 1156392
   },
   {
     "id": "insects-143-giant-weta",
@@ -1570,7 +1712,8 @@
     "title": "Giant weta",
     "description": "",
     "tags": [],
-    "filename": "143-giant-weta.png"
+    "filename": "143-giant-weta.png",
+    "originalBytes": 883688
   },
   {
     "id": "insects-144-giant-leopard-moth",
@@ -1581,7 +1724,8 @@
     "title": "Giant leopard moth",
     "description": "",
     "tags": [],
-    "filename": "144-giant-leopard-moth.png"
+    "filename": "144-giant-leopard-moth.png",
+    "originalBytes": 1788588
   },
   {
     "id": "insects-145-periodical-cicada",
@@ -1592,7 +1736,8 @@
     "title": "Periodical cicada",
     "description": "",
     "tags": [],
-    "filename": "145-periodical-cicada.png"
+    "filename": "145-periodical-cicada.png",
+    "originalBytes": 1134687
   },
   {
     "id": "insects-146-yellow-ladybird",
@@ -1603,7 +1748,8 @@
     "title": "Yellow ladybird",
     "description": "",
     "tags": [],
-    "filename": "146-yellow-ladybird.png"
+    "filename": "146-yellow-ladybird.png",
+    "originalBytes": 1025526
   },
   {
     "id": "insects-147-emerald-wasp",
@@ -1614,7 +1760,8 @@
     "title": "Emerald wasp",
     "description": "",
     "tags": [],
-    "filename": "147-emerald-wasp.png"
+    "filename": "147-emerald-wasp.png",
+    "originalBytes": 913583
   },
   {
     "id": "insects-148-ulysses-butterfly",
@@ -1625,7 +1772,8 @@
     "title": "Ulysses butterfly",
     "description": "",
     "tags": [],
-    "filename": "148-ulysses-butterfly.png"
+    "filename": "148-ulysses-butterfly.png",
+    "originalBytes": 1823129
   },
   {
     "id": "insects-149-grapevine-beetle",
@@ -1636,7 +1784,8 @@
     "title": "Grapevine beetle",
     "description": "",
     "tags": [],
-    "filename": "149-grapevine-beetle.png"
+    "filename": "149-grapevine-beetle.png",
+    "originalBytes": 1222041
   },
   {
     "id": "insects-150-chinese-moon-moth",
@@ -1647,7 +1796,8 @@
     "title": "Chinese moon moth",
     "description": "",
     "tags": [],
-    "filename": "150-chinese-moon-moth.png"
+    "filename": "150-chinese-moon-moth.png",
+    "originalBytes": 1267204
   },
   {
     "id": "insects-151-red-click-beetle",
@@ -1658,7 +1808,8 @@
     "title": "Red click beetle",
     "description": "",
     "tags": [],
-    "filename": "151-red-click-beetle.png"
+    "filename": "151-red-click-beetle.png",
+    "originalBytes": 969363
   },
   {
     "id": "insects-152-spiny-flower-mantis",
@@ -1669,7 +1820,8 @@
     "title": "Spiny flower mantis",
     "description": "",
     "tags": [],
-    "filename": "152-spiny-flower-mantis.png"
+    "filename": "152-spiny-flower-mantis.png",
+    "originalBytes": 962369
   },
   {
     "id": "insects-153-clouded-yellow",
@@ -1680,7 +1832,8 @@
     "title": "Clouded yellow",
     "description": "",
     "tags": [],
-    "filename": "153-clouded-yellow.png"
+    "filename": "153-clouded-yellow.png",
+    "originalBytes": 1997130
   },
   {
     "id": "insects-154-horsefly",
@@ -1691,7 +1844,8 @@
     "title": "Horsefly",
     "description": "",
     "tags": [],
-    "filename": "154-horsefly.png"
+    "filename": "154-horsefly.png",
+    "originalBytes": 1438054
   },
   {
     "id": "insects-155-conifer-seed-bug",
@@ -1702,7 +1856,8 @@
     "title": "Conifer seed bug",
     "description": "",
     "tags": [],
-    "filename": "155-conifer-seed-bug.png"
+    "filename": "155-conifer-seed-bug.png",
+    "originalBytes": 828389
   },
   {
     "id": "insects-156-white-admiral",
@@ -1713,7 +1868,8 @@
     "title": "White admiral",
     "description": "",
     "tags": [],
-    "filename": "156-white-admiral.png"
+    "filename": "156-white-admiral.png",
+    "originalBytes": 2091037
   },
   {
     "id": "insects-157-flea",
@@ -1724,7 +1880,8 @@
     "title": "Flea",
     "description": "",
     "tags": [],
-    "filename": "157-flea.png"
+    "filename": "157-flea.png",
+    "originalBytes": 1576011
   },
   {
     "id": "insects-158-giant-peacock-moth",
@@ -1735,7 +1892,8 @@
     "title": "Giant peacock moth",
     "description": "",
     "tags": [],
-    "filename": "158-giant-peacock-moth.png"
+    "filename": "158-giant-peacock-moth.png",
+    "originalBytes": 2154336
   },
   {
     "id": "insects-159-mantidfly",
@@ -1746,7 +1904,8 @@
     "title": "Mantidfly",
     "description": "",
     "tags": [],
-    "filename": "159-mantidfly.png"
+    "filename": "159-mantidfly.png",
+    "originalBytes": 993946
   },
   {
     "id": "insects-160-carder-bumblebee",
@@ -1757,7 +1916,8 @@
     "title": "Carder bumblebee",
     "description": "",
     "tags": [],
-    "filename": "160-carder-bumblebee.png"
+    "filename": "160-carder-bumblebee.png",
+    "originalBytes": 1434612
   },
   {
     "id": "insects-161-pink-planthopper",
@@ -1768,7 +1928,8 @@
     "title": "Pink planthopper",
     "description": "",
     "tags": [],
-    "filename": "161-pink-planthopper.png"
+    "filename": "161-pink-planthopper.png",
+    "originalBytes": 1190547
   },
   {
     "id": "insects-162-blue-mint-beetle",
@@ -1779,7 +1940,8 @@
     "title": "Blue mint beetle",
     "description": "",
     "tags": [],
-    "filename": "162-blue-mint-beetle.png"
+    "filename": "162-blue-mint-beetle.png",
+    "originalBytes": 1277547
   },
   {
     "id": "insects-163-stalk-eyed-fly",
@@ -1790,7 +1952,8 @@
     "title": "Stalk eyed fly",
     "description": "",
     "tags": [],
-    "filename": "163-stalk-eyed-fly.png"
+    "filename": "163-stalk-eyed-fly.png",
+    "originalBytes": 728481
   },
   {
     "id": "insects-164-malachite-butterfly",
@@ -1801,7 +1964,8 @@
     "title": "Malachite butterfly",
     "description": "",
     "tags": [],
-    "filename": "164-malachite-butterfly.png"
+    "filename": "164-malachite-butterfly.png",
+    "originalBytes": 1810423
   },
   {
     "id": "insects-165-cardinal-beetle",
@@ -1812,7 +1976,8 @@
     "title": "Cardinal beetle",
     "description": "",
     "tags": [],
-    "filename": "165-cardinal-beetle.png"
+    "filename": "165-cardinal-beetle.png",
+    "originalBytes": 879746
   },
   {
     "id": "insects-166-oleander-hawkmoth",
@@ -1823,7 +1988,8 @@
     "title": "Oleander hawkmoth",
     "description": "",
     "tags": [],
-    "filename": "166-oleander-hawkmoth.png"
+    "filename": "166-oleander-hawkmoth.png",
+    "originalBytes": 1346487
   },
   {
     "id": "insects-167-snakefly",
@@ -1834,7 +2000,8 @@
     "title": "Snakefly",
     "description": "",
     "tags": [],
-    "filename": "167-snakefly.png"
+    "filename": "167-snakefly.png",
+    "originalBytes": 742578
   },
   {
     "id": "insects-168-jewel-bug",
@@ -1845,7 +2012,8 @@
     "title": "Jewel bug",
     "description": "",
     "tags": [],
-    "filename": "168-jewel-bug.png"
+    "filename": "168-jewel-bug.png",
+    "originalBytes": 1045667
   },
   {
     "id": "insects-169-leafcutter-bee",
@@ -1856,7 +2024,8 @@
     "title": "Leafcutter bee",
     "description": "",
     "tags": [],
-    "filename": "169-leafcutter-bee.png"
+    "filename": "169-leafcutter-bee.png",
+    "originalBytes": 1386801
   },
   {
     "id": "insects-170-marbled-white",
@@ -1867,7 +2036,8 @@
     "title": "Marbled white",
     "description": "",
     "tags": [],
-    "filename": "170-marbled-white.png"
+    "filename": "170-marbled-white.png",
+    "originalBytes": 2016804
   },
   {
     "id": "insects-171-backswimmer",
@@ -1878,7 +2048,8 @@
     "title": "Backswimmer",
     "description": "",
     "tags": [],
-    "filename": "171-backswimmer.png"
+    "filename": "171-backswimmer.png",
+    "originalBytes": 910259
   },
   {
     "id": "insects-172-cinnabar-moth",
@@ -1889,7 +2060,8 @@
     "title": "Cinnabar moth",
     "description": "",
     "tags": [],
-    "filename": "172-cinnabar-moth.png"
+    "filename": "172-cinnabar-moth.png",
+    "originalBytes": 1695322
   },
   {
     "id": "insects-173-jungle-nymph",
@@ -1900,7 +2072,8 @@
     "title": "Jungle nymph",
     "description": "",
     "tags": [],
-    "filename": "173-jungle-nymph.png"
+    "filename": "173-jungle-nymph.png",
+    "originalBytes": 893580
   },
   {
     "id": "insects-174-comma-butterfly",
@@ -1911,7 +2084,8 @@
     "title": "Comma butterfly",
     "description": "",
     "tags": [],
-    "filename": "174-comma-butterfly.png"
+    "filename": "174-comma-butterfly.png",
+    "originalBytes": 1866481
   },
   {
     "id": "insects-175-beewolf",
@@ -1922,7 +2096,8 @@
     "title": "Beewolf",
     "description": "",
     "tags": [],
-    "filename": "175-beewolf.png"
+    "filename": "175-beewolf.png",
+    "originalBytes": 982334
   },
   {
     "id": "insects-176-elephant-beetle",
@@ -1933,7 +2108,8 @@
     "title": "Elephant beetle",
     "description": "",
     "tags": [],
-    "filename": "176-elephant-beetle.png"
+    "filename": "176-elephant-beetle.png",
+    "originalBytes": 1421814
   },
   {
     "id": "insects-177-checkered-beetle",
@@ -1944,7 +2120,8 @@
     "title": "Checkered beetle",
     "description": "",
     "tags": [],
-    "filename": "177-checkered-beetle.png"
+    "filename": "177-checkered-beetle.png",
+    "originalBytes": 1362029
   },
   {
     "id": "insects-178-blue-pansy",
@@ -1955,7 +2132,8 @@
     "title": "Blue pansy",
     "description": "",
     "tags": [],
-    "filename": "178-blue-pansy.png"
+    "filename": "178-blue-pansy.png",
+    "originalBytes": 2132240
   },
   {
     "id": "insects-179-rainbow-grasshopper",
@@ -1966,7 +2144,8 @@
     "title": "Rainbow grasshopper",
     "description": "",
     "tags": [],
-    "filename": "179-rainbow-grasshopper.png"
+    "filename": "179-rainbow-grasshopper.png",
+    "originalBytes": 1234629
   },
   {
     "id": "insects-180-green-tortoise-beetle",
@@ -1977,7 +2156,8 @@
     "title": "Green tortoise beetle",
     "description": "",
     "tags": [],
-    "filename": "180-green-tortoise-beetle.png"
+    "filename": "180-green-tortoise-beetle.png",
+    "originalBytes": 1405487
   },
   {
     "id": "insects-181-silver-washed-fritillary",
@@ -1988,7 +2168,8 @@
     "title": "Silver washed fritillary",
     "description": "",
     "tags": [],
-    "filename": "181-silver-washed-fritillary.png"
+    "filename": "181-silver-washed-fritillary.png",
+    "originalBytes": 1697179
   },
   {
     "id": "insects-182-darkling-beetle",
@@ -1999,7 +2180,8 @@
     "title": "Darkling beetle",
     "description": "",
     "tags": [],
-    "filename": "182-darkling-beetle.png"
+    "filename": "182-darkling-beetle.png",
+    "originalBytes": 1092473
   },
   {
     "id": "insects-183-cuckoo-bee",
@@ -2010,7 +2192,8 @@
     "title": "Cuckoo bee",
     "description": "",
     "tags": [],
-    "filename": "183-cuckoo-bee.png"
+    "filename": "183-cuckoo-bee.png",
+    "originalBytes": 905207
   },
   {
     "id": "insects-184-eighty-eight-butterfly",
@@ -2021,7 +2204,8 @@
     "title": "Eighty eight butterfly",
     "description": "",
     "tags": [],
-    "filename": "184-eighty-eight-butterfly.png"
+    "filename": "184-eighty-eight-butterfly.png",
+    "originalBytes": 1412582
   },
   {
     "id": "insects-185-milkweed-bug",
@@ -2032,7 +2216,8 @@
     "title": "Milkweed bug",
     "description": "",
     "tags": [],
-    "filename": "185-milkweed-bug.png"
+    "filename": "185-milkweed-bug.png",
+    "originalBytes": 793157
   },
   {
     "id": "insects-186-spanish-moon-moth",
@@ -2043,7 +2228,8 @@
     "title": "Spanish moon moth",
     "description": "",
     "tags": [],
-    "filename": "186-spanish-moon-moth.png"
+    "filename": "186-spanish-moon-moth.png",
+    "originalBytes": 1947086
   },
   {
     "id": "insects-187-jerusalem-cricket",
@@ -2054,7 +2240,8 @@
     "title": "Jerusalem cricket",
     "description": "",
     "tags": [],
-    "filename": "187-jerusalem-cricket.png"
+    "filename": "187-jerusalem-cricket.png",
+    "originalBytes": 1015005
   },
   {
     "id": "insects-188-net-winged-beetle",
@@ -2065,7 +2252,8 @@
     "title": "Net winged beetle",
     "description": "",
     "tags": [],
-    "filename": "188-net-winged-beetle.png"
+    "filename": "188-net-winged-beetle.png",
+    "originalBytes": 881598
   },
   {
     "id": "insects-189-julia-butterfly",
@@ -2076,7 +2264,8 @@
     "title": "Julia butterfly",
     "description": "",
     "tags": [],
-    "filename": "189-julia-butterfly.png"
+    "filename": "189-julia-butterfly.png",
+    "originalBytes": 1227736
   },
   {
     "id": "insects-190-pea-aphid",
@@ -2087,7 +2276,8 @@
     "title": "Pea aphid",
     "description": "",
     "tags": [],
-    "filename": "190-pea-aphid.png"
+    "filename": "190-pea-aphid.png",
+    "originalBytes": 727129
   },
   {
     "id": "insects-191-blue-clipper",
@@ -2098,7 +2288,8 @@
     "title": "Blue clipper",
     "description": "",
     "tags": [],
-    "filename": "191-blue-clipper.png"
+    "filename": "191-blue-clipper.png",
+    "originalBytes": 2392117
   },
   {
     "id": "insects-192-tarantula-hawk",
@@ -2109,7 +2300,8 @@
     "title": "Tarantula hawk",
     "description": "",
     "tags": [],
-    "filename": "192-tarantula-hawk.png"
+    "filename": "192-tarantula-hawk.png",
+    "originalBytes": 950402
   },
   {
     "id": "insects-193-long-tailed-skipper",
@@ -2120,7 +2312,8 @@
     "title": "Long tailed skipper",
     "description": "",
     "tags": [],
-    "filename": "193-long-tailed-skipper.png"
+    "filename": "193-long-tailed-skipper.png",
+    "originalBytes": 1780042
   },
   {
     "id": "insects-194-fruit-fly",
@@ -2131,7 +2324,8 @@
     "title": "Fruit fly",
     "description": "",
     "tags": [],
-    "filename": "194-fruit-fly.png"
+    "filename": "194-fruit-fly.png",
+    "originalBytes": 1074927
   },
   {
     "id": "insects-195-sacred-scarab",
@@ -2142,7 +2336,8 @@
     "title": "Sacred scarab",
     "description": "",
     "tags": [],
-    "filename": "195-sacred-scarab.png"
+    "filename": "195-sacred-scarab.png",
+    "originalBytes": 1499242
   },
   {
     "id": "insects-196-red-lacewing",
@@ -2153,7 +2348,8 @@
     "title": "Red lacewing",
     "description": "",
     "tags": [],
-    "filename": "196-red-lacewing.png"
+    "filename": "196-red-lacewing.png",
+    "originalBytes": 2186591
   },
   {
     "id": "insects-197-pink-katydid",
@@ -2164,7 +2360,8 @@
     "title": "Pink katydid",
     "description": "",
     "tags": [],
-    "filename": "197-pink-katydid.png"
+    "filename": "197-pink-katydid.png",
+    "originalBytes": 880875
   },
   {
     "id": "insects-198-carpet-beetle",
@@ -2175,7 +2372,8 @@
     "title": "Carpet beetle",
     "description": "",
     "tags": [],
-    "filename": "198-carpet-beetle.png"
+    "filename": "198-carpet-beetle.png",
+    "originalBytes": 1570945
   },
   {
     "id": "insects-199-speckled-wood",
@@ -2186,7 +2384,8 @@
     "title": "Speckled wood",
     "description": "",
     "tags": [],
-    "filename": "199-speckled-wood.png"
+    "filename": "199-speckled-wood.png",
+    "originalBytes": 2173485
   },
   {
     "id": "insects-200-figwort-sawfly",
@@ -2197,7 +2396,8 @@
     "title": "Figwort sawfly",
     "description": "",
     "tags": [],
-    "filename": "200-figwort-sawfly.png"
+    "filename": "200-figwort-sawfly.png",
+    "originalBytes": 944328
   },
   {
     "id": "insects-201-lime-hawkmoth",
@@ -2208,7 +2408,8 @@
     "title": "Lime hawkmoth",
     "description": "",
     "tags": [],
-    "filename": "201-lime-hawkmoth.png"
+    "filename": "201-lime-hawkmoth.png",
+    "originalBytes": 1584645
   },
   {
     "id": "insects-202-wool-carder-bee",
@@ -2219,7 +2420,8 @@
     "title": "Wool carder bee",
     "description": "",
     "tags": [],
-    "filename": "202-wool-carder-bee.png"
+    "filename": "202-wool-carder-bee.png",
+    "originalBytes": 1295479
   },
   {
     "id": "insects-203-violin-mantis",
@@ -2230,7 +2432,8 @@
     "title": "Violin mantis",
     "description": "",
     "tags": [],
-    "filename": "203-violin-mantis.png"
+    "filename": "203-violin-mantis.png",
+    "originalBytes": 654167
   },
   {
     "id": "insects-204-common-buckeye",
@@ -2241,7 +2444,8 @@
     "title": "Common buckeye",
     "description": "",
     "tags": [],
-    "filename": "204-common-buckeye.png"
+    "filename": "204-common-buckeye.png",
+    "originalBytes": 2075576
   },
   {
     "id": "insects-205-green-sweat-bee",
@@ -2252,7 +2456,8 @@
     "title": "Green sweat bee",
     "description": "",
     "tags": [],
-    "filename": "205-green-sweat-bee.png"
+    "filename": "205-green-sweat-bee.png",
+    "originalBytes": 1223834
   },
   {
     "id": "insects-206-asian-longhorned-beetle",
@@ -2263,7 +2468,8 @@
     "title": "Asian longhorned beetle",
     "description": "",
     "tags": [],
-    "filename": "206-asian-longhorned-beetle.png"
+    "filename": "206-asian-longhorned-beetle.png",
+    "originalBytes": 742867
   },
   {
     "id": "insects-207-emperor-moth",
@@ -2274,7 +2480,8 @@
     "title": "Emperor moth",
     "description": "",
     "tags": [],
-    "filename": "207-emperor-moth.png"
+    "filename": "207-emperor-moth.png",
+    "originalBytes": 2063659
   },
   {
     "id": "insects-208-orange-assassin-bug",
@@ -2285,7 +2492,8 @@
     "title": "Orange assassin bug",
     "description": "",
     "tags": [],
-    "filename": "208-orange-assassin-bug.png"
+    "filename": "208-orange-assassin-bug.png",
+    "originalBytes": 699879
   },
   {
     "id": "insects-209-blue-tiger",
@@ -2296,7 +2504,8 @@
     "title": "Blue tiger",
     "description": "",
     "tags": [],
-    "filename": "209-blue-tiger.png"
+    "filename": "209-blue-tiger.png",
+    "originalBytes": 1874253
   },
   {
     "id": "insects-210-bombardier-front",
@@ -2307,7 +2516,8 @@
     "title": "Bombardier front",
     "description": "",
     "tags": [],
-    "filename": "210-bombardier-front.png"
+    "filename": "210-bombardier-front.png",
+    "originalBytes": 781930
   },
   {
     "id": "insects-211-map-butterfly",
@@ -2318,7 +2528,8 @@
     "title": "Map butterfly",
     "description": "",
     "tags": [],
-    "filename": "211-map-butterfly.png"
+    "filename": "211-map-butterfly.png",
+    "originalBytes": 2117793
   },
   {
     "id": "insects-212-harvester-ant",
@@ -2329,7 +2540,8 @@
     "title": "Harvester ant",
     "description": "",
     "tags": [],
-    "filename": "212-harvester-ant.png"
+    "filename": "212-harvester-ant.png",
+    "originalBytes": 855135
   },
   {
     "id": "insects-213-picasso-bug",
@@ -2340,7 +2552,8 @@
     "title": "Picasso bug",
     "description": "",
     "tags": [],
-    "filename": "213-picasso-bug.png"
+    "filename": "213-picasso-bug.png",
+    "originalBytes": 1306083
   },
   {
     "id": "insects-214-spiny-leaf-insect",
@@ -2351,7 +2564,8 @@
     "title": "Spiny leaf insect",
     "description": "",
     "tags": [],
-    "filename": "214-spiny-leaf-insect.png"
+    "filename": "214-spiny-leaf-insect.png",
+    "originalBytes": 1156406
   },
   {
     "id": "insects-215-oak-eggar",
@@ -2362,7 +2576,8 @@
     "title": "Oak eggar",
     "description": "",
     "tags": [],
-    "filename": "215-oak-eggar.png"
+    "filename": "215-oak-eggar.png",
+    "originalBytes": 2241024
   },
   {
     "id": "insects-216-ox-beetle",
@@ -2373,7 +2588,8 @@
     "title": "Ox beetle",
     "description": "",
     "tags": [],
-    "filename": "216-ox-beetle.png"
+    "filename": "216-ox-beetle.png",
+    "originalBytes": 1281300
   },
   {
     "id": "insects-217-red-damselfly",
@@ -2384,7 +2600,8 @@
     "title": "Red damselfly",
     "description": "",
     "tags": [],
-    "filename": "217-red-damselfly.png"
+    "filename": "217-red-damselfly.png",
+    "originalBytes": 807282
   },
   {
     "id": "insects-218-peacock-pansy",
@@ -2395,7 +2612,8 @@
     "title": "Peacock pansy",
     "description": "",
     "tags": [],
-    "filename": "218-peacock-pansy.png"
+    "filename": "218-peacock-pansy.png",
+    "originalBytes": 2190913
   },
   {
     "id": "insects-219-dobsonfly",
@@ -2406,7 +2624,8 @@
     "title": "Dobsonfly",
     "description": "",
     "tags": [],
-    "filename": "219-dobsonfly.png"
+    "filename": "219-dobsonfly.png",
+    "originalBytes": 981796
   },
   {
     "id": "insects-220-japanese-jewel-beetle",
@@ -2417,7 +2636,8 @@
     "title": "Japanese jewel beetle",
     "description": "",
     "tags": [],
-    "filename": "220-japanese-jewel-beetle.png"
+    "filename": "220-japanese-jewel-beetle.png",
+    "originalBytes": 1227021
   },
   {
     "id": "insects-221-small-heath",
@@ -2428,7 +2648,8 @@
     "title": "Small heath",
     "description": "",
     "tags": [],
-    "filename": "221-small-heath.png"
+    "filename": "221-small-heath.png",
+    "originalBytes": 1942829
   },
   {
     "id": "insects-222-giraffe-stag-beetle",
@@ -2439,7 +2660,8 @@
     "title": "Giraffe stag beetle",
     "description": "",
     "tags": [],
-    "filename": "222-giraffe-stag-beetle.png"
+    "filename": "222-giraffe-stag-beetle.png",
+    "originalBytes": 1069724
   },
   {
     "id": "insects-223-metalmark-butterfly",
@@ -2450,7 +2672,8 @@
     "title": "Metalmark butterfly",
     "description": "",
     "tags": [],
-    "filename": "223-metalmark-butterfly.png"
+    "filename": "223-metalmark-butterfly.png",
+    "originalBytes": 1801171
   },
   {
     "id": "insects-224-trap-jaw-ant",
@@ -2461,7 +2684,8 @@
     "title": "Trap jaw ant",
     "description": "",
     "tags": [],
-    "filename": "224-trap-jaw-ant.png"
+    "filename": "224-trap-jaw-ant.png",
+    "originalBytes": 665251
   },
   {
     "id": "insects-225-domino-flower-beetle",
@@ -2472,7 +2696,8 @@
     "title": "Domino flower beetle",
     "description": "",
     "tags": [],
-    "filename": "225-domino-flower-beetle.png"
+    "filename": "225-domino-flower-beetle.png",
+    "originalBytes": 1262282
   },
   {
     "id": "insects-226-five-bar-swordtail",
@@ -2483,7 +2708,8 @@
     "title": "Five bar swordtail",
     "description": "",
     "tags": [],
-    "filename": "226-five-bar-swordtail.png"
+    "filename": "226-five-bar-swordtail.png",
+    "originalBytes": 1329617
   },
   {
     "id": "insects-227-thrips",
@@ -2494,7 +2720,8 @@
     "title": "Thrips",
     "description": "",
     "tags": [],
-    "filename": "227-thrips.png"
+    "filename": "227-thrips.png",
+    "originalBytes": 1146972
   },
   {
     "id": "insects-228-tiger-bee-fly",
@@ -2505,7 +2732,8 @@
     "title": "Tiger bee fly",
     "description": "",
     "tags": [],
-    "filename": "228-tiger-bee-fly.png"
+    "filename": "228-tiger-bee-fly.png",
+    "originalBytes": 1217079
   },
   {
     "id": "insects-229-brown-plume-moth",
@@ -2516,7 +2744,8 @@
     "title": "Brown plume moth",
     "description": "",
     "tags": [],
-    "filename": "229-brown-plume-moth.png"
+    "filename": "229-brown-plume-moth.png",
+    "originalBytes": 540035
   },
   {
     "id": "insects-230-milkweed-leaf-beetle",
@@ -2527,7 +2756,8 @@
     "title": "Milkweed leaf beetle",
     "description": "",
     "tags": [],
-    "filename": "230-milkweed-leaf-beetle.png"
+    "filename": "230-milkweed-leaf-beetle.png",
+    "originalBytes": 1013127
   },
   {
     "id": "insects-231-scarlet-peacock",
@@ -2538,7 +2768,8 @@
     "title": "Scarlet peacock",
     "description": "",
     "tags": [],
-    "filename": "231-scarlet-peacock.png"
+    "filename": "231-scarlet-peacock.png",
+    "originalBytes": 1772010
   },
   {
     "id": "insects-232-frog-legged-beetle",
@@ -2549,7 +2780,8 @@
     "title": "Frog legged beetle",
     "description": "",
     "tags": [],
-    "filename": "232-frog-legged-beetle.png"
+    "filename": "232-frog-legged-beetle.png",
+    "originalBytes": 957795
   },
   {
     "id": "insects-233-green-banded-swallowtail",
@@ -2560,7 +2792,8 @@
     "title": "Green banded swallowtail",
     "description": "",
     "tags": [],
-    "filename": "233-green-banded-swallowtail.png"
+    "filename": "233-green-banded-swallowtail.png",
+    "originalBytes": 1876798
   },
   {
     "id": "insects-234-rajah-brooke-birdwing",
@@ -2571,7 +2804,8 @@
     "title": "Rajah brooke birdwing",
     "description": "",
     "tags": [],
-    "filename": "234-rajah-brooke-birdwing.png"
+    "filename": "234-rajah-brooke-birdwing.png",
+    "originalBytes": 1455520
   },
   {
     "id": "insects-235-red-flour-beetle",
@@ -2582,7 +2816,8 @@
     "title": "Red flour beetle",
     "description": "",
     "tags": [],
-    "filename": "235-red-flour-beetle.png"
+    "filename": "235-red-flour-beetle.png",
+    "originalBytes": 1163169
   },
   {
     "id": "insects-236-gatekeeper",
@@ -2593,7 +2828,8 @@
     "title": "Gatekeeper",
     "description": "",
     "tags": [],
-    "filename": "236-gatekeeper.png"
+    "filename": "236-gatekeeper.png",
+    "originalBytes": 1530815
   },
   {
     "id": "insects-237-thorny-devil-stick-insect",
@@ -2604,7 +2840,8 @@
     "title": "Thorny devil stick insect",
     "description": "",
     "tags": [],
-    "filename": "237-thorny-devil-stick-insect.png"
+    "filename": "237-thorny-devil-stick-insect.png",
+    "originalBytes": 883946
   },
   {
     "id": "insects-238-zebra-swallowtail",
@@ -2615,7 +2852,8 @@
     "title": "Zebra swallowtail",
     "description": "",
     "tags": [],
-    "filename": "238-zebra-swallowtail.png"
+    "filename": "238-zebra-swallowtail.png",
+    "originalBytes": 1459339
   },
   {
     "id": "insects-239-black-soldier-fly",
@@ -2626,7 +2864,8 @@
     "title": "Black soldier fly",
     "description": "",
     "tags": [],
-    "filename": "239-black-soldier-fly.png"
+    "filename": "239-black-soldier-fly.png",
+    "originalBytes": 840671
   },
   {
     "id": "insects-240-privet-hawkmoth",
@@ -2637,7 +2876,8 @@
     "title": "Privet hawkmoth",
     "description": "",
     "tags": [],
-    "filename": "240-privet-hawkmoth.png"
+    "filename": "240-privet-hawkmoth.png",
+    "originalBytes": 1252607
   },
   {
     "id": "insects-241-banded-blister-beetle",
@@ -2648,7 +2888,8 @@
     "title": "Banded blister beetle",
     "description": "",
     "tags": [],
-    "filename": "241-banded-blister-beetle.png"
+    "filename": "241-banded-blister-beetle.png",
+    "originalBytes": 885053
   },
   {
     "id": "insects-242-blue-metalmark",
@@ -2659,7 +2900,8 @@
     "title": "Blue metalmark",
     "description": "",
     "tags": [],
-    "filename": "242-blue-metalmark.png"
+    "filename": "242-blue-metalmark.png",
+    "originalBytes": 2045261
   },
   {
     "id": "insects-243-ensign-wasp",
@@ -2670,7 +2912,8 @@
     "title": "Ensign wasp",
     "description": "",
     "tags": [],
-    "filename": "243-ensign-wasp.png"
+    "filename": "243-ensign-wasp.png",
+    "originalBytes": 844562
   },
   {
     "id": "insects-244-jersey-tiger-moth",
@@ -2681,7 +2924,8 @@
     "title": "Jersey tiger moth",
     "description": "",
     "tags": [],
-    "filename": "244-jersey-tiger-moth.png"
+    "filename": "244-jersey-tiger-moth.png",
+    "originalBytes": 1657218
   },
   {
     "id": "insects-245-conehead-katydid",
@@ -2692,7 +2936,8 @@
     "title": "Conehead katydid",
     "description": "",
     "tags": [],
-    "filename": "245-conehead-katydid.png"
+    "filename": "245-conehead-katydid.png",
+    "originalBytes": 875484
   },
   {
     "id": "insects-246-queen-butterfly",
@@ -2703,7 +2948,8 @@
     "title": "Queen butterfly",
     "description": "",
     "tags": [],
-    "filename": "246-queen-butterfly.png"
+    "filename": "246-queen-butterfly.png",
+    "originalBytes": 1651153
   },
   {
     "id": "insects-247-red-flat-bark-beetle",
@@ -2714,7 +2960,8 @@
     "title": "Red flat bark beetle",
     "description": "",
     "tags": [],
-    "filename": "247-red-flat-bark-beetle.png"
+    "filename": "247-red-flat-bark-beetle.png",
+    "originalBytes": 1001865
   },
   {
     "id": "insects-248-golden-birdwing",
@@ -2725,7 +2972,8 @@
     "title": "Golden birdwing",
     "description": "",
     "tags": [],
-    "filename": "248-golden-birdwing.png"
+    "filename": "248-golden-birdwing.png",
+    "originalBytes": 1519509
   },
   {
     "id": "insects-249-alderfly",
@@ -2736,7 +2984,8 @@
     "title": "Alderfly",
     "description": "",
     "tags": [],
-    "filename": "249-alderfly.png"
+    "filename": "249-alderfly.png",
+    "originalBytes": 900407
   },
   {
     "id": "insects-250-spicebush-swallowtail",
@@ -2747,7 +2996,8 @@
     "title": "Spicebush swallowtail",
     "description": "",
     "tags": [],
-    "filename": "250-spicebush-swallowtail.png"
+    "filename": "250-spicebush-swallowtail.png",
+    "originalBytes": 1797076
   },
   {
     "id": "insects-251-ladybird-in-flight",
@@ -2758,7 +3008,8 @@
     "title": "Ladybird in flight",
     "description": "",
     "tags": [],
-    "filename": "251-ladybird-in-flight.png"
+    "filename": "251-ladybird-in-flight.png",
+    "originalBytes": 1070456
   },
   {
     "id": "insects-252-viceroy",
@@ -2769,7 +3020,8 @@
     "title": "Viceroy",
     "description": "",
     "tags": [],
-    "filename": "252-viceroy.png"
+    "filename": "252-viceroy.png",
+    "originalBytes": 1946952
   },
   {
     "id": "insects-253-yellow-dung-fly",
@@ -2780,7 +3032,8 @@
     "title": "Yellow dung fly",
     "description": "",
     "tags": [],
-    "filename": "253-yellow-dung-fly.png"
+    "filename": "253-yellow-dung-fly.png",
+    "originalBytes": 1297573
   },
   {
     "id": "insects-254-ailanthus-silkmoth",
@@ -2791,7 +3044,8 @@
     "title": "Ailanthus silkmoth",
     "description": "",
     "tags": [],
-    "filename": "254-ailanthus-silkmoth.png"
+    "filename": "254-ailanthus-silkmoth.png",
+    "originalBytes": 1823076
   },
   {
     "id": "insects-255-bronze-tiger-beetle",
@@ -2802,7 +3056,8 @@
     "title": "Bronze tiger beetle",
     "description": "",
     "tags": [],
-    "filename": "255-bronze-tiger-beetle.png"
+    "filename": "255-bronze-tiger-beetle.png",
+    "originalBytes": 908928
   },
   {
     "id": "insects-256-red-glider",
@@ -2813,7 +3068,8 @@
     "title": "Red glider",
     "description": "",
     "tags": [],
-    "filename": "256-red-glider.png"
+    "filename": "256-red-glider.png",
+    "originalBytes": 2003588
   },
   {
     "id": "insects-257-giant-woodwasp",
@@ -2824,7 +3080,8 @@
     "title": "Giant woodwasp",
     "description": "",
     "tags": [],
-    "filename": "257-giant-woodwasp.png"
+    "filename": "257-giant-woodwasp.png",
+    "originalBytes": 868150
   },
   {
     "id": "insects-258-blue-glassy-tiger",
@@ -2835,7 +3092,8 @@
     "title": "Blue glassy tiger",
     "description": "",
     "tags": [],
-    "filename": "258-blue-glassy-tiger.png"
+    "filename": "258-blue-glassy-tiger.png",
+    "originalBytes": 1836802
   },
   {
     "id": "insects-259-mantis-defensive-display",
@@ -2846,7 +3104,8 @@
     "title": "Mantis defensive display",
     "description": "",
     "tags": [],
-    "filename": "259-mantis-defensive-display.png"
+    "filename": "259-mantis-defensive-display.png",
+    "originalBytes": 1350294
   },
   {
     "id": "insects-260-grizzled-skipper",
@@ -2857,7 +3116,8 @@
     "title": "Grizzled skipper",
     "description": "",
     "tags": [],
-    "filename": "260-grizzled-skipper.png"
+    "filename": "260-grizzled-skipper.png",
+    "originalBytes": 1706283
   },
   {
     "id": "insects-261-black-vine-weevil",
@@ -2868,7 +3128,8 @@
     "title": "Black vine weevil",
     "description": "",
     "tags": [],
-    "filename": "261-black-vine-weevil.png"
+    "filename": "261-black-vine-weevil.png",
+    "originalBytes": 1199838
   },
   {
     "id": "insects-262-meadow-brown",
@@ -2879,7 +3140,8 @@
     "title": "Meadow brown",
     "description": "",
     "tags": [],
-    "filename": "262-meadow-brown.png"
+    "filename": "262-meadow-brown.png",
+    "originalBytes": 1882290
   },
   {
     "id": "insects-263-winged-aphid",
@@ -2890,7 +3152,8 @@
     "title": "Winged aphid",
     "description": "",
     "tags": [],
-    "filename": "263-winged-aphid.png"
+    "filename": "263-winged-aphid.png",
+    "originalBytes": 991808
   },
   {
     "id": "insects-264-lesser-purple-emperor",
@@ -2901,7 +3164,8 @@
     "title": "Lesser purple emperor",
     "description": "",
     "tags": [],
-    "filename": "264-lesser-purple-emperor.png"
+    "filename": "264-lesser-purple-emperor.png",
+    "originalBytes": 2167094
   },
   {
     "id": "insects-265-potter-wasp",
@@ -2912,7 +3176,8 @@
     "title": "Potter wasp",
     "description": "",
     "tags": [],
-    "filename": "265-potter-wasp.png"
+    "filename": "265-potter-wasp.png",
+    "originalBytes": 741741
   },
   {
     "id": "insects-266-red-spotted-purple",
@@ -2923,7 +3188,8 @@
     "title": "Red spotted purple",
     "description": "",
     "tags": [],
-    "filename": "266-red-spotted-purple.png"
+    "filename": "266-red-spotted-purple.png",
+    "originalBytes": 1853262
   },
   {
     "id": "insects-267-horned-treehopper",
@@ -2934,7 +3200,8 @@
     "title": "Horned treehopper",
     "description": "",
     "tags": [],
-    "filename": "267-horned-treehopper.png"
+    "filename": "267-horned-treehopper.png",
+    "originalBytes": 1246702
   },
   {
     "id": "insects-268-purple-hairstreak",
@@ -2945,7 +3212,8 @@
     "title": "Purple hairstreak",
     "description": "",
     "tags": [],
-    "filename": "268-purple-hairstreak.png"
+    "filename": "268-purple-hairstreak.png",
+    "originalBytes": 2320294
   },
   {
     "id": "insects-269-spanish-fly-beetle",
@@ -2956,7 +3224,8 @@
     "title": "Spanish fly beetle",
     "description": "",
     "tags": [],
-    "filename": "269-spanish-fly-beetle.png"
+    "filename": "269-spanish-fly-beetle.png",
+    "originalBytes": 890666
   },
   {
     "id": "insects-270-pine-hawkmoth",
@@ -2967,7 +3236,8 @@
     "title": "Pine hawkmoth",
     "description": "",
     "tags": [],
-    "filename": "270-pine-hawkmoth.png"
+    "filename": "270-pine-hawkmoth.png",
+    "originalBytes": 1259949
   },
   {
     "id": "insects-271-monarch-caterpillar",
@@ -2978,7 +3248,8 @@
     "title": "Monarch caterpillar",
     "description": "",
     "tags": [],
-    "filename": "271-monarch-caterpillar.png"
+    "filename": "271-monarch-caterpillar.png",
+    "originalBytes": 509055
   },
   {
     "id": "insects-272-giant-swallowtail",
@@ -2989,7 +3260,8 @@
     "title": "Giant swallowtail",
     "description": "",
     "tags": [],
-    "filename": "272-giant-swallowtail.png"
+    "filename": "272-giant-swallowtail.png",
+    "originalBytes": 1688903
   },
   {
     "id": "insects-273-winged-ant",
@@ -3000,7 +3272,8 @@
     "title": "Winged ant",
     "description": "",
     "tags": [],
-    "filename": "273-winged-ant.png"
+    "filename": "273-winged-ant.png",
+    "originalBytes": 1042057
   },
   {
     "id": "insects-274-autumn-leaf-butterfly",
@@ -3011,7 +3284,8 @@
     "title": "Autumn leaf butterfly",
     "description": "",
     "tags": [],
-    "filename": "274-autumn-leaf-butterfly.png"
+    "filename": "274-autumn-leaf-butterfly.png",
+    "originalBytes": 2238265
   },
   {
     "id": "insects-275-halloween-pennant",
@@ -3022,7 +3296,8 @@
     "title": "Halloween pennant",
     "description": "",
     "tags": [],
-    "filename": "275-halloween-pennant.png"
+    "filename": "275-halloween-pennant.png",
+    "originalBytes": 1230553
   },
   {
     "id": "insects-276-great-spangled-fritillary",
@@ -3033,7 +3308,8 @@
     "title": "Great spangled fritillary",
     "description": "",
     "tags": [],
-    "filename": "276-great-spangled-fritillary.png"
+    "filename": "276-great-spangled-fritillary.png",
+    "originalBytes": 2220963
   },
   {
     "id": "insects-277-ladybird-larva",
@@ -3044,7 +3320,8 @@
     "title": "Ladybird larva",
     "description": "",
     "tags": [],
-    "filename": "277-ladybird-larva.png"
+    "filename": "277-ladybird-larva.png",
+    "originalBytes": 959618
   },
   {
     "id": "insects-278-large-yellow-underwing",
@@ -3055,6 +3332,7 @@
     "title": "Large yellow underwing",
     "description": "",
     "tags": [],
-    "filename": "278-large-yellow-underwing.png"
+    "filename": "278-large-yellow-underwing.png",
+    "originalBytes": 1777504
   }
 ]

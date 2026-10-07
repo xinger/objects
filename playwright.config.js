@@ -11,6 +11,7 @@ writeFileSync('media/test-data/categories/test.json', JSON.stringify(Array.from(
   preview: index === 120 ? 'alternate.svg' : index === 45 ? 'preload.svg' : 'original.svg',
   width: 640,
   height: 800,
+  originalBytes: 1828665,
 }))));
 writeFileSync('media/test-data/categories/empty.json', '[]');
 writeFileSync('media/test-data/categories/lights.json', JSON.stringify(Array.from({ length: 20 }, (_, index) => ({
@@ -20,8 +21,9 @@ writeFileSync('media/test-data/categories/lights.json', JSON.stringify(Array.fro
   preview: 'original.svg',
   width: 640,
   height: 800,
+  originalBytes: 1828665,
 }))));
-writeFileSync('media/preview-public/media/tests/original.svg', '<svg xmlns="http://www.w3.org/2000/svg" width="640" height="800"><circle cx="320" cy="400" r="100" fill="#c35037"/></svg>');
+writeFileSync('media/preview-public/media/tests/original.svg', '<svg xmlns="http://www.w3.org/2000/svg" width="640" height="800"><circle cx="320" cy="400" r="100" fill="#c35037"/></svg>'.padEnd(1828665, ' '));
 writeFileSync('media/preview-public/media/tests/alternate.svg', '<svg xmlns="http://www.w3.org/2000/svg" width="640" height="800"><circle cx="320" cy="400" r="100" fill="#3750c3"/></svg>');
 writeFileSync('media/preview-public/media/tests/preload.svg', '<svg xmlns="http://www.w3.org/2000/svg" width="640" height="800"><circle cx="320" cy="400" r="100" fill="#c35037"/></svg>');
 

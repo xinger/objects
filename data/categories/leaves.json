@@ -13,7 +13,8 @@
       "botanical",
       "monstera"
     ],
-    "filename": "001-monstera-leaf.png"
+    "filename": "001-monstera-leaf.png",
+    "originalBytes": 1886392
   },
   {
     "id": "leaves-002-banana-leaf",
@@ -30,7 +31,8 @@
       "ribbed",
       "green"
     ],
-    "filename": "002-banana-leaf.png"
+    "filename": "002-banana-leaf.png",
+    "originalBytes": 1906329
   },
   {
     "id": "leaves-003-bird-of-paradise-leaf",
@@ -46,7 +48,8 @@
       "botanical",
       "bird of paradise"
     ],
-    "filename": "003-bird-of-paradise-leaf.png"
+    "filename": "003-bird-of-paradise-leaf.png",
+    "originalBytes": 2244708
   },
   {
     "id": "leaves-004-elephant-ear-leaf",
@@ -62,7 +65,8 @@
       "botanical",
       "elephant ear"
     ],
-    "filename": "004-elephant-ear-leaf.png"
+    "filename": "004-elephant-ear-leaf.png",
+    "originalBytes": 2355356
   },
   {
     "id": "leaves-005-fiddle-leaf-fig-leaf",
@@ -78,7 +82,8 @@
       "botanical",
       "fiddle leaf fig"
     ],
-    "filename": "005-fiddle-leaf-fig-leaf.png"
+    "filename": "005-fiddle-leaf-fig-leaf.png",
+    "originalBytes": 2524130
   },
   {
     "id": "leaves-006-rubber-plant-leaf",
@@ -94,7 +99,8 @@
       "botanical",
       "rubber plant"
     ],
-    "filename": "006-rubber-plant-leaf.png"
+    "filename": "006-rubber-plant-leaf.png",
+    "originalBytes": 2389113
   },
   {
     "id": "leaves-007-breadfruit-leaf",
@@ -110,7 +116,8 @@
       "botanical",
       "breadfruit"
     ],
-    "filename": "007-breadfruit-leaf.png"
+    "filename": "007-breadfruit-leaf.png",
+    "originalBytes": 2061622
   },
   {
     "id": "leaves-008-papaya-leaf",
@@ -127,7 +134,8 @@
       "lobed",
       "serrated"
     ],
-    "filename": "008-papaya-leaf.png"
+    "filename": "008-papaya-leaf.png",
+    "originalBytes": 1321087
   },
   {
     "id": "leaves-009-split-philodendron-leaf",
@@ -143,7 +151,8 @@
       "botanical",
       "split philodendron"
     ],
-    "filename": "009-split-philodendron-leaf.png"
+    "filename": "009-split-philodendron-leaf.png",
+    "originalBytes": 2041612
   },
   {
     "id": "leaves-010-anthurium-leaf",
@@ -159,7 +168,8 @@
       "botanical",
       "anthurium"
     ],
-    "filename": "010-anthurium-leaf.png"
+    "filename": "010-anthurium-leaf.png",
+    "originalBytes": 2094586
   },
   {
     "id": "leaves-011-cacao-leaf",
@@ -175,7 +185,8 @@
       "botanical",
       "cacao"
     ],
-    "filename": "011-cacao-leaf.png"
+    "filename": "011-cacao-leaf.png",
+    "originalBytes": 2306976
   },
   {
     "id": "leaves-012-coffee-leaf",
@@ -191,7 +202,8 @@
       "botanical",
       "coffee"
     ],
-    "filename": "012-coffee-leaf.png"
+    "filename": "012-coffee-leaf.png",
+    "originalBytes": 2469236
   },
   {
     "id": "leaves-013-mango-leaf",
@@ -207,7 +219,8 @@
       "botanical",
       "mango"
     ],
-    "filename": "013-mango-leaf.png"
+    "filename": "013-mango-leaf.png",
+    "originalBytes": 1519393
   },
   {
     "id": "leaves-014-avocado-leaf",
@@ -223,7 +236,8 @@
       "botanical",
       "avocado"
     ],
-    "filename": "014-avocado-leaf.png"
+    "filename": "014-avocado-leaf.png",
+    "originalBytes": 1760918
   },
   {
     "id": "leaves-015-jackfruit-leaf",
@@ -239,7 +253,8 @@
       "botanical",
       "jackfruit"
     ],
-    "filename": "015-jackfruit-leaf.png"
+    "filename": "015-jackfruit-leaf.png",
+    "originalBytes": 2389094
   },
   {
     "id": "leaves-016-guava-leaf",
@@ -255,7 +270,8 @@
       "botanical",
       "guava"
     ],
-    "filename": "016-guava-leaf.png"
+    "filename": "016-guava-leaf.png",
+    "originalBytes": 2306602
   },
   {
     "id": "leaves-017-passionflower-leaf",
@@ -271,7 +287,8 @@
       "botanical",
       "passionflower"
     ],
-    "filename": "017-passionflower-leaf.png"
+    "filename": "017-passionflower-leaf.png",
+    "originalBytes": 1219067
   },
   {
     "id": "leaves-018-castor-leaf",
@@ -287,7 +304,8 @@
       "botanical",
       "castor"
     ],
-    "filename": "018-castor-leaf.png"
+    "filename": "018-castor-leaf.png",
+    "originalBytes": 1576956
   },
   {
     "id": "leaves-019-lotus-leaf",
@@ -303,7 +321,8 @@
       "botanical",
       "lotus"
     ],
-    "filename": "019-lotus-leaf.png"
+    "filename": "019-lotus-leaf.png",
+    "originalBytes": 1926106
   },
   {
     "id": "leaves-020-water-lily-leaf",
@@ -319,7 +338,8 @@
       "botanical",
       "water lily"
     ],
-    "filename": "020-water-lily-leaf.png"
+    "filename": "020-water-lily-leaf.png",
+    "originalBytes": 2052282
   },
   {
     "id": "leaves-021-scarlet-maple-leaf",
@@ -335,7 +355,8 @@
       "botanical",
       "scarlet maple"
     ],
-    "filename": "021-scarlet-maple-leaf.png"
+    "filename": "021-scarlet-maple-leaf.png",
+    "originalBytes": 1600029
   },
   {
     "id": "leaves-022-golden-ginkgo-leaf",
@@ -351,7 +372,8 @@
       "botanical",
       "golden ginkgo"
     ],
-    "filename": "022-golden-ginkgo-leaf.png"
+    "filename": "022-golden-ginkgo-leaf.png",
+    "originalBytes": 1520036
   },
   {
     "id": "leaves-023-copper-oak-leaf",
@@ -367,7 +389,8 @@
       "botanical",
       "copper oak"
     ],
-    "filename": "023-copper-oak-leaf.png"
+    "filename": "023-copper-oak-leaf.png",
+    "originalBytes": 2490570
   },
   {
     "id": "leaves-024-orange-sweetgum-leaf",
@@ -383,7 +406,8 @@
       "botanical",
       "orange sweetgum"
     ],
-    "filename": "024-orange-sweetgum-leaf.png"
+    "filename": "024-orange-sweetgum-leaf.png",
+    "originalBytes": 1306646
   },
   {
     "id": "leaves-025-yellow-birch-leaf",
@@ -399,7 +423,8 @@
       "botanical",
       "yellow birch"
     ],
-    "filename": "025-yellow-birch-leaf.png"
+    "filename": "025-yellow-birch-leaf.png",
+    "originalBytes": 1167880
   },
   {
     "id": "leaves-026-crimson-beech-leaf",
@@ -415,7 +440,8 @@
       "botanical",
       "crimson beech"
     ],
-    "filename": "026-crimson-beech-leaf.png"
+    "filename": "026-crimson-beech-leaf.png",
+    "originalBytes": 2454111
   },
   {
     "id": "leaves-027-amber-elm-leaf",
@@ -431,7 +457,8 @@
       "botanical",
       "amber elm"
     ],
-    "filename": "027-amber-elm-leaf.png"
+    "filename": "027-amber-elm-leaf.png",
+    "originalBytes": 2511731
   },
   {
     "id": "leaves-028-russet-chestnut-leaf",
@@ -447,7 +474,8 @@
       "botanical",
       "russet chestnut"
     ],
-    "filename": "028-russet-chestnut-leaf.png"
+    "filename": "028-russet-chestnut-leaf.png",
+    "originalBytes": 2090674
   },
   {
     "id": "leaves-029-golden-aspen-leaf",
@@ -463,7 +491,8 @@
       "botanical",
       "golden aspen"
     ],
-    "filename": "029-golden-aspen-leaf.png"
+    "filename": "029-golden-aspen-leaf.png",
+    "originalBytes": 1794163
   },
   {
     "id": "leaves-030-orange-tulip-tree-leaf",
@@ -479,7 +508,8 @@
       "botanical",
       "orange tulip tree"
     ],
-    "filename": "030-orange-tulip-tree-leaf.png"
+    "filename": "030-orange-tulip-tree-leaf.png",
+    "originalBytes": 1599193
   },
   {
     "id": "leaves-031-red-dogwood-leaf",
@@ -495,7 +525,8 @@
       "botanical",
       "red dogwood"
     ],
-    "filename": "031-red-dogwood-leaf.png"
+    "filename": "031-red-dogwood-leaf.png",
+    "originalBytes": 2471768
   },
   {
     "id": "leaves-032-yellow-linden-leaf",
@@ -511,7 +542,8 @@
       "botanical",
       "yellow linden"
     ],
-    "filename": "032-yellow-linden-leaf.png"
+    "filename": "032-yellow-linden-leaf.png",
+    "originalBytes": 1962485
   },
   {
     "id": "leaves-033-burgundy-grape-leaf",
@@ -527,7 +559,8 @@
       "botanical",
       "burgundy grape"
     ],
-    "filename": "033-burgundy-grape-leaf.png"
+    "filename": "033-burgundy-grape-leaf.png",
+    "originalBytes": 2146224
   },
   {
     "id": "leaves-034-orange-sycamore-leaf",
@@ -543,7 +576,8 @@
       "botanical",
       "orange sycamore"
     ],
-    "filename": "034-orange-sycamore-leaf.png"
+    "filename": "034-orange-sycamore-leaf.png",
+    "originalBytes": 1837170
   },
   {
     "id": "leaves-035-golden-hornbeam-leaf",
@@ -559,7 +593,8 @@
       "botanical",
       "golden hornbeam"
     ],
-    "filename": "035-golden-hornbeam-leaf.png"
+    "filename": "035-golden-hornbeam-leaf.png",
+    "originalBytes": 2544790
   },
   {
     "id": "leaves-036-red-pear-leaf",
@@ -575,7 +610,8 @@
       "botanical",
       "red pear"
     ],
-    "filename": "036-red-pear-leaf.png"
+    "filename": "036-red-pear-leaf.png",
+    "originalBytes": 2444534
   },
   {
     "id": "leaves-037-amber-cherry-leaf",
@@ -591,7 +627,8 @@
       "botanical",
       "amber cherry"
     ],
-    "filename": "037-amber-cherry-leaf.png"
+    "filename": "037-amber-cherry-leaf.png",
+    "originalBytes": 2590474
   },
   {
     "id": "leaves-038-purple-smoke-tree-leaf",
@@ -607,7 +644,8 @@
       "botanical",
       "purple smoke tree"
     ],
-    "filename": "038-purple-smoke-tree-leaf.png"
+    "filename": "038-purple-smoke-tree-leaf.png",
+    "originalBytes": 2011142
   },
   {
     "id": "leaves-039-coral-witch-hazel-leaf",
@@ -623,7 +661,8 @@
       "botanical",
       "coral witch hazel"
     ],
-    "filename": "039-coral-witch-hazel-leaf.png"
+    "filename": "039-coral-witch-hazel-leaf.png",
+    "originalBytes": 2538371
   },
   {
     "id": "leaves-040-red-blueberry-leaf",
@@ -639,7 +678,8 @@
       "botanical",
       "red blueberry"
     ],
-    "filename": "040-red-blueberry-leaf.png"
+    "filename": "040-red-blueberry-leaf.png",
+    "originalBytes": 1077055
   },
   {
     "id": "leaves-041-white-marbled-monstera-leaf",
@@ -655,7 +695,8 @@
       "botanical",
       "white marbled monstera"
     ],
-    "filename": "041-white-marbled-monstera-leaf.png"
+    "filename": "041-white-marbled-monstera-leaf.png",
+    "originalBytes": 2055651
   },
   {
     "id": "leaves-042-yellow-marbled-pothos-leaf",
@@ -671,7 +712,8 @@
       "botanical",
       "yellow marbled pothos"
     ],
-    "filename": "042-yellow-marbled-pothos-leaf.png"
+    "filename": "042-yellow-marbled-pothos-leaf.png",
+    "originalBytes": 2033732
   },
   {
     "id": "leaves-043-silver-satin-pothos-leaf",
@@ -687,7 +729,8 @@
       "botanical",
       "silver satin pothos"
     ],
-    "filename": "043-silver-satin-pothos-leaf.png"
+    "filename": "043-silver-satin-pothos-leaf.png",
+    "originalBytes": 1792109
   },
   {
     "id": "leaves-044-pink-princess-philodendron-leaf",
@@ -703,7 +746,8 @@
       "botanical",
       "pink princess philodendron"
     ],
-    "filename": "044-pink-princess-philodendron-leaf.png"
+    "filename": "044-pink-princess-philodendron-leaf.png",
+    "originalBytes": 1754796
   },
   {
     "id": "leaves-045-white-princess-philodendron-leaf",
@@ -719,7 +763,8 @@
       "botanical",
       "white princess philodendron"
     ],
-    "filename": "045-white-princess-philodendron-leaf.png"
+    "filename": "045-white-princess-philodendron-leaf.png",
+    "originalBytes": 2022530
   },
   {
     "id": "leaves-046-lime-philodendron-leaf",
@@ -735,7 +780,8 @@
       "botanical",
       "lime philodendron"
     ],
-    "filename": "046-lime-philodendron-leaf.png"
+    "filename": "046-lime-philodendron-leaf.png",
+    "originalBytes": 1719623
   },
   {
     "id": "leaves-047-painted-begonia-leaf",
@@ -751,7 +797,8 @@
       "botanical",
       "painted begonia"
     ],
-    "filename": "047-painted-begonia-leaf.png"
+    "filename": "047-painted-begonia-leaf.png",
+    "originalBytes": 2548962
   },
   {
     "id": "leaves-048-polka-dot-begonia-leaf",
@@ -767,7 +814,8 @@
       "botanical",
       "polka dot begonia"
     ],
-    "filename": "048-polka-dot-begonia-leaf.png"
+    "filename": "048-polka-dot-begonia-leaf.png",
+    "originalBytes": 2011880
   },
   {
     "id": "leaves-049-watermelon-peperomia-leaf",
@@ -784,7 +832,8 @@
       "silver",
       "striped"
     ],
-    "filename": "049-watermelon-peperomia-leaf.png"
+    "filename": "049-watermelon-peperomia-leaf.png",
+    "originalBytes": 2697685
   },
   {
     "id": "leaves-050-cream-edged-peperomia-leaf",
@@ -800,7 +849,8 @@
       "botanical",
       "cream edged peperomia"
     ],
-    "filename": "050-cream-edged-peperomia-leaf.png"
+    "filename": "050-cream-edged-peperomia-leaf.png",
+    "originalBytes": 2255718
   },
   {
     "id": "leaves-051-pink-caladium-leaf",
@@ -816,7 +866,8 @@
       "botanical",
       "pink caladium"
     ],
-    "filename": "051-pink-caladium-leaf.png"
+    "filename": "051-pink-caladium-leaf.png",
+    "originalBytes": 2245398
   },
   {
     "id": "leaves-052-white-caladium-leaf",
@@ -832,7 +883,8 @@
       "botanical",
       "white caladium"
     ],
-    "filename": "052-white-caladium-leaf.png"
+    "filename": "052-white-caladium-leaf.png",
+    "originalBytes": 1675323
   },
   {
     "id": "leaves-053-red-caladium-leaf",
@@ -848,7 +900,8 @@
       "botanical",
       "red caladium"
     ],
-    "filename": "053-red-caladium-leaf.png"
+    "filename": "053-red-caladium-leaf.png",
+    "originalBytes": 1909090
   },
   {
     "id": "leaves-054-red-prayer-plant-leaf",
@@ -864,7 +917,8 @@
       "botanical",
       "red prayer plant"
     ],
-    "filename": "054-red-prayer-plant-leaf.png"
+    "filename": "054-red-prayer-plant-leaf.png",
+    "originalBytes": 2511244
   },
   {
     "id": "leaves-055-peacock-calathea-leaf",
@@ -880,7 +934,8 @@
       "botanical",
       "peacock calathea"
     ],
-    "filename": "055-peacock-calathea-leaf.png"
+    "filename": "055-peacock-calathea-leaf.png",
+    "originalBytes": 2500626
   },
   {
     "id": "leaves-056-pinstripe-calathea-leaf",
@@ -896,7 +951,8 @@
       "botanical",
       "pinstripe calathea"
     ],
-    "filename": "056-pinstripe-calathea-leaf.png"
+    "filename": "056-pinstripe-calathea-leaf.png",
+    "originalBytes": 2423413
   },
   {
     "id": "leaves-057-zebra-calathea-leaf",
@@ -912,7 +968,8 @@
       "botanical",
       "zebra calathea"
     ],
-    "filename": "057-zebra-calathea-leaf.png"
+    "filename": "057-zebra-calathea-leaf.png",
+    "originalBytes": 1896533
   },
   {
     "id": "leaves-058-pink-stromanthe-leaf",
@@ -928,7 +985,8 @@
       "botanical",
       "pink stromanthe"
     ],
-    "filename": "058-pink-stromanthe-leaf.png"
+    "filename": "058-pink-stromanthe-leaf.png",
+    "originalBytes": 2014209
   },
   {
     "id": "leaves-059-croton-leaf",
@@ -944,7 +1002,8 @@
       "botanical",
       "croton"
     ],
-    "filename": "059-croton-leaf.png"
+    "filename": "059-croton-leaf.png",
+    "originalBytes": 2119215
   },
   {
     "id": "leaves-060-tricolor-cordyline-leaf",
@@ -960,7 +1019,8 @@
       "botanical",
       "tricolor cordyline"
     ],
-    "filename": "060-tricolor-cordyline-leaf.png"
+    "filename": "060-tricolor-cordyline-leaf.png",
+    "originalBytes": 1625325
   },
   {
     "id": "leaves-061-japanese-maple-leaf",
@@ -976,7 +1036,8 @@
       "botanical",
       "japanese maple"
     ],
-    "filename": "061-japanese-maple-leaf.png"
+    "filename": "061-japanese-maple-leaf.png",
+    "originalBytes": 1381723
   },
   {
     "id": "leaves-062-laceleaf-maple-leaf",
@@ -992,7 +1053,8 @@
       "botanical",
       "laceleaf maple"
     ],
-    "filename": "062-laceleaf-maple-leaf.png"
+    "filename": "062-laceleaf-maple-leaf.png",
+    "originalBytes": 1517407
   },
   {
     "id": "leaves-063-white-oak-leaf",
@@ -1008,7 +1070,8 @@
       "botanical",
       "white oak"
     ],
-    "filename": "063-white-oak-leaf.png"
+    "filename": "063-white-oak-leaf.png",
+    "originalBytes": 1996055
   },
   {
     "id": "leaves-064-red-oak-leaf",
@@ -1024,7 +1087,8 @@
       "botanical",
       "red oak"
     ],
-    "filename": "064-red-oak-leaf.png"
+    "filename": "064-red-oak-leaf.png",
+    "originalBytes": 1140985
   },
   {
     "id": "leaves-065-english-ivy-leaf",
@@ -1041,7 +1105,8 @@
       "glossy",
       "green"
     ],
-    "filename": "065-english-ivy-leaf.png"
+    "filename": "065-english-ivy-leaf.png",
+    "originalBytes": 1636535
   },
   {
     "id": "leaves-066-boston-ivy-leaf",
@@ -1058,7 +1123,8 @@
       "serrated",
       "green"
     ],
-    "filename": "066-boston-ivy-leaf.png"
+    "filename": "066-boston-ivy-leaf.png",
+    "originalBytes": 1952135
   },
   {
     "id": "leaves-067-fig-leaf",
@@ -1074,7 +1140,8 @@
       "botanical",
       "fig"
     ],
-    "filename": "067-fig-leaf.png"
+    "filename": "067-fig-leaf.png",
+    "originalBytes": 2113359
   },
   {
     "id": "leaves-068-mulberry-leaf",
@@ -1090,7 +1157,8 @@
       "botanical",
       "mulberry"
     ],
-    "filename": "068-mulberry-leaf.png"
+    "filename": "068-mulberry-leaf.png",
+    "originalBytes": 1777646
   },
   {
     "id": "leaves-069-hops-leaf",
@@ -1107,7 +1175,8 @@
       "textured",
       "serrated"
     ],
-    "filename": "069-hops-leaf.png"
+    "filename": "069-hops-leaf.png",
+    "originalBytes": 2067910
   },
   {
     "id": "leaves-070-geranium-leaf",
@@ -1123,7 +1192,8 @@
       "botanical",
       "geranium"
     ],
-    "filename": "070-geranium-leaf.png"
+    "filename": "070-geranium-leaf.png",
+    "originalBytes": 2332460
   },
   {
     "id": "leaves-071-nasturtium-leaf",
@@ -1139,7 +1209,8 @@
       "botanical",
       "nasturtium"
     ],
-    "filename": "071-nasturtium-leaf.png"
+    "filename": "071-nasturtium-leaf.png",
+    "originalBytes": 1798294
   },
   {
     "id": "leaves-072-lady-s-mantle-leaf",
@@ -1155,7 +1226,8 @@
       "botanical",
       "lady s mantle"
     ],
-    "filename": "072-lady-s-mantle-leaf.png"
+    "filename": "072-lady-s-mantle-leaf.png",
+    "originalBytes": 2024794
   },
   {
     "id": "leaves-073-dandelion-leaf",
@@ -1171,7 +1243,8 @@
       "botanical",
       "dandelion"
     ],
-    "filename": "073-dandelion-leaf.png"
+    "filename": "073-dandelion-leaf.png",
+    "originalBytes": 1598569
   },
   {
     "id": "leaves-074-arugula-leaf",
@@ -1187,7 +1260,8 @@
       "botanical",
       "arugula"
     ],
-    "filename": "074-arugula-leaf.png"
+    "filename": "074-arugula-leaf.png",
+    "originalBytes": 1809332
   },
   {
     "id": "leaves-075-radicchio-leaf",
@@ -1203,7 +1277,8 @@
       "botanical",
       "radicchio"
     ],
-    "filename": "075-radicchio-leaf.png"
+    "filename": "075-radicchio-leaf.png",
+    "originalBytes": 2061798
   },
   {
     "id": "leaves-076-sword-fern-frond",
@@ -1220,7 +1295,8 @@
       "serrated",
       "pinnate"
     ],
-    "filename": "076-sword-fern-frond.png"
+    "filename": "076-sword-fern-frond.png",
+    "originalBytes": 2248676
   },
   {
     "id": "leaves-077-maidenhair-fern-frond",
@@ -1236,7 +1312,8 @@
       "botanical",
       "maidenhair fern"
     ],
-    "filename": "077-maidenhair-fern-frond.png"
+    "filename": "077-maidenhair-fern-frond.png",
+    "originalBytes": 1199972
   },
   {
     "id": "leaves-078-bird-s-nest-fern-leaf",
@@ -1252,7 +1329,8 @@
       "botanical",
       "bird s nest fern"
     ],
-    "filename": "078-bird-s-nest-fern-leaf.png"
+    "filename": "078-bird-s-nest-fern-leaf.png",
+    "originalBytes": 1700354
   },
   {
     "id": "leaves-079-staghorn-fern-leaf",
@@ -1268,7 +1346,8 @@
       "botanical",
       "staghorn fern"
     ],
-    "filename": "079-staghorn-fern-leaf.png"
+    "filename": "079-staghorn-fern-leaf.png",
+    "originalBytes": 1323967
   },
   {
     "id": "leaves-080-royal-fern-frond",
@@ -1285,7 +1364,8 @@
       "oval",
       "pinnate"
     ],
-    "filename": "080-royal-fern-frond.png"
+    "filename": "080-royal-fern-frond.png",
+    "originalBytes": 2161691
   },
   {
     "id": "leaves-081-silver-sage-leaf",
@@ -1301,7 +1381,8 @@
       "botanical",
       "silver sage"
     ],
-    "filename": "081-silver-sage-leaf.png"
+    "filename": "081-silver-sage-leaf.png",
+    "originalBytes": 2022378
   },
   {
     "id": "leaves-082-lamb-s-ear-leaf",
@@ -1317,7 +1398,8 @@
       "botanical",
       "lamb s ear"
     ],
-    "filename": "082-lamb-s-ear-leaf.png"
+    "filename": "082-lamb-s-ear-leaf.png",
+    "originalBytes": 2311340
   },
   {
     "id": "leaves-083-purple-basil-leaf",
@@ -1333,7 +1415,8 @@
       "botanical",
       "purple basil"
     ],
-    "filename": "083-purple-basil-leaf.png"
+    "filename": "083-purple-basil-leaf.png",
+    "originalBytes": 2585331
   },
   {
     "id": "leaves-084-spearmint-leaf",
@@ -1349,7 +1432,8 @@
       "botanical",
       "spearmint"
     ],
-    "filename": "084-spearmint-leaf.png"
+    "filename": "084-spearmint-leaf.png",
+    "originalBytes": 1914288
   },
   {
     "id": "leaves-085-lemon-balm-leaf",
@@ -1365,7 +1449,8 @@
       "botanical",
       "lemon balm"
     ],
-    "filename": "085-lemon-balm-leaf.png"
+    "filename": "085-lemon-balm-leaf.png",
+    "originalBytes": 2073864
   },
   {
     "id": "leaves-086-shiso-leaf",
@@ -1381,7 +1466,8 @@
       "botanical",
       "shiso"
     ],
-    "filename": "086-shiso-leaf.png"
+    "filename": "086-shiso-leaf.png",
+    "originalBytes": 2456617
   },
   {
     "id": "leaves-087-rosemary-leaf",
@@ -1397,7 +1483,8 @@
       "botanical",
       "rosemary"
     ],
-    "filename": "087-rosemary-leaf.png"
+    "filename": "087-rosemary-leaf.png",
+    "originalBytes": 1320567
   },
   {
     "id": "leaves-088-bay-leaf",
@@ -1413,7 +1500,8 @@
       "botanical",
       "bay"
     ],
-    "filename": "088-bay-leaf.png"
+    "filename": "088-bay-leaf.png",
+    "originalBytes": 1904039
   },
   {
     "id": "leaves-089-eucalyptus-leaf",
@@ -1429,7 +1517,8 @@
       "botanical",
       "eucalyptus"
     ],
-    "filename": "089-eucalyptus-leaf.png"
+    "filename": "089-eucalyptus-leaf.png",
+    "originalBytes": 1974722
   },
   {
     "id": "leaves-090-olive-leaf",
@@ -1445,7 +1534,8 @@
       "botanical",
       "olive"
     ],
-    "filename": "090-olive-leaf.png"
+    "filename": "090-olive-leaf.png",
+    "originalBytes": 1602007
   },
   {
     "id": "leaves-091-camellia-leaf",
@@ -1461,7 +1551,8 @@
       "botanical",
       "camellia"
     ],
-    "filename": "091-camellia-leaf.png"
+    "filename": "091-camellia-leaf.png",
+    "originalBytes": 2553711
   },
   {
     "id": "leaves-092-tea-leaf",
@@ -1477,7 +1568,8 @@
       "botanical",
       "tea"
     ],
-    "filename": "092-tea-leaf.png"
+    "filename": "092-tea-leaf.png",
+    "originalBytes": 2364527
   },
   {
     "id": "leaves-093-holly-leaf",
@@ -1493,7 +1585,8 @@
       "botanical",
       "holly"
     ],
-    "filename": "093-holly-leaf.png"
+    "filename": "093-holly-leaf.png",
+    "originalBytes": 2371767
   },
   {
     "id": "leaves-094-magnolia-leaf",
@@ -1509,7 +1602,8 @@
       "botanical",
       "magnolia"
     ],
-    "filename": "094-magnolia-leaf.png"
+    "filename": "094-magnolia-leaf.png",
+    "originalBytes": 1538996
   },
   {
     "id": "leaves-095-cyclamen-leaf",
@@ -1525,7 +1619,8 @@
       "botanical",
       "cyclamen"
     ],
-    "filename": "095-cyclamen-leaf.png"
+    "filename": "095-cyclamen-leaf.png",
+    "originalBytes": 2166114
   },
   {
     "id": "leaves-096-silver-pilea-leaf",
@@ -1541,7 +1636,8 @@
       "botanical",
       "silver pilea"
     ],
-    "filename": "096-silver-pilea-leaf.png"
+    "filename": "096-silver-pilea-leaf.png",
+    "originalBytes": 2013684
   },
   {
     "id": "leaves-097-coin-pilea-leaf",
@@ -1557,7 +1653,8 @@
       "botanical",
       "coin pilea"
     ],
-    "filename": "097-coin-pilea-leaf.png"
+    "filename": "097-coin-pilea-leaf.png",
+    "originalBytes": 1916150
   },
   {
     "id": "leaves-098-nerve-plant-leaf",
@@ -1573,7 +1670,8 @@
       "botanical",
       "nerve plant"
     ],
-    "filename": "098-nerve-plant-leaf.png"
+    "filename": "098-nerve-plant-leaf.png",
+    "originalBytes": 1360848
   },
   {
     "id": "leaves-099-purple-shamrock-leaf",
@@ -1591,7 +1689,8 @@
       "triangular",
       "toothed"
     ],
-    "filename": "099-purple-shamrock-leaf.png"
+    "filename": "099-purple-shamrock-leaf.png",
+    "originalBytes": 1610886
   },
   {
     "id": "leaves-100-fan-palm-leaf",
@@ -1607,6 +1706,7 @@
       "botanical",
       "fan palm"
     ],
-    "filename": "100-fan-palm-leaf.png"
+    "filename": "100-fan-palm-leaf.png",
+    "originalBytes": 2101212
   }
 ]

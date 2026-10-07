@@ -120,4 +120,7 @@ main:focus { outline: none; }
 }
 [data-theme='dark'] .wordmark { font-palette: --logo-dark; }
 .object-grid[data-previews-active] .object-tile[data-preview-loading]::after { content: ''; position: absolute; top: 50%; left: 50%; width: 6px; height: 6px; border-radius: 50%; background: var(--muted); transform: translate(-50%, -50%); animation: pending 800ms ease-in-out infinite alternate; pointer-events: none; }
+
+.download-label { display: flex; flex-direction: column; gap: 2px; }
+.download-meta { color: var(--muted); font-size: 11px; white-space: nowrap; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme]) .wordmark { font-palette: --logo-dark; } }

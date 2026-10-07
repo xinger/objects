@@ -10,7 +10,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "001-orange.png"
+    "filename": "001-orange.png",
+    "originalBytes": 2511876
   },
   {
     "id": "butterflies-002-blue",
@@ -23,7 +24,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "002-blue.png"
+    "filename": "002-blue.png",
+    "originalBytes": 2968678
   },
   {
     "id": "butterflies-003-yellow-swallowtail",
@@ -36,7 +38,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "003-yellow-swallowtail.png"
+    "filename": "003-yellow-swallowtail.png",
+    "originalBytes": 1851689
   },
   {
     "id": "butterflies-004-white",
@@ -49,7 +52,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "004-white.png"
+    "filename": "004-white.png",
+    "originalBytes": 2796636
   },
   {
     "id": "butterflies-005-emerald",
@@ -62,7 +66,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "005-emerald.png"
+    "filename": "005-emerald.png",
+    "originalBytes": 2736947
   },
   {
     "id": "butterflies-006-peacock",
@@ -75,7 +80,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "006-peacock.png"
+    "filename": "006-peacock.png",
+    "originalBytes": 2991689
   },
   {
     "id": "butterflies-007-violet",
@@ -88,7 +94,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "007-violet.png"
+    "filename": "007-violet.png",
+    "originalBytes": 2795809
   },
   {
     "id": "butterflies-008-scarlet-black",
@@ -101,7 +108,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "008-scarlet-black.png"
+    "filename": "008-scarlet-black.png",
+    "originalBytes": 2598188
   },
   {
     "id": "butterflies-009-coral",
@@ -114,7 +122,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "009-coral.png"
+    "filename": "009-coral.png",
+    "originalBytes": 2960555
   },
   {
     "id": "butterflies-010-zebra",
@@ -127,7 +136,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "010-zebra.png"
+    "filename": "010-zebra.png",
+    "originalBytes": 2044263
   },
   {
     "id": "butterflies-011-lemon",
@@ -140,7 +150,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "011-lemon.png"
+    "filename": "011-lemon.png",
+    "originalBytes": 2407676
   },
   {
     "id": "butterflies-012-copper-spotted",
@@ -153,7 +164,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "012-copper-spotted.png"
+    "filename": "012-copper-spotted.png",
+    "originalBytes": 3116873
   },
   {
     "id": "butterflies-013-turquoise",
@@ -166,7 +178,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "013-turquoise.png"
+    "filename": "013-turquoise.png",
+    "originalBytes": 2862508
   },
   {
     "id": "butterflies-014-silver-blue",
@@ -179,7 +192,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "014-silver-blue.png"
+    "filename": "014-silver-blue.png",
+    "originalBytes": 2940374
   },
   {
     "id": "butterflies-015-ivory-longtail",
@@ -192,7 +206,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "015-ivory-longtail.png"
+    "filename": "015-ivory-longtail.png",
+    "originalBytes": 1750089
   },
   {
     "id": "butterflies-016-burgundy-cream",
@@ -205,7 +220,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "016-burgundy-cream.png"
+    "filename": "016-burgundy-cream.png",
+    "originalBytes": 2835411
   },
   {
     "id": "butterflies-017-orange-tip",
@@ -218,7 +234,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "017-orange-tip.png"
+    "filename": "017-orange-tip.png",
+    "originalBytes": 2336056
   },
   {
     "id": "butterflies-018-green-gold",
@@ -231,7 +248,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "018-green-gold.png"
+    "filename": "018-green-gold.png",
+    "originalBytes": 2424182
   },
   {
     "id": "butterflies-019-dusty-rose",
@@ -244,7 +262,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "019-dusty-rose.png"
+    "filename": "019-dusty-rose.png",
+    "originalBytes": 2372797
   },
   {
     "id": "butterflies-020-midnight-cyan",
@@ -257,7 +276,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "020-midnight-cyan.png"
+    "filename": "020-midnight-cyan.png",
+    "originalBytes": 2727648
   },
   {
     "id": "butterflies-021-amber-mosaic",
@@ -270,7 +290,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "021-amber-mosaic.png"
+    "filename": "021-amber-mosaic.png",
+    "originalBytes": 2847729
   },
   {
     "id": "butterflies-022-mint",
@@ -283,7 +304,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "022-mint.png"
+    "filename": "022-mint.png",
+    "originalBytes": 2799898
   },
   {
     "id": "butterflies-023-pearl-red-spots",
@@ -296,7 +318,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "023-pearl-red-spots.png"
+    "filename": "023-pearl-red-spots.png",
+    "originalBytes": 2371592
   },
   {
     "id": "butterflies-024-magenta",
@@ -309,7 +332,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "024-magenta.png"
+    "filename": "024-magenta.png",
+    "originalBytes": 2375986
   },
   {
     "id": "butterflies-025-chestnut-eyespots",
@@ -322,7 +346,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "025-chestnut-eyespots.png"
+    "filename": "025-chestnut-eyespots.png",
+    "originalBytes": 3169569
   },
   {
     "id": "butterflies-026-jade-longtail",
@@ -335,7 +360,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "026-jade-longtail.png"
+    "filename": "026-jade-longtail.png",
+    "originalBytes": 2047530
   },
   {
     "id": "butterflies-027-ochre",
@@ -348,7 +374,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "027-ochre.png"
+    "filename": "027-ochre.png",
+    "originalBytes": 2351146
   },
   {
     "id": "butterflies-028-cobalt-ivory",
@@ -361,7 +388,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "028-cobalt-ivory.png"
+    "filename": "028-cobalt-ivory.png",
+    "originalBytes": 1975874
   },
   {
     "id": "butterflies-029-black-blue-spots",
@@ -374,7 +402,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "029-black-blue-spots.png"
+    "filename": "029-black-blue-spots.png",
+    "originalBytes": 2471388
   },
   {
     "id": "butterflies-030-smoky-gray",
@@ -387,7 +416,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "030-smoky-gray.png"
+    "filename": "030-smoky-gray.png",
+    "originalBytes": 3078301
   },
   {
     "id": "butterflies-031-peach-cream",
@@ -400,7 +430,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "031-peach-cream.png"
+    "filename": "031-peach-cream.png",
+    "originalBytes": 2883173
   },
   {
     "id": "butterflies-032-forest-yellow",
@@ -413,7 +444,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "032-forest-yellow.png"
+    "filename": "032-forest-yellow.png",
+    "originalBytes": 2494849
   },
   {
     "id": "butterflies-033-lavender-orange",
@@ -426,7 +458,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "033-lavender-orange.png"
+    "filename": "033-lavender-orange.png",
+    "originalBytes": 2876357
   },
   {
     "id": "butterflies-034-vermilion",
@@ -439,7 +472,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "034-vermilion.png"
+    "filename": "034-vermilion.png",
+    "originalBytes": 2296171
   },
   {
     "id": "butterflies-035-ivory-streaks",
@@ -452,7 +486,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "035-ivory-streaks.png"
+    "filename": "035-ivory-streaks.png",
+    "originalBytes": 2288850
   },
   {
     "id": "butterflies-036-caramel-checkered",
@@ -465,7 +500,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "036-caramel-checkered.png"
+    "filename": "036-caramel-checkered.png",
+    "originalBytes": 3018965
   },
   {
     "id": "butterflies-037-purple-gold",
@@ -478,7 +514,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "037-purple-gold.png"
+    "filename": "037-purple-gold.png",
+    "originalBytes": 2315023
   },
   {
     "id": "butterflies-038-white-speckled",
@@ -491,7 +528,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "038-white-speckled.png"
+    "filename": "038-white-speckled.png",
+    "originalBytes": 2047481
   },
   {
     "id": "butterflies-039-bronze-green",
@@ -504,7 +542,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "039-bronze-green.png"
+    "filename": "039-bronze-green.png",
+    "originalBytes": 1927563
   },
   {
     "id": "butterflies-040-ice-blue",
@@ -517,7 +556,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "040-ice-blue.png"
+    "filename": "040-ice-blue.png",
+    "originalBytes": 2184907
   },
   {
     "id": "butterflies-041-black-coral",
@@ -530,7 +570,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "041-black-coral.png"
+    "filename": "041-black-coral.png",
+    "originalBytes": 1971303
   },
   {
     "id": "butterflies-042-golden-yellow",
@@ -543,7 +584,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "042-golden-yellow.png"
+    "filename": "042-golden-yellow.png",
+    "originalBytes": 2525949
   },
   {
     "id": "butterflies-043-indigo-orange",
@@ -556,7 +598,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "043-indigo-orange.png"
+    "filename": "043-indigo-orange.png",
+    "originalBytes": 2866973
   },
   {
     "id": "butterflies-044-sage",
@@ -569,7 +612,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "044-sage.png"
+    "filename": "044-sage.png",
+    "originalBytes": 1791657
   },
   {
     "id": "butterflies-045-chocolate-turquoise",
@@ -582,7 +626,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "045-chocolate-turquoise.png"
+    "filename": "045-chocolate-turquoise.png",
+    "originalBytes": 2894170
   },
   {
     "id": "butterflies-046-blush-pink",
@@ -595,7 +640,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "046-blush-pink.png"
+    "filename": "046-blush-pink.png",
+    "originalBytes": 2285155
   },
   {
     "id": "butterflies-047-lime-spots",
@@ -608,7 +654,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "047-lime-spots.png"
+    "filename": "047-lime-spots.png",
+    "originalBytes": 2376383
   },
   {
     "id": "butterflies-048-silver-marble",
@@ -621,7 +668,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "048-silver-marble.png"
+    "filename": "048-silver-marble.png",
+    "originalBytes": 2266790
   },
   {
     "id": "butterflies-049-emerald-plum",
@@ -634,7 +682,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "049-emerald-plum.png"
+    "filename": "049-emerald-plum.png",
+    "originalBytes": 2387223
   },
   {
     "id": "butterflies-050-apricot-gold",
@@ -647,7 +696,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "050-apricot-gold.png"
+    "filename": "050-apricot-gold.png",
+    "originalBytes": 2599893
   },
   {
     "id": "butterflies-051-periwinkle",
@@ -660,7 +710,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "051-periwinkle.png"
+    "filename": "051-periwinkle.png",
+    "originalBytes": 2995522
   },
   {
     "id": "butterflies-052-russet-cream",
@@ -673,7 +724,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "052-russet-cream.png"
+    "filename": "052-russet-cream.png",
+    "originalBytes": 2850869
   },
   {
     "id": "butterflies-053-sapphire-striped",
@@ -686,7 +738,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "053-sapphire-striped.png"
+    "filename": "053-sapphire-striped.png",
+    "originalBytes": 2865349
   },
   {
     "id": "butterflies-054-ivory-burgundy",
@@ -699,7 +752,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "054-ivory-burgundy.png"
+    "filename": "054-ivory-burgundy.png",
+    "originalBytes": 2219027
   },
   {
     "id": "butterflies-055-aqua-copper",
@@ -712,7 +766,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "055-aqua-copper.png"
+    "filename": "055-aqua-copper.png",
+    "originalBytes": 3015262
   },
   {
     "id": "butterflies-056-red-cream",
@@ -725,7 +780,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "056-red-cream.png"
+    "filename": "056-red-cream.png",
+    "originalBytes": 2540424
   },
   {
     "id": "butterflies-057-white-violet",
@@ -738,7 +794,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "057-white-violet.png"
+    "filename": "057-white-violet.png",
+    "originalBytes": 2725665
   },
   {
     "id": "butterflies-058-olive-gold",
@@ -751,7 +808,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "058-olive-gold.png"
+    "filename": "058-olive-gold.png",
+    "originalBytes": 2661372
   },
   {
     "id": "butterflies-059-navy-ruby",
@@ -764,7 +822,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "059-navy-ruby.png"
+    "filename": "059-navy-ruby.png",
+    "originalBytes": 2877973
   },
   {
     "id": "butterflies-060-yellow-coral",
@@ -777,7 +836,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "060-yellow-coral.png"
+    "filename": "060-yellow-coral.png",
+    "originalBytes": 2433901
   },
   {
     "id": "butterflies-061-petrol-black",
@@ -790,7 +850,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "061-petrol-black.png"
+    "filename": "061-petrol-black.png",
+    "originalBytes": 2486352
   },
   {
     "id": "butterflies-062-cream-lilac",
@@ -803,7 +864,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "062-cream-lilac.png"
+    "filename": "062-cream-lilac.png",
+    "originalBytes": 2894559
   },
   {
     "id": "butterflies-063-orange-black-bands",
@@ -816,7 +878,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "063-orange-black-bands.png"
+    "filename": "063-orange-black-bands.png",
+    "originalBytes": 2173552
   },
   {
     "id": "butterflies-064-sea-green-longtail",
@@ -829,7 +892,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "064-sea-green-longtail.png"
+    "filename": "064-sea-green-longtail.png",
+    "originalBytes": 2010123
   },
   {
     "id": "butterflies-065-cinnamon-rose",
@@ -842,7 +906,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "065-cinnamon-rose.png"
+    "filename": "065-cinnamon-rose.png",
+    "originalBytes": 2857736
   },
   {
     "id": "butterflies-066-black-white-mosaic",
@@ -855,7 +920,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "066-black-white-mosaic.png"
+    "filename": "066-black-white-mosaic.png",
+    "originalBytes": 2671604
   },
   {
     "id": "butterflies-067-fuchsia-violet",
@@ -868,7 +934,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "067-fuchsia-violet.png"
+    "filename": "067-fuchsia-violet.png",
+    "originalBytes": 2830945
   },
   {
     "id": "butterflies-068-golden-tiger",
@@ -881,7 +948,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "068-golden-tiger.png"
+    "filename": "068-golden-tiger.png",
+    "originalBytes": 2433901
   },
   {
     "id": "butterflies-069-blue-lace",
@@ -894,7 +962,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "069-blue-lace.png"
+    "filename": "069-blue-lace.png",
+    "originalBytes": 2410993
   },
   {
     "id": "butterflies-070-burgundy-gold-spots",
@@ -907,7 +976,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "070-burgundy-gold-spots.png"
+    "filename": "070-burgundy-gold-spots.png",
+    "originalBytes": 2474767
   },
   {
     "id": "butterflies-071-turquoise-mint",
@@ -920,7 +990,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "071-turquoise-mint.png"
+    "filename": "071-turquoise-mint.png",
+    "originalBytes": 2250687
   },
   {
     "id": "butterflies-072-peach-marble",
@@ -933,7 +1004,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "072-peach-marble.png"
+    "filename": "072-peach-marble.png",
+    "originalBytes": 2327648
   },
   {
     "id": "butterflies-073-black-ice-red",
@@ -946,7 +1018,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "073-black-ice-red.png"
+    "filename": "073-black-ice-red.png",
+    "originalBytes": 2366961
   },
   {
     "id": "butterflies-074-lemon-coral-tips",
@@ -959,7 +1032,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "074-lemon-coral-tips.png"
+    "filename": "074-lemon-coral-tips.png",
+    "originalBytes": 2594779
   },
   {
     "id": "butterflies-075-teal-purple-white",
@@ -972,7 +1046,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "075-teal-purple-white.png"
+    "filename": "075-teal-purple-white.png",
+    "originalBytes": 2354519
   },
   {
     "id": "butterflies-076-tan-speckled",
@@ -985,7 +1060,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "076-tan-speckled.png"
+    "filename": "076-tan-speckled.png",
+    "originalBytes": 2058609
   },
   {
     "id": "butterflies-077-violet-turquoise-spots",
@@ -998,7 +1074,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "077-violet-turquoise-spots.png"
+    "filename": "077-violet-turquoise-spots.png",
+    "originalBytes": 2918184
   },
   {
     "id": "butterflies-078-ivory-mint",
@@ -1011,7 +1088,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "078-ivory-mint.png"
+    "filename": "078-ivory-mint.png",
+    "originalBytes": 2597133
   },
   {
     "id": "butterflies-079-orange-navy",
@@ -1024,7 +1102,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "079-orange-navy.png"
+    "filename": "079-orange-navy.png",
+    "originalBytes": 2209600
   },
   {
     "id": "butterflies-080-charcoal-silver",
@@ -1037,7 +1116,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "080-charcoal-silver.png"
+    "filename": "080-charcoal-silver.png",
+    "originalBytes": 3047057
   },
   {
     "id": "butterflies-081-peach-lavender",
@@ -1050,7 +1130,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "081-peach-lavender.png"
+    "filename": "081-peach-lavender.png",
+    "originalBytes": 2554015
   },
   {
     "id": "butterflies-082-green-sapphire",
@@ -1063,7 +1144,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "082-green-sapphire.png"
+    "filename": "082-green-sapphire.png",
+    "originalBytes": 2124616
   },
   {
     "id": "butterflies-083-ivory-copper-lace",
@@ -1076,7 +1158,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "083-ivory-copper-lace.png"
+    "filename": "083-ivory-copper-lace.png",
+    "originalBytes": 2843030
   },
   {
     "id": "butterflies-084-midnight-salmon",
@@ -1089,7 +1172,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "084-midnight-salmon.png"
+    "filename": "084-midnight-salmon.png",
+    "originalBytes": 2274625
   },
   {
     "id": "butterflies-085-ochre-sage",
@@ -1102,7 +1186,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "085-ochre-sage.png"
+    "filename": "085-ochre-sage.png",
+    "originalBytes": 2804280
   },
   {
     "id": "butterflies-086-white-raspberry",
@@ -1115,7 +1200,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "086-white-raspberry.png"
+    "filename": "086-white-raspberry.png",
+    "originalBytes": 1891016
   },
   {
     "id": "butterflies-087-black-butter-yellow",
@@ -1128,7 +1214,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "087-black-butter-yellow.png"
+    "filename": "087-black-butter-yellow.png",
+    "originalBytes": 2440741
   },
   {
     "id": "butterflies-088-mauve-zigzag",
@@ -1141,7 +1228,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "088-mauve-zigzag.png"
+    "filename": "088-mauve-zigzag.png",
+    "originalBytes": 2860067
   },
   {
     "id": "butterflies-089-ice-cobalt",
@@ -1154,7 +1242,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "089-ice-cobalt.png"
+    "filename": "089-ice-cobalt.png",
+    "originalBytes": 2929334
   },
   {
     "id": "butterflies-090-terracotta-checkered",
@@ -1167,7 +1256,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "090-terracotta-checkered.png"
+    "filename": "090-terracotta-checkered.png",
+    "originalBytes": 2688153
   },
   {
     "id": "butterflies-091-emerald-lilac",
@@ -1180,7 +1270,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "091-emerald-lilac.png"
+    "filename": "091-emerald-lilac.png",
+    "originalBytes": 2218590
   },
   {
     "id": "butterflies-092-pearl-sienna",
@@ -1193,7 +1284,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "092-pearl-sienna.png"
+    "filename": "092-pearl-sienna.png",
+    "originalBytes": 2514143
   },
   {
     "id": "butterflies-093-purple-tangerine",
@@ -1206,7 +1298,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "093-purple-tangerine.png"
+    "filename": "093-purple-tangerine.png",
+    "originalBytes": 2822686
   },
   {
     "id": "butterflies-094-coral-longwing",
@@ -1219,7 +1312,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "094-coral-longwing.png"
+    "filename": "094-coral-longwing.png",
+    "originalBytes": 2035880
   },
   {
     "id": "butterflies-095-honey-longwing",
@@ -1232,7 +1326,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "095-honey-longwing.png"
+    "filename": "095-honey-longwing.png",
+    "originalBytes": 2312551
   },
   {
     "id": "butterflies-096-pistachio-pointed",
@@ -1245,7 +1340,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "096-pistachio-pointed.png"
+    "filename": "096-pistachio-pointed.png",
+    "originalBytes": 2718019
   },
   {
     "id": "butterflies-097-rose-gold-blue",
@@ -1258,7 +1354,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "097-rose-gold-blue.png"
+    "filename": "097-rose-gold-blue.png",
+    "originalBytes": 2179176
   },
   {
     "id": "butterflies-098-teal-ruby-swallowtail",
@@ -1271,7 +1368,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "098-teal-ruby-swallowtail.png"
+    "filename": "098-teal-ruby-swallowtail.png",
+    "originalBytes": 1988349
   },
   {
     "id": "butterflies-099-strawberry-eyespots",
@@ -1284,7 +1382,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "099-strawberry-eyespots.png"
+    "filename": "099-strawberry-eyespots.png",
+    "originalBytes": 2348457
   },
   {
     "id": "butterflies-100-cobalt-silver",
@@ -1297,7 +1396,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "100-cobalt-silver.png"
+    "filename": "100-cobalt-silver.png",
+    "originalBytes": 2208442
   },
   {
     "id": "butterflies-101-cream-indigo",
@@ -1310,7 +1410,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "101-cream-indigo.png"
+    "filename": "101-cream-indigo.png",
+    "originalBytes": 2028427
   },
   {
     "id": "butterflies-102-apricot-lavender-mosaic",
@@ -1323,7 +1424,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "102-apricot-lavender-mosaic.png"
+    "filename": "102-apricot-lavender-mosaic.png",
+    "originalBytes": 2755070
   },
   {
     "id": "butterflies-103-chocolate-mint-pink",
@@ -1336,7 +1438,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "103-chocolate-mint-pink.png"
+    "filename": "103-chocolate-mint-pink.png",
+    "originalBytes": 2592095
   },
   {
     "id": "butterflies-104-powder-blue-rust",
@@ -1349,7 +1452,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "104-powder-blue-rust.png"
+    "filename": "104-powder-blue-rust.png",
+    "originalBytes": 2211988
   },
   {
     "id": "butterflies-105-crimson-silver",
@@ -1362,7 +1466,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "105-crimson-silver.png"
+    "filename": "105-crimson-silver.png",
+    "originalBytes": 2071251
   },
   {
     "id": "butterflies-106-lavender-gold",
@@ -1375,7 +1480,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "106-lavender-gold.png"
+    "filename": "106-lavender-gold.png",
+    "originalBytes": 3074652
   },
   {
     "id": "butterflies-107-teal-white-mosaic",
@@ -1388,7 +1494,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "107-teal-white-mosaic.png"
+    "filename": "107-teal-white-mosaic.png",
+    "originalBytes": 2373301
   },
   {
     "id": "butterflies-108-lemon-wine-marble",
@@ -1401,7 +1508,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "108-lemon-wine-marble.png"
+    "filename": "108-lemon-wine-marble.png",
+    "originalBytes": 2050751
   },
   {
     "id": "butterflies-109-ivory-violet-longwing",
@@ -1414,7 +1522,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "109-ivory-violet-longwing.png"
+    "filename": "109-ivory-violet-longwing.png",
+    "originalBytes": 1993841
   },
   {
     "id": "butterflies-110-black-amber-eyespots",
@@ -1427,7 +1536,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "110-black-amber-eyespots.png"
+    "filename": "110-black-amber-eyespots.png",
+    "originalBytes": 2476113
   },
   {
     "id": "butterflies-111-vanilla-peach-freckles",
@@ -1440,7 +1550,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "111-vanilla-peach-freckles.png"
+    "filename": "111-vanilla-peach-freckles.png",
+    "originalBytes": 2625382
   },
   {
     "id": "butterflies-112-emerald-violet-copper",
@@ -1453,7 +1564,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "112-emerald-violet-copper.png"
+    "filename": "112-emerald-violet-copper.png",
+    "originalBytes": 2446894
   },
   {
     "id": "butterflies-113-slate-ivory-red",
@@ -1466,7 +1578,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "113-slate-ivory-red.png"
+    "filename": "113-slate-ivory-red.png",
+    "originalBytes": 2790214
   },
   {
     "id": "butterflies-114-orange-turquoise",
@@ -1479,7 +1592,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "114-orange-turquoise.png"
+    "filename": "114-orange-turquoise.png",
+    "originalBytes": 2599773
   },
   {
     "id": "butterflies-115-pearl-fern",
@@ -1492,7 +1606,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "115-pearl-fern.png"
+    "filename": "115-pearl-fern.png",
+    "originalBytes": 1978932
   },
   {
     "id": "butterflies-116-plum-peach",
@@ -1505,7 +1620,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "116-plum-peach.png"
+    "filename": "116-plum-peach.png",
+    "originalBytes": 2814490
   },
   {
     "id": "butterflies-117-copper-mint-veins",
@@ -1518,7 +1634,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "117-copper-mint-veins.png"
+    "filename": "117-copper-mint-veins.png",
+    "originalBytes": 2947049
   },
   {
     "id": "butterflies-118-white-magenta-swallowtail",
@@ -1531,7 +1648,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "118-white-magenta-swallowtail.png"
+    "filename": "118-white-magenta-swallowtail.png",
+    "originalBytes": 1640167
   },
   {
     "id": "butterflies-119-seafoam-rose",
@@ -1544,7 +1662,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "119-seafoam-rose.png"
+    "filename": "119-seafoam-rose.png",
+    "originalBytes": 2211570
   },
   {
     "id": "butterflies-120-navy-gold-turquoise",
@@ -1557,7 +1676,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "120-navy-gold-turquoise.png"
+    "filename": "120-navy-gold-turquoise.png",
+    "originalBytes": 2727940
   },
   {
     "id": "butterflies-121-lilac-freckles",
@@ -1570,7 +1690,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "121-lilac-freckles.png"
+    "filename": "121-lilac-freckles.png",
+    "originalBytes": 1691081
   },
   {
     "id": "butterflies-122-scarlet-ivory-teardrops",
@@ -1583,7 +1704,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "122-scarlet-ivory-teardrops.png"
+    "filename": "122-scarlet-ivory-teardrops.png",
+    "originalBytes": 2235696
   },
   {
     "id": "butterflies-123-sage-lavender",
@@ -1596,7 +1718,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "123-sage-lavender.png"
+    "filename": "123-sage-lavender.png",
+    "originalBytes": 2293141
   },
   {
     "id": "butterflies-124-cyan-orange-rim",
@@ -1609,7 +1732,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "124-cyan-orange-rim.png"
+    "filename": "124-cyan-orange-rim.png",
+    "originalBytes": 2143879
   },
   {
     "id": "butterflies-125-apricot-olive",
@@ -1622,7 +1746,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "125-apricot-olive.png"
+    "filename": "125-apricot-olive.png",
+    "originalBytes": 2869603
   },
   {
     "id": "butterflies-126-ice-blue-burgundy",
@@ -1635,7 +1760,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "126-ice-blue-burgundy.png"
+    "filename": "126-ice-blue-burgundy.png",
+    "originalBytes": 2110145
   },
   {
     "id": "butterflies-127-black-mint-coral",
@@ -1648,7 +1774,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "127-black-mint-coral.png"
+    "filename": "127-black-mint-coral.png",
+    "originalBytes": 2373219
   },
   {
     "id": "butterflies-128-gold-cobalt-marble",
@@ -1661,7 +1788,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "128-gold-cobalt-marble.png"
+    "filename": "128-gold-cobalt-marble.png",
+    "originalBytes": 3125772
   },
   {
     "id": "butterflies-129-coral-forest",
@@ -1674,7 +1802,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "129-coral-forest.png"
+    "filename": "129-coral-forest.png",
+    "originalBytes": 2662608
   },
   {
     "id": "butterflies-130-pearl-zebra-violet",
@@ -1687,7 +1816,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "130-pearl-zebra-violet.png"
+    "filename": "130-pearl-zebra-violet.png",
+    "originalBytes": 2533327
   },
   {
     "id": "butterflies-131-honey-wine-eyespots",
@@ -1700,7 +1830,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "131-honey-wine-eyespots.png"
+    "filename": "131-honey-wine-eyespots.png",
+    "originalBytes": 2757429
   },
   {
     "id": "butterflies-132-sky-blue-moss",
@@ -1713,7 +1844,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "132-sky-blue-moss.png"
+    "filename": "132-sky-blue-moss.png",
+    "originalBytes": 3054012
   },
   {
     "id": "butterflies-133-mahogany-ivory",
@@ -1726,7 +1858,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "133-mahogany-ivory.png"
+    "filename": "133-mahogany-ivory.png",
+    "originalBytes": 2295054
   },
   {
     "id": "butterflies-134-blush-gray-lace",
@@ -1739,7 +1872,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "134-blush-gray-lace.png"
+    "filename": "134-blush-gray-lace.png",
+    "originalBytes": 2230301
   },
   {
     "id": "butterflies-135-turquoise-rust",
@@ -1752,7 +1886,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "135-turquoise-rust.png"
+    "filename": "135-turquoise-rust.png",
+    "originalBytes": 2725323
   },
   {
     "id": "butterflies-136-yellow-magenta-swallowtail",
@@ -1765,7 +1900,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "136-yellow-magenta-swallowtail.png"
+    "filename": "136-yellow-magenta-swallowtail.png",
+    "originalBytes": 1824925
   },
   {
     "id": "butterflies-137-lavender-copper",
@@ -1778,7 +1914,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "137-lavender-copper.png"
+    "filename": "137-lavender-copper.png",
+    "originalBytes": 2233804
   },
   {
     "id": "butterflies-138-jade-cream",
@@ -1791,7 +1928,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "138-jade-cream.png"
+    "filename": "138-jade-cream.png",
+    "originalBytes": 2582629
   },
   {
     "id": "butterflies-139-gray-salmon",
@@ -1804,7 +1942,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "139-gray-salmon.png"
+    "filename": "139-gray-salmon.png",
+    "originalBytes": 2285290
   },
   {
     "id": "butterflies-140-blue-lime-swallowtail",
@@ -1817,7 +1956,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "140-blue-lime-swallowtail.png"
+    "filename": "140-blue-lime-swallowtail.png",
+    "originalBytes": 2321278
   },
   {
     "id": "butterflies-141-ivory-cinnamon-rose",
@@ -1830,7 +1970,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "141-ivory-cinnamon-rose.png"
+    "filename": "141-ivory-cinnamon-rose.png",
+    "originalBytes": 2931853
   },
   {
     "id": "butterflies-142-midnight-purple-mint",
@@ -1843,7 +1984,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "142-midnight-purple-mint.png"
+    "filename": "142-midnight-purple-mint.png",
+    "originalBytes": 1957581
   },
   {
     "id": "butterflies-143-cream-teal-marble",
@@ -1856,7 +1998,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "143-cream-teal-marble.png"
+    "filename": "143-cream-teal-marble.png",
+    "originalBytes": 2902239
   },
   {
     "id": "butterflies-144-coral-lavender",
@@ -1869,7 +2012,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "144-coral-lavender.png"
+    "filename": "144-coral-lavender.png",
+    "originalBytes": 2656315
   },
   {
     "id": "butterflies-145-silver-indigo-checkered",
@@ -1882,7 +2026,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "145-silver-indigo-checkered.png"
+    "filename": "145-silver-indigo-checkered.png",
+    "originalBytes": 2686000
   },
   {
     "id": "butterflies-146-fuchsia-mint-crescents",
@@ -1895,7 +2040,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "146-fuchsia-mint-crescents.png"
+    "filename": "146-fuchsia-mint-crescents.png",
+    "originalBytes": 2774800
   },
   {
     "id": "butterflies-147-ivory-lavender-gold",
@@ -1908,7 +2054,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "147-ivory-lavender-gold.png"
+    "filename": "147-ivory-lavender-gold.png",
+    "originalBytes": 2615200
   },
   {
     "id": "butterflies-148-bronze-ice-blue",
@@ -1921,7 +2068,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "148-bronze-ice-blue.png"
+    "filename": "148-bronze-ice-blue.png",
+    "originalBytes": 2966760
   },
   {
     "id": "butterflies-149-pink-emerald",
@@ -1934,7 +2082,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "149-pink-emerald.png"
+    "filename": "149-pink-emerald.png",
+    "originalBytes": 2948528
   },
   {
     "id": "butterflies-150-cobalt-ivory-scarlet",
@@ -1947,7 +2096,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "150-cobalt-ivory-scarlet.png"
+    "filename": "150-cobalt-ivory-scarlet.png",
+    "originalBytes": 2182450
   },
   {
     "id": "butterflies-151-peach-navy-mint",
@@ -1960,7 +2110,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "151-peach-navy-mint.png"
+    "filename": "151-peach-navy-mint.png",
+    "originalBytes": 1831860
   },
   {
     "id": "butterflies-152-forest-copper",
@@ -1973,7 +2124,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "152-forest-copper.png"
+    "filename": "152-forest-copper.png",
+    "originalBytes": 2534162
   },
   {
     "id": "butterflies-153-lavender-garnet",
@@ -1986,7 +2138,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "153-lavender-garnet.png"
+    "filename": "153-lavender-garnet.png",
+    "originalBytes": 2899646
   },
   {
     "id": "butterflies-154-black-gold-sapphire",
@@ -1999,7 +2152,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "154-black-gold-sapphire.png"
+    "filename": "154-black-gold-sapphire.png",
+    "originalBytes": 2372103
   },
   {
     "id": "butterflies-155-aqua-blush",
@@ -2012,7 +2166,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "155-aqua-blush.png"
+    "filename": "155-aqua-blush.png",
+    "originalBytes": 2087980
   },
   {
     "id": "butterflies-156-rust-violet",
@@ -2025,7 +2180,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "156-rust-violet.png"
+    "filename": "156-rust-violet.png",
+    "originalBytes": 2783172
   },
   {
     "id": "butterflies-157-white-olive-zebra",
@@ -2038,7 +2194,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "157-white-olive-zebra.png"
+    "filename": "157-white-olive-zebra.png",
+    "originalBytes": 2172760
   },
   {
     "id": "butterflies-158-teal-burgundy",
@@ -2051,7 +2208,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "158-teal-burgundy.png"
+    "filename": "158-teal-burgundy.png",
+    "originalBytes": 2867931
   },
   {
     "id": "butterflies-159-beige-chocolate-mosaic",
@@ -2064,7 +2222,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "159-beige-chocolate-mosaic.png"
+    "filename": "159-beige-chocolate-mosaic.png",
+    "originalBytes": 2224079
   },
   {
     "id": "butterflies-160-mint-navy-swallowtail",
@@ -2077,7 +2236,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "160-mint-navy-swallowtail.png"
+    "filename": "160-mint-navy-swallowtail.png",
+    "originalBytes": 1807614
   },
   {
     "id": "butterflies-161-copper-rose-pearl",
@@ -2090,7 +2250,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "161-copper-rose-pearl.png"
+    "filename": "161-copper-rose-pearl.png",
+    "originalBytes": 2924688
   },
   {
     "id": "butterflies-162-sea-green-purple-marble",
@@ -2103,7 +2264,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "162-sea-green-purple-marble.png"
+    "filename": "162-sea-green-purple-marble.png",
+    "originalBytes": 2692388
   },
   {
     "id": "butterflies-163-raspberry-ice-longwing",
@@ -2116,7 +2278,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "163-raspberry-ice-longwing.png"
+    "filename": "163-raspberry-ice-longwing.png",
+    "originalBytes": 2559137
   },
   {
     "id": "butterflies-164-ivory-orange-plum",
@@ -2129,7 +2292,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "164-ivory-orange-plum.png"
+    "filename": "164-ivory-orange-plum.png",
+    "originalBytes": 2589899
   },
   {
     "id": "butterflies-165-indigo-white-rose",
@@ -2142,7 +2306,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "165-indigo-white-rose.png"
+    "filename": "165-indigo-white-rose.png",
+    "originalBytes": 2423300
   },
   {
     "id": "butterflies-166-sage-copper-marble",
@@ -2155,7 +2320,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "166-sage-copper-marble.png"
+    "filename": "166-sage-copper-marble.png",
+    "originalBytes": 2157909
   },
   {
     "id": "butterflies-167-violet-blue-coral",
@@ -2168,7 +2334,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "167-violet-blue-coral.png"
+    "filename": "167-violet-blue-coral.png",
+    "originalBytes": 2622942
   },
   {
     "id": "butterflies-168-yellow-gray-lace",
@@ -2181,7 +2348,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "168-yellow-gray-lace.png"
+    "filename": "168-yellow-gray-lace.png",
+    "originalBytes": 2779862
   },
   {
     "id": "butterflies-169-green-lilac-amber",
@@ -2194,7 +2362,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "169-green-lilac-amber.png"
+    "filename": "169-green-lilac-amber.png",
+    "originalBytes": 2364667
   },
   {
     "id": "butterflies-170-rose-espresso",
@@ -2207,7 +2376,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "170-rose-espresso.png"
+    "filename": "170-rose-espresso.png",
+    "originalBytes": 3005775
   },
   {
     "id": "butterflies-171-cerulean-yellow-swallowtail",
@@ -2220,7 +2390,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "171-cerulean-yellow-swallowtail.png"
+    "filename": "171-cerulean-yellow-swallowtail.png",
+    "originalBytes": 1949434
   },
   {
     "id": "butterflies-172-ivory-burgundy-eyespots",
@@ -2233,7 +2404,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "172-ivory-burgundy-eyespots.png"
+    "filename": "172-ivory-burgundy-eyespots.png",
+    "originalBytes": 2611151
   },
   {
     "id": "butterflies-173-coral-navy-mint",
@@ -2246,7 +2418,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "173-coral-navy-mint.png"
+    "filename": "173-coral-navy-mint.png",
+    "originalBytes": 2452377
   },
   {
     "id": "butterflies-174-periwinkle-plum-gold",
@@ -2259,7 +2432,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "174-periwinkle-plum-gold.png"
+    "filename": "174-periwinkle-plum-gold.png",
+    "originalBytes": 2221362
   },
   {
     "id": "butterflies-175-ochre-forest-peach",
@@ -2272,7 +2446,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "175-ochre-forest-peach.png"
+    "filename": "175-ochre-forest-peach.png",
+    "originalBytes": 2500801
   },
   {
     "id": "butterflies-176-pearl-ruby-blue",
@@ -2285,7 +2460,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "176-pearl-ruby-blue.png"
+    "filename": "176-pearl-ruby-blue.png",
+    "originalBytes": 2347178
   },
   {
     "id": "butterflies-177-aubergine-apricot-emerald",
@@ -2298,7 +2474,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "177-aubergine-apricot-emerald.png"
+    "filename": "177-aubergine-apricot-emerald.png",
+    "originalBytes": 2467180
   },
   {
     "id": "butterflies-178-ice-turquoise-chocolate",
@@ -2311,7 +2488,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "178-ice-turquoise-chocolate.png"
+    "filename": "178-ice-turquoise-chocolate.png",
+    "originalBytes": 2160150
   },
   {
     "id": "butterflies-179-wine-silver-eyespots",
@@ -2324,7 +2502,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "179-wine-silver-eyespots.png"
+    "filename": "179-wine-silver-eyespots.png",
+    "originalBytes": 3222022
   },
   {
     "id": "butterflies-180-pistachio-lilac-zigzag",
@@ -2337,7 +2516,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "180-pistachio-lilac-zigzag.png"
+    "filename": "180-pistachio-lilac-zigzag.png",
+    "originalBytes": 2243056
   },
   {
     "id": "butterflies-181-tangerine-lavender-spotted",
@@ -2350,7 +2530,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "181-tangerine-lavender-spotted.png"
+    "filename": "181-tangerine-lavender-spotted.png",
+    "originalBytes": 2567193
   },
   {
     "id": "butterflies-182-sapphire-rose-gold",
@@ -2363,7 +2544,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "182-sapphire-rose-gold.png"
+    "filename": "182-sapphire-rose-gold.png",
+    "originalBytes": 2768415
   },
   {
     "id": "butterflies-183-beige-olive-coral",
@@ -2376,7 +2558,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "183-beige-olive-coral.png"
+    "filename": "183-beige-olive-coral.png",
+    "originalBytes": 3056492
   },
   {
     "id": "butterflies-184-turquoise-magenta-stripes",
@@ -2389,7 +2572,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "184-turquoise-magenta-stripes.png"
+    "filename": "184-turquoise-magenta-stripes.png",
+    "originalBytes": 2146106
   },
   {
     "id": "butterflies-185-peach-mint-plum",
@@ -2402,7 +2586,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "185-peach-mint-plum.png"
+    "filename": "185-peach-mint-plum.png",
+    "originalBytes": 2922941
   },
   {
     "id": "butterflies-186-silver-zebra-amber",
@@ -2415,7 +2600,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "186-silver-zebra-amber.png"
+    "filename": "186-silver-zebra-amber.png",
+    "originalBytes": 2650971
   },
   {
     "id": "butterflies-187-lavender-chestnut-yellow",
@@ -2428,7 +2614,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "187-lavender-chestnut-yellow.png"
+    "filename": "187-lavender-chestnut-yellow.png",
+    "originalBytes": 2615092
   },
   {
     "id": "butterflies-188-black-emerald-scarlet",
@@ -2441,7 +2628,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "188-black-emerald-scarlet.png"
+    "filename": "188-black-emerald-scarlet.png",
+    "originalBytes": 2319512
   },
   {
     "id": "butterflies-189-blush-lemon-eyespots",
@@ -2454,7 +2642,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "189-blush-lemon-eyespots.png"
+    "filename": "189-blush-lemon-eyespots.png",
+    "originalBytes": 2877140
   },
   {
     "id": "butterflies-190-bronze-sky-blue",
@@ -2467,7 +2656,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "190-bronze-sky-blue.png"
+    "filename": "190-bronze-sky-blue.png",
+    "originalBytes": 2086779
   },
   {
     "id": "butterflies-191-white-violet-gold",
@@ -2480,7 +2670,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "191-white-violet-gold.png"
+    "filename": "191-white-violet-gold.png",
+    "originalBytes": 2334561
   },
   {
     "id": "butterflies-192-teal-salmon-longwing",
@@ -2493,7 +2684,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "192-teal-salmon-longwing.png"
+    "filename": "192-teal-salmon-longwing.png",
+    "originalBytes": 2235356
   },
   {
     "id": "butterflies-193-cream-moss-burgundy",
@@ -2506,7 +2698,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "193-cream-moss-burgundy.png"
+    "filename": "193-cream-moss-burgundy.png",
+    "originalBytes": 2116057
   },
   {
     "id": "butterflies-194-fuchsia-navy-silver",
@@ -2519,7 +2712,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "194-fuchsia-navy-silver.png"
+    "filename": "194-fuchsia-navy-silver.png",
+    "originalBytes": 2170471
   },
   {
     "id": "butterflies-195-mint-walnut-orange",
@@ -2532,7 +2726,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "195-mint-walnut-orange.png"
+    "filename": "195-mint-walnut-orange.png",
+    "originalBytes": 2279213
   },
   {
     "id": "butterflies-196-lemon-indigo-swallowtail",
@@ -2545,7 +2740,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "196-lemon-indigo-swallowtail.png"
+    "filename": "196-lemon-indigo-swallowtail.png",
+    "originalBytes": 1813003
   },
   {
     "id": "butterflies-197-mauve-rust-aqua",
@@ -2558,7 +2754,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "197-mauve-rust-aqua.png"
+    "filename": "197-mauve-rust-aqua.png",
+    "originalBytes": 3046969
   },
   {
     "id": "butterflies-198-violet-mint-copper",
@@ -2571,7 +2768,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "198-violet-mint-copper.png"
+    "filename": "198-violet-mint-copper.png",
+    "originalBytes": 2835259
   },
   {
     "id": "butterflies-199-sand-navy-rose",
@@ -2584,7 +2782,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "199-sand-navy-rose.png"
+    "filename": "199-sand-navy-rose.png",
+    "originalBytes": 3000156
   },
   {
     "id": "butterflies-200-emerald-cobalt-swallowtail",
@@ -2597,7 +2796,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "200-emerald-cobalt-swallowtail.png"
+    "filename": "200-emerald-cobalt-swallowtail.png",
+    "originalBytes": 1881933
   },
   {
     "id": "butterflies-201-peach-teal-marble",
@@ -2610,7 +2810,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "201-peach-teal-marble.png"
+    "filename": "201-peach-teal-marble.png",
+    "originalBytes": 2387606
   },
   {
     "id": "butterflies-202-cobalt-yellow-wine",
@@ -2623,7 +2824,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "202-cobalt-yellow-wine.png"
+    "filename": "202-cobalt-yellow-wine.png",
+    "originalBytes": 2418896
   },
   {
     "id": "butterflies-203-ivory-sienna-lavender",
@@ -2636,7 +2838,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "203-ivory-sienna-lavender.png"
+    "filename": "203-ivory-sienna-lavender.png",
+    "originalBytes": 2329571
   },
   {
     "id": "butterflies-204-garnet-turquoise-white",
@@ -2649,7 +2852,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "204-garnet-turquoise-white.png"
+    "filename": "204-garnet-turquoise-white.png",
+    "originalBytes": 2584834
   },
   {
     "id": "butterflies-205-powder-blue-olive-apricot",
@@ -2662,7 +2866,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "205-powder-blue-olive-apricot.png"
+    "filename": "205-powder-blue-olive-apricot.png",
+    "originalBytes": 3074238
   },
   {
     "id": "butterflies-206-amber-plum-swallowtail",
@@ -2675,7 +2880,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "206-amber-plum-swallowtail.png"
+    "filename": "206-amber-plum-swallowtail.png",
+    "originalBytes": 2575522
   },
   {
     "id": "butterflies-207-lilac-peach-emerald",
@@ -2688,7 +2894,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "207-lilac-peach-emerald.png"
+    "filename": "207-lilac-peach-emerald.png",
+    "originalBytes": 2122443
   },
   {
     "id": "butterflies-208-midnight-ivory-copper",
@@ -2701,7 +2908,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "208-midnight-ivory-copper.png"
+    "filename": "208-midnight-ivory-copper.png",
+    "originalBytes": 2763817
   },
   {
     "id": "butterflies-209-dusty-rose-sage-eyespots",
@@ -2714,7 +2922,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "209-dusty-rose-sage-eyespots.png"
+    "filename": "209-dusty-rose-sage-eyespots.png",
+    "originalBytes": 3157915
   },
   {
     "id": "butterflies-210-seafoam-violet-coral",
@@ -2727,7 +2936,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "210-seafoam-violet-coral.png"
+    "filename": "210-seafoam-violet-coral.png",
+    "originalBytes": 1853208
   },
   {
     "id": "butterflies-211-terracotta-ivory-green",
@@ -2740,7 +2950,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "211-terracotta-ivory-green.png"
+    "filename": "211-terracotta-ivory-green.png",
+    "originalBytes": 2944760
   },
   {
     "id": "butterflies-212-lavender-navy-yellow",
@@ -2753,7 +2964,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "212-lavender-navy-yellow.png"
+    "filename": "212-lavender-navy-yellow.png",
+    "originalBytes": 2938581
   },
   {
     "id": "butterflies-213-grass-green-coral",
@@ -2766,7 +2978,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "213-grass-green-coral.png"
+    "filename": "213-grass-green-coral.png",
+    "originalBytes": 2611334
   },
   {
     "id": "butterflies-214-ivory-raspberry-slate",
@@ -2779,7 +2992,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "214-ivory-raspberry-slate.png"
+    "filename": "214-ivory-raspberry-slate.png",
+    "originalBytes": 2643567
   },
   {
     "id": "butterflies-215-azure-apricot-pearl",
@@ -2792,7 +3006,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "215-azure-apricot-pearl.png"
+    "filename": "215-azure-apricot-pearl.png",
+    "originalBytes": 2199399
   },
   {
     "id": "butterflies-216-pistachio-rose-burgundy",
@@ -2805,7 +3020,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "216-pistachio-rose-burgundy.png"
+    "filename": "216-pistachio-rose-burgundy.png",
+    "originalBytes": 2796554
   },
   {
     "id": "butterflies-217-violet-gold-aqua",
@@ -2818,7 +3034,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "217-violet-gold-aqua.png"
+    "filename": "217-violet-gold-aqua.png",
+    "originalBytes": 2831155
   },
   {
     "id": "butterflies-218-silver-coral-eyespots",
@@ -2831,7 +3048,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "218-silver-coral-eyespots.png"
+    "filename": "218-silver-coral-eyespots.png",
+    "originalBytes": 3067218
   },
   {
     "id": "butterflies-219-chocolate-lavender-orange",
@@ -2844,7 +3062,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "219-chocolate-lavender-orange.png"
+    "filename": "219-chocolate-lavender-orange.png",
+    "originalBytes": 2779458
   },
   {
     "id": "butterflies-220-ice-blue-rose-zigzag",
@@ -2857,7 +3076,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "220-ice-blue-rose-zigzag.png"
+    "filename": "220-ice-blue-rose-zigzag.png",
+    "originalBytes": 2279053
   },
   {
     "id": "butterflies-221-green-cream-plum",
@@ -2870,7 +3090,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "221-green-cream-plum.png"
+    "filename": "221-green-cream-plum.png",
+    "originalBytes": 1976222
   },
   {
     "id": "butterflies-222-apricot-indigo-mint",
@@ -2883,7 +3104,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "222-apricot-indigo-mint.png"
+    "filename": "222-apricot-indigo-mint.png",
+    "originalBytes": 2335901
   },
   {
     "id": "butterflies-223-turquoise-peach-crimson",
@@ -2896,7 +3118,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "223-turquoise-peach-crimson.png"
+    "filename": "223-turquoise-peach-crimson.png",
+    "originalBytes": 2513330
   },
   {
     "id": "butterflies-224-pearl-purple-orange",
@@ -2909,7 +3132,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "224-pearl-purple-orange.png"
+    "filename": "224-pearl-purple-orange.png",
+    "originalBytes": 3021543
   },
   {
     "id": "butterflies-225-teal-raspberry-gold",
@@ -2922,7 +3146,8 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "225-teal-raspberry-gold.png"
+    "filename": "225-teal-raspberry-gold.png",
+    "originalBytes": 2793435
   },
   {
     "id": "butterflies-226-yellow-gray-lavender",
@@ -2935,6 +3160,7 @@
     "tags": [
       "butterfly"
     ],
-    "filename": "226-yellow-gray-lavender.png"
+    "filename": "226-yellow-gray-lavender.png",
+    "originalBytes": 2655864
   }
 ]

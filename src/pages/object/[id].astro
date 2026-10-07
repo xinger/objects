@@ -35,12 +35,17 @@ const objectData = {
         <h1>{object.title}</h1>
         {object.description && <p class="object-description">{object.description}</p>}
         <div class="object-meta">
-          <span class="image-size">{object.width} × {object.height}</span>
           {object.tags.length > 0 && <ul class="object-tags" aria-label="Tags">{object.tags.map((tag) => <li>{tag}</li>)}</ul>}
         </div>
       </div>
       <div class="detail-actions">
-        <a class="download-button" href={object.original} download={object.filename} data-download><Icon name="download" /><span>Download</span></a>
+        <a class="download-button" href={object.original} download={object.filename} data-download>
+          <Icon name="download" />
+          <span class="download-label">
+            <span>Download</span>
+            <span class="download-meta">{object.width} × {object.height}{object.originalBytes && ` · ${(object.originalBytes / 1000000).toFixed(2)} MB`}</span>
+          </span>
+        </a>
         <span class="download-error" role="status" hidden>Download failed</span>
       </div>
     </div>

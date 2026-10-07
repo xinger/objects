@@ -15,7 +15,8 @@
       "aurora",
       "iridescent"
     ],
-    "filename": "001-aurora-round.png"
+    "filename": "001-aurora-round.png",
+    "originalBytes": 1592536
   },
   {
     "id": "rhinestones-002-fuchsia-heart",
@@ -32,7 +33,8 @@
       "heart",
       "fuchsia"
     ],
-    "filename": "002-fuchsia-heart.png"
+    "filename": "002-fuchsia-heart.png",
+    "originalBytes": 1401483
   },
   {
     "id": "rhinestones-003-peacock-teardrop",
@@ -50,7 +52,8 @@
       "teal",
       "blue"
     ],
-    "filename": "003-peacock-teardrop.png"
+    "filename": "003-peacock-teardrop.png",
+    "originalBytes": 1179848
   },
   {
     "id": "rhinestones-004-lime-marquise",
@@ -68,7 +71,8 @@
       "lime",
       "green"
     ],
-    "filename": "004-lime-marquise.png"
+    "filename": "004-lime-marquise.png",
+    "originalBytes": 1045151
   },
   {
     "id": "rhinestones-005-amber-cushion",
@@ -86,7 +90,8 @@
       "amber",
       "orange"
     ],
-    "filename": "005-amber-cushion.png"
+    "filename": "005-amber-cushion.png",
+    "originalBytes": 1376636
   },
   {
     "id": "rhinestones-006-violet-star",
@@ -103,7 +108,8 @@
       "star",
       "violet"
     ],
-    "filename": "006-violet-star.png"
+    "filename": "006-violet-star.png",
+    "originalBytes": 1219664
   },
   {
     "id": "rhinestones-007-ice-triangle",
@@ -120,7 +126,8 @@
       "triangle",
       "ice-blue"
     ],
-    "filename": "007-ice-triangle.png"
+    "filename": "007-ice-triangle.png",
+    "originalBytes": 1465318
   },
   {
     "id": "rhinestones-008-watermelon-oval",
@@ -138,7 +145,8 @@
       "pink",
       "green"
     ],
-    "filename": "008-watermelon-oval.png"
+    "filename": "008-watermelon-oval.png",
+    "originalBytes": 1444341
   },
   {
     "id": "rhinestones-009-sunset-hexagon",
@@ -156,7 +164,8 @@
       "coral",
       "gold"
     ],
-    "filename": "009-sunset-hexagon.png"
+    "filename": "009-sunset-hexagon.png",
+    "originalBytes": 1266676
   },
   {
     "id": "rhinestones-010-royal-blue-kite",
@@ -173,7 +182,8 @@
       "kite",
       "blue"
     ],
-    "filename": "010-royal-blue-kite.png"
+    "filename": "010-royal-blue-kite.png",
+    "originalBytes": 774599
   },
   {
     "id": "rhinestones-011-opal-crescent",
@@ -191,7 +201,8 @@
       "opal",
       "pastel"
     ],
-    "filename": "011-opal-crescent.png"
+    "filename": "011-opal-crescent.png",
+    "originalBytes": 1170434
   },
   {
     "id": "rhinestones-012-rose-gold-octagon",
@@ -208,7 +219,8 @@
       "octagon",
       "rose-gold"
     ],
-    "filename": "012-rose-gold-octagon.png"
+    "filename": "012-rose-gold-octagon.png",
+    "originalBytes": 1167927
   },
   {
     "id": "rhinestones-013-emerald-shield",
@@ -226,7 +238,8 @@
       "emerald",
       "green"
     ],
-    "filename": "013-emerald-shield.png"
+    "filename": "013-emerald-shield.png",
+    "originalBytes": 1317553
   },
   {
     "id": "rhinestones-014-citrus-diamond",
@@ -243,7 +256,8 @@
       "rhombus",
       "yellow"
     ],
-    "filename": "014-citrus-diamond.png"
+    "filename": "014-citrus-diamond.png",
+    "originalBytes": 1010625
   },
   {
     "id": "rhinestones-015-iridescent-butterfly",
@@ -260,7 +274,8 @@
       "butterfly",
       "rainbow"
     ],
-    "filename": "015-iridescent-butterfly.png"
+    "filename": "015-iridescent-butterfly.png",
+    "originalBytes": 1540704
   },
   {
     "id": "rhinestones-016-ruby-baguette",
@@ -277,7 +292,8 @@
       "baguette",
       "red"
     ],
-    "filename": "016-ruby-baguette.png"
+    "filename": "016-ruby-baguette.png",
+    "originalBytes": 794309
   },
   {
     "id": "rhinestones-017-turquoise-fan",
@@ -294,7 +310,8 @@
       "fan",
       "turquoise"
     ],
-    "filename": "017-turquoise-fan.png"
+    "filename": "017-turquoise-fan.png",
+    "originalBytes": 1287113
   },
   {
     "id": "rhinestones-018-lilac-trapezoid",
@@ -311,7 +328,8 @@
       "trapezoid",
       "lilac"
     ],
-    "filename": "018-lilac-trapezoid.png"
+    "filename": "018-lilac-trapezoid.png",
+    "originalBytes": 1126874
   },
   {
     "id": "rhinestones-019-copper-flame",
@@ -329,7 +347,8 @@
       "copper",
       "orange"
     ],
-    "filename": "019-copper-flame.png"
+    "filename": "019-copper-flame.png",
+    "originalBytes": 800445
   },
   {
     "id": "rhinestones-020-mint-snowflake",
@@ -346,7 +365,8 @@
       "snowflake",
       "mint"
     ],
-    "filename": "020-mint-snowflake.png"
+    "filename": "020-mint-snowflake.png",
+    "originalBytes": 1561600
   },
   {
     "id": "rhinestones-021-holographic-pentagon",
@@ -363,7 +383,8 @@
       "pentagon",
       "holographic"
     ],
-    "filename": "021-holographic-pentagon.png"
+    "filename": "021-holographic-pentagon.png",
+    "originalBytes": 1522112
   },
   {
     "id": "rhinestones-022-black-rainbow-drop",
@@ -381,7 +402,8 @@
       "black",
       "iridescent"
     ],
-    "filename": "022-black-rainbow-drop.png"
+    "filename": "022-black-rainbow-drop.png",
+    "originalBytes": 1243399
   },
   {
     "id": "rhinestones-023-cherry-flower",
@@ -398,7 +420,8 @@
       "flower",
       "pink"
     ],
-    "filename": "023-cherry-flower.png"
+    "filename": "023-cherry-flower.png",
+    "originalBytes": 1543899
   },
   {
     "id": "rhinestones-024-aqua-prism",
@@ -415,7 +438,8 @@
       "prism",
       "aqua"
     ],
-    "filename": "024-aqua-prism.png"
+    "filename": "024-aqua-prism.png",
+    "originalBytes": 898347
   },
   {
     "id": "rhinestones-025-champagne-oval",
@@ -432,7 +456,8 @@
       "oval",
       "champagne"
     ],
-    "filename": "025-champagne-oval.png"
+    "filename": "025-champagne-oval.png",
+    "originalBytes": 1326346
   },
   {
     "id": "rhinestones-026-magenta-arrow",
@@ -449,7 +474,8 @@
       "arrowhead",
       "magenta"
     ],
-    "filename": "026-magenta-arrow.png"
+    "filename": "026-magenta-arrow.png",
+    "originalBytes": 1160705
   },
   {
     "id": "rhinestones-027-periwinkle-pyramid",
@@ -466,7 +492,8 @@
       "pyramid",
       "periwinkle"
     ],
-    "filename": "027-periwinkle-pyramid.png"
+    "filename": "027-periwinkle-pyramid.png",
+    "originalBytes": 975544
   },
   {
     "id": "rhinestones-028-rainbow-shell",
@@ -484,7 +511,8 @@
       "rainbow",
       "pastel"
     ],
-    "filename": "028-rainbow-shell.png"
+    "filename": "028-rainbow-shell.png",
+    "originalBytes": 1485141
   },
   {
     "id": "rhinestones-029-neon-green-comet",
@@ -501,7 +529,8 @@
       "comet",
       "neon-green"
     ],
-    "filename": "029-neon-green-comet.png"
+    "filename": "029-neon-green-comet.png",
+    "originalBytes": 942851
   },
   {
     "id": "rhinestones-030-pink-blue-freeform",
@@ -519,6 +548,7 @@
       "pink",
       "blue"
     ],
-    "filename": "030-pink-blue-freeform.png"
+    "filename": "030-pink-blue-freeform.png",
+    "originalBytes": 1377400
   }
 ]

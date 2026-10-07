@@ -41,6 +41,7 @@ test('import preserves PNG bytes and uses stable page IDs with versioned asset k
     assert.equal(first[0].width, 40);
     assert.equal(first[0].height, 80);
     assert.equal(first[0].filename, '001-rose.png');
+    assert.equal(first[0].originalBytes, (await readFile(original)).length);
     assert.deepEqual(await readFile(path.join(directory, 'first', first[0].original.replace('originals/', ''))), await readFile(original));
     await sharp({ create: { width: 50, height: 80, channels: 4, background: { r: 0, g: 255, b: 0, alpha: 0 } } }).png().toFile(original);
     const second = await importCategory(source, 'flowers', path.join(directory, 'second'));
