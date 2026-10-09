@@ -214,6 +214,34 @@ test('one or two workers still receive at most ten assignments each', async (t) 
   }
 });
 
+test('imports date new objects while repeated imports preserve their first addition date', async (t) => {
+  const { root, batch, manifest, source } = await fixture(t, 1);
+  await mkdir(path.join(root, 'data/categories'), { recursive: true });
+  await writeFile(path.join(root, 'data/categories.json'), '[]');
+  await saveImage(batch, '001-shell.png', source);
+  const started = Date.now();
+  await importBatch(batch, root);
+  const file = path.join(root, 'data/categories/shells.json');
+  const first = JSON.parse(await readFile(file, 'utf8'));
+  assert.ok(Date.parse(first[0].addedAt) >= started);
+  assert.ok(Date.parse(first[0].addedAt) <= Date.now());
+  first[0].addedAt = '2000-01-01T00:00:00.000Z';
+  await writeFile(file, JSON.stringify(first));
+  assert.equal((await importBatch(batch, root)).unchanged, true);
+  assert.deepEqual(JSON.parse(await readFile(file, 'utf8')), first);
+  manifest.objects.push({ filename: '002-new.png', title: 'New shell', description: 'A new shell.', tags: ['shell'], prompt: 'One shell.' });
+  await writeFile(path.join(batch, 'collection.json'), JSON.stringify(manifest));
+  await saveImage(batch, '002-new.png', source);
+  const appendedAt = Date.now();
+  await importBatch(batch, root, true);
+  const appended = JSON.parse(await readFile(file, 'utf8'));
+  assert.deepEqual(appended[0], first[0]);
+  assert.ok(Date.parse(appended[1].addedAt) >= appendedAt);
+  assert.ok(Date.parse(appended[1].addedAt) <= Date.now());
+  assert.equal((await importBatch(batch, root, true)).unchanged, true);
+  assert.deepEqual(JSON.parse(await readFile(file, 'utf8')), appended);
+});
+
 test('batch import records original PNG dimensions and byte size', async (t) => {
   const { root, batch, source } = await fixture(t, 1);
   await mkdir(path.join(root, 'data/categories'), { recursive: true });

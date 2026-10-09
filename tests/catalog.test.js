@@ -69,52 +69,30 @@ test('originals and previews can use separate domains while explicit URLs are pr
   assert.throws(() => createCatalog([], {}, '/', 'javascript:evil'), /invalid preview base/i);
 });
 
-test('the mixed feed is stable within a build and across input order and keeps category order intact', () => {
-  const chairs = Array.from({ length: 70 }, (_, index) => ({ ...chair, id: `chair_${index}` }));
-  const lights = Array.from({ length: 70 }, (_, index) => ({ ...chair, id: `light_${index}` }));
+test('the feed puts recently added objects first across categories and preserves category order', () => {
+  const chairs = [
+    { ...chair, id: 'chair_newer', addedAt: '2026-10-07T10:00:00Z' },
+    { ...chair, id: 'chair_older', addedAt: '2026-10-05T10:00:00Z' },
+  ];
+  const lights = [
+    { ...chair, id: 'light_new', addedAt: '2026-10-08T12:00:00+03:00' },
+    { ...chair, id: 'light_equal', addedAt: '2026-10-07T13:00:00+03:00' },
+    { ...chair, id: 'light_legacy' },
+  ];
   const first = createCatalog(categories, { chairs, lights });
-  const rebuilt = createCatalog(categories, { chairs, lights });
   const reordered = createCatalog([...categories].reverse(), { chairs: [...chairs].reverse(), lights: [...lights].reverse() });
-  const ids = (catalog) => catalog.feed.map((object) => object.id);
+  const expected = ['light_new', 'chair_newer', 'light_equal', 'chair_older', 'light_legacy'];
 
-  assert.ok(Array.isArray(first.feed), 'The catalog exposes the mixed feed');
-  assert.deepEqual(ids(first), ids(rebuilt));
-  assert.deepEqual(ids(first), ids(reordered));
-  assert.equal(first.feed.length, 140);
-  assert.equal(new Set(ids(first)).size, 140);
-  assert.deepEqual([...ids(first)].sort(), first.objects.map((object) => object.id).sort());
-  assert.deepEqual(first.objects.map((object) => object.id), [...chairs, ...lights].map((object) => object.id));
-  for (const page of paginate(first.feed).slice(0, 2)) {
-    assert.deepEqual(new Set(page.map((object) => object.categoryId)), new Set(['chairs', 'lights']));
-  }
-});
-
-test('a new build seed reshuffles the feed without losing objects or changing category order', () => {
-  const chairs = Array.from({ length: 70 }, (_, index) => ({ ...chair, id: `chair_${index}` }));
-  const lights = Array.from({ length: 70 }, (_, index) => ({ ...chair, id: `light_${index}` }));
-  const entries = { chairs, lights };
-  const first = createCatalog(categories, entries, '/media/', '/previews/', 'build-a');
-  const repeated = createCatalog(categories, entries, '/media/', '/previews/', 'build-a');
-  const next = createCatalog(categories, entries, '/media/', '/previews/', 'build-b');
-  const ids = (catalog) => catalog.feed.map((object) => object.id);
-
-  assert.deepEqual(ids(first), ids(repeated));
-  assert.notDeepEqual(ids(first).slice(0, 60), ids(next).slice(0, 60));
-  assert.deepEqual([...ids(first)].sort(), [...ids(next)].sort());
-  assert.equal(new Set(ids(next)).size, 140);
-  assert.deepEqual(first.objects, next.objects);
-  assert.deepEqual(paginate(next.feed).flat(), next.feed);
-});
-
-test('new objects join the mixed feed without changing the relative order of existing objects', () => {
-  const chairs = Array.from({ length: 20 }, (_, index) => ({ ...chair, id: `chair_${index}` }));
-  const before = createCatalog(categories, { chairs, lights: [] });
-  const after = createCatalog(categories, { chairs, lights: [{ ...chair, id: 'new_light' }] });
-
-  assert.ok(Array.isArray(after.feed), 'The catalog exposes the mixed feed');
-  assert.deepEqual(after.feed.filter((object) => object.id !== 'new_light').map((object) => object.id), before.feed.map((object) => object.id));
-  assert.equal(after.feed.filter((object) => object.id === 'new_light').length, 1);
+  assert.deepEqual(first.feed.map((object) => object.id), expected);
+  assert.deepEqual(reordered.feed.map((object) => object.id), expected);
+  assert.deepEqual(paginate(first.feed, 2).flat().map((object) => object.id), expected);
+  assert.deepEqual(first.objects.map((object) => object.id), ['chair_newer', 'chair_older', 'light_new', 'light_equal', 'light_legacy']);
+  assert.equal(first.feed[0].addedAt, '2026-10-08T12:00:00+03:00');
   assert.deepEqual(createCatalog([], {}).feed, []);
+});
+
+test('invalid addition dates cannot silently corrupt chronological sorting', () => {
+  assert.throws(() => createCatalog([categories[0]], { chairs: [{ ...chair, addedAt: 'yesterday' }] }));
 });
 
 test('original download byte size is preserved and invalid sizes are rejected', () => {
